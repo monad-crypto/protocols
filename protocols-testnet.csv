@@ -271,6 +271,7 @@ Uniswap,DeFi,DEX,UniswapV2Router,0xfb8e1c3b833f9e67a71c859a132cf783b645e436,DeFi
 Uniswap,DeFi,DEX,UniswapV2SmartRouter,0x3ae6d8a282d67893e17aa70ebffb33ee5aa65893,DeFi::DEX
 Uniswap,DeFi,DEX,UniswapV2Factory,0x733e88f248b742db6c14c0b1713af5ad7fdd59d0,DeFi::DEX
 Uniswap,DeFi,DEX,UniswapV3Factory,0x961235a9020b05c44df1026d956d1f4d78014276,DeFi::DEX
+Uniswap,DeFi,DEX,UniswapV3Router,0x9a0a7fbe91895953954cb2ae96aed02e19debbbc,DeFi::DEX
 Yamata,DeFi,DEX,EntryPointAddress,0xd5f80ffc5eb83cd434826a79b0725a061ddaae75,DeFi::DEX
 Yamata,DeFi,DEX,Safe4337ModuleAddress,0xb7372b06ff436d71aac5d03e2ebf10adb95ec807,DeFi::DEX
 Yamata,DeFi,DEX,AddModulesLibAddress,0x64831a1fe470f75f9786ce7297da9bad8dc307b2,DeFi::DEX

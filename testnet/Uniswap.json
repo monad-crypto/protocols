@@ -7,7 +7,8 @@
         "UniswapV2Router": "0xfB8e1C3b833f9E67a71C859a132cf783b645e436",
         "UniswapV2SmartRouter": "0x3ae6d8a282d67893e17aa70ebffb33ee5aa65893",
         "UniswapV2Factory": "0x733e88f248b742db6c14c0b1713af5ad7fdd59d0",
-        "UniswapV3Factory": "0x961235a9020b05c44df1026d956d1f4d78014276"
+        "UniswapV3Factory": "0x961235a9020b05c44df1026d956d1f4d78014276",
+        "UniswapV3Router": "0x9A0A7fbe91895953954cB2aE96aEd02E19DebBBc"
     },
     "links": {
         "project": "https://app.uniswap.org/",
