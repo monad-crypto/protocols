@@ -35,6 +35,10 @@ Uniswap,DeFi,DEX,StateView,0x77395f3b2e73ae90843717371294fa97cc419d64,DeFi::DEX
 Uniswap,DeFi,DEX,Quoter,0x2d01411773c8c24805306e89a41f7855c3c4fe65,DeFi::DEX
 Uniswap,DeFi,DEX,UniversalRouter,0x0d97dc33264bfc1c226207428a79b26757fb9dc3,DeFi::DEX
 Uniswap,DeFi,DEX,FeeOnTransferDetector,0x5c834b6cac4173bfe288c5722a38e04b9e366e30,DeFi::DEX
+Blocksense,Infra,Oracle,UpgradeableProxyADFS,0xadf5aaa34d0a2fbaee73353ab1622e47d0600249,Infra::Oracle
+Blocksense,Infra,Oracle,AggregatedDataFeedStore,0x9ca25f9149e5204cdd1c5b7717c08dff35a4efc3,Infra::Oracle
+Blocksense,Infra,Oracle,AccessControl,0x5985f6247985e0cb7750893093214a77f0f9d3ce,Infra::Oracle
+Blocksense,Infra,Oracle,CLFeedRegistryAdapter,0x43662b6ed1edea444ed2ba4e1e008403c5f32bac,Infra::Oracle
 Chainlink,Infra,Oracle,AAVE_USD_Proxy,0x2a954d493ee80bcc7cdef56db6fc6edc6758ca5d,Infra::Oracle
 Chainlink,Infra,Oracle,AAVE_USD_Aggregator,0x81bf4bbd9910f95c18cf661752bd9a07629fe191,Infra::Oracle
 Chainlink,Infra,Oracle,ADA_USD_Proxy,0xa7cd3368ebc801df68812d46ab6b3f47d4bf37ea,Infra::Oracle
