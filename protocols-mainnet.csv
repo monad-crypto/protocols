@@ -134,3 +134,12 @@ Chainlink,Infra,Oracle,XRP_USD_Aggregator,0xfd03e1bd18b11fa56c55582a91e8fc0bb0a1
 Pyth,Infra,Oracle,PriceFeed,0x2880ab155794e7179c9ee2e38200202908c17b43,Infra::Oracle
 Stork,Infra,Oracle,default,0xacc0a0cf13571d30b4b8637996f5d6d774d4fd62,Infra::Oracle
 Switchboard,Infra,Oracle,Oracle,0x33a5066f65f66161beb3f827a3e40fce7d7a2e6c,Infra::Oracle
+Safe,Infra,Wallet,CompatibilityFallbackHandler,0xf48f2b2d2a534e402487b3ee7c18c33aec0fe5e4,Infra::Wallet
+Safe,Infra,Wallet,CreateCall,0x7cbb62eaa69f79e6873cd1ecb2392971036cfaa4,Infra::Wallet
+Safe,Infra,Wallet,GnosisSafe,0xd9db270c1b5e3bd161e8c8503c55ceabee709552,Infra::Wallet
+Safe,Infra,Wallet,GnosisSafeL2,0x3e5c63644e683549055b9be8653de26e0b4cd36e,Infra::Wallet
+Safe,Infra,Wallet,MultiSend,0xa238cbeb142c10ef7ad8442c6d1f9e89e07e7761,Infra::Wallet
+Safe,Infra,Wallet,MultiSendCallOnly,0x40a2accbd92bca938b02010e17a5b8929b49130d,Infra::Wallet
+Safe,Infra,Wallet,GnosisSafeProxyFactory,0xa6b71e26c5e0845f74c812102ca7114b6a896ab2,Infra::Wallet
+Safe,Infra,Wallet,SignMessageLib,0xa65387f16b013cf2af4605ad8aa5ec25a2cba3a2,Infra::Wallet
+Safe,Infra,Wallet,SimulateTxAccessor,0x59ad6735bcd8152b84860cb256dd9e96b85f69da,Infra::Wallet
