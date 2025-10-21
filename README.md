@@ -12,7 +12,7 @@ a list of infra providers supporting Monad.
 
 ## Form of entries
 
-Each protocol has its own json file in `testnet/PROTOCOL.json`.
+Each protocol has its own json file in `testnet/PROTOCOL.json` or `mainnet/PROTOCOL.json`.
 
 The key fields are:
 - `name`: Name of protocol.
