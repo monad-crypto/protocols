@@ -79,7 +79,7 @@ def collect_protocol_files(directory: str) -> List[str]:
     if not directory_path.is_dir():
         raise NotADirectoryError(f"'{directory}' is not a directory")
 
-    json_files = list(directory_path.glob('*.json'))
+    json_files = sorted(list(directory_path.glob('*.json')))
     return [str(f) for f in json_files]
 
 # Define a function to write data to a CSV files
