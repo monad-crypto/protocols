@@ -101,7 +101,8 @@ def write_csv(rows: List[Dict[str, str]], output_file: str) -> None:
 
     print(f"Successfully wrote {len(rows)} rows to {output_file}")
 
-# Define a function to collect protocol files in a given directory and then parse the JSON protocol files, and write data to a CSV file
+# Define a function to collect protocol files in a given directory and then parse the JSON 
+# protocol files, and write data to a CSV file
 def main():
     """Main function to parse arguments and process files."""
     parser = argparse.ArgumentParser(
