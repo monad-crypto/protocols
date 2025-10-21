@@ -1,0 +1,17 @@
+{
+    "name": "Chronicle",
+    "description": "The verifiable data provider for onchain finance.",
+    "live": true,
+    "categories": ["Infra::Oracle"],
+    "addresses": {
+        "Monad Mainnet Addresses": "https://chroniclelabs.org/dashboard/oracles#blockchain=MON",
+        "Monad Testnet Addresses": "https://chroniclelabs.org/dashboard/oracles#testnet=true&blockchain=MON-TESTNET"
+    },
+    "links": {
+        "project": "chroniclelabs.org",
+        "twitter": "https://x.com/ChronicleLabs",
+        "discord": "https://discord.com/invite/CjgvJ9EspJ",
+        "github": "https://github.com/chronicleprotocol",
+        "docs": "https://docs.chroniclelabs.org/"
+    }
+}
