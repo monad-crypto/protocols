@@ -1,0 +1,20 @@
+{
+    "name": "Axelar",
+    "description": "Powering the Chain-Agnostic Future",
+    "live": true,
+    "categories": ["Infra::Interoperability"],
+    "addresses": {
+        "AxelarGateway": "0xe432150cce91c13a887f7D836923d5597adD8E31",
+        "AxelarGasService": "0xbE406F0189A0B4cf3A05C286473D23791Dd44Cc6",
+        "MonadAxelarTransceiver": "0x50beAbe4883981624aEa01F737B040d1e3Fe83FB",
+        "Operators": "0x7F83F5cA2AE4206AbFf8a3C3668e88ce5F11C0B5",
+        "ConstAddressDeployer": "0x98B2920D53612483F91F12Ed7754E51b4A77919e",
+        "Create3Deployer": "0x6513Aedb4D1593BA12e50644401D976aebDc90d8"
+    },
+    "links": {
+        "project": "https://axelar.network",
+        "twitter": "https://x.com/axelar",
+        "github": "https://github.com/axelarnetwork",
+        "docs": "https://docs.axelar.network"
+    }
+}
