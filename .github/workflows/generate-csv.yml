@@ -32,11 +32,14 @@ jobs:
           source venv/bin/activate
           pip install -r requirements.txt
 
-      - name: Run script
-        run: python scripts/ProtocolsTable.py
+      - name: Run script (testnet)
+        run: python scripts/ProtocolsTable.py --src testnet
+
+      - name: Run script (mainnet)
+        run: python scripts/ProtocolsTable.py --src mainnet
 
       # Commit all changed files back to the repository
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Update protocols.csv"
+          commit_message: "Update protocols csvs"
           file_pattern: "*.csv"
