@@ -1,0 +1,15 @@
+{
+    "name": "Stork",
+    "description": "Stork, the fastest-growing oracle, offers over 355 real-time feeds for dApps, helping developers build Web2-level speed and efficiency.",
+    "live": true,
+    "categories": ["Infra::Oracle"],
+    "addresses": {
+        "default": "0xacC0a0cF13571d30B4b8637996F5D6D774d4fd62"
+    },
+    "links": {
+        "project": "https://www.stork.network/",
+        "twitter": "https://x.com/StorkOracle",
+        "github": "https://github.com/Stork-Oracle",
+        "docs": "https://docs.stork.network/"
+    }
+}
