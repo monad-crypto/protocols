@@ -110,6 +110,7 @@ def main():
     parser.add_argument(
         '-s','--src',
         default='testnet',
+        choices=['testnet', 'mainnet'],
         help='Directory containing protocol files to process'
     )
     parser.add_argument(
@@ -117,32 +118,42 @@ def main():
         default='./protocols.csv',
         help='Output CSV file name (default: output.csv)'
     )
+
     args = parser.parse_args()
-    src = os.path.expanduser(args.src)
-    out = os.path.expanduser(args.out)
 
-    try:
-        protocol_files = collect_protocol_files(src)
-        print(f"Found {len(protocol_files)} protocol files")
+    src_type = args.src
+    if src_type == 'testnet':
+        out_name = 'protocols-testnet.csv'
+    elif src_type == 'mainnet':
+        out_name = 'protocols-mainnet.csv'
+    else:
+        print(f"Invalid source type: {src_type}")
+        return
 
-        # Process all JSON files
-        all_rows = []
-        for file in protocol_files:
-            print(f"Processing {file}...")
+    src = os.path.expanduser(src_type)
+    out = os.path.expanduser(out_name)
+
+    protocol_files = collect_protocol_files(src)
+    print(f"Found {len(protocol_files)} protocol files")
+
+
+    # Process all JSON files
+    all_rows = []
+    for file in protocol_files:
+        print(f"Processing {file}...")
+        try:
             rows = parse_protocol_file(file)
             all_rows.extend(rows)
+        except (FileNotFoundError, NotADirectoryError) as e:
+            print(f"Error: {e}")
+            return 1
+        except Exception as e:
+            print(f"Unexpected error: {e}")
+            return 1
 
-        # Write to CSV
-        write_csv(all_rows, out)
+    # Write to CSV
+    write_csv(all_rows, out)
 
-    except (FileNotFoundError, NotADirectoryError) as e:
-        print(f"Error: {e}")
-        return 1
-    except Exception as e:
-        print(f"Unexpected error: {e}")
-        return 1
-
-    return 0
 
 if __name__ == '__main__':
-    exit(main())
+    main()

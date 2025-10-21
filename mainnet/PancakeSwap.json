@@ -1,0 +1,35 @@
+{
+    "name": "PancakeSwap",
+    "description": "Trade and earn crypto on the all-in-one decentralized exchange. Enjoy low fees, high liquidity, and a user-friendly interface.",
+    "live": true,
+    "categories": ["DeFi::DEX"],
+    "addresses": {
+        "Wmon": "0x3bd359C1119dA7Da1D913D1C4D2B7c461115433A",
+        "PancakeV2Factory": "0x02a84c1b3BBD7401a5f7fa98a384EBC70bB5749E",
+        "PancakeV2Router": "0x8cFe327CEc66d1C090Dd72bd0FF11d690C33a2Eb",
+        "PancakeV3PoolDeployer": "0x41ff9AA7e16B8B1a8a8dc4f0eFacd93D02d071c9",
+        "PancakeV3Factory": "0x0BFbCF9fa4f9C56B0F40a671Ad40E0805A091865",
+        "SwapRouter": "0x1b81D678ffb9C0263b24A97847620C99d213eB14",
+        "NfpTokenDescriptor": "0xb099b459887bC759dBF0293E12D3DFcD0C456cff",
+        "NonfungiblePositionManager": "0x46A15B0b27311cedF172AB29E4f4766fbE7F4364",
+        "PancakeInterfaceMulticall": "0xac1cE734566f390A94b00eb9bf561c2625BF44ea",
+        "PancakeInterfaceMulticallV2": "0x3095eC7D29b588283baB3184fae4dECd54D5D811",
+        "V3Migrator": "0xbC203d7f83677c7ed3F7acEc959963E7F4ECC5C2",
+        "TickLens": "0x9a489505a00cE272eAa5e07Dba6491314CaE3796",
+        "QuoterV2_periphery": "0xB048Bbc1Ee6b733FFfCFb9e9CeF7375518e25997",
+        "SmartRouter": "0x13f4EA83D0bd40E75C8222255bc855a974568Dd4",
+        "MixedRouteQuoterV1": "0x678Aa4bF4E210cf2166753e054d5b7c31cc7fa86",
+        "QuoterV2_smartRouter": "0x4c650FB471fe4e0f476fD3437C3411B1122c4e3B",
+        "TokenValidator": "0x864ED564875BdDD6F421e226494a0E7c071C06f8"
+    },
+    "initCodeHashes": {
+        "v2InitCodeHash": "0x57224589c67f3f30a6b0d7a1b54cf3153ab84563bc609ef41dfb34f8b2974d2d",
+        "v3InitCodeHash": "0x6ce8eb472fa82df5469c6ab6d485f17c3ad13c8cd7af59b3d4a8026c5ce0f7e2"
+    },
+    "links": {
+        "project": "https://pancakeswap.finance/?chain=monad",
+        "twitter": "https://twitter.com/PancakeSwap",
+        "github": "https://github.com/pancakeswap/",
+        "docs": "https://developer.pancakeswap.finance/"
+    }
+}
