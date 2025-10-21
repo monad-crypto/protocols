@@ -740,6 +740,7 @@ ELEPHAPP,NFT,Collections,contract,0x6a00f5a7f2b5235c175e331a91b293865e8ac926,NFT
 EmelVerse,NFT,Collections,default,0xaff72db3fa597546517d172be9a530e99aedddfe,NFT::Collections
 Gifted.art,NFT,Collections,GiftedBox,0xcea698a0b7fbd845899c81e038b49733c80241e3,NFT::Collections
 LA MOUCH,NFT,Collections,default,0x800f8cacc990dda9f4b3f1386c84983ffb65ce94,NFT::Collections
+Monport,NFT,Collections,WelcomeMonad,0x40649af9dee8bdb94dc21ba2175ae8f5181f14ae,NFT::Collections;DeFi::DEX
 Motatoes,NFT,Collections,default,0xba0c419521c6ba15390c42e24a7332e90d8c1e4c,NFT::Collections
 Lootify,NFT,Infrastructure,default,0xe5d182811315fcb4f402fb5ae97b54a06877e4f1,NFT::Infrastructure
 Reservoir,NFT,Infrastructure,Seaport v1.6,0x0000000000000068f116a894984e2db1123eb395,NFT::Infrastructure
