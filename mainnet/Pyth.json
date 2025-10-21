@@ -1,0 +1,15 @@
+{
+    "name": "Pyth",
+    "description": "The price layer of the global financial market.",
+    "live": true,
+    "categories": ["Infra::Oracle"],
+    "addresses": {
+        "PriceFeed": "0x2880aB155794e7179c9eE2e38200202908C17B43"
+    },
+    "links": {
+        "project": "pyth.network",
+        "twitter": "x.com/PythNetwork",
+        "github": "https://github.com/pyth-network",
+        "docs": "docs.pyth.network"
+    }
+}
