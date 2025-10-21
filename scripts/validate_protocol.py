@@ -6,7 +6,7 @@ Validate protocol metadata JSON files in the `testnet/` folder.
 
 Checks for required fields: `name`, `description`, `links`, and `categories`.
 """
-
+import argparse
 import json
 import os
 import sys
@@ -31,12 +31,17 @@ def validate_file(filepath: str) -> bool:
     return True
 
 def main():
-    base_dir = os.path.join(os.path.dirname(__file__), "..", "testnet")
+    parser = argparse.ArgumentParser('')
+    parser.add_argument('-s', '--src', dest='src', choices=['testnet', 'mainnet'], default='testnet')
+    args, unknown_args = parser.parse_known_args()
+
+    src = args.src
+    base_dir = os.path.join(os.path.dirname(__file__), "..", src)
     if not os.path.isdir(base_dir):
         print("❌ testnet/ directory not found.")
         sys.exit(1)
 
-    json_files = [f for f in os.listdir(base_dir) if f.endswith(".json")]
+    json_files = [f for f in sorted(os.listdir(base_dir)) if f.endswith(".json")]
     if not json_files:
         print("⚠️ No JSON files found in testnet/")
         sys.exit(0)
@@ -49,4 +54,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-￼Enter
+
