@@ -4,6 +4,7 @@
     "live": true,
     "categories": ["Infra::Oracle"],
     "addresses": {
+        "Router": "0x33566fE5976AAa420F3d5C64996641Fc3858CaDB",
         "VerifierProxy": "0xEd813D895457907399E41D36Ec0bE103E32148c8",
         "AAVE_USD_Proxy": "0x2a954d493eE80BcC7cDeF56DB6fC6edC6758CA5d",
         "AAVE_USD_Aggregator": "0x81Bf4bbD9910F95c18cf661752bD9a07629fe191",
