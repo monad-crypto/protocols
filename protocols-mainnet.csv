@@ -128,3 +128,4 @@ Chainlink,Infra,Oracle,XAU_USD_Aggregator,0xfeccbf9c82ff5231073580334dc605740309
 Chainlink,Infra,Oracle,XRP_USD_Proxy,0x979211dfbc0738559b778a6a58a5b1bbbbe720f9,Infra::Oracle
 Chainlink,Infra,Oracle,XRP_USD_Aggregator,0xfd03e1bd18b11fa56c55582a91e8fc0bb0a1c27e,Infra::Oracle
 Pyth,Infra,Oracle,PriceFeed,0x2880ab155794e7179c9ee2e38200202908c17b43,Infra::Oracle
+Switchboard,Infra,Oracle,Oracle,0x33a5066f65f66161beb3f827a3e40fce7d7a2e6c,Infra::Oracle
