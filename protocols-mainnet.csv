@@ -49,6 +49,7 @@ Blocksense,Infra,Oracle,UpgradeableProxyADFS,0xadf5aaa34d0a2fbaee73353ab1622e47d
 Blocksense,Infra,Oracle,AggregatedDataFeedStore,0x9ca25f9149e5204cdd1c5b7717c08dff35a4efc3,Infra::Oracle
 Blocksense,Infra,Oracle,AccessControl,0x5985f6247985e0cb7750893093214a77f0f9d3ce,Infra::Oracle
 Blocksense,Infra,Oracle,CLFeedRegistryAdapter,0x43662b6ed1edea444ed2ba4e1e008403c5f32bac,Infra::Oracle
+Chainlink,Infra,Oracle,VerifierProxy,0xed813d895457907399e41d36ec0be103e32148c8,Infra::Oracle
 Chainlink,Infra,Oracle,AAVE_USD_Proxy,0x2a954d493ee80bcc7cdef56db6fc6edc6758ca5d,Infra::Oracle
 Chainlink,Infra,Oracle,AAVE_USD_Aggregator,0x81bf4bbd9910f95c18cf661752bd9a07629fe191,Infra::Oracle
 Chainlink,Infra,Oracle,ADA_USD_Proxy,0xa7cd3368ebc801df68812d46ab6b3f47d4bf37ea,Infra::Oracle
