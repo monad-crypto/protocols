@@ -1,10 +1,17 @@
 # Protocols
-This repository maintains details for each protocol on the Monad testnet (and later on mainnet), to make it easier to interpret ecosystem activities.
 
-Representatives of each protocol should add or adjust their corresponding metadata file as details change (for example, a 
-change or addition of contract addresses).
+This repository maintains details for each protocol on the Monad testnet and mainnet to
+assist with ecosystem coordination.
+
+Representatives of each protocol should add or adjust their corresponding metadata file as
+details change (for example, a  change or addition of contract addresses).
+
+Please refer to [Tooling and Infrastructure](https://docs.monad.xyz/tooling-and-infra/) for
+a list of infra providers supporting Monad.
+
 
 ## Form of entries
+
 Each protocol has its own json file in `testnet/PROTOCOL.json`.
 
 The key fields are:
@@ -42,20 +49,24 @@ Here is an example of a file describing a protocol:
 
 ```
 ## How to submit a change
+
 Changes are done on branches and submitted as PRs. Here is a walkthrough of the process:
 
 ### Create and switch to a new branch
+
 ```
 git checkout -b your-protocol/your-branch-name
 ```
 
 ### Make changes and push
+
 Once you have made the desired changes, push to the repository:
 ```
 git push origin your-protocol/your-branch-name
 ```
 
 ### Create a pull request
+
 1. Navigate to your branch on GitHub
    * You'll usually see a banner suggesting to create a PR for your recently pushed branch
 2. Click "Compare & pull request" or go to the "Pull requests" tab and click "New pull request"
@@ -75,6 +86,7 @@ Please ensure your submission is passing before requesting a review.
 
 
 ## Categories
+
 The list of choices for the `category` field appears in `categories.json` and is also listed below. For mental clarity, categories are organized by top-level sectors.
 
 Generally protocols will choose one category, however more than one is permissible, in which case list the primary category first.
@@ -186,8 +198,11 @@ Generally protocols will choose one category, however more than one is permissib
   * Payments::Orchestration
   * Payments::Remittance
   * Payments::Other
+
   
 ## Monad Foundation Reviewers
+
 1. [`79jke`](https://github.com/79jke)
 2. [`kkqzhou`](https://github.com/kkqzhou)
-
+3. [`therealharpaljadeja`](https://github.com/therealharpaljadeja)
+4. [`portdeveloper`](https://github.com/portdeveloper)
