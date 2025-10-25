@@ -4,9 +4,10 @@
     "live": true,
     "categories": ["Infra::Interoperability"],
     "addresses": {
-        "TokenMessenger": "0x28b5a0e9C621a5BadaA536219b3a228C8168cf5d",
-        "MessageTransmitter": "0x81D40F21F12A8F0E3252Bccb954D722d4c464B64",
-        "TokenMinter": "0xfd78EE919681417d192449715b2594ab58f5D002"
+        "TokenMessengerV2": "0x28b5a0e9C621a5BadaA536219b3a228C8168cf5d",
+        "MessageTransmitterV2": "0x81D40F21F12A8F0E3252Bccb954D722d4c464B64",
+        "TokenMinterV2": "0xfd78EE919681417d192449715b2594ab58f5D002",
+        "MessageV2": "0xec546b6B005471ECf012e5aF77FBeC07e0FD8f78"
     },
     "links": {
         "project": "https://circle.com",
