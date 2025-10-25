@@ -1,10 +1,10 @@
 # Protocols
 
-This repository maintains details for each protocol on the Monad testnet and mainnet to
+This repository maintains contract addresses and links for each protocol on the Monad network to
 assist with ecosystem coordination.
 
-Representatives of each protocol should add or adjust their corresponding metadata file as
-details change (for example, a  change or addition of contract addresses).
+Representatives of each protocol should open pull requests to add or adjust their corresponding
+metadata file as details change.
 
 Please refer to [Tooling and Infrastructure](https://docs.monad.xyz/tooling-and-infra/) for
 a list of infra providers supporting Monad.
@@ -12,17 +12,20 @@ a list of infra providers supporting Monad.
 
 ## Form of entries
 
-Each protocol has its own json file in `testnet/PROTOCOL.json` or `mainnet/PROTOCOL.json`.
+Each protocol has its own json file in `{testnet,mainnet}/PROTOCOL.json`. Comments are allowed,
+following the [JSONC standard](https://jsonc.org/), in which case please create a `.jsonc` file.
 
 The key fields are:
 - `name`: Name of protocol.
 - `description`: Description of protocol.
-- `categories`: Categorization of the protocol as list of category::sub-category pairs, in order of closest, most general, match to
-  furthest matching categories.
+- `categories`: Categorization of the protocol as list of category::sub-category pairs, in order
+  of closest, most general, match to furthest matching categories.
   * see the categorization section below to see available categories.
-  * one category/sub-category pair is enough in most cases, however some protocols are associated with multiple categories.
+  * one category/sub-category pair is enough in most cases, however some protocols are associated
+    with multiple categories.
 - `addresses`: A named mapping between contract concept and address.
-- `links`: Any links you are willing to provide (typically `project`, `twitter`, `github`, and `docs`).
+- `links`: Any links you are willing to provide (typically `project`, `twitter`, `github`, and
+  `docs`)
 
 Here is an example of a file describing a protocol:
 ```json
@@ -87,9 +90,11 @@ Please ensure your submission is passing before requesting a review.
 
 ## Categories
 
-The list of choices for the `category` field appears in `categories.json` and is also listed below. For mental clarity, categories are organized by top-level sectors.
+The list of choices for the `category` field appears in `categories.json` and is also listed below.
+For mental clarity, categories are organized by top-level sectors.
 
-Generally protocols will choose one category, however more than one is permissible, in which case list the primary category first.
+Generally protocols will be associated with a single category, however more than one is
+permissible, in which case please put the primary category first.
 
 - AI
   * AI::Agent Launchpad

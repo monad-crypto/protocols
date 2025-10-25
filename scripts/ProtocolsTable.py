@@ -9,7 +9,7 @@ for upload to a DB
 #import libraries
 import argparse
 import csv
-import json
+import json5
 import os
 
 from pathlib import Path
@@ -22,7 +22,7 @@ def parse_protocol_file(file_path: str) -> List[Dict[str, str]]:
     """
     try:
         with open(file_path, 'r', encoding='utf-8') as f:
-            data = json.load(f)
+            data = json5.load(f)
 
         # Extract common fields
         name = data.get('name', '')
@@ -64,7 +64,7 @@ def parse_protocol_file(file_path: str) -> List[Dict[str, str]]:
 
         return rows
 
-    except (json.JSONDecodeError, FileNotFoundError, KeyError) as e:
+    except (json5.JSONDecodeError, FileNotFoundError, KeyError) as e:
         print(f"Error processing {file_path}: {e}")
         return []
 
@@ -79,8 +79,9 @@ def collect_protocol_files(directory: str) -> List[str]:
     if not directory_path.is_dir():
         raise NotADirectoryError(f"'{directory}' is not a directory")
 
-    json_files = sorted(list(directory_path.glob('*.json')))
-    return [str(f) for f in json_files]
+    json_files = [str(f) for f in sorted(os.listdir(directory_path)) if f.endswith(".json") or f.endswith(".jsonc")]
+    json_files = [os.path.join(directory_path, f) for f in json_files]
+    return json_files
 
 # Define a function to write data to a CSV files
 def write_csv(rows: List[Dict[str, str]], output_file: str) -> None:
@@ -109,7 +110,7 @@ def main():
         description='Convert protocol files to a CSV for DB upload')
     parser.add_argument(
         '-s','--src',
-        default='testnet',
+        default='mainnet',
         choices=['testnet', 'mainnet'],
         help='Directory containing protocol files to process'
     )
