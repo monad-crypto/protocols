@@ -1,30 +1,41 @@
 # Protocols
 
-This repository maintains details for each protocol on the Monad testnet and mainnet to
+This repository maintains contract addresses and links for each protocol on the Monad network to
 assist with ecosystem coordination.
 
-Representatives of each protocol should add or adjust their corresponding metadata file as
-details change (for example, a  change or addition of contract addresses).
+Representatives of each protocol should open pull requests to add or adjust their corresponding
+metadata file as details change.
 
-Please refer to [Tooling and Infrastructure](https://docs.monad.xyz/tooling-and-infra/) for
-a list of infra providers supporting Monad.
+## Data
 
+For each network (`mainnet`, `testnet`), there is one json per protocol.
 
-## Form of entries
+Additionally, a summary csv is generated per network automatically.
 
-Each protocol has its own json file in `testnet/PROTOCOL.json` or `mainnet/PROTOCOL.json`.
+* Mainnet: [summary csv](https://raw.githubusercontent.com/monad-crypto/protocols/refs/heads/main/protocols-mainnet.csv) | [individual protocols](https://github.com/monad-crypto/protocols/tree/main/mainnet)
+* Testnet: [summary csv](https://raw.githubusercontent.com/monad-crypto/protocols/refs/heads/main/protocols-testnet.csv) | [individual protocols](https://github.com/monad-crypto/protocols/tree/main/testnet)
 
-The key fields are:
-- `name`: Name of protocol.
-- `description`: Description of protocol.
-- `categories`: Categorization of the protocol as list of category::sub-category pairs, in order of closest, most general, match to
-  furthest matching categories.
+For a list of infra providers supporting Monad, see [Docs -> Tooling and Infrastructure](https://docs.monad.xyz/tooling-and-infra/).
+
+## Protocol format
+
+Each protocol has its own json file in `{testnet,mainnet}/PROTOCOL.json`. Comments are allowed,
+following the [JSONC standard](https://jsonc.org/), in which case please create a `.jsonc` file instead of a `.json` file.
+
+The fields are:
+- `name`: Name of protocol (**required**)
+- `description`: Description of protocol (**required**)
+- `categories`: Categorization of the protocol as a list of category::sub-category pairs, in order
+  of closest to furthest matching categories (**required**)
   * see the categorization section below to see available categories.
-  * one category/sub-category pair is enough in most cases, however some protocols are associated with multiple categories.
-- `addresses`: A named mapping between contract concept and address.
-- `links`: Any links you are willing to provide (typically `project`, `twitter`, `github`, and `docs`).
+  * one category/sub-category pair is enough in most cases, however multiple are allowed
+- `addresses`: A mapping between contract names and addresses (**required**, but you may specify
+  an empty mapping to avoid triggering validation errors)
+- `links`: Any links you are willing to provide (typically `project`, `twitter`, `github`, and
+  `docs`) (**required**, but you may specify
+  an empty mapping to avoid triggering validation errors)
 
-Here is an example of a file describing a protocol:
+Here is an example of a file:
 ```json
 {
     "name": "Protocol Name",
@@ -34,10 +45,8 @@ Here is an example of a file describing a protocol:
         "Gaming::Mobile-First"
     ],
     "addresses": {
-        "Data": "0xd9f184B2086d508f94e1aefe11dFABbcD810aeF9",
-        "Avatar": "0x78925Ce372c918011Eb2966264b668B2F256224C",
-        "Prop": "0x138b7CEaBC3D37a317B837EcF74320432a3A47A2",
-        "Weapon": "0x865640F8e435D394519581afA81Ba7135DF668d2"
+        "CharacterFactory": "0xd9f184B2086d508f94e1aefe11dFABbcD810aeF9",
+        "AvatarFactory": "0x78925Ce372c918011Eb2966264b668B2F256224C"
     },
     "links": {
         "project": "https://www.foo.ai/",
@@ -46,8 +55,29 @@ Here is an example of a file describing a protocol:
         "docs": "https://docs.foo.ai/"
     }
 }
+```
+
+## Validation
+
+### Validating your entry
+
+Before submitting your entry, please run validation locally:
 
 ```
+# assuming your file was mainnet/PROTOCOL_NAME.{json,jsonc}
+python scripts/validate_protocol.py --network mainnet --protocol PROTOCOL_NAME
+```
+
+### Validating all jsons
+
+The following will be run on each commit:
+
+```
+python scripts/validate_protocol.py --network testnet
+python scripts/validate_protocol.py --network mainnet
+```
+
+
 ## How to submit a change
 
 Changes are done on branches and submitted as PRs. Here is a walkthrough of the process:
@@ -87,9 +117,11 @@ Please ensure your submission is passing before requesting a review.
 
 ## Categories
 
-The list of choices for the `category` field appears in `categories.json` and is also listed below. For mental clarity, categories are organized by top-level sectors.
+The list of choices for the `category` field appears in [`categories.json`](categories.json) and
+is also listed below. For ease of understanding, categories are organized by top-level sectors.
 
-Generally protocols will choose one category, however more than one is permissible, in which case list the primary category first.
+Generally protocols will be associated with a single category, however more than one is 
+permissible, in which case please put the primary category first.
 
 - AI
   * AI::Agent Launchpad
@@ -198,11 +230,3 @@ Generally protocols will choose one category, however more than one is permissib
   * Payments::Orchestration
   * Payments::Remittance
   * Payments::Other
-
-  
-## Monad Foundation Reviewers
-
-1. [`79jke`](https://github.com/79jke)
-2. [`kkqzhou`](https://github.com/kkqzhou)
-3. [`therealharpaljadeja`](https://github.com/therealharpaljadeja)
-4. [`portdeveloper`](https://github.com/portdeveloper)
