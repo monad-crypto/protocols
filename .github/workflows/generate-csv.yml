@@ -33,10 +33,10 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run script (testnet)
-        run: python scripts/ProtocolsTable.py --src testnet
+        run: python scripts/ProtocolsTable.py --network testnet
 
       - name: Run script (mainnet)
-        run: python scripts/ProtocolsTable.py --src mainnet
+        run: python scripts/ProtocolsTable.py --network mainnet
 
       # Commit all changed files back to the repository
       - uses: stefanzweifel/git-auto-commit-action@v5

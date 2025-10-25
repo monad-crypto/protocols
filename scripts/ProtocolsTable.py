@@ -109,7 +109,7 @@ def main():
     parser = argparse.ArgumentParser(
         description='Convert protocol files to a CSV for DB upload')
     parser.add_argument(
-        '-s','--src',
+        '-n','--network',
         default='mainnet',
         choices=['testnet', 'mainnet'],
         help='Directory containing protocol files to process'
@@ -122,19 +122,18 @@ def main():
 
     args = parser.parse_args()
 
-    src_type = args.src
-    if src_type == 'testnet':
+    network = args.network
+    if network == 'testnet':
         out_name = 'protocols-testnet.csv'
-    elif src_type == 'mainnet':
+    elif network == 'mainnet':
         out_name = 'protocols-mainnet.csv'
     else:
-        print(f"Invalid source type: {src_type}")
+        print(f"Invalid network: {network}")
         return
 
-    src = os.path.expanduser(src_type)
     out = os.path.expanduser(out_name)
 
-    protocol_files = collect_protocol_files(src)
+    protocol_files = collect_protocol_files(network)
     print(f"Found {len(protocol_files)} protocol files")
 
 
