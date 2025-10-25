@@ -9,7 +9,7 @@
         "TokenBridge": "0x0B2719cdA2F10595369e6673ceA3Ee2EDFa13BA7", // Responsible for WTT type cross chain token transfers. https://wormhole.com/docs/products/token-transfers/wrapped-token-transfers/overview/
         // "MultiTokenNTT": "" TBD - Responsible for NTT type token transfers using a v2 implementation of the NTT framework. v2 has not yet been documented at the time of commit. For v1, see https://wormhole.com/docs/products/token-transfers/native-token-transfers/overview/
 
-        /* Relayer (executor) contracts responsible for requesting and processing cross chain message delivery by relay providers */
+        /* Relayer (executor) contracts responsible for requesting and processing cross chain message delivery by relay providers. Read more at https://wormhole.com/docs/products/messaging/concepts/executor-overview/*/
         "Executor": "0xC04dE634982cAdF2A677310b73630B7Ac56A3f65",
         "CCTPv2WithExecutor": "0xA4d775410FB35d8cE49Ad98d3f483A55e532de73",
         "CCTPv2ReceiveWithGasDropoff": "0xD64341A38a5eAfb9EB9BACf8A5C52Fe858c4ABE9",
