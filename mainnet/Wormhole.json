@@ -1,0 +1,30 @@
+{
+    "name": "Wormhole",
+    "description": "Wormhole is a generic message-passing protocol designed to enable secure and efficient communication between different blockchains. ",
+    "live": true,
+    "categories": ["Infra::Interoperability"],
+    "addresses": {
+        /* Main contracts */
+        "Core": "0x194B123c5E96B9b2E49763619985790Dc241CAC0", //Responsible for publishing and verifying cross chain messages, including token transfer messages. https://wormhole.com/docs/products/messaging/overview/
+        "TokenBridge": "0x0B2719cdA2F10595369e6673ceA3Ee2EDFa13BA7", // Responsible for WTT type cross chain token transfers. https://wormhole.com/docs/products/token-transfers/wrapped-token-transfers/overview/
+        // "MultiTokenNTT": "" TBD - Responsible for NTT type token transfers using a v2 implementation of the NTT framework. v2 has not yet been documented at the time of commit. For v1, see https://wormhole.com/docs/products/token-transfers/native-token-transfers/overview/
+
+        /* Relayer (executor) contracts responsible for requesting and processing cross chain message delivery by relay providers */
+        "Executor": "0xC04dE634982cAdF2A677310b73630B7Ac56A3f65",
+        "CCTPv2WithExecutor": "0xA4d775410FB35d8cE49Ad98d3f483A55e532de73",
+        "CCTPv2ReceiveWithGasDropoff": "0xD64341A38a5eAfb9EB9BACf8A5C52Fe858c4ABE9",
+        "NTTWithExecutor": "0x93FE94Ad887a1B04DBFf1f736bfcD1698D4cfF66",
+        "MultiNTTWithExecutor": "0xFEA937F7124E19124671f1685671d3f04a9Af4E4",
+        "MultiReceiveWithGasDropoff": "0x0E4Eaf9c5c74bec4Cb651394db4847f77700e175",
+        "VAAv1ReceiveWithGasDropoff": "0x13b62003C8b126Ec0748376e7ab22F79Fb8bbDF2",
+        "TokenBridgeRelayer": "0xf7E051f93948415952a2239582823028DacA948e",
+        "TokenBridgeRelayerWithReferrer": "0x412f30e9f8B4a1e99eaE90209A6b00f5C3cc8739"
+        // "MayanForwarderWithReferrer": ""
+    },
+    "links": {
+        "project": "https://wormhole.com/",
+        "twitter": "https://x.com/wormhole",
+        "github": "https://github.com/wormhole-foundation",
+        "docs": "https://wormhole.com/docs/"
+    }
+}
