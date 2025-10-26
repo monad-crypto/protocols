@@ -1,0 +1,16 @@
+{
+    "name": "Eisen",
+    "description": "A multichain DEX & CEX aggregator—streamline every swap.",
+    "live": true,
+    "categories": ["DeFi::DEX Aggregator"],
+    "addresses": {
+        "EisenDiamond": "0x33631b7D2882a8c35D4c137c3B304a91F67b5007",
+        "Forwarder": "0x0f3Cfe8869d6fFdA410Ae6a7B78e7168780e22C3"
+    },
+    "links": {
+        "project": "https://eisenfinance.com",
+        "twitter": "https://x.com/eisenlabs",
+        "github": "https://github.com/EisenLabs",
+        "docs": "https://books.eisenfinance.com/eisen-finance"
+    }
+}
