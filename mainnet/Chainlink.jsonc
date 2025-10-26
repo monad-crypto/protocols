@@ -4,8 +4,11 @@
     "live": true,
     "categories": ["Infra::Oracle"],
     "addresses": {
+        // Data Streams (pull oracle):
         "Router": "0x33566fE5976AAa420F3d5C64996641Fc3858CaDB",
         "VerifierProxy": "0xEd813D895457907399E41D36Ec0bE103E32148c8",
+
+        // Price Feeds (push oracle):
         "AAVE_USD_Proxy": "0x2a954d493eE80BcC7cDeF56DB6fC6edC6758CA5d",
         "AAVE_USD_Aggregator": "0x81Bf4bbD9910F95c18cf661752bD9a07629fe191",
         "ADA_USD_Proxy": "0xA7cd3368eBC801df68812d46AB6b3F47d4BF37ea",
