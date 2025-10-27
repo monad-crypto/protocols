@@ -1,4 +1,8 @@
 name,ctype,csubtype,contract,address,all_categories
+Clober,DeFi,DEX,BookManager,0x6657d192273731c3cac646cc82d5f28d0cbe8ccc,DeFi::DEX
+Clober,DeFi,DEX,Controller,0x19b68a2b909d96c05b623050c276fbd457de8e83,DeFi::DEX
+Clober,DeFi,DEX,BookViewer,0xe424c211e2ed8a5b6d1c57fa493c41715568d238,DeFi::DEX
+Clober,DeFi,DEX,Router,0x7b58a24c5628881a141d630f101db433d419b372,DeFi::DEX
 PancakeSwap,DeFi,DEX,Wmon,0x3bd359c1119da7da1d913d1c4d2b7c461115433a,DeFi::DEX
 PancakeSwap,DeFi,DEX,PancakeV2Factory,0x02a84c1b3bbd7401a5f7fa98a384ebc70bb5749e,DeFi::DEX
 PancakeSwap,DeFi,DEX,PancakeV2Router,0x8cfe327cec66d1c090dd72bd0ff11d690c33a2eb,DeFi::DEX
