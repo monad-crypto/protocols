@@ -1,6 +1,6 @@
 {
     "name": "Enjoyoors",
-    "description": "Enoyoors is a protocol that unlocks yield on any asset on any chain (starting with the Monad testnet)",
+    "description": "Enoyoors is a protocol that unlocks yield on any asset on any chain",
     "live": true,
     "categories": [
         "DeFi::Yield"
