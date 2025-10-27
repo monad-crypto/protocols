@@ -318,6 +318,8 @@ zkSwap Finance,DeFi,DEX,ZFNFT,0x4f79d211d0536ffe453203229c6ad32ad25681e8,DeFi::D
 0x,DeFi,DEX Aggregator,unknown1,0xee6107d6722d31bb10eba7936955477f3dee4de2,DeFi::DEX Aggregator
 0x,DeFi,DEX Aggregator,allowanceHolder,0x0000000000001ff3684f28c67538d4d072c22734,DeFi::DEX Aggregator
 Azaar,DeFi,DEX Aggregator,default,0xc746a3ff008b13d55701b4ea4a00f90c1f71a991,DeFi::DEX Aggregator
+Eisen,DeFi,DEX Aggregator,EisenDiamond,0x33631b7d2882a8c35d4c137c3b304a91f67b5007,DeFi::DEX Aggregator
+Eisen,DeFi,DEX Aggregator,Forwarder,0x0f3cfe8869d6ffda410ae6a7b78e7168780e22c3,DeFi::DEX Aggregator
 Mace,DeFi,DEX Aggregator,Router,0x82193139cce644b32919d42abf84a15d57b8aff6,DeFi::DEX Aggregator
 Mace,DeFi,DEX Aggregator,KuruAdapter,0x7c03da572a0180e77f544bd69134babf4a26cf63,DeFi::DEX Aggregator
 Mace,DeFi,DEX Aggregator,NitroAdapter,0x3e0dea0432bd7e63834627c1aafb20574e0fca6c,DeFi::DEX Aggregator
