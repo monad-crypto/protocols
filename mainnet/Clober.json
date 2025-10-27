@@ -1,0 +1,18 @@
+{
+    "name": "Clober",
+    "description": "Clober is a fully on-chain CLOB DEX protocol with a gas-efficient matching engine optimized for on-chain execution.",
+    "live": true,
+    "categories": ["DeFi::DEX"],
+    "addresses": {
+        "BookManager": "0x6657d192273731C3cAc646cc82D5F28D0CBE8CCC",
+        "Controller": "0x19b68a2b909D96c05B623050C276FBD457De8e83",
+        "BookViewer": "0xe424c211e2Ed8a5B6d1C57FA493C41715568D238",
+        "Router": "0x7B58A24C5628881a141D630f101Db433D419B372"
+    },
+    "links": {
+        "project": "https://clober.io",
+        "twitter": "https://x.com/CloberDEX",
+        "github": "https://github.com/clober-dex",
+        "docs": "https://ethresear.ch/t/enabling-on-chain-order-matching-for-order-book-dexs-revisited-segmented-segment-trees-and-octopus-heaps-explained/15180"
+    }
+}
