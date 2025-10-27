@@ -1,0 +1,18 @@
+{
+    "name": "Enjoyoors",
+    "description": "Enoyoors is a protocol that unlocks yield on any asset on any chain (starting with the Monad testnet)",
+    "live": true,
+    "categories": [
+        "DeFi::Yield"
+    ],
+    "addresses": {
+        "Vault": "0x6B5E332387e8beC98C52F10A72952B17176B4f1b",
+        "WithdrawalApprover": "0x71F60773885011cC0a61613078733b4738B38f35"
+    },
+    "links": {
+        "project": "https://enjoyoors.xyz",
+        "twitter": "https://x.com/enjoyoorsxyz",
+        "github": "https://github.com/eq-lab?q=enjoyoors",
+        "docs": "https://docs.enjoyoors.xyz/"
+    }
+}
