@@ -22,6 +22,9 @@
         "EthToMonadCommitStore": "0xCE78587FEADDefC30e36520C09fc3a333dd6eEf4", // Eth->Monad Commit Store (on Monad); contract is named CommitStore
         "EthToMonadOffRamp": "0xBad8b04ED03A1CEaC89e8328f4eA7148B2E6D642" // Eth->Monad Offramp (on Monad); contract is named EVM2EVMOffRamp
     },
+    "info": {
+        "available_lanes": ["Ethereum", "BNB Chain", "Base", "Avalanche C-Chain", "Katana", "Sonic", "OP Mainnet", "Arbitrum", "Solana"]
+    },
     "links": {
         "project": "https://chain.link/",
         "twitter": "https://x.com/chainlink",
