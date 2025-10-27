@@ -1,0 +1,19 @@
+{
+    "name": "Hyperlane",
+    "description": "GMP interoperability to bridge, issue, swap, and more",
+    "live": true,
+    "categories": [
+        "Infra::Interoperability"
+    ],
+    "addresses": {
+    },
+    "info": {
+        "address_registry": "https://github.com/hyperlane-xyz/hyperlane-registry/blob/main/chains/monad/addresses.yaml"
+    },
+    "links": {
+        "project": "https://hyperlane.xyz",
+        "twitter": "https://x.com/hyperlane",
+        "github": "https://github.com/hyperlane-xyz",
+        "docs": "https://docs.hyperlane.xyz/"
+    }
+}
