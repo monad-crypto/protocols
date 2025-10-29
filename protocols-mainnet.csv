@@ -41,6 +41,11 @@ Uniswap,DeFi,DEX,UniversalRouter,0x0d97dc33264bfc1c226207428a79b26757fb9dc3,DeFi
 Uniswap,DeFi,DEX,FeeOnTransferDetector,0x5c834b6cac4173bfe288c5722a38e04b9e366e30,DeFi::DEX
 Eisen,DeFi,DEX Aggregator,EisenDiamond,0x787c474b8a86354d0f5f19fb599a5fc7662a265f,DeFi::DEX Aggregator
 Eisen,DeFi,DEX Aggregator,Forwarder,0xece5e77f9a9846c4d69555eb44e0cff8b5f03f1e,DeFi::DEX Aggregator
+LeverUp,DeFi,Perpetuals / Derivatives,LeverUp,0xea1b8e4ab7f14f7dca68c5b214303b13078fc5ec,DeFi::Perpetuals / Derivatives;DeFi::RWA;DeFi::Stablecoin
+LeverUp,DeFi,Perpetuals / Derivatives,LVUSD,0xfd44b35139ae53fff7d8f2a9869c503d987f00d1,DeFi::Perpetuals / Derivatives;DeFi::RWA;DeFi::Stablecoin
+LeverUp,DeFi,Perpetuals / Derivatives,LVMON,0x91b81bfbe3a747230f0529aa28d8b2bc898e6d56,DeFi::Perpetuals / Derivatives;DeFi::RWA;DeFi::Stablecoin
+LeverUp,DeFi,Perpetuals / Derivatives,LVUSD_Issuer,0x135951057cfccca7e8ef87ee41318d670f723f68,DeFi::Perpetuals / Derivatives;DeFi::RWA;DeFi::Stablecoin
+LeverUp,DeFi,Perpetuals / Derivatives,LVMON_Issuer,0xbf52ced429c3901afa4bbf25849269ef7a4ad105,DeFi::Perpetuals / Derivatives;DeFi::RWA;DeFi::Stablecoin
 Circle USDC,DeFi,Stablecoin,USDC,0x754704bc059f8c67012fed69bc8a327a5aafb603,DeFi::Stablecoin
 Enjoyoors,DeFi,Yield,Vault,0x6b5e332387e8bec98c52f10a72952b17176b4f1b,DeFi::Yield
 Enjoyoors,DeFi,Yield,WithdrawalApprover,0x71f60773885011cc0a61613078733b4738b38f35,DeFi::Yield
