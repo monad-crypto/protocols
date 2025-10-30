@@ -41,6 +41,10 @@ Uniswap,DeFi,DEX,UniversalRouter,0x0d97dc33264bfc1c226207428a79b26757fb9dc3,DeFi
 Uniswap,DeFi,DEX,FeeOnTransferDetector,0x5c834b6cac4173bfe288c5722a38e04b9e366e30,DeFi::DEX
 Eisen,DeFi,DEX Aggregator,EisenDiamond,0x787c474b8a86354d0f5f19fb599a5fc7662a265f,DeFi::DEX Aggregator
 Eisen,DeFi,DEX Aggregator,Forwarder,0xece5e77f9a9846c4d69555eb44e0cff8b5f03f1e,DeFi::DEX Aggregator
+Flap,DeFi,Launchpads,Portal,0x30e8ee7b5881bf2e158a0514f2150aabe2c68b23,DeFi::Launchpads
+Flap,DeFi,Launchpads,TokenV2Implementation,0xb88189aa1162850d75a1c1e16f837b7979994184,DeFi::Launchpads
+Flap,DeFi,Launchpads,TaxTokenImplementation,0x8e6512ba94c723d8f140b0fd9dbb498854b7a1f4,DeFi::Launchpads
+Flap,DeFi,Launchpads,TaxTokenSplitterImplementation,0x57fed6832f12150a77d5952b49190d9447acb5ee,DeFi::Launchpads
 Timeswap,DeFi,Lending,TimeswapV2OptionFactory,0x9515507fc36174e0babac382b6640ef2325e61da,DeFi::Lending;DeFi::CDP
 Timeswap,DeFi,Lending,TimeswapV2PoolFactory,0xbf90d2d8e629ca48cf001f1ca6adb47f120fb91a,DeFi::Lending;DeFi::CDP
 Timeswap,DeFi,Lending,TimeswapV2Token,0x1c65868b41d5d69146246e3e44b66804d2698c6d,DeFi::Lending;DeFi::CDP
