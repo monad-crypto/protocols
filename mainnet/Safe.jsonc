@@ -1,0 +1,54 @@
+{
+    "name": "Safe",
+    "description": "Multisig security for your onchain assets",
+    "live": true,
+    "categories": ["Infra::Wallet"],
+    // Safe makes multiple deployments. see https://github.com/safe-global/safe-deployments
+    // v1.3.0 canonical
+    "addresses": {
+        "CompatibilityFallbackHandler": "0xf48f2b2d2a534e402487b3ee7c18c33aec0fe5e4",
+        "CreateCall": "0x7cbb62eaa69f79e6873cd1ecb2392971036cfaa4",
+        "GnosisSafe": "0xd9db270c1b5e3bd161e8c8503c55ceabee709552",
+        "GnosisSafeL2": "0x3e5c63644e683549055b9be8653de26e0b4cd36e",
+        "MultiSend": "0xa238cbeb142c10ef7ad8442c6d1f9e89e07e7761",
+        "MultiSendCallOnly": "0x40a2accbd92bca938b02010e17a5b8929b49130d",
+        "GnosisSafeProxyFactory": "0xa6b71e26c5e0845f74c812102ca7114b6a896ab2",
+        "SignMessageLib": "0xa65387f16b013cf2af4605ad8aa5ec25a2cba3a2",
+        "SimulateTxAccessor": "0x59ad6735bcd8152b84860cb256dd9e96b85f69da"
+    },
+    // v1.3.0 EIP-155
+    "addresses_v1_3_0_eip_155": {
+        "CompatibilityFallbackHandler": "0x017062a1dE2FE6b99BE3d9d37841FeD19F573804",
+        "CreateCall": "0xB19D6FFc2182150F8Eb585b79D4ABcd7C5640A9d",
+        "GnosisSafe": "0x69f4D1788e39c87893C980c06EdF4b7f686e2938",
+        "GnosisSafeL2": "0xfb1bffC9d739B8D520DaF37dF666da4C687191EA",
+        "MultiSend": "0x998739BFdAAdde7C933B942a68053933098f9EDa",
+        "MultiSendCallOnly": "0xA1dabEF33b3B82c7814B6D82A79e50F4AC44102B",
+        "GnosisSafeProxyFactory": "0xC22834581EbC8527d974F8a1c97E1bEA4EF910BC",
+        "SignMessageLib": "0x98FFBBF51bb33A056B08ddf711f289936AafF717",
+        "SimulateTxAccessor": "0x727a77a074D1E6c4530e814F89E618a3298FC044"
+    },
+    // v1.4.1
+    "addresses_v1_4_1": {
+        "CompatibilityFallbackHandler": "0xfd0732Dc9E303f09fCEf3a7388Ad10A83459Ec99",
+        "CreateCall": "0x9b35Af71d77eaf8d7e40252370304687390A1A52",
+        "SafeMigration": "0x526643F69b81B008F46d95CD5ced5eC0edFFDaC6",
+        "Safe": "0x41675C099F32341bf84BFc5382aF534df5C7461a",
+        "SafeL2": "0x29fcB43b46531BcA003ddC8FCB67FFE91900C762",
+        "MultiSend": "0x38869bf66a61cF6bDB996A6aE40D5853Fd43B526",
+        "MultiSendCallOnly": "0x9641d764fc13c8B624c04430C7356C1C7C8102e2",
+        "GnosisSafeProxyFactory": "0x4e1DCf7AD4e460CfD30791CCC4F9c8a4f820ec67",
+        "SafeToL2Migration": "0xfF83F6335d8930cBad1c0D439A841f01888D9f69",
+        "SafeToL2Setup": "0xBD89A1CE4DDe368FFAB0eC35506eEcE0b1fFdc54",
+        "SignMessageLib": "0xd53cd0aB83D845Ac265BE939c57F53AD838012c9",
+        "SimulateTxAccessor": "0x3d4BA2E0884aa488718476ca2FB8Efc291A46199"
+    },
+    "links": {
+        "project": "https://safe.global/",
+        "twitter": "https://x.com/safe",
+        "github": "https://github.com/safe-global",
+        "docs": "https://docs.safe.global/",
+        "deployment_pr_v1_3_0": "https://github.com/safe-global/safe-deployments/pull/1162",
+        "deployment_pr_v1_4_1": "https://github.com/safe-global/safe-deployments/pull/1160"
+    }
+}
