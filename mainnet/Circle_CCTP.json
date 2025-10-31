@@ -9,6 +9,9 @@
         "TokenMinterV2": "0xfd78EE919681417d192449715b2594ab58f5D002",
         "MessageV2": "0xec546b6B005471ECf012e5aF77FBeC07e0FD8f78"
     },
+    "info": {
+        "domain_id": 15
+    },
     "links": {
         "project": "https://circle.com",
         "twitter": "https://x.com/circle",
