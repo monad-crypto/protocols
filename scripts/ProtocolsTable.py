@@ -51,7 +51,7 @@ def parse_protocol_file(file_path: str) -> List[Dict[str, str]]:
 
         # Create rows - one for each address
         rows = []
-        for contract_name, address in addresses.items():
+        for contract_name, address in sorted(addresses.items()):
             row = {
                 'name': name,
                 'ctype': type,
@@ -93,7 +93,7 @@ def write_csv(rows: List[Dict[str, str]], output_file: str) -> None:
         return
 
     fieldnames = ['name', 'ctype', 'csubtype', 'contract', 'address', 'all_categories']
-    rows = sorted(rows, key=lambda x: (x['ctype'], x['csubtype'], x['name']))
+    rows = sorted(rows, key=lambda x: (x['ctype'], x['csubtype'], x['name'], x['contract']))
 
     with open(output_file, 'w', newline='', encoding='utf-8') as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
