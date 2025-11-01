@@ -247,6 +247,21 @@ Pyth,Infra,Oracle,PriceFeed,0x2880ab155794e7179c9ee2e38200202908c17b43,Infra::Or
 Stork,Infra,Oracle,default,0xacc0a0cf13571d30b4b8637996f5d6d774d4fd62,Infra::Oracle
 Supra Oracles,Infra,Oracle,SupraSValueFeedStorage,0x58e158c74df7ad6396c0dcbadc4878fac9e93d57,Infra::Oracle
 Switchboard,Infra,Oracle,Oracle,0x33a5066f65f66161beb3f827a3e40fce7d7a2e6c,Infra::Oracle
+Canonical Contracts,Infra,Other,WMON,0x3bd359c1119da7da1d913d1c4d2b7c461115433a,Infra::Other
+Canonical Contracts,Infra,Other,Create2Deployer,0x13b0d85ccb8bf860b6b79af3029fca081ae9bef2,Infra::Other
+Canonical Contracts,Infra,Other,CreateX,0xba5ed099633d3b313e4d5f7bdc1305d3c28ba5ed,Infra::Other
+Canonical Contracts,Infra,Other,SingletonFactory,0xce0042b868300000d44a59004da54a005ffdcf9f,Infra::Other
+Canonical Contracts,Infra,Other,EntryPoint_v0_6,0x5ff137d4b0fdcd49dca30c7cf57e578a026d2789,Infra::Other
+Canonical Contracts,Infra,Other,SenderCreator_v0_6,0x7fc98430eaedbb6070b35b39d798725049088348,Infra::Other
+Canonical Contracts,Infra,Other,EntryPoint_v0_7,0x0000000071727de22e5e9d8baf0edac6f37da032,Infra::Other
+Canonical Contracts,Infra,Other,SenderCreator_v0_7,0xefc2c1444ebcc4db75e7613d20c6a62ff67a167c,Infra::Other
+Canonical Contracts,Infra,Other,FoundryDeterministicDeployer,0x4e59b44847b379578588920ca78fbf26c0b4956c,Infra::Other
+Canonical Contracts,Infra,Other,Multicall3,0xca11bde05977b3631167028862be2a173976ca11,Infra::Other
+Canonical Contracts,Infra,Other,Permit2,0x000000000022d473030f116ddee9f6b43ac78ba3,Infra::Other
+Canonical Contracts,Infra,Other,VanityMarket,0x000000000000b361194cfe6312ee3210d53c15aa,Infra::Other
+Canonical Contracts,Infra,Other,MicroCreate2Factory,0x6d9fb3c412a269df566a5c92b85a8dc334f0a797,Infra::Other
+Canonical Contracts,Infra,Other,NonceIncreaser,0x00000000000001e4a82b33373de1334e7d8f4879,Infra::Other
+Canonical Contracts,Infra,Other,ZoltuDeterministicDeploymentProxy,0x7a0d94f55792c434d74a40883c6ed8545e406d12,Infra::Other
 Safe,Infra,Wallet,CompatibilityFallbackHandler,0xf48f2b2d2a534e402487b3ee7c18c33aec0fe5e4,Infra::Wallet
 Safe,Infra,Wallet,CreateCall,0x7cbb62eaa69f79e6873cd1ecb2392971036cfaa4,Infra::Wallet
 Safe,Infra,Wallet,GnosisSafe,0xd9db270c1b5e3bd161e8c8503c55ceabee709552,Infra::Wallet
