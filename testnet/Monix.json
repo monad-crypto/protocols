@@ -1,0 +1,20 @@
+{
+    "name": "Monix",
+    "description": "Where your time is an investment, not a gamble. Experience fun, skill-based competition with rewards worthy of your effort. No pay-to-win, just play-to-master.",
+    "live": true,
+    "categories": [
+        "Gaming::Games",
+        "Gaming::Metaverse",
+        "NFT::Collections"
+    ],
+    "addresses": {
+        "GameManager": "0xDe237666bc7839e17d12F113E2C776a0b683Ad9B",
+        "BoxNFT": "0xEF4fd52dA1822bB346170f4916F5dBE2D51DBCe5"
+    },
+    "links": {
+        "project": "https://gmonix.com/",
+        "twitter": "https://x.com/0xMonix",
+        "github": "https://github.com/0xMonix",
+        "discord": "https://discord.gg/HsP25vZMKZ"
+    }
+}
