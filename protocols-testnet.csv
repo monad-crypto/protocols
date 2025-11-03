@@ -409,6 +409,81 @@ Kinza Finance,DeFi,Lending,Oracle,0xe1ddd3273a775e70eb532b311073defb79bc5d82,DeF
 Kinza Finance,DeFi,Lending,lendingPoolImpl,0x29d924267ef89036d50c2008c810842a0e1091b5,DeFi::Lending
 Kinza Finance,DeFi,Lending,lendingPoolProxy,0x590b03d84441c1277f32784d1fbc22fe18b1eee0,DeFi::Lending
 Lendhub Protocol,DeFi,Lending,LendhubContract,0x2a0d4970cd6958dfb0d88f6536240277cc7c3a95,DeFi::Lending;NFT::NFTFi
+Neverland,DeFi,Lending,ACLManager,0xc363a56a66e912112d712a96cf67aded43606420,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,AToken,0x2ed958251971e4a08134774a1435592347d65ba8,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,AaveOracle,0x58207f48394a02c933dec4ee45fec8a55e9cdf38,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,BlocksenseOracleAggregator_WMON/USD,0x7038ad59f21ced8ea5ce69e3fcea1206b31d434e,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,BorrowLogic,0x4d9b0c92466f399abeca961b538ad058cc1f06b9,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,BridgeLogic,0xb35ce984b7eac9db6772bd13d0e590270b615456,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,ChronicleOracleAggregator_WMON/USD,0xedeff4edbff52b7957dd3f80fba4ea6e10a9d092,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,ConfiguratorLogic,0x277132810950695c5b625f7f7e1c7aee66b3c59d,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,DelegationAwareAToken,0x5abfda171b3efa66e4f3d2a616ff19000547fddd,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,Dust (Impl. V1),0x048ae2cedb3579f79fb8c4f4a2c82e7c5d950dfa,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,Dust (Impl. V2),0x5c6e25008bcbc6a056c54f1d9dc3dd1e0fd4c59c,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,Dust (Proxy),0x8c30de5c41528494dec99f77a410fb63817dc7e2,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,DustLock (Impl.),0x01f842d0e4db22d7987e6611ad2ced314ceb9f66,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,DustLock (Proxy),0x6baf63f7959ea253006e7af0beff29810ccbf661,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,DustLockTransferStrategy,0x98a3c29416797ee10b5714e2afd07d18d7935864,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,DustRewardsController (Impl.),0x798495ba821cd0d444a4ab4fa54bf989b80b62e1,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,DustRewardsController (Proxy),0x7f60150caf5aa98a99e6ecd2e34e1e8a18d99174,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,EModeLogic,0xdc7d425fd1f012b6de08c639cad47ef338f983d5,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,FlashLoanLogic,0x477eb83e8b0a8818c8672ba5afeb2cd34f190800,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,LiquidationLogic,0x21cb627f771654f1d2784f80bd34692e4e84dd58,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,NeverlandDustHelper,0x611db9cb04b5a8e0b275712f263552dc522a3dda,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,NeverlandUiProvider,0x733241d82c4410ec79c6ec9561440b463c0d6007,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,Pool (Impl.),0x6745d4b9cf3bc935732db4ec2a13af01e988b675,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,Pool (Proxy),0x9861f6a26050e02ff0c079657f5a3afcd8d4af52,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,PoolAddressesProvider,0x0bae833178a7ef0c5b47ca10d844736f65cbd499,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,PoolAddressesProviderRegistry,0x2f7ae2eebe5dd10bfb13f3fb2956c7b7ffd60a5f,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,PoolConfigurator (Impl.),0x13c6612361c04cd033b7835d6d4639ec2f6f9b11,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,PoolConfigurator (Proxy),0x7dbfe45df67b22aa60ea4a58d2b9c59ef7762052,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,PoolDataProvider,0xdbeed68b6f2a955dc81abade8fab6539ab0f85a4,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,PoolLogic,0xd0cc0850cf3a3fb15f823dfe92cf2407d9a168eb,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,ProxyAdmin,0x723485842947e82783fc561720fb09b65f857ed5,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,RedstoneOracleAggregator_GMON/MON,0x013be8765e51289af14a3563d34ee91b6b59eb70,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,RedstoneRatioOracleAggregator_GMON/USD,0xa44ac06fe484d7849ef3244a57723a1a36d7f222,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,ReservesSetupHelper,0x4d573882afd207b4b38e70dc2a7061a000ae5cad,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,RevenueReward (Impl.),0x27ac5b54204cb505e3af842cb14ad8faf8069e22,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,RevenueReward (Proxy),0x498d3bcb37b004f40ebaaf19fec0e6b9e61786a4,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,SharesOracleAggregator_SHMON/USD,0x0c0f6056a0215b3b9828ce6032419232ddc34928,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,StableDebtToken,0xe10c84210b3dc7ded6649782bc2cbc1e7564abe6,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,StableOne,0x68687f79b5422909569c7ef3becd8fd38022d11d,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,StableTwo,0x05b419391ee8c801df0fb03bbae567155e218492,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,SupplyLogic,0x45b956bae0c05ec9cc794adb925bf9e7d3b221ff,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,USDC_AToken,0x18d5fb20b2d252eae3c13b51cb53745f5b7d01dc,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,USDC_StableDebtToken,0xcb72554a672c67ee5d07f0b6df44cdbdd52bd6e0,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,USDC_VariableDebtToken,0xfcb0c1de6159e6ced54cbf1222bb0187eb81e59f,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,USDT_AToken,0xdd1124cc06b2feb6b03b94c0fed40b7352c07c24,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,USDT_StableDebtToken,0x2274a0a678978d0b509e631f9ce33cf865d84a37,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,USDT_VariableDebtToken,0x20838ac96e96049c844f714b58aaa0cb84414d60,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,UiPoolDataProviderV3,0x70690de9a88f7f5e79dde0f88c1c3b89223680b3,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,UniV3TwapAggregator_GMON/USDC,0xebd7c848e75af58afa0a6c4cfee78f976f8fa4c4,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,UniV3TwapAggregator_SHMON/USDC,0x2399057a489937b624e7d1ad7536b86b993af5b8,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,UniV3TwapAggregator_WMON/USDC,0x1f55ad177c9e5aafcaf270908926b371003bf0f1,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,UserVaultBeacon,0x64e169eb9ed9f1d29f576e521b5c3af7d17ed261,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,UserVaultFactory (Impl.),0x7ebc680c939ef3a8a0430d3da7dcb3a4a58edc47,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,UserVaultFactory (Proxy),0xa4620f718a2042fefaead2bf1e72fe1925be6ece,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,UserVaultImplementation,0x91412510b1b853005569998ed70d21b7a2de53c7,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,UserVaultRegistry,0x5a4be21f3e2ff5aac9e9328965691f9776d9a9f3,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,VariableDebtToken,0x5125c691a8a41281e24cd123e05331d4d547dea6,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,VolatileOne,0xcd8608f7526f29e0182d125a9b833e6875d3ac9e,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,WBTC_AToken,0x5e59debc244c947cbc37763ab92e77a1acf24af0,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,WBTC_StableDebtToken,0xec092b75e399cdf04e3e50a4fbe2f93d7de3f99d,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,WBTC_VariableDebtToken,0x0eea99c3691348e937d33aebbf6aa0537fd0d500,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,WETH_AToken,0xfdc8bc830fef4bd6885043a279a768720ec091be,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,WETH_StableDebtToken,0xbf6fb697053cba19803735cb670ba17f537ea964,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,WETH_VariableDebtToken,0xb61fe1af61d75f44450e3fa84f2f2dd75059897c,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,WMON_AToken,0xc7fe001dd712befb2de20abd34597cef0250a6ba,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,WMON_StableDebtToken,0xcf5965f33dbdb9b7069becc6c0b26c800ad722f1,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,WMON_VariableDebtToken,0x6d918bfd4b978574b00cfe0f1872931203357d1e,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,WalletBalanceProvider,0x2676fbd55a095425b050cc70063de52aa91ff0a2,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,WrappedTokenGatewayV3,0xca203799274b20421bda8ff98926e9b0e21e54ff,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,gMON_AToken,0x4d0a2addef97f02b11d0fda1b0099ca6907e37fb,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,gMON_StableDebtToken,0xbc479bddf5c97f93732f73559647d5a44263757b,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,gMON_VariableDebtToken,0xbb40488f28c78d2d5cd79d46f934908308fa2169,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,shMON_AToken,0x81167bcbf086973018aeab9f2598fc872eb3ee8e,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,shMON_StableDebtToken,0x956cfaec111576cbdecda79af8f2efd9a388c008,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,shMON_VariableDebtToken,0x4fd95e1609220bf078b465456ee7864b9a780830,DeFi::Lending;NFT::Other;Governance::Other
 Pike,DeFi,Lending,OracleEngine1,0x5ea59495da9b648e61a81842214d950a0b36ee96,DeFi::Lending
 Pike,DeFi,Lending,OracleEngine2,0xe0985152f70accbccb76ed48df93d524dbc78e6d,DeFi::Lending
 Pike,DeFi,Lending,OracleEngineBeacon,0x1afe460cdef8ff250f846f7eaaafda7cb648c68e,DeFi::Lending
