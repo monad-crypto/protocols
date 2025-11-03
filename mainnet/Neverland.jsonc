@@ -1,0 +1,95 @@
+{
+  "name": "Neverland",
+  "description": "Neverland is a Monad-native decentralized lending protocol built on the Aave V3 framework, reimagining DeFi incentives through self-repaying loans, flexible NFT-based veToken governance, and automated yield strategies. It redistributes 100% of protocol revenue back to the community through governance-directed rewards, liquidity incentives, and deflationary buybacks and burns.",
+  "live": true,
+  "categories": ["DeFi::Lending", "NFT::Other", "Governance::Other"],
+  "addresses": {
+    // --- Core Lending System ---
+    "ACLManager": "0x73A78AFa04b629e22db3BEC357bfc4a8B4f149DF",
+    "Pool (Proxy)": "0x80F00661b13CC5F6ccd3885bE7b4C9c67545D585",
+    "Pool (Impl.)": "0xe3B56AAD3c21531055f39e73A51E8ff29DAAD049",
+    "PoolAddressesProvider": "0x49D75170F55C964dfdd6726c74fdEDEe75553A0f",
+    "PoolAddressesProviderRegistry": "0xD0CCDe10CAcd12f1c839Db6400B82a82ab90fa9B",
+    "PoolDataProvider": "0xfd0b6b6F736376F7B99ee989c749007c7757fDba",
+
+    // --- Configuration Contracts ---
+    "PoolConfigurator (Proxy)": "0x193672B2454850EE247435E365a87F7cb857a0f7",
+    "PoolConfigurator (Impl.)": "0x67B7178105D3715214E1F187C20CDd20B708F443",
+    "ReservesSetupHelper": "0xE7D17A88C66b4ED0b73872937cdC5e081C118DcD",
+
+    // --- Logic Libraries (Aave V3 Core) ---
+    "BorrowLogic": "0xE0B05346Fa8F57C2C634Ee1D53Ace20806858c01",
+    "BridgeLogic": "0xc8a6A884B47ca0699A9dd76d5B8d1D3D21A8d94b",
+    "ConfiguratorLogic": "0x4de9DB60667Eb48A1Bf5c556BbA79058c44e34c2",
+    "EModeLogic": "0x44d2575191306Da86C488Bf86872Ca6D35489E4A",
+    "FlashLoanLogic": "0x427B9008A254799aA3ac1d5Cc1DC2920dA3ad3Cf",
+    "LiquidationLogic": "0x4AD738afaC73f32F1e5F1898BCA150d4A52C88Db",
+    "PoolLogic": "0xdcF1Dcb529fE2C61bf8Bbb10eB8b5ae843882dC5",
+    "SupplyLogic": "0x4c505f18C39Ef5881bCb5eBFBDd89E607ea2185d",
+
+    // --- Interest Rate Strategies ---
+    "StableOne": "0x09bD1E4bc6F035D5025D0e86a9b24a7fC9F1125B",
+    "StableTwo": "0xb00E2D557cFCF73A3c6D9Fe98332290fac7546e4",
+    "VolatileOne": "0x9B4528918159e1ae937740051Fb69bcD4E164cc3",
+
+    // --- Oracle ---
+    "AaveOracle": "0x94bbA11004B9877d13bb5E1aE29319b6f7bDEdD4",
+
+    // --- Base Tokens ---
+    "AToken": "0x395118096F0Ef19D7958Ad8538ecee9685B94eb2",
+    "DelegationAwareAToken": "0xbeA2124aE6d8225c491A85db16c419dcDC62159d",
+    "StableDebtToken": "0xA02c3E9d0b9deC0A7F53908742af141Af4EF45b5",
+    "VariableDebtToken": "0x936C7E76905c83Edc12F8A5ca993a6609D8bBAA2",
+
+    // --- Reserves Wrappers ---
+    // WMON
+    "WMON_AToken": "0xD0fd2Cf7F6CEff4F96B1161F5E995D5843326154",
+    "WMON_StableDebtToken": "0x81b19837295a2b4b1f6E0B2eaA239999294374E4",
+    "WMON_VariableDebtToken": "0x3acA285b9F57832fF55f1e6835966890845c1526",
+    // USDC
+    "USDC_AToken": "0x38648958836eA88b368b4ac23b86Ad44B0fe7508",
+    "USDC_StableDebtToken": "0x7491E87eed26418ff67422169a7608E67d691978",
+    "USDC_VariableDebtToken": "0xb26FB5e35f6527d6f878F7784EA71774595B249C",
+
+    // --- Lending Utilities ---
+    "WalletBalanceProvider": "0x8911Db480C1c0c1E06f17C2Bc76b26D861e40D47",
+    "UiIncentiveDataProviderV3": "0x81242ADa455D766b5032EB4abf9baEaA49077450",
+    "UiPoolDataProviderV3": "0x0733e79171dd5A5E8aF41E387c6299bCfE6a7e55",
+    "WrappedTokenGatewayV3": "0x800409dBd7157813BB76501c30e04596Cc478f25",
+
+    // --- Tokenomics ---
+    "Dust (Proxy)": "0xAD96C3dffCD6374294e2573A7fBBA96097CC8d7c",
+    "Dust (Impl.)": "0x4522144959Afee1CAe8aa553b6a5cB81E111A4DA",
+    "DustLock (Proxy)": "0xBB4738D05AD1b3Da57a4881baE62Ce9bb1eEeD6C",
+    "DustLock (Impl.)": "0x3875cdF0d2B4445B763B7FCAC5d28Db2ad6D30e7",
+
+    // --- Incentives ---
+    "DustRewardsController (Proxy)": "0x57ea245cCbFAb074baBb9d01d1F0c60525E52cec",
+    "DustRewardsController (Impl.)": "0x6aD1EcdA817ECB7696D21f6e600C7ec44AcFB1e6",
+    "DustLockTransferStrategy": "0x394060Ee4cf4781F5ff6bCf471426D97A11977fA",
+
+    // --- Revenue Distribution ---
+    "RevenueReward (Proxy)": "0xff20ac10eb808B1e31F5CfCa58D80eDE2Ba71c43",
+    "RevenueReward (Impl.)": "0x1df0F25344D29F541a53502a96DfeD3066D40b0A",
+
+    // --- Self-Repayment System ---
+    "UserVaultRegistry": "0x794CCdb375Ab08C340528a71Ba433a9016c657A5",
+    "UserVaultImplementation": "0x49f745b5265b6CA695E60e89dc50FD36edD252AB",
+    "UserVaultBeacon": "0xc9Fe3Db9b14A538FaB2eeBa33a8FeaB6ED7DdCeb",
+    "UserVaultFactory (Proxy)": "0xe82f2fa836BC5DB42a36C66027c0113BcAA28143",
+    "UserVaultFactory (Impl.)": "0x95AF995C9dcB1b6cFFEe6d81631dab5527884370",
+
+    // --- Upgradeability ---
+    "ProxyAdmin": "0x6400650cED1eD7179143D40b4431c3cC8c068D90",
+
+    // --- Utilities ---
+    "NeverlandDustHelper": "0xc91BA13910b358E0De6510D4e2F3AFDaf6395538",
+    "NeverlandUiProvider": "0xc8B7b87EB4a4B404a421bD3a1491a689A0be8611"
+  },
+  "links": {
+    "project": "https://neverland.money",
+    "twitter": "https://x.com/Neverland_Money",
+    "github": "https://github.com/Neverland-Money",
+    "docs": "https://docs.neverland.money"
+  }
+}
