@@ -699,6 +699,8 @@ Legends of Elysium,Gaming,Games,VoucherPayments,0x8d85b3517b28c7ceb3c012e7a8b334
 Monad 2048,Gaming,Games,Game,0xe0fa8195ae92b9c473c0c0c12c2d6bcbd245de47,Gaming::Games
 MonadTiles,Gaming,Games,default,0xb8dbee86a653a6100b1f62bd61493df730f74419,Gaming::Games
 Monflipcoin,Gaming,Games,CoinflipGame,0x664e248c39cd70fa333e9b2544beed6a7a2de09b,Gaming::Games;Consumer::Betting
+Monix,Gaming,Games,BoxNFT,0xef4fd52da1822bb346170f4916f5dbe2d51dbce5,Gaming::Games;Gaming::Metaverse;NFT::Collections
+Monix,Gaming,Games,GameManager,0xde237666bc7839e17d12f113e2c776a0b683ad9b,Gaming::Games;Gaming::Metaverse;NFT::Collections
 Nadflip,Gaming,Games,Coinflip,0x5e447c5588c551e9959cec493a40b52768b3d8ae,Gaming::Games;Consumer::Betting
 Nadflip,Gaming,Games,Pyth Entropy,0x36825bf3fbdf5a29e2d5148bfe7dcf7b5639e320,Gaming::Games;Consumer::Betting
 Outpost Surge,Gaming,Games,game,0x33f6fc28945d3fb5b5113056ad015588d56df5c7,Gaming::Games
