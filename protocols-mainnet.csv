@@ -1,4 +1,6 @@
 name,ctype,csubtype,contract,address,all_categories
+Cycle Network,AI,Abstraction Infrastructure,ZkEVM,0x647e77a1af7c87688b974f20db75ea36c28d033e,AI::Abstraction Infrastructure
+Cycle Network,AI,Abstraction Infrastructure,ZkEVMBridge,0xad5ca27d8932114a9457d385fc0b88825c845960,AI::Abstraction Infrastructure
 Clober,DeFi,DEX,BookManager,0x6657d192273731c3cac646cc82d5f28d0cbe8ccc,DeFi::DEX
 Clober,DeFi,DEX,BookViewer,0xe424c211e2ed8a5b6d1c57fa493c41715568d238,DeFi::DEX
 Clober,DeFi,DEX,Controller,0x19b68a2b909d96c05b623050c276fbd457de8e83,DeFi::DEX
