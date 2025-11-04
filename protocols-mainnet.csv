@@ -20,6 +20,14 @@ PancakeSwap,DeFi,DEX,TickLens,0x9a489505a00ce272eaa5e07dba6491314cae3796,DeFi::D
 PancakeSwap,DeFi,DEX,TokenValidator,0x864ed564875bddd6f421e226494a0e7c071c06f8,DeFi::DEX
 PancakeSwap,DeFi,DEX,V3Migrator,0xbc203d7f83677c7ed3f7acec959963e7f4ecc5c2,DeFi::DEX
 PancakeSwap,DeFi,DEX,Wmon,0x3bd359c1119da7da1d913d1c4d2b7c461115433a,DeFi::DEX
+Skate AMM,DeFi,DEX,ActionBox,0x430b6e7f7d43d70786267af7a5b2c1831372ca24,DeFi::DEX;Infra::Interoperability
+Skate AMM,DeFi,DEX,EventEmitter,0xfbd495862410c549f200ce224ad3d02a0bae260d,DeFi::DEX;Infra::Interoperability
+Skate AMM,DeFi,DEX,ExecutorRegistry,0x0ca6db88ad5eec56ca982fb96a24ad2172b4a0ef,DeFi::DEX;Infra::Interoperability
+Skate AMM,DeFi,DEX,PeripheryManager,0xa5646a57eb83ad2636c08b592d7714d860be9fa8,DeFi::DEX;Infra::Interoperability
+Skate AMM,DeFi,DEX,PeripheryPoolImplementation,0x4b13d62a8209b3b25edca3046dcb83167f9fea94,DeFi::DEX;Infra::Interoperability
+Skate AMM,DeFi,DEX,Pool_USDC_AUSD_1bps,0x0b6414df25eb6d23b7089055885c3d9058b33dee,DeFi::DEX;Infra::Interoperability
+Skate AMM,DeFi,DEX,Pool_WMON_USDC_5bps,0xc2be4b8852e37ecf979b3e2b5d58162719303804,DeFi::DEX;Infra::Interoperability
+Skate AMM,DeFi,DEX,SkateGateway,0x79e31a114e6d2f16e1e2a3ec47c82fac520881a4,DeFi::DEX;Infra::Interoperability
 Uniswap,DeFi,DEX,FeeOnTransferDetector,0x5c834b6cac4173bfe288c5722a38e04b9e366e30,DeFi::DEX
 Uniswap,DeFi,DEX,NFTDescriptor,0x2e9d45bb7b30549f5216813ada9a6b7982c5b3ed,DeFi::DEX
 Uniswap,DeFi,DEX,NonfungiblePositionManager,0x7197e214c0b767cfb76fb734ab638e2c192f4e53,DeFi::DEX
