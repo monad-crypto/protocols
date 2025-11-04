@@ -1,0 +1,23 @@
+{
+  "name": "Skate AMM",
+  "description": "Unified liquidity DEX powering cross-VM actions",
+  "live": true,
+  "categories": ["DeFi::DEX", "Infra::Interoperability"],
+  "addresses": {
+    "ExecutorRegistry": "0x0ca6DB88ad5EeC56ca982FB96a24AD2172B4A0eF",
+    "ActionBox": "0x430b6E7f7D43D70786267AF7a5B2C1831372ca24",
+    "SkateGateway": "0x79e31A114E6D2F16E1E2A3EC47C82FAc520881a4",
+    "PeripheryManager": "0xa5646a57EB83Ad2636c08b592D7714d860BE9Fa8",
+    // Shared across all pools
+    "PeripheryPoolImplementation": "0x4b13d62a8209b3b25EdCA3046DCb83167F9FeA94",
+    "EventEmitter": "0xFBD495862410c549f200Ce224Ad3D02a0bAe260D",
+    "Pool_WMON_USDC_5bps": "0xC2bE4b8852E37ECf979b3E2b5d58162719303804",
+    "Pool_USDC_AUSD_1bps": "0x0B6414dF25eb6D23B7089055885C3d9058b33DEe"
+  },
+  "links": {
+    "project": "https://skatechain.org",
+    "twitter": "https://x.com/skate_chain",
+    "github": "https://github.com/Skate-Org",
+    "docs": "https://docs.skatechain.org"
+  }
+}
