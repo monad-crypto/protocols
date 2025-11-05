@@ -1,0 +1,27 @@
+{
+  "name": "TownSquare",
+  "description": "TownSquare is a modular money market that powers crosschain lending & leveraged yield.",
+  "categories": ["Defi::Lending", "Defi::Crosschain"],
+  "addresses": {
+    "HubMessageDispatcher": "0xed84c02a0787d56d0b53efe64dd60a1ae20e4e31",
+    "SpokeMessageDispatcher": "0xb4a545a183bd072548ddfe9ddadc2c6f962ac14f",
+    "SpokeController": "0x8f8a0ed366439576b7db220678ed1259743239e3",
+    "AccountController": "0xc2df24203ab3a4f3857d649757a99e18de059a16",
+    "PriceFeedManager": "0x428cfa65310c70bc9e65bddb26c65fe4ca490376",
+    "LoanController": "0xc4c20efbefa4bde14091a3040d112cf981d8b2db",
+    "HubRelayer": "0x2970fde6064178d51d961689cb5b64226ab11fc2",
+    "Hub": "0x2dfdb4bf6c910b5bbbb0d07ec5f088e294628189",
+    "SpokeOperations": "0x63cb1cf5accbcc57e0cca047be9673ea5022b8db",
+    "SpokeNativeToken": "0x74eb02e915cfd4f581337cae8d941f4b40c8ed28",
+    "USDC SpokeToken": "0xa457235b68606a7921b7c525d92e9592e793b4c0",
+    "WMON SpokeToken": "0xa2b1ac2bb0a6ad5e74d74f8809a2f935813d273a",
+    "USDC Pool": "0xdb4e67f878289a820046f46f6304fd6ee1449281",
+    "WMON Pool": "0xf358f9e4ba7d210fde8c9a30522bb0063e15c4bb",
+  },
+  "links": {
+    "project": "https://www.townsq.xyz/",
+    "twitter": "https://x.com/TownSquarexyz",
+    "github": "https://github.com/TownSquare",
+    "docs": "https://docs.townsq.xyz/",
+  },
+}
