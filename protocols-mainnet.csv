@@ -1,4 +1,8 @@
 name,ctype,csubtype,contract,address,all_categories
+Cycle Network,AI,Abstraction Infrastructure,ZkEVM,0x647e77a1af7c87688b974f20db75ea36c28d033e,AI::Abstraction Infrastructure
+Cycle Network,AI,Abstraction Infrastructure,ZkEVMBridge,0xad5ca27d8932114a9457d385fc0b88825c845960,AI::Abstraction Infrastructure
+Kodeus,AI,Consumer AI,KodeusAgents,0x3d3c1db86989ed5196358ee03e2f1258ea183dcb,AI::Consumer AI
+Kodeus,AI,Consumer AI,KodeusMetricsTrackerV6,0xa0371d51c086f846bd02c331dd31cc510645332e,AI::Consumer AI
 Clober,DeFi,DEX,BookManager,0x6657d192273731c3cac646cc82d5f28d0cbe8ccc,DeFi::DEX
 Clober,DeFi,DEX,BookViewer,0xe424c211e2ed8a5b6d1c57fa493c41715568d238,DeFi::DEX
 Clober,DeFi,DEX,Controller,0x19b68a2b909d96c05b623050c276fbd457de8e83,DeFi::DEX
@@ -20,6 +24,16 @@ PancakeSwap,DeFi,DEX,TickLens,0x9a489505a00ce272eaa5e07dba6491314cae3796,DeFi::D
 PancakeSwap,DeFi,DEX,TokenValidator,0x864ed564875bddd6f421e226494a0e7c071c06f8,DeFi::DEX
 PancakeSwap,DeFi,DEX,V3Migrator,0xbc203d7f83677c7ed3f7acec959963e7f4ecc5c2,DeFi::DEX
 PancakeSwap,DeFi,DEX,Wmon,0x3bd359c1119da7da1d913d1c4d2b7c461115433a,DeFi::DEX
+Skate AMM,DeFi,DEX,ActionBox,0x430b6e7f7d43d70786267af7a5b2c1831372ca24,DeFi::DEX;Infra::Interoperability
+Skate AMM,DeFi,DEX,EventEmitter,0xfbd495862410c549f200ce224ad3d02a0bae260d,DeFi::DEX;Infra::Interoperability
+Skate AMM,DeFi,DEX,ExecutorRegistry,0x0ca6db88ad5eec56ca982fb96a24ad2172b4a0ef,DeFi::DEX;Infra::Interoperability
+Skate AMM,DeFi,DEX,PeripheryManager,0xa5646a57eb83ad2636c08b592d7714d860be9fa8,DeFi::DEX;Infra::Interoperability
+Skate AMM,DeFi,DEX,PeripheryPoolImplementation,0x4b13d62a8209b3b25edca3046dcb83167f9fea94,DeFi::DEX;Infra::Interoperability
+Skate AMM,DeFi,DEX,Pool_USDC_AUSD_1bps,0x0b6414df25eb6d23b7089055885c3d9058b33dee,DeFi::DEX;Infra::Interoperability
+Skate AMM,DeFi,DEX,Pool_WMON_USDC_5bps,0xc2be4b8852e37ecf979b3e2b5d58162719303804,DeFi::DEX;Infra::Interoperability
+Skate AMM,DeFi,DEX,SkateGateway,0x79e31a114e6d2f16e1e2a3ec47c82fac520881a4,DeFi::DEX;Infra::Interoperability
+Swaap,DeFi,DEX,SafeguardFactory,0xcc74bd5d8d2d333d14475e022325555eba3369b8,DeFi::DEX
+Swaap,DeFi,DEX,Vault,0xd315a9c38ec871068fec378e4ce78af528c76293,DeFi::DEX
 Uniswap,DeFi,DEX,FeeOnTransferDetector,0x5c834b6cac4173bfe288c5722a38e04b9e366e30,DeFi::DEX
 Uniswap,DeFi,DEX,NFTDescriptor,0x2e9d45bb7b30549f5216813ada9a6b7982c5b3ed,DeFi::DEX
 Uniswap,DeFi,DEX,NonfungiblePositionManager,0x7197e214c0b767cfb76fb734ab638e2c192f4e53,DeFi::DEX
@@ -135,6 +149,20 @@ LeverUp,DeFi,Perpetuals / Derivatives,LeverUp,0xea1b8e4ab7f14f7dca68c5b214303b13
 Circle USDC,DeFi,Stablecoin,USDC,0x754704bc059f8c67012fed69bc8a327a5aafb603,DeFi::Stablecoin
 Enjoyoors,DeFi,Yield,Vault,0x6b5e332387e8bec98c52f10a72952b17176b4f1b,DeFi::Yield
 Enjoyoors,DeFi,Yield,WithdrawalApprover,0x71f60773885011cc0a61613078733b4738b38f35,DeFi::Yield
+TownSquare,Defi,Lending,AccountController,0xc2df24203ab3a4f3857d649757a99e18de059a16,Defi::Lending;Defi::Crosschain
+TownSquare,Defi,Lending,Hub,0x2dfdb4bf6c910b5bbbb0d07ec5f088e294628189,Defi::Lending;Defi::Crosschain
+TownSquare,Defi,Lending,HubMessageDispatcher,0xed84c02a0787d56d0b53efe64dd60a1ae20e4e31,Defi::Lending;Defi::Crosschain
+TownSquare,Defi,Lending,HubRelayer,0x2970fde6064178d51d961689cb5b64226ab11fc2,Defi::Lending;Defi::Crosschain
+TownSquare,Defi,Lending,LoanController,0xc4c20efbefa4bde14091a3040d112cf981d8b2db,Defi::Lending;Defi::Crosschain
+TownSquare,Defi,Lending,PriceFeedManager,0x428cfa65310c70bc9e65bddb26c65fe4ca490376,Defi::Lending;Defi::Crosschain
+TownSquare,Defi,Lending,SpokeController,0x8f8a0ed366439576b7db220678ed1259743239e3,Defi::Lending;Defi::Crosschain
+TownSquare,Defi,Lending,SpokeMessageDispatcher,0xb4a545a183bd072548ddfe9ddadc2c6f962ac14f,Defi::Lending;Defi::Crosschain
+TownSquare,Defi,Lending,SpokeNativeToken,0x74eb02e915cfd4f581337cae8d941f4b40c8ed28,Defi::Lending;Defi::Crosschain
+TownSquare,Defi,Lending,SpokeOperations,0x63cb1cf5accbcc57e0cca047be9673ea5022b8db,Defi::Lending;Defi::Crosschain
+TownSquare,Defi,Lending,USDC Pool,0xdb4e67f878289a820046f46f6304fd6ee1449281,Defi::Lending;Defi::Crosschain
+TownSquare,Defi,Lending,USDC SpokeToken,0xa457235b68606a7921b7c525d92e9592e793b4c0,Defi::Lending;Defi::Crosschain
+TownSquare,Defi,Lending,WMON Pool,0xf358f9e4ba7d210fde8c9a30522bb0063e15c4bb,Defi::Lending;Defi::Crosschain
+TownSquare,Defi,Lending,WMON SpokeToken,0xa2b1ac2bb0a6ad5e74d74f8809a2f935813d273a,Defi::Lending;Defi::Crosschain
 Axelar,Infra,Interoperability,AxelarGasService,0xbe406f0189a0b4cf3a05c286473d23791dd44cc6,Infra::Interoperability
 Axelar,Infra,Interoperability,AxelarGateway,0xe432150cce91c13a887f7d836923d5597add8e31,Infra::Interoperability
 Axelar,Infra,Interoperability,ConstAddressDeployer,0x98b2920d53612483f91f12ed7754e51b4a77919e,Infra::Interoperability
