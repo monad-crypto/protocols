@@ -4,7 +4,8 @@
     "live": true,
     "categories": ["DeFi::DEX"],
     "addresses": {
-        "Vault": "0xd315a9c38ec871068fec378e4ce78af528c76293"
+        "Vault": "0xd315a9c38ec871068fec378e4ce78af528c76293",
+        "SafeguardFactory": "0xCc74BD5d8D2d333D14475e022325555ebA3369B8"
     },
     "links": {
         "project": "https://www.swaap.finance/",
