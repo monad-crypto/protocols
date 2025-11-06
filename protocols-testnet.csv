@@ -259,6 +259,7 @@ ReactorFi,DeFi,DEX,Voter,0x8b72c1cebd63aea76b6c5b09217a8c8889a3f6ba,DeFi::DEX
 ReactorFi,DeFi,DEX,VotingEscrow,0xbe4e46fa5179672c0e606ee97bf02ad47e7e1910,DeFi::DEX
 ReactorFi,DeFi,DEX,veNFTHelper,0x37f979b20a59f3e2702cae86c5a8608ebb81776a,DeFi::DEX
 Standard Protocol,DeFi,DEX,MatchingEngine,0x6b5a13ca93871187330ae6d9e34cdad610aa54cd,DeFi::DEX
+Swaap,DeFi,DEX,SafeguardFactory,0xcc74bd5d8d2d333d14475e022325555eba3369b8,DeFi::DEX
 Swaap,DeFi,DEX,Vault,0xd315a9c38ec871068fec378e4ce78af528c76293,DeFi::DEX
 TAYA,DeFi,DEX,factory,0xf3fd5503fb2bb5f5a7ae713e621ac5c50f191fb3,DeFi::DEX;Consumer::Prediction Market
 Tadle,DeFi,DEX,unknown0,0x4a2c25b488fd174997dd08589b6db7ffc0a05ffb,DeFi::DEX

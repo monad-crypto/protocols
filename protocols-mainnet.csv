@@ -32,6 +32,8 @@ Skate AMM,DeFi,DEX,PeripheryPoolImplementation,0x4b13d62a8209b3b25edca3046dcb831
 Skate AMM,DeFi,DEX,Pool_USDC_AUSD_1bps,0x0b6414df25eb6d23b7089055885c3d9058b33dee,DeFi::DEX;Infra::Interoperability
 Skate AMM,DeFi,DEX,Pool_WMON_USDC_5bps,0xc2be4b8852e37ecf979b3e2b5d58162719303804,DeFi::DEX;Infra::Interoperability
 Skate AMM,DeFi,DEX,SkateGateway,0x79e31a114e6d2f16e1e2a3ec47c82fac520881a4,DeFi::DEX;Infra::Interoperability
+Swaap,DeFi,DEX,SafeguardFactory,0xcc74bd5d8d2d333d14475e022325555eba3369b8,DeFi::DEX
+Swaap,DeFi,DEX,Vault,0xd315a9c38ec871068fec378e4ce78af528c76293,DeFi::DEX
 Uniswap,DeFi,DEX,FeeOnTransferDetector,0x5c834b6cac4173bfe288c5722a38e04b9e366e30,DeFi::DEX
 Uniswap,DeFi,DEX,NFTDescriptor,0x2e9d45bb7b30549f5216813ada9a6b7982c5b3ed,DeFi::DEX
 Uniswap,DeFi,DEX,NonfungiblePositionManager,0x7197e214c0b767cfb76fb734ab638e2c192f4e53,DeFi::DEX
