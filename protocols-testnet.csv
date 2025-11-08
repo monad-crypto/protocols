@@ -839,6 +839,8 @@ Magic Eden,NFT,Marketplace,unknown6,0xecee2f9a5d75e7ae667ba27b15ebdef71d0ebfb1,N
 Magic Eden,NFT,Marketplace,unknown7,0x2052f8a2ff46283b30084e5d84c89a2fdbe7f74b,NFT::Marketplace
 NFTs2Me,NFT,Marketplace,Factory,0x00000000001594c61dd8a6804da9ab58ed2483ce,NFT::Marketplace
 NFTs2Me,NFT,Marketplace,MintMaster,0x00000000009a1e02f00e280dcfa4c81c55724212,NFT::Marketplace
+Poply,NFT,Marketplace,NftDropFactory,0x5cbd62ede258e9d0947582e70a2895ce3c3880d0,NFT::Marketplace
+Poply,NFT,Marketplace,PoplyMarketplace (Proxy),0xc521d847e0dceafac0f197b8dc762ac58c7503d4,NFT::Marketplace
 Poply,NFT,Marketplace,marketplace,0xc521d847e0dceafac0f197b8dc762ac58c7503d4,NFT::Marketplace
 Demask Financial,NFT,NFTFi,CreateFactoryERC1155,0x2acfd0011bfb63b4bd0c48e5fefb3d0d93fa8a1f,NFT::NFTFi
 Demask Financial,NFT,NFTFi,CreateFactoryERC721,0x896a6872a7fd593f03dc116083f5121d83452095,NFT::NFTFi
