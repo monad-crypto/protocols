@@ -1,7 +1,7 @@
 {
   "name": "TownSquare",
   "description": "TownSquare is a modular money market that powers crosschain lending & leveraged yield.",
-  "categories": ["Defi::Lending", "Defi::Crosschain"],
+  "categories": ["DeFi::Lending", "DeFi::Cross Chain"],
   "addresses": {
     "HubMessageDispatcher": "0xed84c02a0787d56d0b53efe64dd60a1ae20e4e31",
     "SpokeMessageDispatcher": "0xb4a545a183bd072548ddfe9ddadc2c6f962ac14f",

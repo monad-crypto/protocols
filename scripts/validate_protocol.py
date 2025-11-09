@@ -95,6 +95,7 @@ def main():
 
     # check all protocols
     else:
+        invalid = []
         json_files = [f for f in sorted(os.listdir(base_dir)) if f.endswith(".json") or f.endswith(".jsonc")]
         if not json_files:
             print("⚠️ No JSON files found in testnet/")
@@ -108,6 +109,10 @@ def main():
                 print(f"✅ {filename} is valid.")
             else:
                 print(f"❌ {filename} is invalid.")
+                invalid.append(filename)
+
+        if len(invalid) > 0:
+            raise Exception("invalid jsons: " + ",".join(invalid))
 
 if __name__ == "__main__":
     main()
