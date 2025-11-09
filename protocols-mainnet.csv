@@ -141,6 +141,20 @@ Timeswap,DeFi,Lending,TimeswapV2PeripheryNoDexWithdrawForLiquidity,0x0c67b8aa57e
 Timeswap,DeFi,Lending,TimeswapV2PoolFactory,0xbf90d2d8e629ca48cf001f1ca6adb47f120fb91a,DeFi::Lending;DeFi::CDP
 Timeswap,DeFi,Lending,TimeswapV2Token,0x1c65868b41d5d69146246e3e44b66804d2698c6d,DeFi::Lending;DeFi::CDP
 Timeswap,DeFi,Lending,TimeswapV2TokenForLiquidity,0x3d7407988b6b3589dcd949b647fe1f0ec80d5002,DeFi::Lending;DeFi::CDP
+TownSquare,DeFi,Lending,AccountController,0xc2df24203ab3a4f3857d649757a99e18de059a16,DeFi::Lending;DeFi::Cross Chain
+TownSquare,DeFi,Lending,Hub,0x2dfdb4bf6c910b5bbbb0d07ec5f088e294628189,DeFi::Lending;DeFi::Cross Chain
+TownSquare,DeFi,Lending,HubMessageDispatcher,0xed84c02a0787d56d0b53efe64dd60a1ae20e4e31,DeFi::Lending;DeFi::Cross Chain
+TownSquare,DeFi,Lending,HubRelayer,0x2970fde6064178d51d961689cb5b64226ab11fc2,DeFi::Lending;DeFi::Cross Chain
+TownSquare,DeFi,Lending,LoanController,0xc4c20efbefa4bde14091a3040d112cf981d8b2db,DeFi::Lending;DeFi::Cross Chain
+TownSquare,DeFi,Lending,PriceFeedManager,0x428cfa65310c70bc9e65bddb26c65fe4ca490376,DeFi::Lending;DeFi::Cross Chain
+TownSquare,DeFi,Lending,SpokeController,0x8f8a0ed366439576b7db220678ed1259743239e3,DeFi::Lending;DeFi::Cross Chain
+TownSquare,DeFi,Lending,SpokeMessageDispatcher,0xb4a545a183bd072548ddfe9ddadc2c6f962ac14f,DeFi::Lending;DeFi::Cross Chain
+TownSquare,DeFi,Lending,SpokeNativeToken,0x74eb02e915cfd4f581337cae8d941f4b40c8ed28,DeFi::Lending;DeFi::Cross Chain
+TownSquare,DeFi,Lending,SpokeOperations,0x63cb1cf5accbcc57e0cca047be9673ea5022b8db,DeFi::Lending;DeFi::Cross Chain
+TownSquare,DeFi,Lending,USDC Pool,0xdb4e67f878289a820046f46f6304fd6ee1449281,DeFi::Lending;DeFi::Cross Chain
+TownSquare,DeFi,Lending,USDC SpokeToken,0xa457235b68606a7921b7c525d92e9592e793b4c0,DeFi::Lending;DeFi::Cross Chain
+TownSquare,DeFi,Lending,WMON Pool,0xf358f9e4ba7d210fde8c9a30522bb0063e15c4bb,DeFi::Lending;DeFi::Cross Chain
+TownSquare,DeFi,Lending,WMON SpokeToken,0xa2b1ac2bb0a6ad5e74d74f8809a2f935813d273a,DeFi::Lending;DeFi::Cross Chain
 LeverUp,DeFi,Perpetuals / Derivatives,LVMON,0x91b81bfbe3a747230f0529aa28d8b2bc898e6d56,DeFi::Perpetuals / Derivatives;DeFi::RWA;DeFi::Stablecoin
 LeverUp,DeFi,Perpetuals / Derivatives,LVMON_Issuer,0xbf52ced429c3901afa4bbf25849269ef7a4ad105,DeFi::Perpetuals / Derivatives;DeFi::RWA;DeFi::Stablecoin
 LeverUp,DeFi,Perpetuals / Derivatives,LVUSD,0xfd44b35139ae53fff7d8f2a9869c503d987f00d1,DeFi::Perpetuals / Derivatives;DeFi::RWA;DeFi::Stablecoin
@@ -149,20 +163,6 @@ LeverUp,DeFi,Perpetuals / Derivatives,LeverUp,0xea1b8e4ab7f14f7dca68c5b214303b13
 Circle USDC,DeFi,Stablecoin,USDC,0x754704bc059f8c67012fed69bc8a327a5aafb603,DeFi::Stablecoin
 Enjoyoors,DeFi,Yield,Vault,0x6b5e332387e8bec98c52f10a72952b17176b4f1b,DeFi::Yield
 Enjoyoors,DeFi,Yield,WithdrawalApprover,0x71f60773885011cc0a61613078733b4738b38f35,DeFi::Yield
-TownSquare,Defi,Lending,AccountController,0xc2df24203ab3a4f3857d649757a99e18de059a16,Defi::Lending;Defi::Crosschain
-TownSquare,Defi,Lending,Hub,0x2dfdb4bf6c910b5bbbb0d07ec5f088e294628189,Defi::Lending;Defi::Crosschain
-TownSquare,Defi,Lending,HubMessageDispatcher,0xed84c02a0787d56d0b53efe64dd60a1ae20e4e31,Defi::Lending;Defi::Crosschain
-TownSquare,Defi,Lending,HubRelayer,0x2970fde6064178d51d961689cb5b64226ab11fc2,Defi::Lending;Defi::Crosschain
-TownSquare,Defi,Lending,LoanController,0xc4c20efbefa4bde14091a3040d112cf981d8b2db,Defi::Lending;Defi::Crosschain
-TownSquare,Defi,Lending,PriceFeedManager,0x428cfa65310c70bc9e65bddb26c65fe4ca490376,Defi::Lending;Defi::Crosschain
-TownSquare,Defi,Lending,SpokeController,0x8f8a0ed366439576b7db220678ed1259743239e3,Defi::Lending;Defi::Crosschain
-TownSquare,Defi,Lending,SpokeMessageDispatcher,0xb4a545a183bd072548ddfe9ddadc2c6f962ac14f,Defi::Lending;Defi::Crosschain
-TownSquare,Defi,Lending,SpokeNativeToken,0x74eb02e915cfd4f581337cae8d941f4b40c8ed28,Defi::Lending;Defi::Crosschain
-TownSquare,Defi,Lending,SpokeOperations,0x63cb1cf5accbcc57e0cca047be9673ea5022b8db,Defi::Lending;Defi::Crosschain
-TownSquare,Defi,Lending,USDC Pool,0xdb4e67f878289a820046f46f6304fd6ee1449281,Defi::Lending;Defi::Crosschain
-TownSquare,Defi,Lending,USDC SpokeToken,0xa457235b68606a7921b7c525d92e9592e793b4c0,Defi::Lending;Defi::Crosschain
-TownSquare,Defi,Lending,WMON Pool,0xf358f9e4ba7d210fde8c9a30522bb0063e15c4bb,Defi::Lending;Defi::Crosschain
-TownSquare,Defi,Lending,WMON SpokeToken,0xa2b1ac2bb0a6ad5e74d74f8809a2f935813d273a,Defi::Lending;Defi::Crosschain
 Axelar,Infra,Interoperability,AxelarGasService,0xbe406f0189a0b4cf3a05c286473d23791dd44cc6,Infra::Interoperability
 Axelar,Infra,Interoperability,AxelarGateway,0xe432150cce91c13a887f7d836923d5597add8e31,Infra::Interoperability
 Axelar,Infra,Interoperability,ConstAddressDeployer,0x98b2920d53612483f91f12ed7754e51b4a77919e,Infra::Interoperability
