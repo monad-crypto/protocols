@@ -148,10 +148,11 @@ TownSquare,DeFi,Lending,Hub,0x2dfdb4bf6c910b5bbbb0d07ec5f088e294628189,DeFi::Len
 TownSquare,DeFi,Lending,HubMessageDispatcher,0xed84c02a0787d56d0b53efe64dd60a1ae20e4e31,DeFi::Lending;DeFi::Cross Chain
 TownSquare,DeFi,Lending,HubRelayer,0x2970fde6064178d51d961689cb5b64226ab11fc2,DeFi::Lending;DeFi::Cross Chain
 TownSquare,DeFi,Lending,LoanController,0xc4c20efbefa4bde14091a3040d112cf981d8b2db,DeFi::Lending;DeFi::Cross Chain
+TownSquare,DeFi,Lending,MON Pool,0x106d0e2bff74b39d09636bdcd5d4189f24d91433,DeFi::Lending;DeFi::Cross Chain
 TownSquare,DeFi,Lending,PriceFeedManager,0x428cfa65310c70bc9e65bddb26c65fe4ca490376,DeFi::Lending;DeFi::Cross Chain
 TownSquare,DeFi,Lending,SpokeController,0x8f8a0ed366439576b7db220678ed1259743239e3,DeFi::Lending;DeFi::Cross Chain
 TownSquare,DeFi,Lending,SpokeMessageDispatcher,0xb4a545a183bd072548ddfe9ddadc2c6f962ac14f,DeFi::Lending;DeFi::Cross Chain
-TownSquare,DeFi,Lending,SpokeNativeToken,0x74eb02e915cfd4f581337cae8d941f4b40c8ed28,DeFi::Lending;DeFi::Cross Chain
+TownSquare,DeFi,Lending,SpokeNativeToken,0x0392354326960f891926835eedab127766b21668,DeFi::Lending;DeFi::Cross Chain
 TownSquare,DeFi,Lending,SpokeOperations,0x63cb1cf5accbcc57e0cca047be9673ea5022b8db,DeFi::Lending;DeFi::Cross Chain
 TownSquare,DeFi,Lending,USDC Pool,0xdb4e67f878289a820046f46f6304fd6ee1449281,DeFi::Lending;DeFi::Cross Chain
 TownSquare,DeFi,Lending,USDC SpokeToken,0xa457235b68606a7921b7c525d92e9592e793b4c0,DeFi::Lending;DeFi::Cross Chain
