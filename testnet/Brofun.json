@@ -3,7 +3,8 @@
     "description": "Where fortune favors the bros. Sink cups, become a legend.",
     "live": true,
     "categories": [
-        "Gaming::Games"
+        "Gaming::Games",
+        "Gaming::Mobile-First"
     ],
     "addresses": {
         "Brofun": "0xFeF724284Aa158b62B9022cC5921B76EED6Db91A"
