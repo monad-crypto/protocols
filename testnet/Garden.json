@@ -4,12 +4,13 @@
     "live": true,
     "categories": ["DeFi::Cross Chain"],
     "addresses": {
-        "Multicall": "0x13DCec0762EcC5E666c207ab44Dc768e5e33070F"
+        "htlc_cbbtc": "0x8656d38352CD90ca55881eBd0AF6822839b435A8",
+        "htlc_usdc": "0x730Be401ef981D199a0560C87DfdDaFd3EC1C493"
     },
     "links": {
         "project": "https://garden.finance/",
-        "twitter": "https://x.com/garden_finance",
-        "github": "https://github.com/catalogfi/garden.js",
+        "twitter": "https://x.com/gardenfi",
+        "github": "https://github.com/gardenfi",
         "docs": "https://docs.garden.finance/developers/overview"
     }
 }
