@@ -12,16 +12,17 @@
     "HubRelayer": "0x2970fde6064178d51d961689cb5b64226ab11fc2",
     "Hub": "0x2dfdb4bf6c910b5bbbb0d07ec5f088e294628189",
     "SpokeOperations": "0x63cb1cf5accbcc57e0cca047be9673ea5022b8db",
-    "SpokeNativeToken": "0x74eb02e915cfd4f581337cae8d941f4b40c8ed28",
+    "SpokeNativeToken": "0x0392354326960f891926835eedab127766b21668",
     "USDC SpokeToken": "0xa457235b68606a7921b7c525d92e9592e793b4c0",
     "WMON SpokeToken": "0xa2b1ac2bb0a6ad5e74d74f8809a2f935813d273a",
     "USDC Pool": "0xdb4e67f878289a820046f46f6304fd6ee1449281",
     "WMON Pool": "0xf358f9e4ba7d210fde8c9a30522bb0063e15c4bb",
+    "MON Pool": "0x106d0e2bff74b39d09636bdcd5d4189f24d91433"
   },
   "links": {
     "project": "https://www.townsq.xyz/",
     "twitter": "https://x.com/TownSquarexyz",
     "github": "https://github.com/TowneSquare",
-    "docs": "https://docs.townsq.xyz/",
-  },
+    "docs": "https://docs.townsq.xyz/"
+  }
 }
