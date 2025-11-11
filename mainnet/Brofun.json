@@ -1,0 +1,17 @@
+{
+    "name": "Bro Fun",
+    "description": "Where fortune favors the bros. Sink cups, become a legend.",
+    "live": true,
+    "categories": [
+        "Gaming::Games"
+    ],
+    "addresses": {
+        "Brofun": "0xDF7A89Fc62e5120C4617f143C7AcDDAB0D1Ca7A2"
+    },
+    "links": {
+        "project": "https://bro.fun",
+        "twitter": "https://x.com/bro_dot_fun",
+        "github": "",
+        "docs": ""
+    }
+}
