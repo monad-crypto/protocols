@@ -99,7 +99,8 @@ Solv Protocol,DeFi,Asset Issuers,SolvBTC,0x1cf0e51005971c5b78b4a8fee419832cfccd8
 Solv Protocol,DeFi,Asset Issuers,SolvBTCBBN,0xb4618618b6fcb61b72fed991adcc344f43ee57ad,DeFi::Asset Issuers
 Solv Protocol,DeFi,Asset Issuers,SolvBTCBBNOracle,0x0036a9c8404e7f2ac574855df2119d10950a7a58,DeFi::Asset Issuers
 Solv Protocol,DeFi,Asset Issuers,SolvBTCOracle,0xe7f781fc5469bd6ebe358259beaf4bb8b1825df8,DeFi::Asset Issuers
-Garden,DeFi,Cross Chain,Multicall,0x13dcec0762ecc5e666c207ab44dc768e5e33070f,DeFi::Cross Chain
+Garden,DeFi,Cross Chain,htlc_cbbtc,0x8656d38352cd90ca55881ebd0af6822839b435a8,DeFi::Cross Chain
+Garden,DeFi,Cross Chain,htlc_usdc,0x730be401ef981d199a0560c87dfddafd3ec1c493,DeFi::Cross Chain
 Ambient,DeFi,DEX,Dex,0x88b96af200c8a9c35442c8ac6cd3d22695aae4f0,DeFi::DEX
 Ambient,DeFi,DEX,PriceImpactCalculator,0x70a6a0c905af5737ad73ceba4e6158e995031d4b,DeFi::DEX
 Ambient,DeFi,DEX,Query,0x1c74dd2df010657510715244da10ba19d1f3d2b7,DeFi::DEX
