@@ -375,4 +375,3 @@ Safe,Infra,Wallet,SimulateTxAccessor,0x59ad6735bcd8152b84860cb256dd9e96b85f69da,
 Poply,NFT,Marketplace,NftDropFactory,0x35a9eaf67c2c6276c8edf083d5b42ec36214ebd3,NFT::Marketplace
 Poply,NFT,Marketplace,PoplyMarketplace (Proxy),0x81389aecadcff4b8ae1391d3dcec9a21de51694c,NFT::Marketplace
 Upfloor,NFT,Other,Upfloor,0xb16eaa34ca11291a70acfc16440f3aabaf89e332,NFT::Other
-
