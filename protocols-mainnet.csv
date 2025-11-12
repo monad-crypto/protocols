@@ -200,6 +200,18 @@ Circle USDC,DeFi,Stablecoin,USDC,0x754704bc059f8c67012fed69bc8a327a5aafb603,DeFi
 Enjoyoors,DeFi,Yield,Vault,0x6b5e332387e8bec98c52f10a72952b17176b4f1b,DeFi::Yield
 Enjoyoors,DeFi,Yield,WithdrawalApprover,0x71f60773885011cc0a61613078733b4738b38f35,DeFi::Yield
 Bro Fun,Gaming,Games,Brofun,0xdf7a89fc62e5120c4617f143c7acddab0d1ca7a2,Gaming::Games;Gaming::Mobile-First
+Nar.bet,Gaming,Other,Baccarat,0xbeaafcc7648354a0722350378bf2a295b9b946a8,Gaming::Other
+Nar.bet,Gaming,Other,Bankroll,0x71dc4a726c92e6bf506f2afc2cee8b63a89b29ec,Gaming::Other
+Nar.bet,Gaming,Other,CoinFlip,0xa7f902847a16f1cdbf043c0653865d40e6695de5,Gaming::Other
+Nar.bet,Gaming,Other,FishPrawnCrab,0xbb1b4ee5d22ca19faa5aa9a55caf4abaed14607b,Gaming::Other
+Nar.bet,Gaming,Other,Limbo,0x11b83a467abff4c466294af94b99acef3d85929d,Gaming::Other
+Nar.bet,Gaming,Other,Mines,0x1ce656bd09a59a59513c4460220031d49038739e,Gaming::Other
+Nar.bet,Gaming,Other,Plinko,0xf970b3c6a1bd7745a07b317543ea999e4e98666c,Gaming::Other
+Nar.bet,Gaming,Other,Range,0x8baece06d825d36b52cb588960ae707d6c76a54c,Gaming::Other
+Nar.bet,Gaming,Other,RockPaperScissors,0xda18dc7bb27ca2056fa3ca3da3973218dc18f8e3,Gaming::Other
+Nar.bet,Gaming,Other,Roulette,0x39aa4ecb48c52a018b2a1a700b89c4912fc39967,Gaming::Other
+Nar.bet,Gaming,Other,Slots,0xe3c0b41413bc9913e0ace43a64637ef6c4e39f97,Gaming::Other
+Nar.bet,Gaming,Other,VideoPoker,0x681d2c159ee77f660f5081a3c193fb9613b624c0,Gaming::Other
 Axelar,Infra,Interoperability,AxelarGasService,0xbe406f0189a0b4cf3a05c286473d23791dd44cc6,Infra::Interoperability
 Axelar,Infra,Interoperability,AxelarGateway,0xe432150cce91c13a887f7d836923d5597add8e31,Infra::Interoperability
 Axelar,Infra,Interoperability,ConstAddressDeployer,0x98b2920d53612483f91f12ed7754e51b4a77919e,Infra::Interoperability
