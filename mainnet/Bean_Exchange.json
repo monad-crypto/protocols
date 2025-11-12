@@ -1,6 +1,6 @@
 {
     "name": "Bean Exchange",
-    "description": "First DLMM DEX & Perps natively built on Monad",
+    "description": "The ultimate capital-efficiency Perps & DLMM Spot DEX on Monad",
     "live": true,
     "categories": [
         "DeFi::DEX",
