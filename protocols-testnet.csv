@@ -668,6 +668,7 @@ AtDawn,Gaming,Games,AtDawnWeapon,0x865640f8e435d394519581afa81ba7135df668d2,Gami
 Blast Commander,Gaming,Games,GameRecord,0xa61be32a68b95569750a343879eef58597923d9a,Gaming::Games
 Blast Commander,Gaming,Games,Item,0x679d0424363fd9c3831b11ef206e30ab6236fd16,Gaming::Games
 Blast Commander,Gaming,Games,MiniGame,0x7ef7a43eedab2854fd901d68aab6cb1dec769690,Gaming::Games
+Bro Fun,Gaming,Games,Brofun,0xfef724284aa158b62b9022cc5921b76eed6db91a,Gaming::Games;Gaming::Mobile-First
 Catton AI,Gaming,Games,contract,0xd79662985f1ba7b5aee59372c964feb95fcdc08a,Gaming::Games
 DRKVRS,Gaming,Games,protocol,0x1d03198a0bbff614865081a96b65c8a134a224d4,Gaming::Games
 Dark Forest Ares,Gaming,Games,default,0x9948167432e01efb2e8ffe3dd0737fbe064b29b5,Gaming::Games

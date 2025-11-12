@@ -173,6 +173,7 @@ LeverUp,DeFi,Perpetuals / Derivatives,LeverUp,0xea1b8e4ab7f14f7dca68c5b214303b13
 Circle USDC,DeFi,Stablecoin,USDC,0x754704bc059f8c67012fed69bc8a327a5aafb603,DeFi::Stablecoin
 Enjoyoors,DeFi,Yield,Vault,0x6b5e332387e8bec98c52f10a72952b17176b4f1b,DeFi::Yield
 Enjoyoors,DeFi,Yield,WithdrawalApprover,0x71f60773885011cc0a61613078733b4738b38f35,DeFi::Yield
+Bro Fun,Gaming,Games,Brofun,0xdf7a89fc62e5120c4617f143c7acddab0d1ca7a2,Gaming::Games;Gaming::Mobile-First
 Axelar,Infra,Interoperability,AxelarGasService,0xbe406f0189a0b4cf3a05c286473d23791dd44cc6,Infra::Interoperability
 Axelar,Infra,Interoperability,AxelarGateway,0xe432150cce91c13a887f7d836923d5597add8e31,Infra::Interoperability
 Axelar,Infra,Interoperability,ConstAddressDeployer,0x98b2920d53612483f91f12ed7754e51b4a77919e,Infra::Interoperability
