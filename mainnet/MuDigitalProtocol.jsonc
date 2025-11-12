@@ -1,0 +1,50 @@
+{
+  "name": "Mu Protocol",
+  "description": "The Mu Digital protocol provides DeFi users with access to a diversified pool of USD-denominated, principal-protected RWAs through a dual token structure comprising of a safe yield token and a high yield token.",
+  "live": true,
+  "categories": ["DeFi::RWA", "DeFi::Yield"],
+  "addresses": {
+    "AZND": "0x4917a5ec9fCb5e10f47CBB197aBe6aB63be81fE8",
+
+    "muBOND": "0x336D414754967C6682B5A665C7DAF6F1409E63e8",
+
+    "loAZND (Proxy)": "0x9c82eB49B51F7Dc61e22Ff347931CA32aDc6cd90",
+    "loAZND (Implementation)": "0x00A927d9d8af27d06C4e2C3abb5b88b0E1766470",
+
+    "AccessManager (Proxy)": "0x7B14860eCd88fb65A22A1d259D1248BF199FB47f",
+    "AccessManager (Implementation)": "0xeF1776eD00e8f9Fe783e269d10676C7820465461",
+
+    "TreasuryManager (Proxy)": "0xF3CDC00ccA19F336b1c1B4Bd684A949124a93Ea7",
+    "TreasuryManager (Implementation)": "0xB55F4F4BBB466f9C022d3edF4B584c30Eb624113",
+
+    "PriceFeed (Proxy)": "0x8B9670C5E4D9F1C14f1F9fe625Dd099924aD4D4f",
+    "PriceFeed (Implementation)": "0x74AE87E5CE997B73Acfac85a3CE5570475D6B46B",
+
+    "PrimaryMarket (Proxy)": "0xe64730de04aeAf8d38925825D77D7a4c00340c89",
+    "PrimaryMarket (Implementation)": "0xe5f8Ec544310D5ae79DA0F921D01ce80fFD528eB",
+
+    "StakingEscrow (Proxy)": "0x35F73a069554bb11d73307564265451b88B3e3b6",
+    "StakingEscrow (Implementation)": "0x345E3ff3c551D1ad33A7294f405084b9863B9aae",
+
+    "Timelock (Proxy)": "0x3E0Ff06afCF1011c91A5063ca57f2Fcc54f7E862",
+    "Timelock (Implementation)": "0xd91C46C66c56e391f562885B1CF279b838863eda",
+
+    "MuBONDPriceFeed (Proxy)": "0x319817781134B450B3A7C672243Cc701BFCaB44E",
+    "MuBONDPriceFeed (Implementation)": "0xEDB2d57678440AD5bBE2213695B2ABEB754b72F7",
+
+    "AZNDPriceFeed (Proxy)": "0x9d839E0A6a86b05643b4811dE06ef09985EbBaef",
+    "AZNDPriceFeed (Implementation)": "0x0b4c9Dd5A3ecc14225d9b895716a65e4A7aD3fEc",
+
+    "RewardDistributor (Proxy)": "0x7c28385Ee6cAd71a4C7F747f302582170a7B93BE",
+    "RewardDistributor (Implementation)": "0xD4dF076285F36b8C996Fc5f2DC1f886f23a64229"
+  },
+  "links": {
+    "project": "https://www.foo.ai/",
+    "twitter": "https://x.com/MuDigitalHQ",
+    "github": "https://github.com/Mu-Digital",
+    "docs": "https://mu-digital.gitbook.io/mu-digital-litepaper",
+    "youtube": "https://www.youtube.com/channel/UC01ugLWKV_IN3T1sg2c-o7A",
+    "discord": "https://discord.com/invite/MuDigital",
+    "telegram": "https://t.me/MuDigitalHQ/6"
+  }
+}
