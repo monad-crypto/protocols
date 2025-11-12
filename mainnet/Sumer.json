@@ -1,0 +1,21 @@
+{
+  "name": "Sumer",
+  "description": "Sumer is a highly capital-efficient blockchain liquidity infrastructure that unifies lending, synthetic assets, and cross-chain liquidity into a single pool. With its synthetic money multiplier, Sumer enables users to earn yields across multiple blockchains without missing native DeFi opportunities on their home chain.",
+  "categories": ["DeFi::Lending", "DeFi::CDP", "DeFi::Cross Chain", "DeFi::Synthetics"],
+  "addresses": {
+    "CompLogic": "0x332F124323A1DA3Aeca4860f3B2B4a4c0df232Ae",
+    "RedemptionManager": "0xBB134359b3E6794127c7232680F959CE6BF60814",
+    "Timelock": "0x0f0af0e3dEb8A884fCB54907BA571c84C2EB3042",
+    "Comptroller": "0x2d9b96648C784906253c7FA94817437EF59Cf226",
+    "sdrMON": "0x16C7d1F9EA48F7DE5E8bc3165A04E8340Da574fA",
+    "sdrUSDC": "0xe19FD48C972E2dB074C4B0B29Ff2f0d3E1aefe52",
+    "sdrWETH": "0xF4DB30E806609516D14cDB53D9bc306c99505451",
+  },
+  "links": {
+    "project": "https://www.sumer.money/",
+    "twitter": "https://x.com/SumerMoney",
+    "github": "https://github.com/meterio/sumer-contracts",
+    "docs": "https://docs.sumer.money/"
+  }
+}
+
