@@ -1,0 +1,15 @@
+{
+    "name": "Upfloor",
+    "description": "Transforms NFT collections into perpetual growth engines",
+    "live": true,
+    "categories": ["NFT::Other"],
+    "addresses": {
+        "Upfloor": "0xf0945Db3648b01F423444980C0e9180A6CF13352"
+    },
+    "links": {
+        "project": "https://upfloor.co/",
+        "twitter": "https://x.com/upfloorco",
+        "github": "",
+        "docs": "https://introducing-upfloor-bydoonlabs.notion.site/UPFLOOR-2921352cbae2805c80a5e97197ec14a7"
+    }
+}
