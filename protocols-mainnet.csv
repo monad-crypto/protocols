@@ -203,6 +203,8 @@ Thevapelabs,DePIN,Data Collection,MIST,0xfa2f863eb512434e99e2365fa5f7ac7674dde00
 Thevapelabs,DePIN,Data Collection,PointSyncer,0x925726a0aabb82464d21f6795a457fa9fe0a57c1,DePIN::Data Collection;DePIN::Data Labelling;AI::Consumer AI
 Thevapelabs,DePIN,Data Collection,Staking,0x51fff43eb9cc9ce9de491e86dcfbfbf0864cfeed,DePIN::Data Collection;DePIN::Data Labelling;AI::Consumer AI
 Bro Fun,Gaming,Games,Brofun,0xdf7a89fc62e5120c4617f143c7acddab0d1ca7a2,Gaming::Games;Gaming::Mobile-First
+LumiterraGame,Gaming,Games,LumiterraGameInbox,0x4bd7ab4f4251f6a20e8c64d24f3a2f89f47d80b9,Gaming::Games
+LumiterraGame,Gaming,Games,LumiterraGameItemNFT,0x8f28e18039c37cdb4389e6dcb8703966fb9480a8,Gaming::Games
 LootGO,Gaming,Mobile-First,LootDrop,0x3e1fc8371bf6dceffd829ae2134005a4ae890b71,Gaming::Mobile-First;Gaming::Games;Consumer::Other
 Nar.bet,Gaming,Other,Baccarat,0xbeaafcc7648354a0722350378bf2a295b9b946a8,Gaming::Other
 Nar.bet,Gaming,Other,Bankroll,0x71dc4a726c92e6bf506f2afc2cee8b63a89b29ec,Gaming::Other
