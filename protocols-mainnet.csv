@@ -113,6 +113,13 @@ Neverland,DeFi,Lending,WMON_StableDebtToken,0x81b19837295a2b4b1f6e0b2eaa23999929
 Neverland,DeFi,Lending,WMON_VariableDebtToken,0x3aca285b9f57832ff55f1e6835966890845c1526,DeFi::Lending;NFT::Other;Governance::Other
 Neverland,DeFi,Lending,WalletBalanceProvider,0x8911db480c1c0c1e06f17c2bc76b26d861e40d47,DeFi::Lending;NFT::Other;Governance::Other
 Neverland,DeFi,Lending,WrappedTokenGatewayV3,0x800409dbd7157813bb76501c30e04596cc478f25,DeFi::Lending;NFT::Other;Governance::Other
+Sumer,DeFi,Lending,CompLogic,0x332f124323a1da3aeca4860f3b2b4a4c0df232ae,DeFi::Lending;DeFi::CDP;DeFi::Cross Chain;DeFi::Synthetics
+Sumer,DeFi,Lending,Comptroller,0x2d9b96648c784906253c7fa94817437ef59cf226,DeFi::Lending;DeFi::CDP;DeFi::Cross Chain;DeFi::Synthetics
+Sumer,DeFi,Lending,RedemptionManager,0xbb134359b3e6794127c7232680f959ce6bf60814,DeFi::Lending;DeFi::CDP;DeFi::Cross Chain;DeFi::Synthetics
+Sumer,DeFi,Lending,Timelock,0x0f0af0e3deb8a884fcb54907ba571c84c2eb3042,DeFi::Lending;DeFi::CDP;DeFi::Cross Chain;DeFi::Synthetics
+Sumer,DeFi,Lending,sdrMON,0x16c7d1f9ea48f7de5e8bc3165a04e8340da574fa,DeFi::Lending;DeFi::CDP;DeFi::Cross Chain;DeFi::Synthetics
+Sumer,DeFi,Lending,sdrUSDC,0xe19fd48c972e2db074c4b0b29ff2f0d3e1aefe52,DeFi::Lending;DeFi::CDP;DeFi::Cross Chain;DeFi::Synthetics
+Sumer,DeFi,Lending,sdrWETH,0xf4db30e806609516d14cdb53d9bc306c99505451,DeFi::Lending;DeFi::CDP;DeFi::Cross Chain;DeFi::Synthetics
 Timeswap,DeFi,Lending,TimeswapV2LiquidityToken,0xca9fea121c08f7b71f4625af75c9a8bfc7adbc3b,DeFi::Lending;DeFi::CDP
 Timeswap,DeFi,Lending,TimeswapV2OptionFactory,0x9515507fc36174e0babac382b6640ef2325e61da,DeFi::Lending;DeFi::CDP
 Timeswap,DeFi,Lending,TimeswapV2Periphery,0x69a88955d83d7952142dda9c688716ca51bc7eeb,DeFi::Lending;DeFi::CDP
