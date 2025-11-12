@@ -174,6 +174,28 @@ LeverUp,DeFi,Perpetuals / Derivatives,LVMON_Issuer,0xbf52ced429c3901afa4bbf25849
 LeverUp,DeFi,Perpetuals / Derivatives,LVUSD,0xfd44b35139ae53fff7d8f2a9869c503d987f00d1,DeFi::Perpetuals / Derivatives;DeFi::RWA;DeFi::Stablecoin
 LeverUp,DeFi,Perpetuals / Derivatives,LVUSD_Issuer,0x135951057cfccca7e8ef87ee41318d670f723f68,DeFi::Perpetuals / Derivatives;DeFi::RWA;DeFi::Stablecoin
 LeverUp,DeFi,Perpetuals / Derivatives,LeverUp,0xea1b8e4ab7f14f7dca68c5b214303b13078fc5ec,DeFi::Perpetuals / Derivatives;DeFi::RWA;DeFi::Stablecoin
+Mu Protocol,DeFi,RWA,AZND,0x4917a5ec9fcb5e10f47cbb197abe6ab63be81fe8,DeFi::RWA;DeFi::Yield
+Mu Protocol,DeFi,RWA,AZNDPriceFeed (Implementation),0x0b4c9dd5a3ecc14225d9b895716a65e4a7ad3fec,DeFi::RWA;DeFi::Yield
+Mu Protocol,DeFi,RWA,AZNDPriceFeed (Proxy),0x9d839e0a6a86b05643b4811de06ef09985ebbaef,DeFi::RWA;DeFi::Yield
+Mu Protocol,DeFi,RWA,AccessManager (Implementation),0xef1776ed00e8f9fe783e269d10676c7820465461,DeFi::RWA;DeFi::Yield
+Mu Protocol,DeFi,RWA,AccessManager (Proxy),0x7b14860ecd88fb65a22a1d259d1248bf199fb47f,DeFi::RWA;DeFi::Yield
+Mu Protocol,DeFi,RWA,MuBONDPriceFeed (Implementation),0xedb2d57678440ad5bbe2213695b2abeb754b72f7,DeFi::RWA;DeFi::Yield
+Mu Protocol,DeFi,RWA,MuBONDPriceFeed (Proxy),0x319817781134b450b3a7c672243cc701bfcab44e,DeFi::RWA;DeFi::Yield
+Mu Protocol,DeFi,RWA,PriceFeed (Implementation),0x74ae87e5ce997b73acfac85a3ce5570475d6b46b,DeFi::RWA;DeFi::Yield
+Mu Protocol,DeFi,RWA,PriceFeed (Proxy),0x8b9670c5e4d9f1c14f1f9fe625dd099924ad4d4f,DeFi::RWA;DeFi::Yield
+Mu Protocol,DeFi,RWA,PrimaryMarket (Implementation),0xe5f8ec544310d5ae79da0f921d01ce80ffd528eb,DeFi::RWA;DeFi::Yield
+Mu Protocol,DeFi,RWA,PrimaryMarket (Proxy),0xe64730de04aeaf8d38925825d77d7a4c00340c89,DeFi::RWA;DeFi::Yield
+Mu Protocol,DeFi,RWA,RewardDistributor (Implementation),0xd4df076285f36b8c996fc5f2dc1f886f23a64229,DeFi::RWA;DeFi::Yield
+Mu Protocol,DeFi,RWA,RewardDistributor (Proxy),0x7c28385ee6cad71a4c7f747f302582170a7b93be,DeFi::RWA;DeFi::Yield
+Mu Protocol,DeFi,RWA,StakingEscrow (Implementation),0x345e3ff3c551d1ad33a7294f405084b9863b9aae,DeFi::RWA;DeFi::Yield
+Mu Protocol,DeFi,RWA,StakingEscrow (Proxy),0x35f73a069554bb11d73307564265451b88b3e3b6,DeFi::RWA;DeFi::Yield
+Mu Protocol,DeFi,RWA,Timelock (Implementation),0xd91c46c66c56e391f562885b1cf279b838863eda,DeFi::RWA;DeFi::Yield
+Mu Protocol,DeFi,RWA,Timelock (Proxy),0x3e0ff06afcf1011c91a5063ca57f2fcc54f7e862,DeFi::RWA;DeFi::Yield
+Mu Protocol,DeFi,RWA,TreasuryManager (Implementation),0xb55f4f4bbb466f9c022d3edf4b584c30eb624113,DeFi::RWA;DeFi::Yield
+Mu Protocol,DeFi,RWA,TreasuryManager (Proxy),0xf3cdc00cca19f336b1c1b4bd684a949124a93ea7,DeFi::RWA;DeFi::Yield
+Mu Protocol,DeFi,RWA,loAZND (Implementation),0x00a927d9d8af27d06c4e2c3abb5b88b0e1766470,DeFi::RWA;DeFi::Yield
+Mu Protocol,DeFi,RWA,loAZND (Proxy),0x9c82eb49b51f7dc61e22ff347931ca32adc6cd90,DeFi::RWA;DeFi::Yield
+Mu Protocol,DeFi,RWA,muBOND,0x336d414754967c6682b5a665c7daf6f1409e63e8,DeFi::RWA;DeFi::Yield
 Circle USDC,DeFi,Stablecoin,USDC,0x754704bc059f8c67012fed69bc8a327a5aafb603,DeFi::Stablecoin
 Enjoyoors,DeFi,Yield,Vault,0x6b5e332387e8bec98c52f10a72952b17176b4f1b,DeFi::Yield
 Enjoyoors,DeFi,Yield,WithdrawalApprover,0x71f60773885011cc0a61613078733b4738b38f35,DeFi::Yield
