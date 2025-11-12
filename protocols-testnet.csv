@@ -179,12 +179,6 @@ Kuru,DeFi,DEX,Router,0xc816865f172d640d93712c68a7e1f83f3fa63235,DeFi::DEX
 LFJ,DeFi,DEX,Factory,0xb43120c4745967fa9b93e79c149e66b0f2d6fe0c,DeFi::DEX
 LFJ,DeFi,DEX,Router,0x18556da13313f3532c54711497a8fedac273220e,DeFi::DEX
 Mach Exchange,DeFi,DEX,contract,0x432b53c0595400f3ee94da737cfcca12c84fe299,DeFi::DEX
-Madhouse,DeFi,DEX,Aggregator,0x1e538356d3cfe7fa04696a92515add4a895ecb65,DeFi::DEX
-Madhouse,DeFi,DEX,PancakeSwapV2Adapter,0x54f44e229a8d6fd2375f8bc3f59acc5a54a1d1d3,DeFi::DEX
-Madhouse,DeFi,DEX,PancakeSwapV3Adapter,0x0b9c830db82fd61d00d7ef786c3d83d07fc7567b,DeFi::DEX
-Madhouse,DeFi,DEX,UniswapV2Adapter,0xe5a44bc972134f6baa8168adce623f7a33bac4ab,DeFi::DEX
-Madhouse,DeFi,DEX,UniswapV3Adapter,0xc19c9cf910ecf305c151ee5d569db1867ddf9d41,DeFi::DEX
-Madhouse,DeFi,DEX,WrappedNativeTokenAdapter,0x04a5199b1a67557ff065af6aa5bb74c17bc90e6c,DeFi::DEX
 Madness,DeFi,DEX,ContractMAD,0xc8527e96c3cb9522f6e35e95c0a28feab8144f15,DeFi::DEX
 Madness,DeFi,DEX,Factory,0x642871094fd976de43a21cb48aa20b4a8baaaa0d,DeFi::DEX
 Madness,DeFi,DEX,Multicall2,0x1a6720a763f8cbca3804b3ece26efe67b3a0c48e,DeFi::DEX
@@ -326,6 +320,12 @@ Eisen,DeFi,DEX Aggregator,Forwarder,0x0f3cfe8869d6ffda410ae6a7b78e7168780e22c3,D
 Mace,DeFi,DEX Aggregator,KuruAdapter,0x7c03da572a0180e77f544bd69134babf4a26cf63,DeFi::DEX Aggregator
 Mace,DeFi,DEX Aggregator,NitroAdapter,0x3e0dea0432bd7e63834627c1aafb20574e0fca6c,DeFi::DEX Aggregator
 Mace,DeFi,DEX Aggregator,Router,0x82193139cce644b32919d42abf84a15d57b8aff6,DeFi::DEX Aggregator
+Madhouse,DeFi,DEX Aggregator,Aggregator,0x9a5362f481a6c3e309f31b65f9f7ad0d7e8a7b7d,DeFi::DEX Aggregator
+Madhouse,DeFi,DEX Aggregator,PancakeSwapV2Adapter,0x54f44e229a8d6fd2375f8bc3f59acc5a54a1d1d3,DeFi::DEX Aggregator
+Madhouse,DeFi,DEX Aggregator,PancakeSwapV3Adapter,0x0b9c830db82fd61d00d7ef786c3d83d07fc7567b,DeFi::DEX Aggregator
+Madhouse,DeFi,DEX Aggregator,UniswapV2Adapter,0xe5a44bc972134f6baa8168adce623f7a33bac4ab,DeFi::DEX Aggregator
+Madhouse,DeFi,DEX Aggregator,UniswapV3Adapter,0xc19c9cf910ecf305c151ee5d569db1867ddf9d41,DeFi::DEX Aggregator
+Madhouse,DeFi,DEX Aggregator,WrappedNativeTokenAdapter,0x04a5199b1a67557ff065af6aa5bb74c17bc90e6c,DeFi::DEX Aggregator
 Monorail,DeFi,DEX Aggregator,Aggregator,0x8c15f4a2897dd89de74772cfa376190302801b52,DeFi::DEX Aggregator
 Monorail,DeFi,DEX Aggregator,Router,0x7b5df408da2356e9eecda0492104e758a2b6913d,DeFi::DEX Aggregator
 Rubic,DeFi,DEX Aggregator,AccessManagerFacet,0xc9fa6ca19d49ff5a677181369eb8a58688e74924,DeFi::DEX Aggregator
