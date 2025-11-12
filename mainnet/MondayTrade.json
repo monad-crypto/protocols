@@ -1,0 +1,22 @@
+
+{
+    "name": "Monday Trade",
+    "description": "Monday Trade is Monad’s native DEX that offers the best of CEX and DEX trading experience.",
+    "categories": [
+        "DeFi::DEX",
+        "DeFi::Perpetuals / Derivatives"
+    ],
+    "addresses": {
+        "MondayFactory": "0xC1e98D0A2a58fB8aBd10ccc30a58efff4080Aa21",
+        "SwapRouter": "0xFE951b693A2FE54BE5148614B109E316B567632F",
+		"NFTPositionManager": "0x68b507BF58ED32173f41FF20aa2494A569daeC44",
+		"QuoterV2": "0xB97eCD41Aef0F842E773C8F9905919cDE49880C9",
+        "Aggregator": "0xAD8974D98f7fc386e396FFE826B886cf20AfE232"
+    },
+    "links": {
+        "project": "https://monday.trade/",
+        "twitter": "https://x.com/MondayTrade_",
+        "github": "https://github.com/SynFutures",
+        "docs": "https://docs.monday.trade/"
+    }
+}
