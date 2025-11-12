@@ -60,7 +60,6 @@ Uniswap,DeFi,DEX,V3Migrator,0x7078c4537c04c2b2e52ddba06074dbdacf23ca15,DeFi::DEX
 Uniswap,DeFi,DEX,V4Quoter,0xa222dd357a9076d1091ed6aa2e16c9742dd26891,DeFi::DEX
 Eisen,DeFi,DEX Aggregator,EisenDiamond,0x787c474b8a86354d0f5f19fb599a5fc7662a265f,DeFi::DEX Aggregator
 Eisen,DeFi,DEX Aggregator,Forwarder,0xece5e77f9a9846c4d69555eb44e0cff8b5f03f1e,DeFi::DEX Aggregator
-Madhouse,DeFi,DEX Aggregator,Aggregator,0x6017684Bea9Cb6e9874fC6DBA4438271eBF9F5DA,DeFi::DEX Aggregator
 Flap,DeFi,Launchpads,Portal,0x30e8ee7b5881bf2e158a0514f2150aabe2c68b23,DeFi::Launchpads
 Flap,DeFi,Launchpads,TaxTokenImplementation,0x8e6512ba94c723d8f140b0fd9dbb498854b7a1f4,DeFi::Launchpads
 Flap,DeFi,Launchpads,TaxTokenSplitterImplementation,0x57fed6832f12150a77d5952b49190d9447acb5ee,DeFi::Launchpads

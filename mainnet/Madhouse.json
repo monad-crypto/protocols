@@ -4,12 +4,7 @@
     "live": true,
     "categories": ["DeFi::DEX Aggregator"],
     "addresses": {
-        "Aggregator": "0x1e538356d3cfe7fa04696a92515add4a895ecb65",
-        "UniswapV2Adapter": "0xe5a44bc972134f6baa8168adce623f7a33bac4ab",
-        "UniswapV3Adapter": "0xc19c9cf910ecf305c151ee5d569db1867ddf9d41",
-        "PancakeSwapV2Adapter": "0x54f44e229a8d6fd2375f8bc3f59acc5a54a1d1d3",
-        "PancakeSwapV3Adapter": "0x0b9c830db82fd61d00d7ef786c3d83d07fc7567b",
-        "WrappedNativeTokenAdapter": "0x04a5199b1a67557ff065af6aa5bb74c17bc90e6c"
+        "Aggregator": "0x6017684Bea9Cb6e9874fC6DBA4438271eBF9F5DA"
     },
     "links": {
         "project": "https://madhouse.ag/",
