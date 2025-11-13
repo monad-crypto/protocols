@@ -20,6 +20,22 @@ Kuru,DeFi,DEX,KuruForwarder,0x974e61bba9c4704e8bcc1923fdc3527b41323faa,DeFi::DEX
 Kuru,DeFi,DEX,MarginAccount,0x2a68ba1833cdf93fa9da1eebd7f46242ad8e90c5,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Launchpads;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces
 Kuru,DeFi,DEX,MonadDeployer,0xe29309e308af3ee3b1a414e97c37a58509f27d1e,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Launchpads;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces
 Kuru,DeFi,DEX,Router,0xd651346d7c789536ebf06dc72ae3c8502cd695cc,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Launchpads;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces
+LFJ,DeFi,DEX,DexLens,0x7ac3dd4b5a3f7013116d8a28f0579a678282ea5c,DeFi::DEX;DeFi::Memecoin
+LFJ,DeFi,DEX,Joe,0x371c7ec6d8039ff7933a2aa28eb827ffe1f52f07,DeFi::DEX;DeFi::Memecoin
+LFJ,DeFi,DEX,JoeAggregatorRouter,0x45a62b090df48243f12a21897e7ed91863e2c86b,DeFi::DEX;DeFi::Memecoin
+LFJ,DeFi,DEX,JoeRouterForwarderLogic,0xf780668669c193b5d2cf22b8420473fa1e3ee3d1,DeFi::DEX;DeFi::Memecoin
+LFJ,DeFi,DEX,JoeRouterLogic,0xf8155bca49576b54018311c6129bda088605b88b,DeFi::DEX;DeFi::Memecoin
+LFJ,DeFi,DEX,JoeV1Factory,0xe32d45c2b1c17a0fe0de76f1ebfa7c44b7810034,DeFi::DEX;DeFi::Memecoin
+LFJ,DeFi,DEX,JoeV1Quoter,0xf57b8a91f775b01d53450d7cb4d2a99ba989fd19,DeFi::DEX;DeFi::Memecoin
+LFJ,DeFi,DEX,JoeV1Router,0x4face5b0ef2757ceb9151d14c036a1135931c70e,DeFi::DEX;DeFi::Memecoin
+LFJ,DeFi,DEX,LBFactory,0xb43120c4745967fa9b93e79c149e66b0f2d6fe0c,DeFi::DEX;DeFi::Memecoin
+LFJ,DeFi,DEX,LBHooksLens,0x6124086b90ab910038e607aa1bdd67b284c31c98,DeFi::DEX;DeFi::Memecoin
+LFJ,DeFi,DEX,LBHooksManager,0x3a8e1be95467690f7c592b596e42d11b3710c633,DeFi::DEX;DeFi::Memecoin
+LFJ,DeFi,DEX,LBQuoter,0x9a550a522bbadfb69019b0432800ed17855a51c3,DeFi::DEX;DeFi::Memecoin
+LFJ,DeFi,DEX,LBRouter,0x18556da13313f3532c54711497a8fedac273220e,DeFi::DEX;DeFi::Memecoin
+LFJ,DeFi,DEX,LimitOrderV2,0xdbeeb3fb3e864e490e71b1d5c86c3de683ca4626,DeFi::DEX;DeFi::Memecoin
+LFJ,DeFi,DEX,LiquidityHelperContract,0xa5c68c9e55dde3505e60c4b5eae411e2977dfb35,DeFi::DEX;DeFi::Memecoin
+LFJ,DeFi,DEX,TMFactory,0xe70d21ad211db6dcd3f54b9804a1b64bb21b17b1,DeFi::DEX;DeFi::Memecoin
 Monday Trade,DeFi,DEX,Aggregator,0xad8974d98f7fc386e396ffe826b886cf20afe232,DeFi::DEX;DeFi::Perpetuals / Derivatives
 Monday Trade,DeFi,DEX,MondayFactory,0xc1e98d0a2a58fb8abd10ccc30a58efff4080aa21,DeFi::DEX;DeFi::Perpetuals / Derivatives
 Monday Trade,DeFi,DEX,NFTPositionManager,0x68b507bf58ed32173f41ff20aa2494a569daec44,DeFi::DEX;DeFi::Perpetuals / Derivatives
