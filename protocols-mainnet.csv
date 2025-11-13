@@ -69,6 +69,21 @@ Skate AMM,DeFi,DEX,Pool_WMON_USDC_5bps,0xc2be4b8852e37ecf979b3e2b5d5816271930380
 Skate AMM,DeFi,DEX,SkateGateway,0x79e31a114e6d2f16e1e2a3ec47c82fac520881a4,DeFi::DEX;Infra::Interoperability
 Swaap,DeFi,DEX,SafeguardFactory,0xcc74bd5d8d2d333d14475e022325555eba3369b8,DeFi::DEX
 Swaap,DeFi,DEX,Vault,0xd315a9c38ec871068fec378e4ce78af528c76293,DeFi::DEX
+Swyrl,DeFi,DEX,MixedRouteQuoterV1,0xe6c40d7cdc1f1622ddf2af41ae8c4230a587d133,DeFi::DEX
+Swyrl,DeFi,DEX,NonfungiblePositionManager,0xa6931259b8921f2ed1e7b6c2e657e82873c195ed,DeFi::DEX
+Swyrl,DeFi,DEX,NonfungibleTokenPositionDescriptor,0x10974f1aee2983b052cd0ef2321fa7d3edf2b426,DeFi::DEX
+Swyrl,DeFi,DEX,Quoter,0xfdd71e68fe7c3565c5feae6bf3057f9841fe1f8d,DeFi::DEX
+Swyrl,DeFi,DEX,QuoterV2,0x65552047e14028b6c20eb58f305f7663d87013a1,DeFi::DEX
+Swyrl,DeFi,DEX,SwapRouter,0xa1164853b6ad6efc8b28deca0ae5ccbf5ce88328,DeFi::DEX
+Swyrl,DeFi,DEX,SwapRouter02,0xd8de315ee724cefd5a4f215dae3d6729e5150a90,DeFi::DEX
+Swyrl,DeFi,DEX,Swyrl,0x32d14d57c60a4a213eb4cf76cb805776d869bffb,DeFi::DEX
+Swyrl,DeFi,DEX,SwyrlV2Factory,0xd158cdfec90e9429a290c3144afeb72e8c23603a,DeFi::DEX
+Swyrl,DeFi,DEX,SwyrlV2Router,0x020e762d529628add359a9f4d2f63a3bcfe373bd,DeFi::DEX
+Swyrl,DeFi,DEX,SwyrlV3Factory,0x02a898f85a6984213ac6d2577ff3406394172abf,DeFi::DEX
+Swyrl,DeFi,DEX,SwyrlV3PoolDeployer,0x66ae3f94eb3ab532cc4f8fc8700f6d7488e40a4f,DeFi::DEX
+Swyrl,DeFi,DEX,TickLens,0x95d4063ad9ceda0d83428986d23baa9ed5163f58,DeFi::DEX
+Swyrl,DeFi,DEX,UniswapInterfaceMulticall,0xb79ba9375fc66c4ddf236bed3d53ef6213aac7b6,DeFi::DEX
+Swyrl,DeFi,DEX,UniversalRouter,0x6b096391742baaed539ad25f44dc775065f73322,DeFi::DEX
 Uniswap,DeFi,DEX,FeeOnTransferDetector,0x5c834b6cac4173bfe288c5722a38e04b9e366e30,DeFi::DEX
 Uniswap,DeFi,DEX,NFTDescriptor,0x2e9d45bb7b30549f5216813ada9a6b7982c5b3ed,DeFi::DEX
 Uniswap,DeFi,DEX,NonfungiblePositionManager,0x7197e214c0b767cfb76fb734ab638e2c192f4e53,DeFi::DEX
