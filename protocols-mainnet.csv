@@ -17,6 +17,7 @@ Monday Trade,DeFi,DEX,MondayFactory,0xc1e98d0a2a58fb8abd10ccc30a58efff4080aa21,D
 Monday Trade,DeFi,DEX,NFTPositionManager,0x68b507bf58ed32173f41ff20aa2494a569daec44,DeFi::DEX;DeFi::Perpetuals / Derivatives
 Monday Trade,DeFi,DEX,QuoterV2,0xb97ecd41aef0f842e773c8f9905919cde49880c9,DeFi::DEX;DeFi::Perpetuals / Derivatives
 Monday Trade,DeFi,DEX,SwapRouter,0xfe951b693a2fe54be5148614b109e316b567632f,DeFi::DEX;DeFi::Perpetuals / Derivatives
+OrbiterFinance,DeFi,DEX,AggregatorRouter,0x70f6060fc8b01b56869feba8361df468f98c2900,DeFi::DEX;Bridge
 PancakeSwap,DeFi,DEX,MixedRouteQuoterV1,0x678aa4bf4e210cf2166753e054d5b7c31cc7fa86,DeFi::DEX
 PancakeSwap,DeFi,DEX,NfpTokenDescriptor,0xb099b459887bc759dbf0293e12d3dfcd0c456cff,DeFi::DEX
 PancakeSwap,DeFi,DEX,NonfungiblePositionManager,0x46a15b0b27311cedf172ab29e4f4766fbe7f4364,DeFi::DEX
