@@ -180,6 +180,11 @@ LeverUp,DeFi,Perpetuals / Derivatives,LVMON_Issuer,0xbf52ced429c3901afa4bbf25849
 LeverUp,DeFi,Perpetuals / Derivatives,LVUSD,0xfd44b35139ae53fff7d8f2a9869c503d987f00d1,DeFi::Perpetuals / Derivatives;DeFi::RWA;DeFi::Stablecoin
 LeverUp,DeFi,Perpetuals / Derivatives,LVUSD_Issuer,0x135951057cfccca7e8ef87ee41318d670f723f68,DeFi::Perpetuals / Derivatives;DeFi::RWA;DeFi::Stablecoin
 LeverUp,DeFi,Perpetuals / Derivatives,LeverUp,0xea1b8e4ab7f14f7dca68c5b214303b13078fc5ec,DeFi::Perpetuals / Derivatives;DeFi::RWA;DeFi::Stablecoin
+Narwhal Finance,DeFi,Perpetuals / Derivatives,FeeHelper ,0xe22fb1f1bb003759faced645458b8b8ee262828d,DeFi::Perpetuals / Derivatives
+Narwhal Finance,DeFi,Perpetuals / Derivatives,PairInfos,0x5c39f9739c123e64535f6250b256964bc20c52f1,DeFi::Perpetuals / Derivatives
+Narwhal Finance,DeFi,Perpetuals / Derivatives,Trading,0x3556d16519e3407ad43d5d7b3011bb095553d77a,DeFi::Perpetuals / Derivatives
+Narwhal Finance,DeFi,Perpetuals / Derivatives,TradingStorage,0xfbc1cf329ad241352e777ab7bc17962452b87949,DeFi::Perpetuals / Derivatives
+Narwhal Finance,DeFi,Perpetuals / Derivatives,TradingVault,0xb412a5d72c203df308624e435659c9f70b6960aa,DeFi::Perpetuals / Derivatives
 Mu Protocol,DeFi,RWA,AZND,0x4917a5ec9fcb5e10f47cbb197abe6ab63be81fe8,DeFi::RWA;DeFi::Yield
 Mu Protocol,DeFi,RWA,AZNDPriceFeed (Implementation),0x0b4c9dd5a3ecc14225d9b895716a65e4a7ad3fec,DeFi::RWA;DeFi::Yield
 Mu Protocol,DeFi,RWA,AZNDPriceFeed (Proxy),0x9d839e0a6a86b05643b4811de06ef09985ebbaef,DeFi::RWA;DeFi::Yield
