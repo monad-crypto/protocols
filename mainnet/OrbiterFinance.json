@@ -2,7 +2,7 @@
     "name": "OrbiterFinance",
     "description": "Bridge and swap crypto assets quickly, affordably, and securely across Arbitrum, Base, Optimism, Solana, BNB Chain, Polygon, Ethereum, and more blockchain ecosystems with Orbiter.",
     "live": true,
-    "categories": ["DeFi::DEX", "Bridge"],
+    "categories": ["DeFi::DEX", "Infra::Interoperability"],
     "addresses": {
         "AggregatorRouter": "0x70f6060fc8b01b56869feba8361df468f98c2900"
     },
