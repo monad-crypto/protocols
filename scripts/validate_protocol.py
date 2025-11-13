@@ -10,6 +10,7 @@ import argparse
 import json5
 import os
 import sys
+from collections import defaultdict
 
 REQUIRED_FIELDS = ["name", "description", "links", "categories"]
 CATEGORIES = json5.load(open("categories.json", "r", encoding="utf-8"))
@@ -114,6 +115,21 @@ def main():
         if len(invalid) > 0:
             raise Exception("invalid jsons: " + ",".join(invalid))
 
+    # check for duplicated addresses
+    address_labels = defaultdict(lambda: [])
+    for json_file in json_files:
+        with open(os.path.join(base_dir, json_file), "r", encoding="utf-8") as f:
+            data = json5.load(f)
+        for address_label, address in data['addresses'].items():
+            address_labels[address.lower()].append(f'"{json_file}": "{address_label}"')
+    
+    duplicated_address_labels = [(address, labels) for address, labels in address_labels.items() if len(labels) > 1]
+    if len(duplicated_address_labels) > 0:
+        for address, labels in duplicated_address_labels:
+            for label in labels:
+                print(f'❌ Duplicate address {address} has label {label}')
+        raise Exception(f"Duplicated addresses in repo: {', '.join([address for address, labels in duplicated_address_labels])}")
+        
 if __name__ == "__main__":
     main()
 
