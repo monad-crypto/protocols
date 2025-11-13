@@ -12,6 +12,12 @@ Clober,DeFi,DEX,BookManager,0x6657d192273731c3cac646cc82d5f28d0cbe8ccc,DeFi::DEX
 Clober,DeFi,DEX,BookViewer,0xe424c211e2ed8a5b6d1c57fa493c41715568d238,DeFi::DEX
 Clober,DeFi,DEX,Controller,0x19b68a2b909d96c05b623050c276fbd457de8e83,DeFi::DEX
 Clober,DeFi,DEX,Router,0x7b58a24c5628881a141d630f101db433d419b372,DeFi::DEX
+Kuru,DeFi,DEX,KuruFlowEntryPoint,0xb3e6778480b2e488385e8205ea05e20060b813cb,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Launchpads;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces
+Kuru,DeFi,DEX,KuruFlowRouter,0x465d06d4521ae9ce724e0c182daad5d8a2ff7040,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Launchpads;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces
+Kuru,DeFi,DEX,KuruForwarder,0x974e61bba9c4704e8bcc1923fdc3527b41323faa,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Launchpads;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces
+Kuru,DeFi,DEX,MarginAccount,0x2a68ba1833cdf93fa9da1eebd7f46242ad8e90c5,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Launchpads;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces
+Kuru,DeFi,DEX,MonadDeployer,0xe29309e308af3ee3b1a414e97c37a58509f27d1e,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Launchpads;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces
+Kuru,DeFi,DEX,Router,0xd651346d7c789536ebf06dc72ae3c8502cd695cc,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Launchpads;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces
 Monday Trade,DeFi,DEX,Aggregator,0xad8974d98f7fc386e396ffe826b886cf20afe232,DeFi::DEX;DeFi::Perpetuals / Derivatives
 Monday Trade,DeFi,DEX,MondayFactory,0xc1e98d0a2a58fb8abd10ccc30a58efff4080aa21,DeFi::DEX;DeFi::Perpetuals / Derivatives
 Monday Trade,DeFi,DEX,NFTPositionManager,0x68b507bf58ed32173f41ff20aa2494a569daec44,DeFi::DEX;DeFi::Perpetuals / Derivatives
