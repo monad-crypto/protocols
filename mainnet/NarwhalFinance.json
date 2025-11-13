@@ -1,0 +1,20 @@
+{
+    "name": "Narwhal Finance",
+    "description": "Narwhal offers a distinctive trading experience with synthetic leverage and no order books or liquidity for each pair. The PnL calculation occurs in smart contracts and is settled against NLP for a secure, transparent process. This streamlines trading and provides a unique opportunity for leverage-based trading.",
+    "categories": [
+        "DeFi::Perpetuals / Derivatives"
+    ],
+    "addresses": {
+        "Trading": "0x3556d16519e3407AD43d5d7b3011bB095553d77a",
+        "TradingStorage": "0xfbc1cf329aD241352e777aB7BC17962452B87949",
+        "PairInfos": "0x5c39f9739c123e64535F6250b256964Bc20c52f1",
+        "FeeHelper ": "0xE22FB1f1bB003759FAcED645458B8b8ee262828d",
+        "TradingVault": "0xb412A5d72c203Df308624e435659c9F70b6960aA"
+    },
+    "links": {
+        "project": "https://narwhal.finance/",
+        "twitter": "X.com/narwhal_finance",
+        "github": "https://github.com/Narwhal-Finance",
+        "docs": "https://docs.narwhal.finance/"
+    }
+}
