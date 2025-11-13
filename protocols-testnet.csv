@@ -54,6 +54,8 @@ Fantasy Top,Consumer,Social,market,0x04edb399cc24a95672bf9b880ee550de0b2d0b1e,Co
 Fantasy Top,Consumer,Social,unknown1,0xfa4d5a9cea2822ba08d0266f121011ac527ced64,Consumer::Social
 Fantasy Top,Consumer,Social,unknown2,0xdcf3c00e9f8a2fdaaf19fe59050e80c433b509dc,Consumer::Social
 Fantasy Top,Consumer,Social,unknown3,0x89e4a70de5f2ae468b18b6b6300b249387f9adf0,Consumer::Social
+MUKU,Consumer,Social,ChallengeResultImpl,0x07055fd1c3e7d0a53f8f98e8885b55bae2a32533,Consumer::Social;AI::Consumer AI
+MUKU,Consumer,Social,ChallengeResultProxy,0x9090a0968165beb1169d8f2fceb86eca7645506a,Consumer::Social;AI::Consumer AI
 Moseiki,Consumer,Social,Handle,0x0d8c559e312ddf19e4f60a47db0877bbe30b6b30,Consumer::Social
 Moseiki,Consumer,Social,PostMint,0x4ddd439f6256e293e3814f820bbb1276dd5f4cae,Consumer::Social
 Opals,Consumer,Social,Factory,0x73d1aaa8590739c98b3567dc5872963032c99987,Consumer::Social
