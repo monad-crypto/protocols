@@ -1,0 +1,20 @@
+{
+  "name": "MUKU",
+  "description": "MUKU is the Al + Web3 music platform where singers and composers collaborate, fans decide, and royalties settle transparently on-chain.",
+  "categories": [
+    "Consumer::Social",
+    "AI::Consumer AI"
+  ],
+  "addresses": {
+    "ChallengeResultProxy": "0x9090A0968165beb1169D8f2fCEb86eCa7645506a",
+    "ChallengeResultImpl": "0x07055FD1C3E7d0A53f8f98e8885b55BAE2a32533"
+  },
+  "links": {
+    "project": "https://muku.xyz",
+    "x": "https://x.com/Mukusongs",
+    "instagram": "https://www.instagram.com/muku.mp3/?igsh=ZzA5Y2Voc2tqY2F1#",
+    "discord": "https://discord.com/channels/1401825962257027083/1401825962919985193",
+    "youtube": "https://www.youtube.com/channel/UCeAZw3tlz73KscMqjLL-SVQ",
+    "tiktok": "https://www.tiktok.com/@muku.mp3"
+  }
+}
