@@ -16,6 +16,7 @@ Symphony,AI,Agent Launchpad,SolverPaymaster,0x24561a639089126addae7c63c66df66840
 Symphony,AI,Agent Launchpad,SolverRouter,0x32aef4656e2cd5b41567225c2933ec72e956e5d0,AI::Agent Launchpad;AI::Abstraction Infrastructure;AI::Infrastructure;DeFi::Intents;DeFi::Cross Chain;Infra::AA;Infra::Interoperability;Infra::Developer Tooling;CeFi::Institutional Trading
 Symphony,AI,Agent Launchpad,SymphonySmartAccount,0x527849787bb79cbede5ebed438e685c3b56abb98,AI::Agent Launchpad;AI::Abstraction Infrastructure;AI::Infrastructure;DeFi::Intents;DeFi::Cross Chain;Infra::AA;Infra::Interoperability;Infra::Developer Tooling;CeFi::Institutional Trading
 aiCraft.fun,AI,Agent Launchpad,default,0xd227d3bce59b91380b7bc4a61a045b528b509439,AI::Agent Launchpad
+KINETK,AI,Consumer AI,KinetkIPCertificate,0xd057b63f5e69cf1b929b356b579cba08d7688048,AI::Consumer AI;AI::Data;DeFi::RWA;Infra::Other
 Proof-of-Skill,AI,Consumer AI,protocol,0xca28b582af1e1701a1c91fb19f8633b79ad2e572,AI::Consumer AI
 Codatta,AI,Data,default,0x7ddd7de29a12c122ac6a97584aa734b5d096ef8f,AI::Data
 Monadata AI,AI,Data,default,0xa1848085c2a7804516c14faac35f1899ee74cb51,AI::Data;DePIN::Data Labelling
