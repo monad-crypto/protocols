@@ -1,0 +1,20 @@
+{
+    "name": "Mevx",
+    "description": "MevX is your go-to platform for all things crypto trading and data analysis",
+    "categories": [
+        "DeFi::Trading"
+    ],
+    "addresses": {
+        "MevxSwapRouterUV2": "0x92ef088BC025EBaf7C9521dFa82130d33934EB30",
+        "MevxSwapRouterUV3": "0xd1f47ef81354663F3786b62B5B95C1015dA48CA4",
+        "MevxSwapRouterPV2": "0xC67134cc40765fc28e2d54f58Cd93d382D9137d8",
+        "MevxSwapRouterPV3": "0xa26326Af694D03A12250df01733B173c05153A76",
+        "MevxSwapRouterMT3": "0xf867f2bfd6C1926770E6451A72B2899231678A56"
+    },
+    "links": {
+        "project": "https://mevx.io/",
+        "twitter": "https://x.com/MevX_Official",
+        "github": "https://github.com/mevx-io",
+        "docs": "https://docs.mevx.io/"
+    }
+}
