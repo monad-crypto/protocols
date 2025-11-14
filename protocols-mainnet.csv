@@ -137,6 +137,7 @@ Uniswap,DeFi,DEX,V4Quoter,0xa222dd357a9076d1091ed6aa2e16c9742dd26891,DeFi::DEX
 Eisen,DeFi,DEX Aggregator,EisenDiamond,0x787c474b8a86354d0f5f19fb599a5fc7662a265f,DeFi::DEX Aggregator
 Eisen,DeFi,DEX Aggregator,Forwarder,0xece5e77f9a9846c4d69555eb44e0cff8b5f03f1e,DeFi::DEX Aggregator
 Madhouse,DeFi,DEX Aggregator,Aggregator,0x6017684bea9cb6e9874fc6dba4438271ebf9f5da,DeFi::DEX Aggregator
+Monorail,DeFi,DEX Aggregator,AggregationRouter,0xa68a7f0601effdc65c64d9c47ca1b18d96b4352c,DeFi::DEX Aggregator;DeFi::Trading Interfaces
 Flap,DeFi,Launchpads,Portal,0x30e8ee7b5881bf2e158a0514f2150aabe2c68b23,DeFi::Launchpads
 Flap,DeFi,Launchpads,TaxTokenImplementation,0x8e6512ba94c723d8f140b0fd9dbb498854b7a1f4,DeFi::Launchpads
 Flap,DeFi,Launchpads,TaxTokenSplitterImplementation,0x57fed6832f12150a77d5952b49190d9447acb5ee,DeFi::Launchpads
@@ -279,6 +280,11 @@ Mu Protocol,DeFi,RWA,loAZND (Implementation),0x00a927d9d8af27d06c4e2c3abb5b88b0e
 Mu Protocol,DeFi,RWA,loAZND (Proxy),0x9c82eb49b51f7dc61e22ff347931ca32adc6cd90,DeFi::RWA;DeFi::Yield
 Mu Protocol,DeFi,RWA,muBOND,0x336d414754967c6682b5a665c7daf6f1409e63e8,DeFi::RWA;DeFi::Yield
 Circle USDC,DeFi,Stablecoin,USDC,0x754704bc059f8c67012fed69bc8a327a5aafb603,DeFi::Stablecoin
+Mevx,DeFi,Trading,MevxSwapRouterMT3,0xf867f2bfd6c1926770e6451a72b2899231678a56,DeFi::Trading
+Mevx,DeFi,Trading,MevxSwapRouterPV2,0xc67134cc40765fc28e2d54f58cd93d382d9137d8,DeFi::Trading
+Mevx,DeFi,Trading,MevxSwapRouterPV3,0xa26326af694d03a12250df01733b173c05153a76,DeFi::Trading
+Mevx,DeFi,Trading,MevxSwapRouterUV2,0x92ef088bc025ebaf7c9521dfa82130d33934eb30,DeFi::Trading
+Mevx,DeFi,Trading,MevxSwapRouterUV3,0xd1f47ef81354663f3786b62b5b95c1015da48ca4,DeFi::Trading
 Enjoyoors,DeFi,Yield,Vault,0x6b5e332387e8bec98c52f10a72952b17176b4f1b,DeFi::Yield
 Enjoyoors,DeFi,Yield,WithdrawalApprover,0x71f60773885011cc0a61613078733b4738b38f35,DeFi::Yield
 Accountable,DeFi,Yield Aggregator,AccountableFixedTerm,0xd0a53e724ea9cb041e30f0243e3c84bdea238dfa,DeFi::Yield Aggregator
