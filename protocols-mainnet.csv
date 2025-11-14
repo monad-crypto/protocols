@@ -17,6 +17,12 @@ Kodeus,AI,Consumer AI,KodeusAgents,0x3d3c1db86989ed5196358ee03e2f1258ea183dcb,AI
 Kodeus,AI,Consumer AI,KodeusMetricsTrackerV6,0xa0371d51c086f846bd02c331dd31cc510645332e,AI::Consumer AI
 Garden,DeFi,Cross Chain,htlc_native,0xe413743b51f3cc8b3ac24addf50d18fa138cb0bb,DeFi::Cross Chain
 Garden,DeFi,Cross Chain,htlc_usdc,0x5fa58e4e89c85b8d678ade970bd6afd4311af17e,DeFi::Cross Chain
+0x,DeFi,DEX,0xSettlerDeployer,0x00000000000004533fe15556b1e086bb1a72ceae,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Launchpads;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces;DeFi::Cross Chain
+0x,DeFi,DEX,AllowanceHolder,0x0000000000001ff3684f28c67538d4d072c22734,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Launchpads;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces;DeFi::Cross Chain
+0x,DeFi,DEX,MonadBridgeSettler,0xb40e9939bb598c38665a5c99c68020eeb8cf49fb,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Launchpads;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces;DeFi::Cross Chain
+0x,DeFi,DEX,MonadSettler,0x478cf28fd1ba92a6afd04f44b05833f6df7f1486,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Launchpads;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces;DeFi::Cross Chain
+0x,DeFi,DEX,MonadSettlerIntent,0xb2376d1183829f444e0ffe9ef1ffaf1b483b84f3,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Launchpads;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces;DeFi::Cross Chain
+0x,DeFi,DEX,MonadSettlerMetaTxn,0xfb36b62145a4b272bc804e5e1b41ddbf4bff4cf4,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Launchpads;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces;DeFi::Cross Chain
 Bean Exchange,DeFi,DEX,DLMM_Factory,0x8bb9727ca742c146563dccbafb9308a234e1d242,DeFi::DEX;DeFi::Perpetuals / Derivatives
 Bean Exchange,DeFi,DEX,DLMM_Quoter,0xa398af902950081f2fbe3e16e5e474c2c72ae27a,DeFi::DEX;DeFi::Perpetuals / Derivatives
 Bean Exchange,DeFi,DEX,DLMM_Router,0x721ac9e688e6b86f48b08db2ba2d4b7bbbd12665,DeFi::DEX;DeFi::Perpetuals / Derivatives
