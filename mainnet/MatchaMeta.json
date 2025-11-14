@@ -1,0 +1,24 @@
+{
+    "name": "Matcha Meta",
+    "description": "The best and most transparent meta DEX & bridge aggregator. Swap with ease and confidence.",
+    "live": true,
+    "categories": [
+      "DeFi::DEX",
+      "DeFi::DEX Aggregator",
+      "DeFi::Stableswap",
+      "DeFi::Trading Interfaces",
+      "DeFi::Cross Chain"
+    ],
+    "addresses": {
+      "AllowanceHolder": "0x0000000000001fF3684f28c67538d4D072C22734",
+      "0x Settler Deployer": "0x00000000000004533Fe15556B1E086BB1A72cEae",
+      "Taker Submitted Settlement Contract": "0x478cF28Fd1Ba92a6afd04F44b05833F6dF7f1486",
+      "Cross-chain Settlement Contract": "0xb40e9939bb598C38665A5C99c68020EEB8Cf49FB"
+    },
+    "links": {
+      "project": "https://meta.matcha.xyz/",
+      "twitter": "https://x.com/matchametaxyz/",
+      "github": "https://github.com/0xProject",
+      "docs": "https://0x-docs.gitbook.io/matcha-meta/"
+    }
+}
