@@ -54,6 +54,10 @@ LFJ,DeFi,DEX,LBRouter,0x18556da13313f3532c54711497a8fedac273220e,DeFi::DEX;DeFi:
 LFJ,DeFi,DEX,LimitOrderV2,0xdbeeb3fb3e864e490e71b1d5c86c3de683ca4626,DeFi::DEX;DeFi::Memecoin
 LFJ,DeFi,DEX,LiquidityHelperContract,0xa5c68c9e55dde3505e60c4b5eae411e2977dfb35,DeFi::DEX;DeFi::Memecoin
 LFJ,DeFi,DEX,TMFactory,0xe70d21ad211db6dcd3f54b9804a1b64bb21b17b1,DeFi::DEX;DeFi::Memecoin
+Matcha Meta,DeFi,DEX,0x Settler Deployer,0x00000000000004533fe15556b1e086bb1a72ceae,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Stableswap;DeFi::Trading Interfaces;DeFi::Cross Chain
+Matcha Meta,DeFi,DEX,AllowanceHolder,0x0000000000001ff3684f28c67538d4d072c22734,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Stableswap;DeFi::Trading Interfaces;DeFi::Cross Chain
+Matcha Meta,DeFi,DEX,Cross-chain Settlement Contract,0xb40e9939bb598c38665a5c99c68020eeb8cf49fb,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Stableswap;DeFi::Trading Interfaces;DeFi::Cross Chain
+Matcha Meta,DeFi,DEX,Taker Submitted Settlement Contract,0x478cf28fd1ba92a6afd04f44b05833f6df7f1486,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Stableswap;DeFi::Trading Interfaces;DeFi::Cross Chain
 Monday Trade,DeFi,DEX,Aggregator,0xad8974d98f7fc386e396ffe826b886cf20afe232,DeFi::DEX;DeFi::Perpetuals / Derivatives
 Monday Trade,DeFi,DEX,MondayFactory,0xc1e98d0a2a58fb8abd10ccc30a58efff4080aa21,DeFi::DEX;DeFi::Perpetuals / Derivatives
 Monday Trade,DeFi,DEX,NFTPositionManager,0x68b507bf58ed32173f41ff20aa2494a569daec44,DeFi::DEX;DeFi::Perpetuals / Derivatives
