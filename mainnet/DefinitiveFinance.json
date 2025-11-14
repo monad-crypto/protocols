@@ -7,9 +7,7 @@
     "addresses": {
         "VaultFactory": "0xdeF00000cc0a125ba7962e8113d3B69786851736",
         "VaultImplementation": "0x0000000d1126e7651931461F31Be87712CD9E05C",
-        "VaultBeaconStaging": "0x78d2567ddD44A959A9BBfb8c9E9dBA4C2f628010",
-        "VaultBeaconPreProd": "0xD2f0a5941D69cdC56B26983CACd3A8c4E8e6d040",
-        "VaultBeaconProd": "0x000000005aE5f42270cDf0E41960840e7FB1b2dc"
+        "VaultBeacon": "0x000000005aE5f42270cDf0E41960840e7FB1b2dc"
     },
     "links": {
         "project": "https://definitive.fi",
