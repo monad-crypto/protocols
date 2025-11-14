@@ -1,0 +1,37 @@
+{
+    "name": "PinotFinance",
+    "description": "Advanced liquidity and trading hub for Monad powered by real-time voting system.",
+    "live": true,
+    "categories": ["DeFi::DEX"],
+    "addresses": {
+        "WETH": "0x3bd359C1119dA7Da1D913D1C4D2B7c461115433A",
+        "Emission": "0x83200B60b8E37DF8945f1ae33C54B357C9b82a2F",
+        "GovernanceToken": "0x76e82126a82eCEeA8CA510cA4942a3B1A9023147",
+        "Ballot": "0x7ebd75a81C66552103ef6DB3F1e62fb5eF341290",
+        "UniversalRouter": "0x8968A4f1Fe7094834afD4156f716DA1E342648a5",
+        "PersonalAssetManagerFactory": "0xc8348A19B7507b05858b50aFC25Eb20D1dA9a065",
+        "AssetHelper": "0xe0c6BB0E88Fdb069AE3A712BbF1dC07759d576bF",
+        "UniswapV3Factory": "0xfd9c7369347E3b0a80e65223384831B2926ff4D0",
+        "NonfungiblePositionManager": "0xeDfa5ecFd924A523D114873C38fE5187759754A6",
+        "SwapRouter": "0xFD3F832A97444795978334c380f01ABC546630Fc",
+        "Quoter": "0xBfde050470C8f92Bd046afbfC8aD6454f87099a7",
+        "QuoterV2": "0x74e6165544851E2C1235a9f45f59B8291048F2f3",
+        "TickLens": "0xde29C0AA8C86b78e0bCDA01402E79A6cE56439EA",
+        "UniswapInterfaceMulticall": "0xFb23EeD4B15567DbED0B7dA7934504Ee7Ea2A427",
+        "UniswapV2Factory": "0x6B7dD9D985BB9Cc42D01E6D9d1E6Ea3c082E61C4",
+        "UniswapV2Router": "0x276e41572bb7A063EC728d659467d42BC91f9f6c",
+        "UniswapV2GaugeFactory": "0x769B660da133F9fbC0FEFB829DAaBc8314aBeD17",
+        "SegmentedElectorFactory(V3)": "0x1be678804Ca2158eBD72A57C2DfEF45B27E7fA77",
+        "SegmentedElectorFactory(v2)": "0x7e4d672436Ba64299bBad971f2752897BBFb4103"
+    },
+    "initCodeHashes": {
+        "v2InitCodeHash": "0x986d5bc7d1ebad7b6aa48b90d79ba2498e5e223dad50971c48f147ab6395bdd2",
+        "v3InitCodeHash": "0xf54c8516b0255aaf493382e8534bab492d4325d4c84374ac39f7fa643a5cfbcd"
+    },
+    "links": {
+        "project": "https://pinot.finance",
+        "twitter": "https://x.com/pinotfinance",
+        "github": " https://github.com/pinotfinance",
+        "docs": "https://docs.pinot.finance"
+    }
+}
