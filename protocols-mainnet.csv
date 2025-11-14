@@ -53,6 +53,14 @@ Monday Trade,DeFi,DEX,MondayFactory,0xc1e98d0a2a58fb8abd10ccc30a58efff4080aa21,D
 Monday Trade,DeFi,DEX,NFTPositionManager,0x68b507bf58ed32173f41ff20aa2494a569daec44,DeFi::DEX;DeFi::Perpetuals / Derivatives
 Monday Trade,DeFi,DEX,QuoterV2,0xb97ecd41aef0f842e773c8f9905919cde49880c9,DeFi::DEX;DeFi::Perpetuals / Derivatives
 Monday Trade,DeFi,DEX,SwapRouter,0xfe951b693a2fe54be5148614b109e316b567632f,DeFi::DEX;DeFi::Perpetuals / Derivatives
+OctoSwap,DeFi,DEX,NonfungiblePositionManager,0x16eb676bbbe51eb6e4e9ddf57bfbee0537aa4d7b,DeFi::DEX
+OctoSwap,DeFi,DEX,NonfungibleTokenPositionDescriptor,0x2ff18d8ca8447db19392aa3e27dcb640cee83882,DeFi::DEX
+OctoSwap,DeFi,DEX,OctoSwapV2Factory,0x30db57a29acf3641dfc3885af2e5f1f5a408d9cb,DeFi::DEX
+OctoSwap,DeFi,DEX,OctoswapV1Factory,0xce104732685b9d7b2f07a09d828f6b19786cda32,DeFi::DEX
+OctoSwap,DeFi,DEX,OctoswapV1Router,0x60fd5aa15debd5ffdefb5129fd9fd8a34d80d608,DeFi::DEX
+OctoSwap,DeFi,DEX,OctoswapV2Router,0xbfd2cf709a17c4eee8daaf3b96e134408881259e,DeFi::DEX
+OctoSwap,DeFi,DEX,QuoterV2,0xf27ba2b4ee5580cb2a14fdf98cb981ff0ae149f4,DeFi::DEX
+OctoSwap,DeFi,DEX,UniversalRouter,0x241bf19641839b249e8174bd22facd3d3ac0642a,DeFi::DEX
 OrbiterFinance,DeFi,DEX,AggregatorRouter,0x70f6060fc8b01b56869feba8361df468f98c2900,DeFi::DEX;Infra::Interoperability
 PancakeSwap,DeFi,DEX,MixedRouteQuoterV1,0x678aa4bf4e210cf2166753e054d5b7c31cc7fa86,DeFi::DEX
 PancakeSwap,DeFi,DEX,NfpTokenDescriptor,0xb099b459887bc759dbf0293e12d3dfcd0c456cff,DeFi::DEX
