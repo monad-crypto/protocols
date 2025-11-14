@@ -250,6 +250,14 @@ Mu Protocol,DeFi,RWA,muBOND,0x336d414754967c6682b5a665c7daf6f1409e63e8,DeFi::RWA
 Circle USDC,DeFi,Stablecoin,USDC,0x754704bc059f8c67012fed69bc8a327a5aafb603,DeFi::Stablecoin
 Enjoyoors,DeFi,Yield,Vault,0x6b5e332387e8bec98c52f10a72952b17176b4f1b,DeFi::Yield
 Enjoyoors,DeFi,Yield,WithdrawalApprover,0x71f60773885011cc0a61613078733b4738b38f35,DeFi::Yield
+Accountable,DeFi,Yield Aggregator,AccountableFixedTerm,0xd0a53e724ea9cb041e30f0243e3c84bdea238dfa,DeFi::Yield Aggregator
+Accountable,DeFi,Yield Aggregator,AccountableOpenTerm,0x59b0b84371bb3261fad538c512efffc414cc1725,DeFi::Yield Aggregator
+Accountable,DeFi,Yield Aggregator,AsyncVaultFactory,0xee004aef79cb14bf31bfbfb14346e01fb7e5a2e8,DeFi::Yield Aggregator
+Accountable,DeFi,Yield Aggregator,FeeManager,0x4de9b4d7b70d1680cd8e3a2c60717cbbe6014991,DeFi::Yield Aggregator
+Accountable,DeFi,Yield Aggregator,FixedTermFactory,0x8a5caf00c3eb20aec11fc35c153a8601cd127fed,DeFi::Yield Aggregator
+Accountable,DeFi,Yield Aggregator,GlobalRegistry,0xf786154e56e5c88ce984800dea71b48ea4ffabfe,DeFi::Yield Aggregator
+Accountable,DeFi,Yield Aggregator,OpenTermFactory,0x606556a6b544ecdcbf15af73a63b67516dc16ad7,DeFi::Yield Aggregator
+Accountable,DeFi,Yield Aggregator,RewardsFactory,0x1106a70223e98e2b1807bf3e12698afe2c5693e6,DeFi::Yield Aggregator
 Thevapelabs,DePIN,Data Collection,MIST,0xfa2f863eb512434e99e2365fa5f7ac7674dde000,DePIN::Data Collection;DePIN::Data Labelling;AI::Consumer AI
 Thevapelabs,DePIN,Data Collection,PointSyncer,0x925726a0aabb82464d21f6795a457fa9fe0a57c1,DePIN::Data Collection;DePIN::Data Labelling;AI::Consumer AI
 Thevapelabs,DePIN,Data Collection,Staking,0x51fff43eb9cc9ce9de491e86dcfbfbf0864cfeed,DePIN::Data Collection;DePIN::Data Labelling;AI::Consumer AI
