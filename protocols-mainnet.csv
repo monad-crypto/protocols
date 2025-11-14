@@ -14,6 +14,8 @@ Clober,DeFi,DEX,BookManager,0x6657d192273731c3cac646cc82d5f28d0cbe8ccc,DeFi::DEX
 Clober,DeFi,DEX,BookViewer,0xe424c211e2ed8a5b6d1c57fa493c41715568d238,DeFi::DEX
 Clober,DeFi,DEX,Controller,0x19b68a2b909d96c05b623050c276fbd457de8e83,DeFi::DEX
 Clober,DeFi,DEX,Router,0x7b58a24c5628881a141d630f101db433d419b372,DeFi::DEX
+Dirol,DeFi,DEX,CoreAggregator,0x77e73c3fcd3fedba383025cde4a5b97733a34c2e,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Launchpads;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces
+Dirol,DeFi,DEX,LimitOrderModule,0xa82098c33c75a4a1e20e06f352732910c75c690d,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Launchpads;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces
 Kuru,DeFi,DEX,KuruFlowEntryPoint,0xb3e6778480b2e488385e8205ea05e20060b813cb,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Launchpads;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces
 Kuru,DeFi,DEX,KuruFlowRouter,0x465d06d4521ae9ce724e0c182daad5d8a2ff7040,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Launchpads;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces
 Kuru,DeFi,DEX,KuruForwarder,0x974e61bba9c4704e8bcc1923fdc3527b41323faa,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Launchpads;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces
