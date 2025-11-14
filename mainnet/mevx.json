@@ -2,7 +2,7 @@
     "name": "Mevx",
     "description": "MevX is your go-to platform for all things crypto trading and data analysis",
     "categories": [
-        "DeFi::Trading"
+        "DeFi::Trading Interfaces"
     ],
     "addresses": {
         "MevxSwapRouterUV2": "0x92ef088BC025EBaf7C9521dFa82130d33934EB30",
