@@ -1,6 +1,15 @@
 name,ctype,csubtype,contract,address,all_categories
 Cycle Network,AI,Abstraction Infrastructure,ZkEVM,0x647e77a1af7c87688b974f20db75ea36c28d033e,AI::Abstraction Infrastructure
 Cycle Network,AI,Abstraction Infrastructure,ZkEVMBridge,0xad5ca27d8932114a9457d385fc0b88825c845960,AI::Abstraction Infrastructure
+Symphony,AI,Agent Launchpad,CallbackAdapter,0x6e5e5f7adba00b2e3867dbf2e6e662eb98208f75,AI::Agent Launchpad;AI::Abstraction Infrastructure;AI::Infrastructure;DeFi::Intents;DeFi::Cross Chain;Infra::AA;Infra::Interoperability;Infra::Developer Tooling;CeFi::Institutional Trading
+Symphony,AI,Agent Launchpad,Create2Deployer,0x0e2472e42ae6df7674c6c4c807cd45f6d47a2a1b,AI::Agent Launchpad;AI::Abstraction Infrastructure;AI::Infrastructure;DeFi::Intents;DeFi::Cross Chain;Infra::AA;Infra::Interoperability;Infra::Developer Tooling;CeFi::Institutional Trading
+Symphony,AI,Agent Launchpad,Create3Deployer,0xc4a15e24d5aa36c63941b1992a28661bf215e968,AI::Agent Launchpad;AI::Abstraction Infrastructure;AI::Infrastructure;DeFi::Intents;DeFi::Cross Chain;Infra::AA;Infra::Interoperability;Infra::Developer Tooling;CeFi::Institutional Trading
+Symphony,AI,Agent Launchpad,Factory,0xb64e8cd2633d4af5a41a8fdf5e8002fd2f072a83,AI::Agent Launchpad;AI::Abstraction Infrastructure;AI::Infrastructure;DeFi::Intents;DeFi::Cross Chain;Infra::AA;Infra::Interoperability;Infra::Developer Tooling;CeFi::Institutional Trading
+Symphony,AI,Agent Launchpad,Paymaster,0xb1ba36f63569e48e054eb8bec0b9a1c13fe2ac8f,AI::Agent Launchpad;AI::Abstraction Infrastructure;AI::Infrastructure;DeFi::Intents;DeFi::Cross Chain;Infra::AA;Infra::Interoperability;Infra::Developer Tooling;CeFi::Institutional Trading
+Symphony,AI,Agent Launchpad,Registry,0xe1a5d791f293ba2a32613939d7012b509883eb5e,AI::Agent Launchpad;AI::Abstraction Infrastructure;AI::Infrastructure;DeFi::Intents;DeFi::Cross Chain;Infra::AA;Infra::Interoperability;Infra::Developer Tooling;CeFi::Institutional Trading
+Symphony,AI,Agent Launchpad,SolverPaymaster,0x24561a639089126addae7c63c66df668404f94fa,AI::Agent Launchpad;AI::Abstraction Infrastructure;AI::Infrastructure;DeFi::Intents;DeFi::Cross Chain;Infra::AA;Infra::Interoperability;Infra::Developer Tooling;CeFi::Institutional Trading
+Symphony,AI,Agent Launchpad,SolverRouter,0x32aef4656e2cd5b41567225c2933ec72e956e5d0,AI::Agent Launchpad;AI::Abstraction Infrastructure;AI::Infrastructure;DeFi::Intents;DeFi::Cross Chain;Infra::AA;Infra::Interoperability;Infra::Developer Tooling;CeFi::Institutional Trading
+Symphony,AI,Agent Launchpad,SymphonySmartAccount,0x527849787bb79cbede5ebed438e685c3b56abb98,AI::Agent Launchpad;AI::Abstraction Infrastructure;AI::Infrastructure;DeFi::Intents;DeFi::Cross Chain;Infra::AA;Infra::Interoperability;Infra::Developer Tooling;CeFi::Institutional Trading
 Banza,AI,Consumer AI,DropsToken Implementation,0x11fbe9e637c4a3deca3453f2925aaaa18e16963e,AI::Consumer AI
 Banza,AI,Consumer AI,DropsToken Proxy,0x68b571f834c9853d2a7e8e364d28db52de47d46d,AI::Consumer AI
 Kodeus,AI,Consumer AI,KodeusAgents,0x3d3c1db86989ed5196358ee03e2f1258ea183dcb,AI::Consumer AI
