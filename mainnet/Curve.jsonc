@@ -1,0 +1,54 @@
+{
+    "name": "Curve Finance",
+    "description": "Creating deep on-chain liquidity using advanced bonding curves.",
+    "live": true,
+    "categories": ["DeFi::DEX", "DeFi::Stableswap"],
+    "addresses": {
+        // see also https://docs.curve.finance/deployments/interactive-deployments/
+
+        // Stableswap
+        "StableSwapFactory": "0x8271e06E5887FE5ba05234f5315c19f3Ec90E8aD",
+        "StableswapMath": "0xe460dec242bc0A1a364c250a9D2F731d8D923650",
+        "StableswapPlain-amm": "0xFC687EFAFED297b765eDEcF8179c32195597C2df",
+        "StableswapMeta-amm": "0x845b942DeEF9BC20a39A8b34B23e8c33aC2921BF",
+        "StableswapViews": "0xC9459A955a885467f01Ccc531c51dBcC957993c0",
+        "StableswapHandler": "0x46FEffb8Ed015250Cd48f9bf7F4a4584049Ca4aE",
+
+        // Tricrypto
+        "TricryptoFactory": "0x6E28493348446503db04A49621d8e6C9A40015FB",
+        "TricryptoAmm": "0x286182220E734AaC601282ba059de531d4BEAC1f",
+        "TricryptoMath": "0xA4A2E7E11cBe5213B316E801D2172Ef10e566A96",
+        "TricryptoViews": "0x2Fe4A238F6A3BD7fAA68e0B6951e3FAFdB2876Eb",
+        "TricryptoHandler": "0xBBbe22DEe69747e61f676cF50465b1bfbA4a4dD6",
+
+        // Twocrypto
+        "TwocryptoFactory": "0xe7FBd704B938cB8fe26313C3464D4b7B7348c88C",
+        "TwocryptoAmm": "0x5F870C2cf22ff829B5DC1Da09856B79dA6544f94",
+        "TwocryptoMath": "0x95249Dd40dDa3c0cbB4A7dd7D287E04aA68A3D4B",
+        "TwocryptoViews": "0x17c67C3A38F68cbc4dEC77Fd7378978971B6c271",
+        "TwocryptoHandler": "0x7e595b3b77CC16680C30617b88E9b87F987Ac934",
+
+        // Gauges
+        "ChildGaugeFactory": "0x41D2c5128A7241EC1f7CE346B162C347C19548B7",
+        "GaugeImplementation": "0xbb8A5E91295131Ce07B6Bfe301C49bcD925A2902",
+
+        // Fee & Burners
+        "FeeReceiver": "0x193110Ce1542d7371e1515BD6A2E470fDefc310D",
+
+        // Router & Zaps
+        "DepositAndStake": "0xB2Be7692B07b640C9f2ee1187cee2fAec741F872",
+        "RateProvider": "0x129578f94C253b8Bc903Bf2b73D07BF2583cc11d",
+        "Router": "0xFF5Cb29241F002fFeD2eAa224e3e996D24A6E8d1",
+        "Meta-zap": "0x2AF43209B366A4491CCe0A97C5a7B6059fd21295",
+
+        // Integrations
+        "AddressProvider": "0x4574921eb950d3Fd5B01562162EC566Cb8bc3648",
+        "MetaRegistry": "0xe6dA14500f0b5783E2325F9C5a7eE5d99DA0fB42"
+    },
+    "links": {
+        "project": "https://curve.finance",
+        "twitter": "https://x.com/CurveFinance",
+        "github": "https://github.com/curvefi",
+        "docs": "https://docs.curve.finance/"
+    }
+}
