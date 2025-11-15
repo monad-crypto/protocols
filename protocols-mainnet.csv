@@ -381,6 +381,13 @@ Thevapelabs,DePIN,Data Collection,MIST,0xfa2f863eb512434e99e2365fa5f7ac7674dde00
 Thevapelabs,DePIN,Data Collection,PointSyncer,0x925726a0aabb82464d21f6795a457fa9fe0a57c1,DePIN::Data Collection;DePIN::Data Labelling;AI::Consumer AI
 Thevapelabs,DePIN,Data Collection,Staking,0x51fff43eb9cc9ce9de491e86dcfbfbf0864cfeed,DePIN::Data Collection;DePIN::Data Labelling;AI::Consumer AI
 Bro Fun,Gaming,Games,Brofun,0xdf7a89fc62e5120c4617f143c7acddab0d1ca7a2,Gaming::Games;Gaming::Mobile-First
+ESP.Fun,Gaming,Games,DevelopmentPlayers,0x81de118eaeca76df364458d76ad1f2f02fa7c238,Gaming::Games;NFT::Collections;DeFi::DEX
+ESP.Fun,Gaming,Games,FDFPair,0x5159373fe2d88bbc217a9860ae739eb3294d9e12,Gaming::Games;NFT::Collections;DeFi::DEX
+ESP.Fun,Gaming,Games,FeeManager,0xe4dcbd655acbf413097caf4576a4d9db05acc015,Gaming::Games;NFT::Collections;DeFi::DEX
+ESP.Fun,Gaming,Games,PackSale,0x26448da45e80709b3e4adffa4a98c62925ea836f,Gaming::Games;NFT::Collections;DeFi::DEX
+ESP.Fun,Gaming,Games,PackSaleReveal,0x7f51991a3c9c779a841caefeee4c0167bf6f871a,Gaming::Games;NFT::Collections;DeFi::DEX
+ESP.Fun,Gaming,Games,Player,0xc99a1d62a453481b24c5364403e61c4254218d28,Gaming::Games;NFT::Collections;DeFi::DEX
+ESP.Fun,Gaming,Games,PlayerPack,0x3c1bcd19455f3fa33234faf9c73f9e6ea055a899,Gaming::Games;NFT::Collections;DeFi::DEX
 LumiterraGame,Gaming,Games,LumiterraGameInbox,0x4bd7ab4f4251f6a20e8c64d24f3a2f89f47d80b9,Gaming::Games
 LumiterraGame,Gaming,Games,LumiterraGameItemNFT,0x8f28e18039c37cdb4389e6dcb8703966fb9480a8,Gaming::Games
 LootGO,Gaming,Mobile-First,LootDrop,0x3e1fc8371bf6dceffd829ae2134005a4ae890b71,Gaming::Mobile-First;Gaming::Games;Consumer::Other
