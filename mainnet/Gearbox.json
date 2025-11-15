@@ -1,0 +1,43 @@
+{
+    "name": "Gearbox",
+    "description": "Gearbox delivers a seamless, all-in-one prime brokerage experience, right from your favorite wallet.",
+    "live": true,
+    "categories": [
+        "DeFi::Lending",
+        "DeFi::Leveraged Farming",
+    ],
+    "addresses": {
+        "Address_Provider": "0xF7f0a609BfAb9a0A98786951ef10e5FE26cC1E38",
+        "Bytecode_Repository": "0x1cE2B1BE96a082b1b1539F80d5D8f82Ec06a0f9A",
+        "Cross_Chain_Multisig": "0xcCCCCcCc42B7DA9fdEc1761698Fb55fdD41CDF55",
+        "Instance_Manager": "0xBcD875f0D62B9AA22481c81975F9AE1753Fc559A",
+        "Bot_List": "0x0Bc03983Da93021a374C964A22b73865220Ce962",
+        "Price_Feed_Store": "0x74A868AC479EE145029bB80827BB77F7B7c441cB",
+        "Market_Configurator_Factory": "0x7D60CfaF7c2cec210638A5e46E4000894830C034",
+        "GEAR_Staking": "0x2fcbD02d5B1D52FC78d4c02890D7f4f47a459c33",
+        "Pool_Factory": "0x2238eDf33a72860cDbaec5F83ec246Df9e85c8E2",
+        "Credit_Factory": "0x81Cda0aB38d8Bd0732123Eb0e36C0C566d35DADD",
+        "Price_Oracle_Factory": "0xF7533CDCE5A2F7BF78B6fbf4B05f04F45D10140B",
+        "IRM_Factory": "0xA7dE2e941c8818E51D1Fd84111d8F71dcafa6C3B",
+        "Rate_Keeper_Factory": "0xbede127c14407b9c345f5d7fae5782ab8eaa33f3",
+        "Loss_Policy_Factory": "0x0E535b7D073a93646512cEa18fa7e650CC2b17C4",
+        "Batches_Chain": "0x59b2fd348e4Ade84ffEfDaf5fcdDa7276c8C5041",
+        "Account_Compressor": "0x4115708Fc8fe6bB392De2e0C21c2C81dA2222394",
+        "Credit_Suite_Compressor": "0x93Cba8445b13a05287bFf90D882cbcB514D617b7",
+        "Gauge_Compressor": "0x12c8faEdD62cF0C5d4D742E57B98737a9a3F5E0f",
+        "Market_Compressor": "0x70F1753a765C4df582FFA3B8d96AB492714E8992",
+        "Periphery_Compressor": "0xa7ED6dB5761613CaE7CaCfAAE9Dca07a77809F9d",
+        "Price_Feeds_Compressor": "0x847a05C22c7508C674342A95356Adf9b3a0e0D57",
+        "Rewards_Compressor": "0x19Ca61E672d1c6105f609418bfDC784F92F4Ecf0",
+        "Token_Compressor": "0xAe3Dd11e5a7f99eD4cba2768D4095a55fbF7841B",
+        "Router": "0x00aDE38841AB8c6e236E232041e43B41d74B8B45",
+        "DefiLlama_Compressor": "0x81cb9eA2d59414Ab13ec0567EFB09767Ddbe897a",
+        "Withdrawal_Compressor": "0xfB79b6713fe214B8748ED7b0db1f93E4f1aC9d29"
+  },
+  "links": {
+        "project": "https://gearbox.finance/",
+        "twitter": "https://x.com/GearboxProtocol",
+        "github": "https://github.com/gearbox-protocol",
+        "docs": "https://docs.gearbox.finance/"
+  }
+}
