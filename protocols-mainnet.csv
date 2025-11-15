@@ -191,6 +191,32 @@ Flap,DeFi,Launchpads,Portal,0x30e8ee7b5881bf2e158a0514f2150aabe2c68b23,DeFi::Lau
 Flap,DeFi,Launchpads,TaxTokenImplementation,0x8e6512ba94c723d8f140b0fd9dbb498854b7a1f4,DeFi::Launchpads
 Flap,DeFi,Launchpads,TaxTokenSplitterImplementation,0x57fed6832f12150a77d5952b49190d9447acb5ee,DeFi::Launchpads
 Flap,DeFi,Launchpads,TokenV2Implementation,0xb88189aa1162850d75a1c1e16f837b7979994184,DeFi::Launchpads
+Gearbox,DeFi,Lending,Account_Compressor,0x4115708fc8fe6bb392de2e0c21c2c81da2222394,DeFi::Lending;DeFi::Leveraged Farming
+Gearbox,DeFi,Lending,Address_Provider,0xf7f0a609bfab9a0a98786951ef10e5fe26cc1e38,DeFi::Lending;DeFi::Leveraged Farming
+Gearbox,DeFi,Lending,Batches_Chain,0x59b2fd348e4ade84ffefdaf5fcdda7276c8c5041,DeFi::Lending;DeFi::Leveraged Farming
+Gearbox,DeFi,Lending,Bot_List,0x0bc03983da93021a374c964a22b73865220ce962,DeFi::Lending;DeFi::Leveraged Farming
+Gearbox,DeFi,Lending,Bytecode_Repository,0x1ce2b1be96a082b1b1539f80d5d8f82ec06a0f9a,DeFi::Lending;DeFi::Leveraged Farming
+Gearbox,DeFi,Lending,Credit_Factory,0x81cda0ab38d8bd0732123eb0e36c0c566d35dadd,DeFi::Lending;DeFi::Leveraged Farming
+Gearbox,DeFi,Lending,Credit_Suite_Compressor,0x93cba8445b13a05287bff90d882cbcb514d617b7,DeFi::Lending;DeFi::Leveraged Farming
+Gearbox,DeFi,Lending,Cross_Chain_Multisig,0xcccccccc42b7da9fdec1761698fb55fdd41cdf55,DeFi::Lending;DeFi::Leveraged Farming
+Gearbox,DeFi,Lending,DefiLlama_Compressor,0x81cb9ea2d59414ab13ec0567efb09767ddbe897a,DeFi::Lending;DeFi::Leveraged Farming
+Gearbox,DeFi,Lending,GEAR_Staking,0x2fcbd02d5b1d52fc78d4c02890d7f4f47a459c33,DeFi::Lending;DeFi::Leveraged Farming
+Gearbox,DeFi,Lending,Gauge_Compressor,0x12c8faedd62cf0c5d4d742e57b98737a9a3f5e0f,DeFi::Lending;DeFi::Leveraged Farming
+Gearbox,DeFi,Lending,IRM_Factory,0xa7de2e941c8818e51d1fd84111d8f71dcafa6c3b,DeFi::Lending;DeFi::Leveraged Farming
+Gearbox,DeFi,Lending,Instance_Manager,0xbcd875f0d62b9aa22481c81975f9ae1753fc559a,DeFi::Lending;DeFi::Leveraged Farming
+Gearbox,DeFi,Lending,Loss_Policy_Factory,0x0e535b7d073a93646512cea18fa7e650cc2b17c4,DeFi::Lending;DeFi::Leveraged Farming
+Gearbox,DeFi,Lending,Market_Compressor,0x70f1753a765c4df582ffa3b8d96ab492714e8992,DeFi::Lending;DeFi::Leveraged Farming
+Gearbox,DeFi,Lending,Market_Configurator_Factory,0x7d60cfaf7c2cec210638a5e46e4000894830c034,DeFi::Lending;DeFi::Leveraged Farming
+Gearbox,DeFi,Lending,Periphery_Compressor,0xa7ed6db5761613cae7cacfaae9dca07a77809f9d,DeFi::Lending;DeFi::Leveraged Farming
+Gearbox,DeFi,Lending,Pool_Factory,0x2238edf33a72860cdbaec5f83ec246df9e85c8e2,DeFi::Lending;DeFi::Leveraged Farming
+Gearbox,DeFi,Lending,Price_Feed_Store,0x74a868ac479ee145029bb80827bb77f7b7c441cb,DeFi::Lending;DeFi::Leveraged Farming
+Gearbox,DeFi,Lending,Price_Feeds_Compressor,0x847a05c22c7508c674342a95356adf9b3a0e0d57,DeFi::Lending;DeFi::Leveraged Farming
+Gearbox,DeFi,Lending,Price_Oracle_Factory,0xf7533cdce5a2f7bf78b6fbf4b05f04f45d10140b,DeFi::Lending;DeFi::Leveraged Farming
+Gearbox,DeFi,Lending,Rate_Keeper_Factory,0xbede127c14407b9c345f5d7fae5782ab8eaa33f3,DeFi::Lending;DeFi::Leveraged Farming
+Gearbox,DeFi,Lending,Rewards_Compressor,0x19ca61e672d1c6105f609418bfdc784f92f4ecf0,DeFi::Lending;DeFi::Leveraged Farming
+Gearbox,DeFi,Lending,Router,0x00ade38841ab8c6e236e232041e43b41d74b8b45,DeFi::Lending;DeFi::Leveraged Farming
+Gearbox,DeFi,Lending,Token_Compressor,0xae3dd11e5a7f99ed4cba2768d4095a55fbf7841b,DeFi::Lending;DeFi::Leveraged Farming
+Gearbox,DeFi,Lending,Withdrawal_Compressor,0xfb79b6713fe214b8748ed7b0db1f93e4f1ac9d29,DeFi::Lending;DeFi::Leveraged Farming
 Neverland,DeFi,Lending,ACLManager,0x73a78afa04b629e22db3bec357bfc4a8b4f149df,DeFi::Lending;NFT::Other;Governance::Other
 Neverland,DeFi,Lending,AToken,0x395118096f0ef19d7958ad8538ecee9685b94eb2,DeFi::Lending;NFT::Other;Governance::Other
 Neverland,DeFi,Lending,AaveOracle,0x94bba11004b9877d13bb5e1ae29319b6f7bdedd4,DeFi::Lending;NFT::Other;Governance::Other
