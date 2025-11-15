@@ -30,6 +30,31 @@ Clober,DeFi,DEX,BookManager,0x6657d192273731c3cac646cc82d5f28d0cbe8ccc,DeFi::DEX
 Clober,DeFi,DEX,BookViewer,0xe424c211e2ed8a5b6d1c57fa493c41715568d238,DeFi::DEX
 Clober,DeFi,DEX,Controller,0x19b68a2b909d96c05b623050c276fbd457de8e83,DeFi::DEX
 Clober,DeFi,DEX,Router,0x7b58a24c5628881a141d630f101db433d419b372,DeFi::DEX
+Curve Finance,DeFi,DEX,AddressProvider,0x4574921eb950d3fd5b01562162ec566cb8bc3648,DeFi::DEX;DeFi::Stableswap
+Curve Finance,DeFi,DEX,ChildGaugeFactory,0x41d2c5128a7241ec1f7ce346b162c347c19548b7,DeFi::DEX;DeFi::Stableswap
+Curve Finance,DeFi,DEX,DepositAndStake,0xb2be7692b07b640c9f2ee1187cee2faec741f872,DeFi::DEX;DeFi::Stableswap
+Curve Finance,DeFi,DEX,FeeReceiver,0x193110ce1542d7371e1515bd6a2e470fdefc310d,DeFi::DEX;DeFi::Stableswap
+Curve Finance,DeFi,DEX,GaugeImplementation,0xbb8a5e91295131ce07b6bfe301c49bcd925a2902,DeFi::DEX;DeFi::Stableswap
+Curve Finance,DeFi,DEX,Meta-zap,0x2af43209b366a4491cce0a97c5a7b6059fd21295,DeFi::DEX;DeFi::Stableswap
+Curve Finance,DeFi,DEX,MetaRegistry,0xe6da14500f0b5783e2325f9c5a7ee5d99da0fb42,DeFi::DEX;DeFi::Stableswap
+Curve Finance,DeFi,DEX,RateProvider,0x129578f94c253b8bc903bf2b73d07bf2583cc11d,DeFi::DEX;DeFi::Stableswap
+Curve Finance,DeFi,DEX,Router,0xff5cb29241f002ffed2eaa224e3e996d24a6e8d1,DeFi::DEX;DeFi::Stableswap
+Curve Finance,DeFi,DEX,StableSwapFactory,0x8271e06e5887fe5ba05234f5315c19f3ec90e8ad,DeFi::DEX;DeFi::Stableswap
+Curve Finance,DeFi,DEX,StableswapHandler,0x46feffb8ed015250cd48f9bf7f4a4584049ca4ae,DeFi::DEX;DeFi::Stableswap
+Curve Finance,DeFi,DEX,StableswapMath,0xe460dec242bc0a1a364c250a9d2f731d8d923650,DeFi::DEX;DeFi::Stableswap
+Curve Finance,DeFi,DEX,StableswapMeta-amm,0x845b942deef9bc20a39a8b34b23e8c33ac2921bf,DeFi::DEX;DeFi::Stableswap
+Curve Finance,DeFi,DEX,StableswapPlain-amm,0xfc687efafed297b765edecf8179c32195597c2df,DeFi::DEX;DeFi::Stableswap
+Curve Finance,DeFi,DEX,StableswapViews,0xc9459a955a885467f01ccc531c51dbcc957993c0,DeFi::DEX;DeFi::Stableswap
+Curve Finance,DeFi,DEX,TricryptoAmm,0x286182220e734aac601282ba059de531d4beac1f,DeFi::DEX;DeFi::Stableswap
+Curve Finance,DeFi,DEX,TricryptoFactory,0x6e28493348446503db04a49621d8e6c9a40015fb,DeFi::DEX;DeFi::Stableswap
+Curve Finance,DeFi,DEX,TricryptoHandler,0xbbbe22dee69747e61f676cf50465b1bfba4a4dd6,DeFi::DEX;DeFi::Stableswap
+Curve Finance,DeFi,DEX,TricryptoMath,0xa4a2e7e11cbe5213b316e801d2172ef10e566a96,DeFi::DEX;DeFi::Stableswap
+Curve Finance,DeFi,DEX,TricryptoViews,0x2fe4a238f6a3bd7faa68e0b6951e3fafdb2876eb,DeFi::DEX;DeFi::Stableswap
+Curve Finance,DeFi,DEX,TwocryptoAmm,0x5f870c2cf22ff829b5dc1da09856b79da6544f94,DeFi::DEX;DeFi::Stableswap
+Curve Finance,DeFi,DEX,TwocryptoFactory,0xe7fbd704b938cb8fe26313c3464d4b7b7348c88c,DeFi::DEX;DeFi::Stableswap
+Curve Finance,DeFi,DEX,TwocryptoHandler,0x7e595b3b77cc16680c30617b88e9b87f987ac934,DeFi::DEX;DeFi::Stableswap
+Curve Finance,DeFi,DEX,TwocryptoMath,0x95249dd40dda3c0cbb4a7dd7d287e04aa68a3d4b,DeFi::DEX;DeFi::Stableswap
+Curve Finance,DeFi,DEX,TwocryptoViews,0x17c67c3a38f68cbc4dec77fd7378978971b6c271,DeFi::DEX;DeFi::Stableswap
 Dirol,DeFi,DEX,CoreAggregator,0x77e73c3fcd3fedba383025cde4a5b97733a34c2e,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Launchpads;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces
 Dirol,DeFi,DEX,LimitOrderModule,0xa82098c33c75a4a1e20e06f352732910c75c690d,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Launchpads;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces
 Kuru,DeFi,DEX,KuruFlowEntryPoint,0xb3e6778480b2e488385e8205ea05e20060b813cb,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Launchpads;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces
