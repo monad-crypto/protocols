@@ -1,0 +1,34 @@
+{
+  "name": "Picule Protocol",
+  "description": "Revolutionary trustless crowdfunding system that merges NFT and ERC-20 token launches with permanently locked liquidity. Creates rug-pull resistant ICOs where LP tokens are locked in NFTs while earning trading commissions, providing intrinsic value to NFTs and eliminating developer exit scam risks.",
+  "categories": [
+    "DeFi::Launchpads",
+    "NFT::NFTFi",
+    "DeFi::Liquid Staking",
+    "DeFi::DEX",
+    "DeFi::Launchpads",
+    "DeFi::Memecoin",
+    "DeFi::Staking",
+    "NFT::Collections",
+    "NFT::Marketplace",
+    "NFT::Other"
+  ],
+  "addresses": {
+    "TokenLaunchManager": "0xbb29be458dcaa439f1259bc9b42a7240b1d37af5",
+    "ICO": "0x7927a4bd40ab5a60c4a319ea55424469560e947b",
+    "FundsManager": "0xe582fc0dad42d73a9023f801e9e46ddf59ae0856",
+    "Factory": "0x88f935cc12efc73f1590bfc12178539351b145c5",
+    "Router": "0x6ac52fc7988cf99a4a66911e248f40838ca56e9d",
+    "Pair": "0xcaa8d5a92dbdc4d9c0c488782cf27a852e618c98",
+    "Marketplace": "0xe8c3490eed91ba902731ea2bbb69426282604012",
+    "TreasuryController": "0x6e59986a3e83c0db7c59461582c48e36c32db25b",
+    "PiculeNFT": "0x1a91f666527b04fb8dfe8ae05fd2e628e9370bad",
+    "MPCToken": "0xe91df27c401084ec11998766d64717f998b47b33",
+    "ERC20Template": "0x002e13268edf8b3680bbd7b1b3e9e59740b9b008"
+  },
+  "links": {
+    "project": "https://picule.xyz",
+    "github": "https://github.com/Vantana1995/picule-protocol",
+    "docs": "https://github.com/Vantana1995/picule-protocol/tree/main/docs"
+  }
+}
