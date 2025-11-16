@@ -1,6 +1,6 @@
 {
     "name": "Covenant",
-    "description": "Powering the Chain-Agnostic Future",
+    "description": "Covenant is a fully on-chain credit marketplace that enables the creation and funding of leverage against any collateral asset",
     "live": true,
     "categories": ["DeFi::CDP","DeFi::DEX","DeFi::Yield"],
     "addresses": {
