@@ -43,6 +43,7 @@
     "DeFi::Stablecoin",
     "DeFi::Stableswap",
     "DeFi::Staking",
+    "DeFi::Structured Products",
     "DeFi::Synthetics",
     "DeFi::Trading Interfaces",
     "DeFi::Uncollateralized Lending",
