@@ -7,7 +7,8 @@
         "Covenant": "0x11A7Ab0A9D7bD531DBcF0f0630BF7167F8F198f6",
         "CovenantCurator": "0xAB0f8aB1e67cc02A9D58fc27055292289B159094",
         "LatentSwapLEX - 50% targetLTV": "0x6A5Aa3df89bA1C1f8B471c72159458D61a9447c2",
-        "LatentSwapLEX - 80% targetLTV": "0x9a369DF53EC62725c93f41B891e701BD88aFf2c8"
+        "LatentSwapLEX - 80% targetLTV": "0x9a369DF53EC62725c93f41B891e701BD88aFf2c8",
+        "DataProvider": "0x5c1fb9a1232E87702897424eC0852D30B713bfD8"
     },
     "links": {
         "project": "https://covenant.finance",
