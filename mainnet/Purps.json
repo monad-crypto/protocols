@@ -1,0 +1,21 @@
+{
+    "name": "Purps",
+    "description": "Designed to provide deep liquidity and seamless trading, PURPS enables efficient asset swaps while also serving as an incubator for emerging projects, helping them access liquidity through its powerful launchpad. By combining advanced liquidity mechanisms with a streamlined IDO platform, PURPS ensures that both traders and startups can thrive in the Monad DeFi landscape.",
+    "live": true,
+    "categories": [
+        "DeFi::DEX",
+        "DeFi::Perpetuals / Derivatives",
+        "DeFi::Launchpads"
+    ],
+    "addresses": {
+        "PurpsV2Factory": "0xAfE4d3eB898591ACe6285176b26f0F5BEb894447",
+        "PurpsV2Router02": "0x22aDf91b491abc7a50895Cd5c5c194EcCC93f5E2",
+        "PurpsRouter04": "0x17B4b5F99ec25aAaA644107f86A7756212D4D026"
+    },
+    "links": {
+        "project": "http://app.purps.xyz/",
+        "twitter": "https://x.com/PurpsExchange",
+        "discord": "https://discord.com/invite/PurpsExchange",
+        "docs": "https://purpsexchange.gitbook.io/docs"
+    }
+}
