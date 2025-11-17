@@ -10,6 +10,7 @@ import argparse
 import json5
 import os
 import sys
+from urllib.request import Request, urlopen
 from collections import defaultdict
 
 REQUIRED_FIELDS = ["name", "description", "links", "categories"]
@@ -101,11 +102,39 @@ def check_included_canonical_contracts(base_dir: str, json_files: list[str]) -> 
 
     return has_included_canonical_contracts
 
+def check_invalid_links(base_dir: str, json_files: list[str]) -> bool:
+    # 20251117: for now this should be run manually as there may be legitimate reasons for some invalid links
+    has_invalid_links = False
+    for f in json_files:
+        with open(os.path.join(base_dir, f), 'r') as protocol_file:
+            protocol_data = json5.load(protocol_file)
+            for link_label, link in protocol_data['links'].items():
+                if link == "":
+                    continue
+                if not link.startswith('https://') and not link.startswith('http://'):
+                    print(f'⚠️ {f} contains an invalid link: "{link}"')
+                    has_invalid_links = True
+                    continue
+                
+                try:
+                    req = Request(link, headers={'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36'})
+                    status_code = urlopen(req).status
+                except Exception as e:
+                    print(f'⚠️ {f} contains a bad link. Attempt to access "{link}" returned an error: {e}')
+                    has_invalid_links = True
+
+                if status_code != 200:
+                    print(f'⚠️ {f} contains a bad link. Attempt to access "{link}" returned: {status_code}')
+                    has_invalid_links = True
+            
+    return has_invalid_links
+
 def main():
     parser = argparse.ArgumentParser('')
     parser.add_argument('-n', '--network', dest='network', choices=['testnet', 'mainnet'],
         default='mainnet')
     parser.add_argument('-p', '--protocol', dest='protocol', required=False)
+    parser.add_argument('-l', '--link', dest='link', action='store_true')
     args, unknown_args = parser.parse_known_args()
 
     network = args.network
@@ -117,7 +146,6 @@ def main():
     # check one protocol
     if args.protocol:
         json_files = [f for f in sorted(os.listdir(base_dir)) if f.endswith(".json") or f.endswith(".jsonc")]
-        # names_files = [(os.path.splitext(f)[0], f) for f in json_files]
         json_files = [f for f in json_files if os.path.splitext(f)[0].lower() == args.protocol.lower()]
 
         if not json_files:
@@ -153,6 +181,8 @@ def main():
 
     has_included_canonical_contracts = check_included_canonical_contracts(base_dir, json_files)
     has_duplicated_address_labels = check_duplicated_address_labels(base_dir, json_files)
+    if args.link:
+        check_invalid_links(base_dir, json_files)
 
     if has_included_canonical_contracts:
         raise Exception("Found included canonical contracts in repo")

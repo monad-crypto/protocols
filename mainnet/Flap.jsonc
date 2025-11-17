@@ -22,7 +22,7 @@
     },
     "links": {
         // This link will be available on Monad mainnet launch 
-        "project": "https://flap.sh/monad",
+        "project": "https://monad.flap.sh/",
         "twitter": "https://x.com/flapdotsh",
         "docs": "https://docs.flap.sh/flap/", 
         "developer": "https://docs.flap.sh/flap/developers/quick-start"
