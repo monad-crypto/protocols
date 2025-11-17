@@ -2,7 +2,7 @@
     "name": "Mona Trading Bot",
     "description": "Fastest trading bot built on Monad",
     "categories": [
-        "DeFi::Trading"
+        "DeFi::Trading Interfaces"
     ],
     "addresses": {
         "MonaV2Router01": "0x27A6c2E8aE9E7f96040394a1F8fE2A202cE0E599",

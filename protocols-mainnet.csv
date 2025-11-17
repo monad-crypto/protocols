@@ -90,10 +90,10 @@ Matcha,DeFi,DEX,MonadBridgeSettler,0xb40e9939bb598c38665a5c99c68020eeb8cf49fb,De
 Matcha,DeFi,DEX,MonadSettler,0x478cf28fd1ba92a6afd04f44b05833f6df7f1486,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Stableswap;DeFi::Trading Interfaces;DeFi::Cross Chain
 Matcha,DeFi,DEX,MonadSettlerIntent,0xb2376d1183829f444e0ffe9ef1ffaf1b483b84f3,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Stableswap;DeFi::Trading Interfaces;DeFi::Cross Chain
 Matcha,DeFi,DEX,MonadSettlerMetaTxn,0xfb36b62145a4b272bc804e5e1b41ddbf4bff4cf4,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Stableswap;DeFi::Trading Interfaces;DeFi::Cross Chain
-Matcha Meta,DeFi,DEX,0x Settler Deployer,0x00000000000004533fe15556b1e086bb1a72ceae,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Stableswap;DeFi::Trading Interfaces;DeFi::Cross Chain
+Matcha Meta,DeFi,DEX,0xSettlerDeployer,0x00000000000004533fe15556b1e086bb1a72ceae,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Stableswap;DeFi::Trading Interfaces;DeFi::Cross Chain
 Matcha Meta,DeFi,DEX,AllowanceHolder,0x0000000000001ff3684f28c67538d4d072c22734,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Stableswap;DeFi::Trading Interfaces;DeFi::Cross Chain
-Matcha Meta,DeFi,DEX,Cross-chain Settlement Contract,0xb40e9939bb598c38665a5c99c68020eeb8cf49fb,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Stableswap;DeFi::Trading Interfaces;DeFi::Cross Chain
-Matcha Meta,DeFi,DEX,Taker Submitted Settlement Contract,0x478cf28fd1ba92a6afd04f44b05833f6df7f1486,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Stableswap;DeFi::Trading Interfaces;DeFi::Cross Chain
+Matcha Meta,DeFi,DEX,MonadBridgeSettler,0xb40e9939bb598c38665a5c99c68020eeb8cf49fb,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Stableswap;DeFi::Trading Interfaces;DeFi::Cross Chain
+Matcha Meta,DeFi,DEX,MonadSettler,0x478cf28fd1ba92a6afd04f44b05833f6df7f1486,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Stableswap;DeFi::Trading Interfaces;DeFi::Cross Chain
 Monday Trade,DeFi,DEX,Aggregator,0xad8974d98f7fc386e396ffe826b886cf20afe232,DeFi::DEX;DeFi::Perpetuals / Derivatives
 Monday Trade,DeFi,DEX,MondayFactory,0xc1e98d0a2a58fb8abd10ccc30a58efff4080aa21,DeFi::DEX;DeFi::Perpetuals / Derivatives
 Monday Trade,DeFi,DEX,NFTPositionManager,0x68b507bf58ed32173f41ff20aa2494a569daec44,DeFi::DEX;DeFi::Perpetuals / Derivatives
@@ -124,7 +124,6 @@ PancakeSwap,DeFi,DEX,SwapRouter,0x1b81d678ffb9c0263b24a97847620c99d213eb14,DeFi:
 PancakeSwap,DeFi,DEX,TickLens,0x9a489505a00ce272eaa5e07dba6491314cae3796,DeFi::DEX
 PancakeSwap,DeFi,DEX,TokenValidator,0x864ed564875bddd6f421e226494a0e7c071c06f8,DeFi::DEX
 PancakeSwap,DeFi,DEX,V3Migrator,0xbc203d7f83677c7ed3f7acec959963e7f4ecc5c2,DeFi::DEX
-PancakeSwap,DeFi,DEX,Wmon,0x3bd359c1119da7da1d913d1c4d2b7c461115433a,DeFi::DEX
 PinotFinance,DeFi,DEX,AssetHelper,0xe0c6bb0e88fdb069ae3a712bbf1dc07759d576bf,DeFi::DEX
 PinotFinance,DeFi,DEX,Ballot,0x7ebd75a81c66552103ef6db3f1e62fb5ef341290,DeFi::DEX
 PinotFinance,DeFi,DEX,Emission,0x83200b60b8e37df8945f1ae33c54b357c9b82a2f,DeFi::DEX
@@ -143,7 +142,6 @@ PinotFinance,DeFi,DEX,UniswapV2GaugeFactory,0x769b660da133f9fbc0fefb829daabc8314
 PinotFinance,DeFi,DEX,UniswapV2Router,0x276e41572bb7a063ec728d659467d42bc91f9f6c,DeFi::DEX
 PinotFinance,DeFi,DEX,UniswapV3Factory,0xfd9c7369347e3b0a80e65223384831b2926ff4d0,DeFi::DEX
 PinotFinance,DeFi,DEX,UniversalRouter,0x8968a4f1fe7094834afd4156f716da1e342648a5,DeFi::DEX
-PinotFinance,DeFi,DEX,WETH,0x3bd359c1119da7da1d913d1c4d2b7c461115433a,DeFi::DEX
 Purps,DeFi,DEX,PurpsRouter04,0x17b4b5f99ec25aaaa644107f86a7756212d4d026,DeFi::DEX;DeFi::Perpetuals / Derivatives;DeFi::Launchpads
 Purps,DeFi,DEX,PurpsV2Factory,0xafe4d3eb898591ace6285176b26f0f5beb894447,DeFi::DEX;DeFi::Perpetuals / Derivatives;DeFi::Launchpads
 Purps,DeFi,DEX,PurpsV2Router02,0x22adf91b491abc7a50895cd5c5c194eccc93f5e2,DeFi::DEX;DeFi::Perpetuals / Derivatives;DeFi::Launchpads
@@ -383,11 +381,6 @@ Mu Protocol,DeFi,RWA,loAZND (Implementation),0x00a927d9d8af27d06c4e2c3abb5b88b0e
 Mu Protocol,DeFi,RWA,loAZND (Proxy),0x9c82eb49b51f7dc61e22ff347931ca32adc6cd90,DeFi::RWA;DeFi::Yield
 Mu Protocol,DeFi,RWA,muBOND,0x336d414754967c6682b5a665c7daf6f1409e63e8,DeFi::RWA;DeFi::Yield
 Circle USDC,DeFi,Stablecoin,USDC,0x754704bc059f8c67012fed69bc8a327a5aafb603,DeFi::Stablecoin
-Mona Trading Bot,DeFi,Trading,MonaV2Router01,0x27a6c2e8ae9e7f96040394a1f8fe2a202ce0e599,DeFi::Trading
-Mona Trading Bot,DeFi,Trading,MonaV2Router02,0x95def69a01962f0cb24e2c5daa1fa5126beea95d,DeFi::Trading
-Mona Trading Bot,DeFi,Trading,MonaV3Router01,0x7e75d7eb235703d8acbd71382bf2f344fb23ab5b,DeFi::Trading
-Mona Trading Bot,DeFi,Trading,MonaV3Router02,0x50adc49f643f06888a8950dd172ae48221e49a38,DeFi::Trading
-Mona Trading Bot,DeFi,Trading,MonaV3Router03,0x09ec7d8d3065097d5859539ed4590dd76c0c77e0,DeFi::Trading
 Definitive Finance,DeFi,Trading Interfaces,VaultBeacon,0x000000005ae5f42270cdf0e41960840e7fb1b2dc,DeFi::Trading Interfaces
 Definitive Finance,DeFi,Trading Interfaces,VaultFactory,0xdef00000cc0a125ba7962e8113d3b69786851736,DeFi::Trading Interfaces
 Definitive Finance,DeFi,Trading Interfaces,VaultImplementation,0x0000000d1126e7651931461f31be87712cd9e05c,DeFi::Trading Interfaces
@@ -396,6 +389,11 @@ Mevx,DeFi,Trading Interfaces,MevxSwapRouterPV2,0xc67134cc40765fc28e2d54f58cd93d3
 Mevx,DeFi,Trading Interfaces,MevxSwapRouterPV3,0xa26326af694d03a12250df01733b173c05153a76,DeFi::Trading Interfaces
 Mevx,DeFi,Trading Interfaces,MevxSwapRouterUV2,0x92ef088bc025ebaf7c9521dfa82130d33934eb30,DeFi::Trading Interfaces
 Mevx,DeFi,Trading Interfaces,MevxSwapRouterUV3,0xd1f47ef81354663f3786b62b5b95c1015da48ca4,DeFi::Trading Interfaces
+Mona Trading Bot,DeFi,Trading Interfaces,MonaV2Router01,0x27a6c2e8ae9e7f96040394a1f8fe2a202ce0e599,DeFi::Trading Interfaces
+Mona Trading Bot,DeFi,Trading Interfaces,MonaV2Router02,0x95def69a01962f0cb24e2c5daa1fa5126beea95d,DeFi::Trading Interfaces
+Mona Trading Bot,DeFi,Trading Interfaces,MonaV3Router01,0x7e75d7eb235703d8acbd71382bf2f344fb23ab5b,DeFi::Trading Interfaces
+Mona Trading Bot,DeFi,Trading Interfaces,MonaV3Router02,0x50adc49f643f06888a8950dd172ae48221e49a38,DeFi::Trading Interfaces
+Mona Trading Bot,DeFi,Trading Interfaces,MonaV3Router03,0x09ec7d8d3065097d5859539ed4590dd76c0c77e0,DeFi::Trading Interfaces
 Enjoyoors,DeFi,Yield,Vault,0x6b5e332387e8bec98c52f10a72952b17176b4f1b,DeFi::Yield
 Enjoyoors,DeFi,Yield,WithdrawalApprover,0x71f60773885011cc0a61613078733b4738b38f35,DeFi::Yield
 Accountable,DeFi,Yield Aggregator,AccountableFixedTerm,0xd0a53e724ea9cb041e30f0243e3c84bdea238dfa,DeFi::Yield Aggregator
