@@ -196,6 +196,22 @@ Flap,DeFi,Launchpads,Portal,0x30e8ee7b5881bf2e158a0514f2150aabe2c68b23,DeFi::Lau
 Flap,DeFi,Launchpads,TaxTokenImplementation,0x8e6512ba94c723d8f140b0fd9dbb498854b7a1f4,DeFi::Launchpads
 Flap,DeFi,Launchpads,TaxTokenSplitterImplementation,0x57fed6832f12150a77d5952b49190d9447acb5ee,DeFi::Launchpads
 Flap,DeFi,Launchpads,TokenV2Implementation,0xb88189aa1162850d75a1c1e16f837b7979994184,DeFi::Launchpads
+Nad.fun,DeFi,Launchpads,BONDING_CURVE,0x7193e46d4a812c8990f96a6e9c1f1ed338b2a6b7,DeFi::Launchpads
+Nad.fun,DeFi,Launchpads,BONDING_CURVE_ROUTER,0x84202fd46851b4a9da9ab3100dd459bf1f0a3dc0,DeFi::Launchpads
+Nad.fun,DeFi,Launchpads,COMMUNITY_TREASURY,0x6abcb85307c59fb6813f2e3f97509bc1d1ec87f8,DeFi::Launchpads
+Nad.fun,DeFi,Launchpads,CREATOR_MANAGER,0xde2e1c7ffde10281ec3e515f12868ea7bcb1bf56,DeFi::Launchpads
+Nad.fun,DeFi,Launchpads,CREATOR_TREASURY,0x432ccb0c0fcbfeddd392d95aa64ebe5d78be606e,DeFi::Launchpads
+Nad.fun,DeFi,Launchpads,DEX_DEPLOYER,0x19ec7e26a4d3106dde05ddb3690220881940d68d,DeFi::Launchpads
+Nad.fun,DeFi,Launchpads,DEX_ROUTER,0x2b1d8bb0ded32dd1c4d4b04b4b3829dda9aecc65,DeFi::Launchpads
+Nad.fun,DeFi,Launchpads,FOUNDATION_TREASURY,0xb200d8c25e37695da63e6ae4bfe29ea5cc0ef340,DeFi::Launchpads
+Nad.fun,DeFi,Launchpads,LENS,0x5c34ed2a9675dc4c77378175870a6822cb925a8b,DeFi::Launchpads
+Nad.fun,DeFi,Launchpads,LP_MANAGER,0xb555cf21cd738b2282b13c8ec9ff9b25bccdffeb,DeFi::Launchpads
+Nad.fun,DeFi,Launchpads,QUOTER_V3,0x2e06b20ee1f785bce6862971fdd58f7ba878da9c,DeFi::Launchpads
+Nad.fun,DeFi,Launchpads,REWARD_POOL,0xe26ef0fa5939439706199da23d3f7de42087f735,DeFi::Launchpads
+Nad.fun,DeFi,Launchpads,TOKEN_IMPLEMENT,0xaf84c7e1737540e6e30731d2e547a006f40b0c1c,DeFi::Launchpads
+Nad.fun,DeFi,Launchpads,TOKEN_REGISTRY,0x54467b6300474cf485829ea5151848aeb20d6138,DeFi::Launchpads
+Nad.fun,DeFi,Launchpads,TOKEN_TREASURY,0x98f74cd9cdeddd58e6460e8f6b89fcf8b102f8d7,DeFi::Launchpads
+Nad.fun,DeFi,Launchpads,UNISWAP_ACTOR,0x39314025e1f0e2d430b65fb7d2a4a2d4fd740576,DeFi::Launchpads
 Gearbox,DeFi,Lending,Account_Compressor,0x4115708fc8fe6bb392de2e0c21c2c81da2222394,DeFi::Lending;DeFi::Leveraged Farming
 Gearbox,DeFi,Lending,Address_Provider,0xf7f0a609bfab9a0a98786951ef10e5fe26cc1e38,DeFi::Lending;DeFi::Leveraged Farming
 Gearbox,DeFi,Lending,Batches_Chain,0x59b2fd348e4ade84ffefdaf5fcdda7276c8c5041,DeFi::Lending;DeFi::Leveraged Farming

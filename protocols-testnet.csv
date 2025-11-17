@@ -357,7 +357,22 @@ Bebop,DeFi,Intents,PMM,0xbbbbbbb520d69a9775e85b458c58c648259fad5f,DeFi::Intents
 Hashflow,DeFi,Intents,router,0xca310b1b942a30ff4b40a5e1b69ab4607ec79bc1,DeFi::Intents
 Hedgemony,DeFi,Intents,SwapRouter,0xe31371f8e2c7be43d35dd053b9fa4a613f167426,DeFi::Intents;AI::Other
 Flap,DeFi,Launchpads,default,0x4267f317adee7c6478a5ee92985c2bd5d855e274,DeFi::Launchpads
-Nad.fun,DeFi,Launchpads,default,0x822eb1add41cf87c3f178100596cf24c9a6442f6,DeFi::Launchpads
+Nad.fun,DeFi,Launchpads,BONDING_CURVE,0xad720f94689edb929d9be7613223320a0b2f260f,DeFi::Launchpads
+Nad.fun,DeFi,Launchpads,BONDING_CURVE_ROUTER,0xf57f14335e9670ed2c0cef4a59fb707cf2eb3fac,DeFi::Launchpads
+Nad.fun,DeFi,Launchpads,COMMUNITY_TREASURY,0x8c786190186518a3a95d86cee8e972ce1c7eda8b,DeFi::Launchpads
+Nad.fun,DeFi,Launchpads,CREATOR_MANAGER,0x338394e774777e635841c45a222f1de09a6ad360,DeFi::Launchpads
+Nad.fun,DeFi,Launchpads,CREATOR_TREASURY,0x4312ec1606f2977afc9be36c84e58b7087618818,DeFi::Launchpads
+Nad.fun,DeFi,Launchpads,DEX_DEPLOYER,0x22cab8b60eefe9e0b7010c0b4c9c2822b32868c6,DeFi::Launchpads
+Nad.fun,DeFi,Launchpads,DEX_ROUTER,0x34469738bbd2948f43e0e4b588bc5646bcf4a6bb,DeFi::Launchpads
+Nad.fun,DeFi,Launchpads,FOUNDATION_TREASURY,0x8eb9b3b873b2260e95e9be40594153a5f7b98628,DeFi::Launchpads
+Nad.fun,DeFi,Launchpads,LENS,0x1b2b500a6f6c8a25ca0436d8183ba25c9415e28e,DeFi::Launchpads
+Nad.fun,DeFi,Launchpads,LP_MANAGER,0x5ab462177fe88a668e36eb0d36560a83036e0054,DeFi::Launchpads
+Nad.fun,DeFi,Launchpads,QUOTER_V3,0xb9841fdac1f0fd01c79095c3c97105d01273a192,DeFi::Launchpads
+Nad.fun,DeFi,Launchpads,REWARD_POOL,0xebc10f2749bf600e9f0b3d6ec7d762f8c9298ba6,DeFi::Launchpads
+Nad.fun,DeFi,Launchpads,TOKEN_IMPLEMENT,0xedc927b974f9964bba538bbd508f658d11917b43,DeFi::Launchpads
+Nad.fun,DeFi,Launchpads,TOKEN_REGISTRY,0x7f03e0b07f60b21a3e08205154d34fa2b83c655a,DeFi::Launchpads
+Nad.fun,DeFi,Launchpads,TOKEN_TREASURY,0xdeac7461fdbf799ad52e11413f267801ad544a11,DeFi::Launchpads
+Nad.fun,DeFi,Launchpads,UNISWAP_ACTOR,0x599f6c2307c4b90809f59275613ab285d1b6bd80,DeFi::Launchpads
 Seed Circle,DeFi,Launchpads,DealSigner,0x2552b8725bb2b69530501d0f195568800c33f6f4,DeFi::Launchpads
 Seed Circle,DeFi,Launchpads,FundraisingController,0x18ed799b1f6ae61c3dccbc47cf6194722f1e4a50,DeFi::Launchpads
 Seed Circle,DeFi,Launchpads,FundraisingDepositNative,0xb81030f789aafe26f09e8aca2036296d1686b190,DeFi::Launchpads
