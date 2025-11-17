@@ -1,0 +1,32 @@
+{
+    "name": "iZiSwap",
+    "description": "A multi-chain DeFi protocol providing One-Stop Liquidity as a Service (LaaS).",
+    "live": true,
+    "categories": ["DeFi::DEX"],
+    "addresses": {
+        "Factory": "0x8c7d3063579BdB0b90997e18A770eaE32E1eBb08",
+        "swapX2YModule": "0x4d4673745AAC664eFB9758fdd571F40d78a87bfe",
+        "swapY2XModule": "0x32D02Fc7722E81F6Ac60B87ea8B4b63a52Ad2b55",
+        "liquidityModule": "0xF4efDB5A1E852f78e807fAE7100B1d38351e38c7",
+        "limitOrderModule": "0xe96526e92ee57bBD468DA1721987aa988b008768",
+        "flashModule": "0xbD6abA1Ef82A4cD6e15CB05e95f433ef48dfb5df",
+        "WETH": "0x3bd359C1119dA7Da1D913D1C4D2B7c461115433A",
+        "liquidityManager": "0x19b683A2F45012318d9B2aE1280d68d3eC54D663",
+        "limitOrderManager": "0x02F55D53DcE23B4AA962CC68b0f685f26143Bdb2",
+        "limitOrderWithSwapManager": "0x2db0AFD0045F3518c77eC6591a542e326Befd3D7",
+        "quoter": "0x3EF68D3f7664b2805D4E88381b64868a56f88bC4",
+        "quoterWithLim": "0x33531bDBFE34fa6Fd5963D0423f7699775AacaaF",
+        "swap": "0x34bc1b87f60e0a30c0e24FD7Abada70436c71406",
+        "locker": "0x3F559139C2Fc7B97Ad6FE9B4d1f75149F551DB18",
+        "oracle": "0x04830cfCED9772b8ACbAF76Cfc7A630Ad82c9148",
+        "tapProxy": "0x2C6Df0fDbCE9D2Ded2B52A117126F2Dc991f770f",
+        "multicall": "0x14323AfbC2b82fE58F0D9c203830EE969B4d1bE2"
+    },
+    "links": {
+        "project": "https://izumi.finance/trade/swap",
+        "twitter": "https://x.com/izumi_Finance",
+        "github": "https://github.com/izumiFinance",
+        "docs": "https://docs.izumi.finance/"
+    }
+}
+
