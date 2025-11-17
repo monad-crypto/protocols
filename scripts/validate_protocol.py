@@ -10,6 +10,7 @@ import argparse
 import json5
 import os
 import sys
+from collections import defaultdict
 
 REQUIRED_FIELDS = ["name", "description", "links", "categories"]
 CATEGORIES = json5.load(open("categories.json", "r", encoding="utf-8"))
@@ -64,6 +65,45 @@ def is_valid_file(filepath: str) -> bool:
 
     return True
 
+def check_duplicated_address_labels(base_dir: str, json_files: list[str]) -> bool:
+    address_labels = defaultdict(lambda: [])
+    for json_file in json_files:
+        with open(os.path.join(base_dir, json_file), "r", encoding="utf-8") as f:
+            data = json5.load(f)
+        for address_label, address in data['addresses'].items():
+            address_labels[address.lower()].append((json_file, address_label))
+    
+    multiple_address_labels = [(address, labels) for address, labels in address_labels.items() if len(labels) > 1]
+    label_to_address = defaultdict(lambda: set())
+    has_duplicated_address_labels = False
+    for address, labels in multiple_address_labels:
+        for json_file, address_label in labels:
+            label_to_address[address].add(address_label)
+            if len(label_to_address[address]) > 1:
+                print(f'❌ Address {address} has multiple distinct labels:\n{"\n".join([f"{json_file}: {x}" for json_file, x in labels])}')
+                has_duplicated_address_labels = True
+    
+    if has_duplicated_address_labels:
+        raise Exception("Found duplicated address labels in repo")
+
+def check_included_canonical_contracts(base_dir: str, json_files: list[str]) -> bool:
+    canonical_contract_data = json5.load(open(os.path.join(base_dir, "CANONICAL.jsonc"), "r", encoding="utf-8"))
+    canonical_contract_addresses = {x.lower() for x in canonical_contract_data['addresses'].values()}
+    has_included_canonical_contracts = False
+    for f in os.listdir(base_dir):
+        if f == 'CANONICAL.jsonc':
+            continue
+
+        with open(os.path.join(base_dir, f), 'r') as protocol_file:
+            protocol_data = json5.load(protocol_file)
+            for label, x in protocol_data['addresses'].items():
+                if x.lower() in canonical_contract_addresses:
+                    print(f'❌ {f} includes a canonical contract "{label}": "{x}" - please remove this entry.')
+                    has_included_canonical_contracts = True
+
+    if has_included_canonical_contracts:
+        raise Exception("Found included canonical contracts in repo")
+
 def main():
     parser = argparse.ArgumentParser('')
     parser.add_argument('-n', '--network', dest='network', choices=['testnet', 'mainnet'],
@@ -114,6 +154,9 @@ def main():
         if len(invalid) > 0:
             raise Exception("invalid jsons: " + ",".join(invalid))
 
+    check_included_canonical_contracts(base_dir, json_files)
+    check_duplicated_address_labels(base_dir, json_files)
+
+
 if __name__ == "__main__":
     main()
-

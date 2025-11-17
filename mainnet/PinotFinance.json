@@ -4,7 +4,6 @@
     "live": true,
     "categories": ["DeFi::DEX"],
     "addresses": {
-        "WETH": "0x3bd359C1119dA7Da1D913D1C4D2B7c461115433A",
         "Emission": "0x83200B60b8E37DF8945f1ae33C54B357C9b82a2F",
         "GovernanceToken": "0x76e82126a82eCEeA8CA510cA4942a3B1A9023147",
         "Ballot": "0x7ebd75a81C66552103ef6DB3F1e62fb5eF341290",

@@ -11,9 +11,9 @@
     ],
     "addresses": {
       "AllowanceHolder": "0x0000000000001fF3684f28c67538d4D072C22734",
-      "0x Settler Deployer": "0x00000000000004533Fe15556B1E086BB1A72cEae",
-      "Taker Submitted Settlement Contract": "0x478cF28Fd1Ba92a6afd04F44b05833F6dF7f1486",
-      "Cross-chain Settlement Contract": "0xb40e9939bb598C38665A5C99c68020EEB8Cf49FB"
+      "0xSettlerDeployer": "0x00000000000004533Fe15556B1E086BB1A72cEae",
+      "MonadSettler": "0x478cF28Fd1Ba92a6afd04F44b05833F6dF7f1486",
+      "MonadBridgeSettler": "0xb40e9939bb598C38665A5C99c68020EEB8Cf49FB"
     },
     "links": {
       "project": "https://meta.matcha.xyz/",
