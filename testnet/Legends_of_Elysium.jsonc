@@ -23,7 +23,8 @@
         "LooksRareExchange": "0xABB8AF5eEcA3B309cB4D1cA62328847AaE412354",
         "StrategyPartialSaleForFixedPrice": "0x0eA15B3d68F6b71E73aD3e7b4688eAA7D9018A7c",
         "VoucherPayments": "0x8d85b3517b28C7CeB3c012e7a8b334a7259ddcAa",
-        "PaymentsV2": "0x8d85b3517b28C7CeB3c012e7a8b334a7259ddcAa",
+        // TODO: please correct the following (or the preceding) duplicated address
+        // "PaymentsV2": "0x8d85b3517b28C7CeB3c012e7a8b334a7259ddcAa",
         "LoeCardBack": "0xA893B47D646D3aA876DafE8020BB7c6C456b7003",
         "LoeAvatar": "0x0401333CCf65f19869080b15B210b02b7A942101",
         "AccountFactory": "0x709b46F8FFA35bD4D2c974416b5e59eB7F40C6B9",
