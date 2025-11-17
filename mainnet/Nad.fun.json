@@ -2,7 +2,7 @@
   "name": "Nad.fun",
   "description": "Launch, trade and predict on Monad",
   "live": true,
-  "categories": ["Launchpad"],
+  "categories": ["DeFi::Launchpads"],
   "addresses": {
     "QUOTER_V3": "0x2e06b20Ee1f785bCe6862971fdd58f7bA878da9C",
     "CREATOR_MANAGER": "0xDe2E1c7ffDe10281ec3e515f12868eA7bCb1bF56",
