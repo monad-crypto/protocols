@@ -364,6 +364,11 @@ Mu Protocol,DeFi,RWA,loAZND (Implementation),0x00a927d9d8af27d06c4e2c3abb5b88b0e
 Mu Protocol,DeFi,RWA,loAZND (Proxy),0x9c82eb49b51f7dc61e22ff347931ca32adc6cd90,DeFi::RWA;DeFi::Yield
 Mu Protocol,DeFi,RWA,muBOND,0x336d414754967c6682b5a665c7daf6f1409e63e8,DeFi::RWA;DeFi::Yield
 Circle USDC,DeFi,Stablecoin,USDC,0x754704bc059f8c67012fed69bc8a327a5aafb603,DeFi::Stablecoin
+Mona Trading Bot,DeFi,Trading,MonaV2Router01,0x27a6c2e8ae9e7f96040394a1f8fe2a202ce0e599,DeFi::Trading
+Mona Trading Bot,DeFi,Trading,MonaV2Router02,0x95def69a01962f0cb24e2c5daa1fa5126beea95d,DeFi::Trading
+Mona Trading Bot,DeFi,Trading,MonaV3Router01,0x7e75d7eb235703d8acbd71382bf2f344fb23ab5b,DeFi::Trading
+Mona Trading Bot,DeFi,Trading,MonaV3Router02,0x50adc49f643f06888a8950dd172ae48221e49a38,DeFi::Trading
+Mona Trading Bot,DeFi,Trading,MonaV3Router03,0x09ec7d8d3065097d5859539ed4590dd76c0c77e0,DeFi::Trading
 Definitive Finance,DeFi,Trading Interfaces,VaultBeacon,0x000000005ae5f42270cdf0e41960840e7fb1b2dc,DeFi::Trading Interfaces
 Definitive Finance,DeFi,Trading Interfaces,VaultFactory,0xdef00000cc0a125ba7962e8113d3b69786851736,DeFi::Trading Interfaces
 Definitive Finance,DeFi,Trading Interfaces,VaultImplementation,0x0000000d1126e7651931461f31be87712cd9e05c,DeFi::Trading Interfaces
