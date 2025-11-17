@@ -144,6 +144,9 @@ PinotFinance,DeFi,DEX,UniswapV2Router,0x276e41572bb7a063ec728d659467d42bc91f9f6c
 PinotFinance,DeFi,DEX,UniswapV3Factory,0xfd9c7369347e3b0a80e65223384831b2926ff4d0,DeFi::DEX
 PinotFinance,DeFi,DEX,UniversalRouter,0x8968a4f1fe7094834afd4156f716da1e342648a5,DeFi::DEX
 PinotFinance,DeFi,DEX,WETH,0x3bd359c1119da7da1d913d1c4d2b7c461115433a,DeFi::DEX
+Purps,DeFi,DEX,PurpsRouter04,0x17b4b5f99ec25aaaa644107f86a7756212d4d026,DeFi::DEX;DeFi::Perpetuals / Derivatives;DeFi::Launchpads
+Purps,DeFi,DEX,PurpsV2Factory,0xafe4d3eb898591ace6285176b26f0f5beb894447,DeFi::DEX;DeFi::Perpetuals / Derivatives;DeFi::Launchpads
+Purps,DeFi,DEX,PurpsV2Router02,0x22adf91b491abc7a50895cd5c5c194eccc93f5e2,DeFi::DEX;DeFi::Perpetuals / Derivatives;DeFi::Launchpads
 Skate AMM,DeFi,DEX,ActionBox,0x430b6e7f7d43d70786267af7a5b2c1831372ca24,DeFi::DEX;Infra::Interoperability
 Skate AMM,DeFi,DEX,EventEmitter,0xfbd495862410c549f200ce224ad3d02a0bae260d,DeFi::DEX;Infra::Interoperability
 Skate AMM,DeFi,DEX,ExecutorRegistry,0x0ca6db88ad5eec56ca982fb96a24ad2172b4a0ef,DeFi::DEX;Infra::Interoperability
