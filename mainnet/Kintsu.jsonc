@@ -1,0 +1,23 @@
+{
+    "name": "Kintsu",
+    "description": "Composable liquid staking protocol that powers decentralized validator curation, governed by the Kintsu DAO.",
+    "live": true,
+    "categories": [
+        "DeFi::Staking",
+        "DeFi::Liquid Staking",
+        "DeFi::Yield",
+        "DeFi::Trading Interfaces"
+    ],
+    "addresses": {
+        "StakedMonad (Proxy)": "0xA3227C5969757783154C60bF0bC1944180ed81B9",
+        "StakedMonad (Implementation)": "0xf16f96c342913575e46cff1bb827533c0b285138"
+    },
+    "links": {
+        "project": "https://kintsu.xyz",
+        "twitter": "https://x.com/Kintsu",
+        "github": "https://github.com/WaterCoolerStudiosInc",
+        "docs": "https://docs.kintsu.xyz",
+        "discord": "https://discord.gg/kintsu",
+        "linkedin": "https://www.linkedin.com/company/kintsu-xyz"
+    }
+}
