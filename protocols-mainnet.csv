@@ -420,6 +420,11 @@ ESP.Fun,Gaming,Games,PlayerPack,0x3c1bcd19455f3fa33234faf9c73f9e6ea055a899,Gamin
 Levr Bet,Gaming,Games,VaultRush,0x8e334460192926576ccd04271190c9e9e5916560,Gaming::Games;DeFi::Perpetuals / Derivatives
 LumiterraGame,Gaming,Games,LumiterraGameInbox,0x4bd7ab4f4251f6a20e8c64d24f3a2f89f47d80b9,Gaming::Games
 LumiterraGame,Gaming,Games,LumiterraGameItemNFT,0x8f28e18039c37cdb4389e6dcb8703966fb9480a8,Gaming::Games
+TeleMafia,Gaming,Games,FamilyRegistry,0xa5a6f68a3fce8d345be024d0e0bf4240bc620be4,Gaming::Games
+TeleMafia,Gaming,Games,TeleMafiaCheckIn,0xae2dfca11311e1652b9d3dc39527465435ea94ef,Gaming::Games
+TeleMafia,Gaming,Games,UpgradeableBeacon,0x5d1814d6981247bc796ca3f48d5cc382dd552552,Gaming::Games
+TeleMafia,Gaming,Games,VaultFactory,0x777acab541a663abbad28de92af6caefd67c72cd,Gaming::Games
+TeleMafia,Gaming,Games,VaultImplementation,0xcba51d62d0b240bb8f60eee98351464beaa5cc77,Gaming::Games
 LootGO,Gaming,Mobile-First,LootDrop,0x3e1fc8371bf6dceffd829ae2134005a4ae890b71,Gaming::Mobile-First;Gaming::Games;Consumer::Other
 Nar.bet,Gaming,Other,Baccarat,0xbeaafcc7648354a0722350378bf2a295b9b946a8,Gaming::Other
 Nar.bet,Gaming,Other,Bankroll,0x71dc4a726c92e6bf506f2afc2cee8b63a89b29ec,Gaming::Other
