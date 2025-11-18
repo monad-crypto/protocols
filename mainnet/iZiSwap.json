@@ -10,7 +10,6 @@
         "liquidityModule": "0xF4efDB5A1E852f78e807fAE7100B1d38351e38c7",
         "limitOrderModule": "0xe96526e92ee57bBD468DA1721987aa988b008768",
         "flashModule": "0xbD6abA1Ef82A4cD6e15CB05e95f433ef48dfb5df",
-        "WETH": "0x3bd359C1119dA7Da1D913D1C4D2B7c461115433A",
         "liquidityManager": "0x19b683A2F45012318d9B2aE1280d68d3eC54D663",
         "limitOrderManager": "0x02F55D53DcE23B4AA962CC68b0f685f26143Bdb2",
         "limitOrderWithSwapManager": "0x2db0AFD0045F3518c77eC6591a542e326Befd3D7",
