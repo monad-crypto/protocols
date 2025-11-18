@@ -47,3 +47,4 @@ jobs:
         with:
           commit_message: "Update protocols csvs"
           file_pattern: "*.csv"
+          push_options: "--force"
