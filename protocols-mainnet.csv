@@ -189,6 +189,22 @@ Uniswap,DeFi,DEX,UniswapV3Factory,0x204faca1764b154221e35c0d20abb3c525710498,DeF
 Uniswap,DeFi,DEX,UniversalRouter,0x0d97dc33264bfc1c226207428a79b26757fb9dc3,DeFi::DEX
 Uniswap,DeFi,DEX,V3Migrator,0x7078c4537c04c2b2e52ddba06074dbdacf23ca15,DeFi::DEX
 Uniswap,DeFi,DEX,V4Quoter,0xa222dd357a9076d1091ed6aa2e16c9742dd26891,DeFi::DEX
+iZiSwap,DeFi,DEX,factory,0x8c7d3063579bdb0b90997e18a770eae32e1ebb08,DeFi::DEX
+iZiSwap,DeFi,DEX,flashModule,0xbd6aba1ef82a4cd6e15cb05e95f433ef48dfb5df,DeFi::DEX
+iZiSwap,DeFi,DEX,limitOrderManager,0x02f55d53dce23b4aa962cc68b0f685f26143bdb2,DeFi::DEX
+iZiSwap,DeFi,DEX,limitOrderModule,0xe96526e92ee57bbd468da1721987aa988b008768,DeFi::DEX
+iZiSwap,DeFi,DEX,limitOrderWithSwapManager,0x2db0afd0045f3518c77ec6591a542e326befd3d7,DeFi::DEX
+iZiSwap,DeFi,DEX,liquidityManager,0x19b683a2f45012318d9b2ae1280d68d3ec54d663,DeFi::DEX
+iZiSwap,DeFi,DEX,liquidityModule,0xf4efdb5a1e852f78e807fae7100b1d38351e38c7,DeFi::DEX
+iZiSwap,DeFi,DEX,locker,0x3f559139c2fc7b97ad6fe9b4d1f75149f551db18,DeFi::DEX
+iZiSwap,DeFi,DEX,multicall,0x14323afbc2b82fe58f0d9c203830ee969b4d1be2,DeFi::DEX
+iZiSwap,DeFi,DEX,oracle,0x04830cfced9772b8acbaf76cfc7a630ad82c9148,DeFi::DEX
+iZiSwap,DeFi,DEX,quoter,0x3ef68d3f7664b2805d4e88381b64868a56f88bc4,DeFi::DEX
+iZiSwap,DeFi,DEX,quoterWithLim,0x33531bdbfe34fa6fd5963d0423f7699775aacaaf,DeFi::DEX
+iZiSwap,DeFi,DEX,swap,0x34bc1b87f60e0a30c0e24fd7abada70436c71406,DeFi::DEX
+iZiSwap,DeFi,DEX,swapX2YModule,0x4d4673745aac664efb9758fdd571f40d78a87bfe,DeFi::DEX
+iZiSwap,DeFi,DEX,swapY2XModule,0x32d02fc7722e81f6ac60b87ea8b4b63a52ad2b55,DeFi::DEX
+iZiSwap,DeFi,DEX,tapProxy,0x2c6df0fdbce9d2ded2b52a117126f2dc991f770f,DeFi::DEX
 Eisen,DeFi,DEX Aggregator,EisenDiamond,0x787c474b8a86354d0f5f19fb599a5fc7662a265f,DeFi::DEX Aggregator
 Eisen,DeFi,DEX Aggregator,Forwarder,0xece5e77f9a9846c4d69555eb44e0cff8b5f03f1e,DeFi::DEX Aggregator
 Madhouse,DeFi,DEX Aggregator,Aggregator,0x6017684bea9cb6e9874fc6dba4438271ebf9f5da,DeFi::DEX Aggregator
