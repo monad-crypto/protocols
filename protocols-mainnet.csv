@@ -231,6 +231,14 @@ Eisen,DeFi,DEX Aggregator,EisenDiamond,0x787c474b8a86354d0f5f19fb599a5fc7662a265
 Eisen,DeFi,DEX Aggregator,Forwarder,0xece5e77f9a9846c4d69555eb44e0cff8b5f03f1e,DeFi::DEX Aggregator
 Madhouse,DeFi,DEX Aggregator,Aggregator,0x6017684bea9cb6e9874fc6dba4438271ebf9f5da,DeFi::DEX Aggregator
 Monorail,DeFi,DEX Aggregator,AggregationRouter,0xa68a7f0601effdc65c64d9c47ca1b18d96b4352c,DeFi::DEX Aggregator;DeFi::Trading Interfaces
+Clanker,DeFi,Launchpads,Clanker,0xf9a0c289eab6b571c6247094a853810987e5b26d,DeFi::Launchpads;AI::Other
+Clanker,DeFi,Launchpads,ClankerAirdropV2,0x654e7221fa51d4359ded21d524e3aff18e93a507,DeFi::Launchpads;AI::Other
+Clanker,DeFi,Launchpads,ClankerFeeLocker,0x46b77bacfd712d79131f1ad7611794869483c353,DeFi::Launchpads;AI::Other
+Clanker,DeFi,Launchpads,ClankerHookStaticFeeV2,0x94f802a9efe4dd542fdbd77a25d9e69a6dc828cc,DeFi::Launchpads;AI::Other
+Clanker,DeFi,Launchpads,ClankerLpLockerFeeConversion,0xde51a86d3b6ec9ac4756115d3744335aa2c30144,DeFi::Launchpads;AI::Other
+Clanker,DeFi,Launchpads,ClankerMevDescendingFees,0x3231d1ddfdc4ad585cf1939ffecd9c88b338dbf2,DeFi::Launchpads;AI::Other
+Clanker,DeFi,Launchpads,ClankerUniV4EthDevBuy,0x8790d79283eb941c719b616cfd0ef116d13c7683,DeFi::Launchpads;AI::Other
+Clanker,DeFi,Launchpads,ClankerVault,0xe7d402a5bed94e5c49ac0639e80f784d06e2d397,DeFi::Launchpads;AI::Other
 Flap,DeFi,Launchpads,Portal,0x30e8ee7b5881bf2e158a0514f2150aabe2c68b23,DeFi::Launchpads
 Flap,DeFi,Launchpads,TaxTokenImplementation,0x8e6512ba94c723d8f140b0fd9dbb498854b7a1f4,DeFi::Launchpads
 Flap,DeFi,Launchpads,TaxTokenSplitterImplementation,0x57fed6832f12150a77d5952b49190d9447acb5ee,DeFi::Launchpads

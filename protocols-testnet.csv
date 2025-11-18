@@ -355,6 +355,9 @@ Bebop,DeFi,Intents,JAM,0xbeb0b0623f66be8ce162ebdfa2ec543a522f4ea6,DeFi::Intents
 Bebop,DeFi,Intents,PMM,0xbbbbbbb520d69a9775e85b458c58c648259fad5f,DeFi::Intents
 Hashflow,DeFi,Intents,router,0xca310b1b942a30ff4b40a5e1b69ab4607ec79bc1,DeFi::Intents
 Hedgemony,DeFi,Intents,SwapRouter,0xe31371f8e2c7be43d35dd053b9fa4a613f167426,DeFi::Intents;AI::Other
+Clanker,DeFi,Launchpads,Clanker,0xa0c65813dd1cde7092922a57548ec1ed25994318,DeFi::Launchpads;AI::Other
+Clanker,DeFi,Launchpads,ClankerVault,0x9505a57bf782058890f078be301575cd75045a9b,DeFi::Launchpads;AI::Other
+Clanker,DeFi,Launchpads,LpLockerV2,0xcd89c55d36097a64f777066a6cc8f2c31b7541f7,DeFi::Launchpads;AI::Other
 Flap,DeFi,Launchpads,default,0x4267f317adee7c6478a5ee92985c2bd5d855e274,DeFi::Launchpads
 Nad.fun,DeFi,Launchpads,BONDING_CURVE,0xad720f94689edb929d9be7613223320a0b2f260f,DeFi::Launchpads
 Nad.fun,DeFi,Launchpads,BONDING_CURVE_ROUTER,0xf57f14335e9670ed2c0cef4a59fb707cf2eb3fac,DeFi::Launchpads
