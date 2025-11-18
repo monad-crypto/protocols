@@ -28,6 +28,27 @@ Garden,DeFi,Cross Chain,htlc_usdc,0x5fa58e4e89c85b8d678ade970bd6afd4311af17e,DeF
 0x,DeFi,DEX,MonadSettler,0x478cf28fd1ba92a6afd04f44b05833f6df7f1486,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Launchpads;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces;DeFi::Cross Chain
 0x,DeFi,DEX,MonadSettlerIntent,0xb2376d1183829f444e0ffe9ef1ffaf1b483b84f3,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Launchpads;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces;DeFi::Cross Chain
 0x,DeFi,DEX,MonadSettlerMetaTxn,0xfb36b62145a4b272bc804e5e1b41ddbf4bff4cf4,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Launchpads;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces;DeFi::Cross Chain
+AethonSwap,DeFi,DEX,AlgebraFactory,0x05aa1d36f78d1242c40b3680d38eb1fee7060c20,DeFi::DEX
+AethonSwap,DeFi,DEX,AlgebraInterfaceMulticall,0x90dd87c994959a36d725bb98f9008b0b3c3504a0,DeFi::DEX
+AethonSwap,DeFi,DEX,AlgebraPoolDeployer,0x6f85f158c2289579be8e79a31b78f7dcd4686857,DeFi::DEX
+AethonSwap,DeFi,DEX,AlgebraVaultFactoryStub,0xc67f01e87294a846acecb22d4f8d7aabea9ea794,DeFi::DEX
+AethonSwap,DeFi,DEX,CompounderRelay,0x245f061e602e690266012e8bfbf9b5131ee66d86,DeFi::DEX
+AethonSwap,DeFi,DEX,ConverterRelay,0x81554cc2ac39d03ef5f2e879c9b3748fff61385a,DeFi::DEX
+AethonSwap,DeFi,DEX,EntryPoint,0xe35569726922f66a71e1279824ba6082767e8569,DeFi::DEX
+AethonSwap,DeFi,DEX,IncentiveManagerFactory,0x77996bd2e8272cb694d320be78ce972307d85bf9,DeFi::DEX
+AethonSwap,DeFi,DEX,Lens,0xff9382865eac4c9e79f15586ae7ff68209419f2e,DeFi::DEX
+AethonSwap,DeFi,DEX,Minter,0x217fd038ff2ac580de8e635a5d726f6f0e5214e3,DeFi::DEX
+AethonSwap,DeFi,DEX,NFTArt,0x26c48519bbcf6df3e39d4c724ff82b6f060d3bbe,DeFi::DEX
+AethonSwap,DeFi,DEX,NonfungiblePositionManager,0xdd68207a952718b91d5df31819d0676c269f1fb5,DeFi::DEX
+AethonSwap,DeFi,DEX,NonfungibleTokenPositionDescriptor,0xbf511a2d4f7d895f4cb8dec448ce25a7be211eaf,DeFi::DEX
+AethonSwap,DeFi,DEX,Quoter,0xf31443f5d3fe6b2d026b9079f2fcef2647a9fecc,DeFi::DEX
+AethonSwap,DeFi,DEX,QuoterV2,0x8510e4c073fb7fe75b8e767a1856f85586e24679,DeFi::DEX
+AethonSwap,DeFi,DEX,RewarderRegistry,0x41534b64b8a10b4e5c03bbb792f75f6dfcf462bf,DeFi::DEX
+AethonSwap,DeFi,DEX,SwapRouter,0x50aa60edb77f0446b8e760b5dc3015ad53d04d80,DeFi::DEX
+AethonSwap,DeFi,DEX,TickLens,0xd1814cc0faee1ec941112f8739c47ddd0a908860,DeFi::DEX
+AethonSwap,DeFi,DEX,VeNFTGovernance,0x79b952a25c03b109ce6a6118f1a68a0e0113e8f3,DeFi::DEX
+AethonSwap,DeFi,DEX,Voting,0xcea03e70f95e1998d90549aba02e5f89d1db2c90,DeFi::DEX
+AethonSwap,DeFi,DEX,veNFT,0x545069ebd6cfa0b3028cec5a23c37839b9eeebaa,DeFi::DEX
 Bean Exchange,DeFi,DEX,DLMM_Factory,0x8bb9727ca742c146563dccbafb9308a234e1d242,DeFi::DEX;DeFi::Perpetuals / Derivatives
 Bean Exchange,DeFi,DEX,DLMM_Quoter,0xa398af902950081f2fbe3e16e5e474c2c72ae27a,DeFi::DEX;DeFi::Perpetuals / Derivatives
 Bean Exchange,DeFi,DEX,DLMM_Router,0x721ac9e688e6b86f48b08db2ba2d4b7bbbd12665,DeFi::DEX;DeFi::Perpetuals / Derivatives
