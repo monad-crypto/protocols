@@ -15,6 +15,7 @@ Banza,AI,Consumer AI,DropsToken Proxy,0x68b571f834c9853d2a7e8e364d28db52de47d46d
 KINETK,AI,Consumer AI,KinetkIPCertificate,0xd057b63f5e69cf1b929b356b579cba08d7688048,AI::Consumer AI;AI::Data;DeFi::RWA;Infra::Other
 Kodeus,AI,Consumer AI,KodeusAgents,0x3d3c1db86989ed5196358ee03e2f1258ea183dcb,AI::Consumer AI
 Kodeus,AI,Consumer AI,KodeusMetricsTrackerV6,0xa0371d51c086f846bd02c331dd31cc510645332e,AI::Consumer AI
+Yap Market,Consumer,Social,Escrow,0x29957e3b3dabedbe830b0de53c2c9293d0db1bda,Consumer::Social
 Covenant,DeFi,CDP,Covenant,0x11a7ab0a9d7bd531dbcf0f0630bf7167f8f198f6,DeFi::CDP;DeFi::DEX;DeFi::Yield
 Covenant,DeFi,CDP,CovenantCurator,0xab0f8ab1e67cc02a9d58fc27055292289b159094,DeFi::CDP;DeFi::DEX;DeFi::Yield
 Covenant,DeFi,CDP,DataProvider,0x5c1fb9a1232e87702897424ec0852d30b713bfd8,DeFi::CDP;DeFi::DEX;DeFi::Yield
