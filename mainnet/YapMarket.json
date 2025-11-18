@@ -1,0 +1,13 @@
+{
+    "name": "Yap Market",
+    "description": "Yap Market is an on-demand attention marketplace built on Kaito that helps crypto projects launch high-impact distribution campaigns. We reward creators for real results from engagement to onchain conversions, not vanity metrics.",
+    "live": true,
+    "categories": ["Consumer::Social"],
+    "addresses": {
+        "Escrow": "0x29957e3b3DaBeDBE830b0De53C2C9293d0DB1bda"
+    },
+    "links": {
+        "project": "https://yap.market/",
+        "twitter": "https://x.com/YapdotMarket"
+    }
+}
