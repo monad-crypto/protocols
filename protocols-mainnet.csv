@@ -386,6 +386,17 @@ ApeBond,DeFi,Other,ApeBond,0x1b7858f745211dba1387fe30124ebca2d706d7dd,DeFi::Othe
 ApeBond,DeFi,Other,ApeBondFactory,0xd731d8103132275b21a27ea8c8428ac6b97c5d35,DeFi::Other
 ApeBond,DeFi,Other,BondNft,0xc765c358622cb346f236f8bfffe53036e421bb4e,DeFi::Other
 ApeBond,DeFi,Other,BondTreasury,0x1f226c1008f5de89614bb15d09745128cf2a4d62,DeFi::Other
+Sablier,DeFi,Other,FlowNFTDescriptor,0xf51bb8bd1cfc7c890db68c39dcca67cad7810ce4,DeFi::Other
+Sablier,DeFi,Other,Helpers,0xa0a1ac47260b95d334763473b868117ef7343aa0,DeFi::Other
+Sablier,DeFi,Other,LockupMath,0x1feb172238638897b13b69c65feb508a0a96b35d,DeFi::Other
+Sablier,DeFi,Other,LockupNFTDescriptor,0x619e7f9832522edebd883482cd3d84653a050725,DeFi::Other
+Sablier,DeFi,Other,SablierBatchLockup,0x4fcacf614e456728caea87f475bd78ec3550e20b,DeFi::Other
+Sablier,DeFi,Other,SablierFactoryMerkleInstant,0xab15e653cd3bbce7b7412f81056a450bc0f2e7b9,DeFi::Other
+Sablier,DeFi,Other,SablierFactoryMerkleLL,0x7dcab43465c1ebda92133c92262a6c55394dd69e,DeFi::Other
+Sablier,DeFi,Other,SablierFactoryMerkleLT,0xfa2bf3eddefe67631bffa5c53b621a9c6bebc9c3,DeFi::Other
+Sablier,DeFi,Other,SablierFactoryMerkleVCA,0xcdcc46a7759de01271e533bbc3b0f32899545a76,DeFi::Other
+Sablier,DeFi,Other,SablierFlow,0x0340a829b6dc3adf7710a5baf1970914af4977f5,DeFi::Other
+Sablier,DeFi,Other,SablierLockup,0x003f5393f4836f710d492ad98d89f5bfccf1c962,DeFi::Other
 LeverUp,DeFi,Perpetuals / Derivatives,LVMON,0x91b81bfbe3a747230f0529aa28d8b2bc898e6d56,DeFi::Perpetuals / Derivatives;DeFi::RWA;DeFi::Stablecoin
 LeverUp,DeFi,Perpetuals / Derivatives,LVMON_Issuer,0xbf52ced429c3901afa4bbf25849269ef7a4ad105,DeFi::Perpetuals / Derivatives;DeFi::RWA;DeFi::Stablecoin
 LeverUp,DeFi,Perpetuals / Derivatives,LVUSD,0xfd44b35139ae53fff7d8f2a9869c503d987f00d1,DeFi::Perpetuals / Derivatives;DeFi::RWA;DeFi::Stablecoin
