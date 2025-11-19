@@ -5,7 +5,11 @@
     "categories": ["Infra::Interoperability"],
     "addresses": {
         "Core": "0xBB73cB66C26740F31d1FabDC6b7A46a038A300dd",
+        "TokenBridge": "0xF323dcDe4d33efe83cf455F78F9F6cc656e6B659",
         "Relayer": "0x362fca37E45fe1096b42021b543f462D49a5C8df"
+    },
+    "info": {
+        "wormholeChainId": 48
     },
     "links": {
         "project": "https://wormhole.com/",
