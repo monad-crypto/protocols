@@ -53,6 +53,25 @@ AethonSwap,DeFi,DEX,TickLens,0xd1814cc0faee1ec941112f8739c47ddd0a908860,DeFi::DE
 AethonSwap,DeFi,DEX,VeNFTGovernance,0x79b952a25c03b109ce6a6118f1a68a0e0113e8f3,DeFi::DEX
 AethonSwap,DeFi,DEX,Voting,0xcea03e70f95e1998d90549aba02e5f89d1db2c90,DeFi::DEX
 AethonSwap,DeFi,DEX,veNFT,0x545069ebd6cfa0b3028cec5a23c37839b9eeebaa,DeFi::DEX
+Atlantis,DeFi,DEX,AlgebraCommunityVault,0x4439199c3743161ca22bb8f8b6dec5bf6ff65b04,DeFi::DEX
+Atlantis,DeFi,DEX,AlgebraDefaultPluginFactory,0x38a5c36fa8c8c9e4649b51fcd61810b14e7ce047,DeFi::DEX
+Atlantis,DeFi,DEX,AlgebraEternalFarming,0x50fcbf85d23af7c91f94842fecd83d16665d27ba,DeFi::DEX
+Atlantis,DeFi,DEX,AlgebraFactory,0x10253594a832f967994b44f33411940533302acb,DeFi::DEX
+Atlantis,DeFi,DEX,AlgebraInterfaceMulticall,0xb4f9b6b019e75cbe51af4425b2fc12797e2ee2a1,DeFi::DEX
+Atlantis,DeFi,DEX,AlgebraPoolDeployer,0xd7cb0e0692f2d55a17ba81c1fe5501d66774fc4a,DeFi::DEX
+Atlantis,DeFi,DEX,AlgebraVaultFactoryStub,0x955b95b8532fe75ddcf2161f61127be74a768158,DeFi::DEX
+Atlantis,DeFi,DEX,EntryPoint,0x4a3bc48c156384f9564fd65a53a2f3d534d8f2b7,DeFi::DEX
+Atlantis,DeFi,DEX,FarmingCenter,0x658e287e9c820484f5808f687dc4863b552de37d,DeFi::DEX
+Atlantis,DeFi,DEX,LimitOrderManager,0x503d191cafab1d097b5f798d850e5897195c1d74,DeFi::DEX
+Atlantis,DeFi,DEX,NonfungiblePositionManager,0x69d57b9d705ead73a5d2f2476c30c55bd755cc2f,DeFi::DEX
+Atlantis,DeFi,DEX,NonfungibleTokenPositionDescriptor,0xd637cbc214bc3dd354abb309f4fe717ffdd0b28c,DeFi::DEX
+Atlantis,DeFi,DEX,PluginFactory,0xfe3becd788320465ab649015f34f7771220a88b2,DeFi::DEX
+Atlantis,DeFi,DEX,Proxy,0x6ad6a4f233f1e33613e996ccc17409b93ff8bf5f,DeFi::DEX
+Atlantis,DeFi,DEX,Quoter,0x03f8b4b140249dc7b2503c928e7258cce1d91f1a,DeFi::DEX
+Atlantis,DeFi,DEX,QuoterV2,0xa77ad9f635a3fb3bccc5e6d1a87cb269746aba17,DeFi::DEX
+Atlantis,DeFi,DEX,SecurityRegistry,0x83d4a9ea77a4dba073cd90b30410ac9f95f93e7c,DeFi::DEX
+Atlantis,DeFi,DEX,SwapRouter,0x3012e9049d05b4b5369d690114d5a5861ebb85cb,DeFi::DEX
+Atlantis,DeFi,DEX,TickLens,0x13fce0acbe6fb11641ab753212550574cad31415,DeFi::DEX
 Bean Exchange,DeFi,DEX,DLMM_Factory,0x8bb9727ca742c146563dccbafb9308a234e1d242,DeFi::DEX;DeFi::Perpetuals / Derivatives
 Bean Exchange,DeFi,DEX,DLMM_Quoter,0xa398af902950081f2fbe3e16e5e474c2c72ae27a,DeFi::DEX;DeFi::Perpetuals / Derivatives
 Bean Exchange,DeFi,DEX,DLMM_Router,0x721ac9e688e6b86f48b08db2ba2d4b7bbbd12665,DeFi::DEX;DeFi::Perpetuals / Derivatives
