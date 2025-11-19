@@ -21,7 +21,10 @@
         "NonfungiblePositionManager": "0x69D57B9D705eaD73a5d2f2476C30c55bD755cc2F",
         "AlgebraInterfaceMulticall": "0xB4F9b6b019E75CBe51af4425b2Fc12797e2Ee2a1",
         "AlgebraEternalFarming": "0x50FCbF85d23aF7C91f94842FeCd83d16665d27bA",
-        "FarmingCenter": "0x658E287E9C820484f5808f687dC4863B552de37D"
+        "FarmingCenter": "0x658E287E9C820484f5808f687dC4863B552de37D",
+        "AlgebraDefaultPluginFactory": "0x38A5C36FA8c8c9E4649b51FCD61810B14e7ce047",
+        "SecurityRegistry": "0x83D4a9Ea77a4dbA073cD90b30410Ac9F95F93E7C",
+        "LimitOrderManager": "0x503D191CaFaB1d097b5F798d850E5897195C1d74"
     },
     "links": {
         "project": "https://atlantisdex.xyz",
