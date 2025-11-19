@@ -13,6 +13,7 @@ Symphony,AI,Agent Launchpad,SymphonySmartAccount,0x527849787bb79cbede5ebed438e68
 Banza,AI,Consumer AI,DropsToken Implementation,0x11fbe9e637c4a3deca3453f2925aaaa18e16963e,AI::Consumer AI
 Banza,AI,Consumer AI,DropsToken Proxy,0x68b571f834c9853d2a7e8e364d28db52de47d46d,AI::Consumer AI
 KINETK,AI,Consumer AI,KinetkIPCertificate,0xd057b63f5e69cf1b929b356b579cba08d7688048,AI::Consumer AI;AI::Data;DeFi::RWA;Infra::Other
+Kinic AI Memory Agent,AI,Consumer AI,KinicMemoryLog,0xeb5b78fa81cfea1a46d46b3a42814f5a68038548,AI::Consumer AI;DePIN::Storage
 Kodeus,AI,Consumer AI,KodeusAgents,0x3d3c1db86989ed5196358ee03e2f1258ea183dcb,AI::Consumer AI
 Kodeus,AI,Consumer AI,KodeusMetricsTrackerV6,0xa0371d51c086f846bd02c331dd31cc510645332e,AI::Consumer AI
 Yap Market,Consumer,Social,Escrow,0x29957e3b3dabedbe830b0de53c2c9293d0db1bda,Consumer::Social
