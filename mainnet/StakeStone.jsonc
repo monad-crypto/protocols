@@ -1,0 +1,16 @@
+{
+  "name": "StakeStone",
+  "description": "Autonomous Neo Banking.",
+  "live": true,
+  "categories": ["DeFi::Asset Issuers", "DeFi::Liquid Staking", "DeFi::Stablecoin", "DeFi::Yield"],
+  "addresses": {
+    "STONEUSD": "0x095957CEB9f317ac1328f0aB3123622401766D71",
+    "LayerZeroAdapter": "0xEc901DA9c68E90798BbBb74c11406A32A70652C3"
+  },
+  "links": {
+    "project": "https://stakestone.io",
+    "twitter": "https://x.com/stake_stone",
+    "github": "https://github.com/stakestone",
+    "docs": "https://docs.stakestone.io/stakestone"
+  }
+}
