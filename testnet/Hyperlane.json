@@ -1,11 +1,13 @@
 {
     "name": "Hyperlane",
     "description": "Hyperlane is a permissionless interoperability protocol for cross-chain message passing & asset transfers. It's fast, free, and open-source!",
-    "live": false,
+    "live": true,
     "categories": [
         "Infra::Interoperability"
     ],
-    "addresses": {},
+    "addresses": {
+        "ISMOperator": "0x734628f55694d2a5f4de3e755ccb40ecd72b16d9"
+    },
     "links": {
         "project": "https://hyperlane.xyz",
         "twitter": "https://x.com/hyperlane",

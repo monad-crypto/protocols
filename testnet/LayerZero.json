@@ -4,13 +4,16 @@
     "live": true,
     "categories": ["Infra::Interoperability"],
     "addresses": {
-        "unknown0": "0x6C7Ab2202C98C4227C5c46f1417D81144DA716Ff",
-        "unknown1": "0xd682ECF100f6F4284138AA925348633B0611Ae21",
-        "unknown2": "0xcF1B0F4106B0324F96fEfcC31bA9498caa80701C",
-        "unknown3": "0xB0487596a0B62D1A71D0C33294bd6eB635Fc6B09",
-        "unknown4": "0x073f5b4FdF17BBC16b0980d49f6C56123477bb51",
-        "unknown5": "0x926984a57b10a3a5c4cfdbac04daaa0309e78932",
-        "unknown6": "0x9dB9Ca3305B48F196D18082e91cB64663b13d014"
+        "EndpointV2": "0x6C7Ab2202C98C4227C5c46f1417D81144DA716Ff",
+        "SendUln302": "0xd682ECF100f6F4284138AA925348633B0611Ae21",
+        "ReceiveUln302": "0xcF1B0F4106B0324F96fEfcC31bA9498caa80701C",
+        "BlockedMessageLib": "0x926984a57b10a3a5c4cfdbac04daaa0309e78932",
+        "LZExecutor": "0x9dB9Ca3305B48F196D18082e91cB64663b13d014",
+        "LZDeadDVN": "0xF49d162484290EAeAd7bb8C2c7E3a6f8f52e32d6"
+    },
+    "info": {
+        "endpointId": 40204,
+        "addressReference": "https://docs.layerzero.network/v2/deployments/deployed-contracts?chains=monad-testnet"
     },
     "links": {
         "project": "https://layerzero.network/",
