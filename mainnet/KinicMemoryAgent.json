@@ -1,0 +1,17 @@
+{
+  "name": "Kinic AI Memory Agent",
+  "description": "AI-powered memory system combining Kinic/Internet Computer for semantic storage with Monad blockchain for transparent metadata logging and audit trails. Features Claude AI integration for intelligent context-aware responses.",
+  "live": true,
+  "categories": [
+    "AI::Consumer AI",
+    "DePIN::Storage"
+  ],
+  "addresses": {
+    "KinicMemoryLog": "0xEB5B78Fa81cFEA1a46D46B3a42814F5A68038548"
+  },
+  "links": {
+    "project": "https://kinicmemory.com",
+    "github": "https://github.com/hshadab/kinic-monad-poc",
+    "docs": "https://github.com/hshadab/kinic-monad-poc/blob/master/README.md"
+  }
+}
