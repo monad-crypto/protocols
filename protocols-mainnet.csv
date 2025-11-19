@@ -17,6 +17,8 @@ Kinic AI Memory Agent,AI,Consumer AI,KinicMemoryLog,0xeb5b78fa81cfea1a46d46b3a42
 Kodeus,AI,Consumer AI,KodeusAgents,0x3d3c1db86989ed5196358ee03e2f1258ea183dcb,AI::Consumer AI
 Kodeus,AI,Consumer AI,KodeusMetricsTrackerV6,0xa0371d51c086f846bd02c331dd31cc510645332e,AI::Consumer AI
 Yap Market,Consumer,Social,Escrow,0x29957e3b3dabedbe830b0de53c2c9293d0db1bda,Consumer::Social
+StakeStone,DeFi,Asset Issuers,LayerZeroAdapter,0xec901da9c68e90798bbbb74c11406a32a70652c3,DeFi::Asset Issuers;DeFi::Liquid Staking;DeFi::Stablecoin;DeFi::Yield
+StakeStone,DeFi,Asset Issuers,STONEUSD,0x095957ceb9f317ac1328f0ab3123622401766d71,DeFi::Asset Issuers;DeFi::Liquid Staking;DeFi::Stablecoin;DeFi::Yield
 Covenant,DeFi,CDP,Covenant,0x11a7ab0a9d7bd531dbcf0f0630bf7167f8f198f6,DeFi::CDP;DeFi::DEX;DeFi::Yield
 Covenant,DeFi,CDP,CovenantCurator,0xab0f8ab1e67cc02a9d58fc27055292289b159094,DeFi::CDP;DeFi::DEX;DeFi::Yield
 Covenant,DeFi,CDP,DataProvider,0x5c1fb9a1232e87702897424ec0852d30b713bfd8,DeFi::CDP;DeFi::DEX;DeFi::Yield
