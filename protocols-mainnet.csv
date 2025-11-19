@@ -85,6 +85,20 @@ Curve Finance,DeFi,DEX,TwocryptoMath,0x95249dd40dda3c0cbb4a7dd7d287e04aa68a3d4b,
 Curve Finance,DeFi,DEX,TwocryptoViews,0x17c67c3a38f68cbc4dec77fd7378978971b6c271,DeFi::DEX;DeFi::Stableswap
 Dirol,DeFi,DEX,CoreAggregator,0x77e73c3fcd3fedba383025cde4a5b97733a34c2e,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Launchpads;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces
 Dirol,DeFi,DEX,LimitOrderModule,0xa82098c33c75a4a1e20e06f352732910c75c690d,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Launchpads;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces
+Kansei,DeFi,DEX,BDeployer,0x0493b0f962346aadcab77abc6d24a9c69a74962b,DeFi::DEX;DeFi::Liquid Staking;DeFi::Leveraged Farming;DeFi::Lending;DeFi::Stableswap;DeFi::Yield
+Kansei,DeFi,DEX,CDeployer,0x58ba4db931da0509b7f0b7477925de3e9a20ce1a,DeFi::DEX;DeFi::Liquid Staking;DeFi::Leveraged Farming;DeFi::Lending;DeFi::Stableswap;DeFi::Yield
+Kansei,DeFi,DEX,KanseiFarm,0xcb79e3edb6bf3d7e66e3f685cd9f2373f462f4f3,DeFi::DEX;DeFi::Liquid Staking;DeFi::Leveraged Farming;DeFi::Lending;DeFi::Stableswap;DeFi::Yield
+Kansei,DeFi,DEX,KanseiLendFactory,0x2632662f3750ee27b025d44adff0b86839d0bec1,DeFi::DEX;DeFi::Liquid Staking;DeFi::Leveraged Farming;DeFi::Lending;DeFi::Stableswap;DeFi::Yield
+Kansei,DeFi,DEX,KanseiLendRouter,0x4834a84c17c2a449054e0ad1e0fc63cd5512bfd2,DeFi::DEX;DeFi::Liquid Staking;DeFi::Leveraged Farming;DeFi::Lending;DeFi::Stableswap;DeFi::Yield
+Kansei,DeFi,DEX,KanseiLendVaultTokenFactory,0xfd792edce7926484c560466a6a4c7952602670ea,DeFi::DEX;DeFi::Liquid Staking;DeFi::Leveraged Farming;DeFi::Lending;DeFi::Stableswap;DeFi::Yield
+Kansei,DeFi,DEX,KanseiPoints,0xe665de7aad6b20cafa4bee85b6b27a4000b106e4,DeFi::DEX;DeFi::Liquid Staking;DeFi::Leveraged Farming;DeFi::Lending;DeFi::Stableswap;DeFi::Yield
+Kansei,DeFi,DEX,KanseiToken,0xda3a330073c10eb00afc322f77bc24ed289d083f,DeFi::DEX;DeFi::Liquid Staking;DeFi::Leveraged Farming;DeFi::Lending;DeFi::Stableswap;DeFi::Yield
+Kansei,DeFi,DEX,KanseiVault,0xad2074ebbd819f47ac936cdadc5f3fc8a6609f00,DeFi::DEX;DeFi::Liquid Staking;DeFi::Leveraged Farming;DeFi::Lending;DeFi::Stableswap;DeFi::Yield
+Kansei,DeFi,DEX,PriceOracle,0xeba09adcb1d0052745ceadf0e9c3a87e2ab11b2f,DeFi::DEX;DeFi::Liquid Staking;DeFi::Leveraged Farming;DeFi::Lending;DeFi::Stableswap;DeFi::Yield
+Kansei,DeFi,DEX,V2Factory,0x6b672532b4347b56236ceed8a2410aec4395fdb2,DeFi::DEX;DeFi::Liquid Staking;DeFi::Leveraged Farming;DeFi::Lending;DeFi::Stableswap;DeFi::Yield
+Kansei,DeFi,DEX,V2Router,0x33d4220003a120b07f0a764a6c9a70e6d328c461,DeFi::DEX;DeFi::Liquid Staking;DeFi::Leveraged Farming;DeFi::Lending;DeFi::Stableswap;DeFi::Yield
+Kansei,DeFi,DEX,stMON,0x8f8420cfed0b9f84f3b4c593494d288f8a4a84c4,DeFi::DEX;DeFi::Liquid Staking;DeFi::Leveraged Farming;DeFi::Lending;DeFi::Stableswap;DeFi::Yield
+Kansei,DeFi,DEX,wstMON,0x41d5ef83d666bed43d78bc467c844512f27f5d03,DeFi::DEX;DeFi::Liquid Staking;DeFi::Leveraged Farming;DeFi::Lending;DeFi::Stableswap;DeFi::Yield
 Kuru,DeFi,DEX,KuruFlowEntryPoint,0xb3e6778480b2e488385e8205ea05e20060b813cb,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Launchpads;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces
 Kuru,DeFi,DEX,KuruFlowRouter,0x465d06d4521ae9ce724e0c182daad5d8a2ff7040,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Launchpads;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces
 Kuru,DeFi,DEX,KuruForwarder,0x974e61bba9c4704e8bcc1923fdc3527b41323faa,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Launchpads;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces
