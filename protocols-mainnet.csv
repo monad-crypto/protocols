@@ -126,6 +126,10 @@ Kuru,DeFi,DEX,KuruForwarder,0x974e61bba9c4704e8bcc1923fdc3527b41323faa,DeFi::DEX
 Kuru,DeFi,DEX,MarginAccount,0x2a68ba1833cdf93fa9da1eebd7f46242ad8e90c5,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Launchpads;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces
 Kuru,DeFi,DEX,MonadDeployer,0xe29309e308af3ee3b1a414e97c37a58509f27d1e,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Launchpads;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces
 Kuru,DeFi,DEX,Router,0xd651346d7c789536ebf06dc72ae3c8502cd695cc,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Launchpads;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces
+KyberSwap,DeFi,DEX,DSLOProtocol,0xcab2fa2eeab7065b45cbcf6e3936dde2506b4f6c,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Trading Interfaces;DeFi::Cross Chain
+KyberSwap,DeFi,DEX,KSZapRouterPosition,0x89c91686948c3bc9a5bdf7a2a773ea71530a233e,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Trading Interfaces;DeFi::Cross Chain
+KyberSwap,DeFi,DEX,MetaAggregationRouterV2,0x6131b5fae19ea4f9d964eac0408e4408b66337b5,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Trading Interfaces;DeFi::Cross Chain
+KyberSwap,DeFi,DEX,UniswapV4KEMHook,0x4445520306c9c70952bdfec28f3989f53d9f80c4,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Trading Interfaces;DeFi::Cross Chain
 LFJ,DeFi,DEX,DexLens,0x7ac3dd4b5a3f7013116d8a28f0579a678282ea5c,DeFi::DEX;DeFi::Memecoin
 LFJ,DeFi,DEX,Joe,0x371c7ec6d8039ff7933a2aa28eb827ffe1f52f07,DeFi::DEX;DeFi::Memecoin
 LFJ,DeFi,DEX,JoeAggregatorRouter,0x45a62b090df48243f12a21897e7ed91863e2c86b,DeFi::DEX;DeFi::Memecoin
