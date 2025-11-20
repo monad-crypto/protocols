@@ -4,17 +4,20 @@
     "live": true,
     "categories": ["Infra::Interoperability"],
     "addresses": {
+        // check https://axelar-mainnet.s3.us-east-2.amazonaws.com/configs/mainnet-config-1.x.json for the latest addresses
         "AxelarGateway": "0xe432150cce91c13a887f7D836923d5597adD8E31",
-        "AxelarGasService": "0xbE406F0189A0B4cf3A05C286473D23791Dd44Cc6",
+        "AxelarGasService": "0x2d5d7d31F671F86C782533cc367F14109a082712",
         "MonadAxelarTransceiver": "0x50beAbe4883981624aEa01F737B040d1e3Fe83FB",
-        "Operators": "0x7F83F5cA2AE4206AbFf8a3C3668e88ce5F11C0B5",
+        "Operators": "0x7DdB2d76b80B0AA19bDEa48EB1301182F4CeefbC",
         "ConstAddressDeployer": "0x98B2920D53612483F91F12Ed7754E51b4A77919e",
-        "Create3Deployer": "0x6513Aedb4D1593BA12e50644401D976aebDc90d8"
+        "Create3Deployer": "0x6513Aedb4D1593BA12e50644401D976aebDc90d8",
+        "InterchainTokenService": "0xB5FB4BE02232B1bBA4dC8f81dc24C26980dE9e3C",
+        "InterchainTokenFactory": "0x83a93500d23Fbc3e82B410aD07A6a9F7A0670D66"
     },
     "links": {
         "project": "https://axelar.network",
         "twitter": "https://x.com/axelar",
         "github": "https://github.com/axelarnetwork",
-        "docs": "https://docs.axelar.network"
+        "docs": "https://docs.axelar.dev"
     }
 }

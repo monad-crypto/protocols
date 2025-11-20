@@ -1,0 +1,37 @@
+{
+    "name": "AethonSwap",
+    "description": "AethonSwap is a next-generation decentralized exchange (DEX) designed to be the central liquidity hub of Monad.",
+    "live": true,
+    "categories": [
+        "DeFi::DEX"
+    ],
+    "addresses": {
+        "AlgebraPoolDeployer": "0x6f85F158c2289579BE8e79a31B78F7DCd4686857",
+        "AlgebraFactory": "0x05aA1d36F78D1242C40b3680d38EB1feE7060c20",
+        "AlgebraVaultFactoryStub": "0xC67F01e87294a846ACEcB22d4f8D7AAbea9EA794",
+        "EntryPoint": "0xE35569726922F66a71e1279824Ba6082767E8569",
+        "TickLens": "0xd1814cC0FAee1EC941112F8739C47ddd0a908860",
+        "Quoter": "0xf31443F5d3fe6B2d026B9079F2fcEf2647A9fEcc",
+        "QuoterV2": "0x8510E4C073fb7fe75B8e767A1856F85586e24679",
+        "SwapRouter": "0x50AA60Edb77F0446b8E760B5Dc3015AD53D04d80",
+        "NonfungibleTokenPositionDescriptor": "0xBf511a2d4f7D895F4cb8DeC448CE25a7bE211EAF",
+        "NonfungiblePositionManager": "0xDD68207A952718b91d5dF31819d0676C269f1fB5",
+        "AlgebraInterfaceMulticall": "0x90dD87C994959A36d725bB98F9008B0b3C3504A0",
+        "RewarderRegistry": "0x41534b64b8a10b4e5C03bbB792F75f6DfCF462bF",
+        "veNFT": "0x545069eBd6cFA0B3028CEC5A23C37839B9EeEBaa",
+        "VeNFTGovernance": "0x79b952a25c03b109cE6a6118F1A68a0E0113E8f3",
+        "NFTArt": "0x26c48519bBCf6df3E39d4C724ff82B6F060D3Bbe",
+        "IncentiveManagerFactory": "0x77996bd2e8272cB694D320be78CE972307D85bF9",
+        "Minter": "0x217fd038FF2ac580de8E635a5d726f6f0E5214e3",
+        "Voting": "0xcea03e70f95e1998D90549Aba02E5f89D1db2C90",
+        "Lens": "0xFF9382865eAc4C9E79f15586Ae7ff68209419f2e",
+        "CompounderRelay": "0x245f061e602E690266012E8bFBf9b5131ee66d86",
+        "ConverterRelay": "0x81554Cc2aC39D03Ef5F2e879c9B3748fff61385a"
+    },
+    "links": {
+        "project": "https://app.aethonswap.com/",
+        "twitter": "https://x.com/aethonswap",
+        "github": "https://github.com/aethonswap",
+        "docs": "https://docs.aethonswap.com/"
+    }
+}

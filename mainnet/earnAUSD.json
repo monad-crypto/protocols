@@ -1,0 +1,21 @@
+{
+    "name": "earnAUSD",
+    "description": "The primary liquid yield token on Monad, systematically allocating AUSD across top DeFi opportunities",
+    "live": true,
+    "categories": [
+        "DeFi::Yield Aggregator"
+    ],
+    "addresses": {
+        "contract": "0x36eDbF0C834591BFdfCaC0Ef9605528c75c406aA",
+        "proxyAdmin": "0x04ae5a71eA943f9Fc4ECB3BD4118e381cD04067D",
+        "tokenProxy": "0x103222f020e98Bba0AD9809A011FDF8e6F067496",
+        "tokenProxyAdmin": "0x942147E26B4F320b1f1D34895497aB59a56DceeC",
+        "timeLockedCallsContract": "0x95f3458Cb7FE0fd8D22DA406F688aa6Ac74AEa84",
+        "assetsWhitelist": "0xceA701f0Ff0a2e8A51a5C5c1D2B6b69BFA849989",
+        "sendersWhitelist": "0x0000000000000000000000000000000000000000"
+    },
+    "links": {
+        "website": "upshift.finance",
+        "twitter": "x.com/upshift_fi"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Mona Trading Bot",
+    "description": "Fastest trading bot built on Monad",
+    "categories": [
+        "DeFi::Trading Interfaces"
+    ],
+    "addresses": {
+        "MonaV2Router01": "0x27A6c2E8aE9E7f96040394a1F8fE2A202cE0E599",
+        "MonaV3Router01": "0x7e75D7EB235703D8AcbD71382bF2F344fB23aB5b",
+        "MonaV2Router02": "0x95dEf69A01962f0Cb24e2C5DAA1Fa5126Beea95D",
+        "MonaV3Router02": "0x50aDc49F643F06888A8950dD172Ae48221e49a38",
+        "MonaV3Router03": "0x09ec7D8D3065097D5859539ED4590Dd76c0C77e0"
+    },
+    "links": {
+        "project": "https://t.me/monatradebot",
+        "twitter": "https://x.com/MonaTradingBot",
+        "docs": "https://monatradingbot.gitbook.io/docs"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Atlantis",
+    "description": "Modular V4 DEX offering cross-chain swaps, DeFAI, a launchpad, farming, staking, fiat on-ramp, & more.",
+    "live": true,
+    "categories": [
+        "DeFi::DEX"
+    ],
+    "addresses": {
+        "AlgebraPoolDeployer": "0xd7cB0E0692f2D55A17bA81c1fE5501D66774fC4A",
+        "AlgebraFactory": "0x10253594A832f967994b44f33411940533302ACb",
+        "AlgebraCommunityVault": "0x4439199c3743161ca22bB8F8B6deC5bF6fF65b04",
+        "AlgebraVaultFactoryStub": "0x955B95b8532fe75DDCf2161f61127Be74A768158",
+        "PluginFactory": "0xFe3BEcd788320465ab649015F34F7771220A88b2",
+        "EntryPoint": "0x4A3BC48C156384f9564Fd65A53a2f3D534D8f2b7",
+        "TickLens": "0x13fcE0acbe6Fb11641ab753212550574CaD31415",
+        "Quoter": "0x03f8B4b140249Dc7B2503C928E7258CCe1d91F1A",
+        "QuoterV2": "0xa77aD9f635a3FB3bCCC5E6d1A87cB269746Aba17",
+        "SwapRouter": "0x3012E9049d05B4B5369D690114D5A5861EbB85cb",
+        "NonfungibleTokenPositionDescriptor": "0xD637cbc214Bc3dD354aBb309f4fE717ffdD0B28C",
+        "Proxy": "0x6AD6A4f233F1E33613e996CCc17409B93fF8bf5f",
+        "NonfungiblePositionManager": "0x69D57B9D705eaD73a5d2f2476C30c55bD755cc2F",
+        "AlgebraInterfaceMulticall": "0xB4F9b6b019E75CBe51af4425b2Fc12797e2Ee2a1",
+        "AlgebraEternalFarming": "0x50FCbF85d23aF7C91f94842FeCd83d16665d27bA",
+        "FarmingCenter": "0x658E287E9C820484f5808f687dC4863B552de37D",
+        "AlgebraDefaultPluginFactory": "0x38A5C36FA8c8c9E4649b51FCD61810B14e7ce047",
+        "SecurityRegistry": "0x83D4a9Ea77a4dbA073cD90b30410Ac9F95F93E7C",
+        "LimitOrderManager": "0x503D191CaFaB1d097b5F798d850E5897195C1d74"
+    },
+    "links": {
+        "project": "https://atlantisdex.xyz",
+        "twitter": "https://x.com/atlantisdex_xyz",
+        "docs": "https://atlantis-dex.gitbook.io/whitepaper"
+    }
+}

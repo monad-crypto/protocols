@@ -1,0 +1,23 @@
+{
+  "name": "ESP.Fun",
+  "description": "ESP.Fun is a fantasy esports gaming platform featuring player tokens, pack opening systems, and decentralized trading via automated market maker pools.",
+  "categories": [
+    "Gaming::Games",
+    "NFT::Collections",
+    "DeFi::DEX"
+  ],
+  "addresses": {
+    "Player": "0xC99a1D62a453481B24C5364403E61c4254218d28",
+    "PlayerPack": "0x3C1bCd19455f3fA33234fAf9c73F9E6EA055A899",
+    "PackSale": "0x26448Da45e80709B3E4ADfFa4a98c62925ea836f",
+    "PackSaleReveal": "0x7F51991A3C9c779a841caefeEE4c0167BF6f871A",
+    "FDFPair": "0x5159373fe2D88BbC217a9860AE739eb3294d9e12",
+    "DevelopmentPlayers": "0x81dE118EaECa76df364458d76Ad1f2F02fA7C238",
+    "FeeManager": "0xE4DcbD655aCBf413097CaF4576a4d9dB05aCc015"
+  },
+  "links": {
+    "project": "https://esp.fun/",
+    "twitter": "https://x.com/esp_fun",
+    "github": "https://github.com/0xj0siah/espfun_contracts"
+  }
+}

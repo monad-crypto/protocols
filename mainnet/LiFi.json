@@ -1,0 +1,16 @@
+{
+    "name": "Li.Fi",
+    "description": "One API for seamless swaps, bridging and Zaps across EVM and Solana.",
+    "categories": [
+        "Infra::Interoperability"
+    ],
+    "addresses": {
+        "Li.Fi": "0x026F252016A7C47CDEf1F05a3Fc9E20C92a49C37"
+    },
+    "links": {
+        "project": "https://li.fi/",
+        "twitter": "https://x.com/lifiprotocol",
+        "github": "https://github.com/lifinance",
+        "docs": "https://docs.li.fi/"
+    }
+}
