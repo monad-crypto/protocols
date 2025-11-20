@@ -153,9 +153,7 @@ def main():
             sys.exit(1)
         filepath = os.path.join(base_dir, json_files[0])
         is_valid = is_valid_file(filepath)
-        if is_valid:
-            print(f"✅ {filepath} is valid.")
-        else:
+        if not is_valid:
             print(f"❌ {filepath} is invalid.")
 
     # check all protocols
@@ -166,13 +164,11 @@ def main():
             print("⚠️ No JSON files found in testnet/")
             sys.exit(0)
 
-        print(f"Validating {len(json_files)} files...\n")
+        print(f"Validating {len(json_files)} files...")
         for filename in json_files:
             filepath = os.path.join(base_dir, filename)
             is_valid = is_valid_file(filepath)
-            if is_valid:
-                print(f"✅ {filename} is valid.")
-            else:
+            if not is_valid:
                 print(f"❌ {filename} is invalid.")
                 invalid.append(filename)
 
