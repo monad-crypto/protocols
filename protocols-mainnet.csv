@@ -425,6 +425,8 @@ TownSquare,DeFi,Lending,USDC Pool,0xdb4e67f878289a820046f46f6304fd6ee1449281,DeF
 TownSquare,DeFi,Lending,USDC SpokeToken,0xa457235b68606a7921b7c525d92e9592e793b4c0,DeFi::Lending;DeFi::Cross Chain
 TownSquare,DeFi,Lending,WMON Pool,0xf358f9e4ba7d210fde8c9a30522bb0063e15c4bb,DeFi::Lending;DeFi::Cross Chain
 TownSquare,DeFi,Lending,WMON SpokeToken,0xa2b1ac2bb0a6ad5e74d74f8809a2f935813d273a,DeFi::Lending;DeFi::Cross Chain
+Fastlane,DeFi,Liquid Staking,Atlas,0x2da28fedc4643c787cb5c5e84fa6aadb596875e8,DeFi::Liquid Staking;DeFi::Staking;DeFi::MEV
+Fastlane,DeFi,Liquid Staking,ShMonad,0x1ce060d47a0fd08b0869748fd7eccf151f4ec5d1,DeFi::Liquid Staking;DeFi::Staking;DeFi::MEV
 Puffer,DeFi,Liquid Staking,pufETH,0x37d6382b6889ccef8d6871a8b60e667115eddbcf,DeFi::Liquid Staking;DeFi::Staking
 ApeBond,DeFi,Other,ApeBond,0x1b7858f745211dba1387fe30124ebca2d706d7dd,DeFi::Other
 ApeBond,DeFi,Other,ApeBondFactory,0xd731d8103132275b21a27ea8c8428ac6b97c5d35,DeFi::Other
