@@ -1,0 +1,56 @@
+{
+  "name": "Peridot",
+  "description": "Peridot allows users to earn interest on your crypto and borrow funds without selling, all with smart, fair rates across multiple blockchains.",
+  "live": true,
+  "categories": [
+    "DeFi::Lending"
+  ],
+  "addresses": {
+    "$P": "0x28fE679719e740D15FC60325416bB43eAc50cD15",
+    "Oracle": "0xeAEdaF63CbC1d00cB6C14B5c4DE161d68b7C63A0",
+    "NewOracle": "0x023C03e97a685F5196d9616A1BbC00bBe148B969",
+    "UnitrollerProxy": "0xa41D586530BC7BC872095950aE03a780d5114445",
+    "PeridottrollerG7Implementation": "0xf79b3af6954bCbeDfE0F6BE34DD1153A391E8083",
+    "PeridottrollerG7Proxy": "0xa41D586530BC7BC872095950aE03a780d5114445",
+    "PeridottrollerG7FixedImplementation": "0x1E0c46946CE9512F8b161c4Ac012705C948F0Dcd",
+    "JumpRateModelV2": "0x2d271dEb2596d78aaa2551695Ebfa9Cd440713aC",
+
+    "PErc20Delegate_Implementation_1": "0xF0a6303cA0A99d9235979b317E3a78083162a88B",
+    "pUSDC_Delegator": "0xA72b43Bd60E5a9a13B99d0bDbEd36a9041269246",
+
+    "pWMON_Delegator": "0x8A1a797594997AE7f9972d5C5bD94F17C6A30282",
+    "PErc20Delegate_pWMON": "0xf667095937651F3E2C8D1b035eed6c702Eb6d51b",
+
+    "pUSDT_Delegator": "0xa568bD70068A940910d04117c36Ab1A0225FD140",
+    "PErc20Delegate_pUSDT": "0x3Cdab3da772F08261777F38E770C14c8122200e4",
+
+    "pLINK_Delegator": "0x06827a2dB9047219b3989E926e811808233C95AC",
+    "PErc20Delegate_pLINK": "0x58Ca60610Bf8962d01fc275452F5fA9179940CC9",
+
+    "pWBTC_Delegator": "0x8f11d42EeaA6B454A040c2390501AFE16D150eB4",
+    "PErc20Delegate_Implementation_2": "0xE2c04eB02f2301BFd6be2C132308Ba1100dD6646",
+
+    "pWETH_Delegator": "0xd3167fBADd8Eac1b1b60A5adfCF504d15dC56005",
+    "PErc20Delegate_Implementation_3": "0x056B0E9b04D535c82d2442e6030b53208c98cc86",
+
+    "pP_Delegator": "0xF73e2d1B5C7fe43351212f6559DabB32da71F237",
+    "PErc20Delegate_Implementation_4": "0xaCD0736723BE61f223Ffa37077f2dec0Fb8ceDBC",
+
+    "pPUSD_Delegator": "0x06A08324a1bDa9a89aa8C4E81D6529F583beff1e",
+    "PErc20Delegate_Implementation_5": "0xB744c93Dc73262f64F04F1cd526c1eD889aa9868",
+
+    "rUSDC_Delegator": "0xD2d72FdBCbd7C89a4dCA2c9516e5Cb54F76b808b",
+    "PErc20Delegate_Implementation_6": "0x887C4A5D984B472CdDa699F1b5158D5f217b54Aa",
+
+    "gMON_Delegator": "0x0A33eFCb5E2436e386bBFd377ee5c430132Dad40",
+    "PErc20Delegate_Implementation_7": "0x37F4061480c00AaCc4721E9EbE20D1cCE3DD6AEB"
+  }
+},
+    "links": {
+        "project": "https://peridot.finance",
+        "twitter": "https://x.com/peridotprotocol",
+        "github": "https://github.com/PeridotFinance",
+        "telegram": "https://t.me/peridotlabs",
+        "docs": "https://peridot-finance.gitbook.io/peridot-protocol"
+    }
+}
