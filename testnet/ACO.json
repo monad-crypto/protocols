@@ -1,0 +1,19 @@
+{
+    "name": "ACO Labs",
+    "description": "THE AI CREATIVE STACK: High quality AI content + Engagement automation",
+    "categories": [
+      "AI",
+      "AI agents",
+      "Video generation",
+      "Distribution",
+      "Marketing"
+    ],
+    "addresses": {
+      "default": "0x79dacb99A8698052a9898E81Fdf883c29efb93cb"
+    },
+    "links": {
+      "project": "https://acolyt.ai/",
+      "twitter": "https://x.com/ACO_labs",
+      "video_generation": "https://video.acolyt.ai/"
+    }
+  }
