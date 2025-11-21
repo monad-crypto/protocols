@@ -83,7 +83,7 @@ def collect_protocol_files(directory: str) -> List[str]:
     json_files = [os.path.join(directory_path, f) for f in json_files]
     return json_files
 
-# Define a function to write data to a CSV files
+# Define a function to write data to a CSV file
 def write_csv(rows: List[Dict[str, str]], output_file: str) -> None:
     """
     Write the extracted data to a CSV file.

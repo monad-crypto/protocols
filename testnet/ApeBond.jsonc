@@ -6,7 +6,7 @@
         "DeFi::Other"
     ],
     "addresses": {
-        // TODO: rejected - this is the Purps: V2Router02 contract
+        // TODO: rejected - this is the Purps' V2Router02 contract
         // "contract": "0xc80585f78A6e44fb46e1445006f820448840386e"
     },
     "links": {
