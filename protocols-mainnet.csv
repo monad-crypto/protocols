@@ -24,6 +24,7 @@ Covenant,DeFi,CDP,CovenantCurator,0xab0f8ab1e67cc02a9d58fc27055292289b159094,DeF
 Covenant,DeFi,CDP,DataProvider,0x5c1fb9a1232e87702897424ec0852d30b713bfd8,DeFi::CDP;DeFi::DEX;DeFi::Yield
 Covenant,DeFi,CDP,LatentSwapLEX - 50% targetLTV,0x6a5aa3df89ba1c1f8b471c72159458d61a9447c2,DeFi::CDP;DeFi::DEX;DeFi::Yield
 Covenant,DeFi,CDP,LatentSwapLEX - 80% targetLTV,0x9a369df53ec62725c93f41b891e701bd88aff2c8,DeFi::CDP;DeFi::DEX;DeFi::Yield
+Cashmere,DeFi,Cross Chain,CashmereCCTP,0xd156ffb54871f4562744d6be5d6321b5bffca3b6,DeFi::Cross Chain
 Garden,DeFi,Cross Chain,htlc_native,0xe413743b51f3cc8b3ac24addf50d18fa138cb0bb,DeFi::Cross Chain
 Garden,DeFi,Cross Chain,htlc_usdc,0x5fa58e4e89c85b8d678ade970bd6afd4311af17e,DeFi::Cross Chain
 0x,DeFi,DEX,0xSettlerDeployer,0x00000000000004533fe15556b1e086bb1a72ceae,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Launchpads;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces;DeFi::Cross Chain
@@ -759,4 +760,3 @@ Upfloor,NFT,Other,Upfloor,0xb16eaa34ca11291a70acfc16440f3aabaf89e332,NFT::Other
 PingMe,Payments,Neobanks,CryptoDrop,0x3de0e31a0a9d885bf98ea1512188e06f70d507b2,Payments::Neobanks
 PingMe,Payments,Neobanks,Forwarder,0x2a217b43b138e36979f59999776585ed6bb27542,Payments::Neobanks
 PingMe,Payments,Neobanks,RecoveryVault,0x32f62bdc2be3e1b1c0265143831155253cd5a248,Payments::Neobanks
-Cashmere,DeFi,Cross Chain,CashmereCCTP,0xD156fFB54871F4562744d6Be5d6321B5BffCa3B6,DeFi::Cross Chain
