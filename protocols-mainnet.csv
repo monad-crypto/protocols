@@ -538,6 +538,8 @@ Mona Trading Bot,DeFi,Trading Interfaces,MonaV3Router02,0x50adc49f643f06888a8950
 Mona Trading Bot,DeFi,Trading Interfaces,MonaV3Router03,0x09ec7d8d3065097d5859539ed4590dd76c0c77e0,DeFi::Trading Interfaces
 Enjoyoors,DeFi,Yield,Vault,0x6b5e332387e8bec98c52f10a72952b17176b4f1b,DeFi::Yield
 Enjoyoors,DeFi,Yield,WithdrawalApprover,0x71f60773885011cc0a61613078733b4738b38f35,DeFi::Yield
+Lagoon,DeFi,Yield,ProtocolRegistry,0xbf994c358f939011595ab4216ac005147863f9d6,DeFi::Yield;DeFi::Asset Allocators
+Lagoon,DeFi,Yield,VaultFactory,0xccdc4d06ca12a29c47d5d105fed59a6d07e9cf70,DeFi::Yield;DeFi::Asset Allocators
 Accountable,DeFi,Yield Aggregator,AccountableFixedTerm,0xd0a53e724ea9cb041e30f0243e3c84bdea238dfa,DeFi::Yield Aggregator
 Accountable,DeFi,Yield Aggregator,AccountableOpenTerm,0x59b0b84371bb3261fad538c512efffc414cc1725,DeFi::Yield Aggregator
 Accountable,DeFi,Yield Aggregator,AsyncVaultFactory,0xee004aef79cb14bf31bfbfb14346e01fb7e5a2e8,DeFi::Yield Aggregator
