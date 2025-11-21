@@ -5,7 +5,7 @@
     "categories": ["DeFi::DEX"],
     "addresses": {
         "PancakeV2Factory": "0x02a84c1b3BBD7401a5f7fa98a384EBC70bB5749E",
-        "PancakeV2Router": "0x8cFe327CEc66d1C090Dd72bd0FF11d690C33a2Eb",
+        "PancakeV2Router": "0xB1Bc24c34e88f7D43D5923034E3a14B24DaACfF9",
         "PancakeV3PoolDeployer": "0x41ff9AA7e16B8B1a8a8dc4f0eFacd93D02d071c9",
         "PancakeV3Factory": "0x0BFbCF9fa4f9C56B0F40a671Ad40E0805A091865",
         "SwapRouter": "0x1b81D678ffb9C0263b24A97847620C99d213eB14",
@@ -16,10 +16,10 @@
         "V3Migrator": "0xbC203d7f83677c7ed3F7acEc959963E7F4ECC5C2",
         "TickLens": "0x9a489505a00cE272eAa5e07Dba6491314CaE3796",
         "QuoterV2_periphery": "0xB048Bbc1Ee6b733FFfCFb9e9CeF7375518e25997",
-        "SmartRouter": "0x13f4EA83D0bd40E75C8222255bc855a974568Dd4",
-        "MixedRouteQuoterV1": "0x678Aa4bF4E210cf2166753e054d5b7c31cc7fa86",
+        "SmartRouter": "0x21114915Ac6d5A2e156931e20B20b038dEd0Be7C",
+        "MixedRouteQuoterV1": "0x77b482D9A4E391d682C857C630B8d869FdeE5c44",
         "QuoterV2_smartRouter": "0x4c650FB471fe4e0f476fD3437C3411B1122c4e3B",
-        "TokenValidator": "0x864ED564875BdDD6F421e226494a0E7c071C06f8"
+        "TokenValidator": "0xfcB76dfDf9c79AE5d334C0E1901449c8A893DF22"
     },
     "initCodeHashes": {
         "v2InitCodeHash": "0x57224589c67f3f30a6b0d7a1b54cf3153ab84563bc609ef41dfb34f8b2974d2d",
