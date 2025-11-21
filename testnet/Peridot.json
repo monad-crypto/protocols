@@ -2,9 +2,7 @@
   "name": "Peridot",
   "description": "Peridot allows users to earn interest on your crypto and borrow funds without selling, all with smart, fair rates across multiple blockchains.",
   "live": true,
-  "categories": [
-    "DeFi::Lending"
-  ],
+  "categories": ["DeFi::Lending"],
   "addresses": {
     "$P": "0x28fE679719e740D15FC60325416bB43eAc50cD15",
     "Oracle": "0xeAEdaF63CbC1d00cB6C14B5c4DE161d68b7C63A0",
@@ -44,13 +42,12 @@
 
     "gMON_Delegator": "0x0A33eFCb5E2436e386bBFd377ee5c430132Dad40",
     "PErc20Delegate_Implementation_7": "0x37F4061480c00AaCc4721E9EbE20D1cCE3DD6AEB"
+  },
+  "links": {
+    "project": "https://peridot.finance",
+    "twitter": "https://x.com/peridotprotocol",
+    "github": "https://github.com/PeridotFinance",
+    "telegram": "https://t.me/peridotlabs",
+    "docs": "https://peridot-finance.gitbook.io/peridot-protocol"
   }
-},
-    "links": {
-        "project": "https://peridot.finance",
-        "twitter": "https://x.com/peridotprotocol",
-        "github": "https://github.com/PeridotFinance",
-        "telegram": "https://t.me/peridotlabs",
-        "docs": "https://peridot-finance.gitbook.io/peridot-protocol"
-    }
 }
