@@ -3,7 +3,8 @@
     "description": "The intelligent order flow coordination layer for high performance blockchains",
     "categories": [
         "DeFi::Liquid Staking",
-        "DeFi::MEV"
+        "DeFi::MEV",
+        "DeFi::DEX Aggregator"
     ],
     "addresses": {
         "aprMON": "0x0c65A0BC65a5D819235B71F554D210D3F80E0852",
