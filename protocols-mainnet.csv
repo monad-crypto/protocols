@@ -386,6 +386,11 @@ Neverland,DeFi,Lending,WMON_StableDebtToken,0x81b19837295a2b4b1f6e0b2eaa23999929
 Neverland,DeFi,Lending,WMON_VariableDebtToken,0x3aca285b9f57832ff55f1e6835966890845c1526,DeFi::Lending;NFT::Other;Governance::Other
 Neverland,DeFi,Lending,WalletBalanceProvider,0x8911db480c1c0c1e06f17c2bc76b26d861e40d47,DeFi::Lending;NFT::Other;Governance::Other
 Neverland,DeFi,Lending,WrappedTokenGatewayV3,0x800409dbd7157813bb76501c30e04596cc478f25,DeFi::Lending;NFT::Other;Governance::Other
+Peridot,DeFi,Lending,$P,0x96650bebc549456f253974c11fc6cbe28172a2d2,DeFi::Lending
+Peridot,DeFi,Lending,JumpRateModelV2,0x1fb287e1c4f7b4c6b511f4d190523814593ad84e,DeFi::Lending
+Peridot,DeFi,Lending,PeridottrollerG7Implementation,0x81c0533c8132bc20c3a53f599925ab01c7da2b3a,DeFi::Lending
+Peridot,DeFi,Lending,PeridottrollerG7Proxy,0x6d208789f0a978af789a3c8ba515749598940716,DeFi::Lending
+Peridot,DeFi,Lending,SimpleOracle,0x42d5b37cd3682edd0a3dbb242c579bdcb108f47c,DeFi::Lending
 Sumer,DeFi,Lending,CompLogic,0x332f124323a1da3aeca4860f3b2b4a4c0df232ae,DeFi::Lending;DeFi::CDP;DeFi::Cross Chain;DeFi::Synthetics
 Sumer,DeFi,Lending,Comptroller,0x2d9b96648c784906253c7fa94817437ef59cf226,DeFi::Lending;DeFi::CDP;DeFi::Cross Chain;DeFi::Synthetics
 Sumer,DeFi,Lending,RedemptionManager,0xbb134359b3e6794127c7232680f959ce6bf60814,DeFi::Lending;DeFi::CDP;DeFi::Cross Chain;DeFi::Synthetics
