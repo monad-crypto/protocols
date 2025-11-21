@@ -1,0 +1,16 @@
+{
+    "name": "Mintto.xyz",
+    "description": "Create engaging NFT raffles with customizable prizes, evolving artwork, and transparent on-chain draws that transform the collector experience.",
+    "live": true,
+    "categories": ["NFT::Other"],
+    "addresses": {
+        "Factory": "0x00000000001594C61dD8a6804da9AB58eD2483ce",
+        "MintMaster": "0x00000000009a1E02f00E280dcfA4C81c55724212"
+    },
+    "links": {
+        "project": "https://mintto.xyz/",
+        "twitter": "https://x.com/mintto_xyz",
+        "github": "",
+        "docs": ""
+    }
+}
