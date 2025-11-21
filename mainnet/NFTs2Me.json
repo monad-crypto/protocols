@@ -1,0 +1,16 @@
+{
+    "name": "NFTs2Me",
+    "description": "NFTs2Me is a user-friendly comprehensive platform to create, deploy and manage your NFT collection on Monad, 100% free.",
+    "live": true,
+    "categories": ["NFT::Marketplace"],
+    "addresses": {
+        "Factory": "0x00000000001594C61dD8a6804da9AB58eD2483ce",
+        "MintMaster": "0x00000000009a1E02f00E280dcfA4C81c55724212"
+    },
+    "links": {
+        "project": "https://nfts2me.com/",
+        "twitter": "https://x.com/NFTs2Me",
+        "github": "https://github.com/nfts2me",
+        "docs": "https://docs.nfts2me.com/"
+    }
+}
