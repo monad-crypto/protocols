@@ -9,7 +9,6 @@
     "NewOracle": "0x023C03e97a685F5196d9616A1BbC00bBe148B969",
     "UnitrollerProxy": "0xa41D586530BC7BC872095950aE03a780d5114445",
     "PeridottrollerG7Implementation": "0xf79b3af6954bCbeDfE0F6BE34DD1153A391E8083",
-    "PeridottrollerG7Proxy": "0xa41D586530BC7BC872095950aE03a780d5114445",
     "PeridottrollerG7FixedImplementation": "0x1E0c46946CE9512F8b161c4Ac012705C948F0Dcd",
     "JumpRateModelV2": "0x2d271dEb2596d78aaa2551695Ebfa9Cd440713aC",
 
