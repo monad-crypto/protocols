@@ -1,0 +1,15 @@
+{
+  "name": "Cashmere",
+  "description": "Autonomous Monetary Infrastructure for stablecoins — a unified layer that powers zero-slippage omnichain transfers, yield agent, on/off ramps, privacy transfers directly on https://app.cashmere.exchange.",
+  "live": true,
+  "categories": ["DeFi::Cross Chain"],
+  "addresses": {
+    "CashmereCCTP": "0xD156fFB54871F4562744d6Be5d6321B5BffCa3B6"
+  },
+  "links": {
+    "project": "https://cashmere.exchange",
+    "twitter": "https://x.com/cashmerelabs",
+    "github": "https://github.com/cashmere-prod",
+    "docs": "https://docs.cashmere.exchange/"
+  }
+}
