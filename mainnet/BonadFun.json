@@ -2,7 +2,7 @@
     "name": "bonad.fun",
     "description": "Create, trade, and build your vision",
     "live": true,
-    "categories": ["DeFi::Launchpads"],
+    "categories": ["DeFi::Launchpads", "DeFi::Memecoin"],
     "addresses": {
       "Airlock": "0x660eAaEdEBc968f8f3694354FA8EC0b4c5Ba8D12",
       "Bundler": "0xC99b485499f78995C6F1640dbB1413c57f8BA684",
