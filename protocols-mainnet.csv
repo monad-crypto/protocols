@@ -16,6 +16,14 @@ KINETK,AI,Consumer AI,KinetkIPCertificate,0xd057b63f5e69cf1b929b356b579cba08d768
 Kinic AI Memory Agent,AI,Consumer AI,KinicMemoryLog,0xeb5b78fa81cfea1a46d46b3a42814f5a68038548,AI::Consumer AI;DePIN::Storage
 Kodeus,AI,Consumer AI,KodeusAgents,0x3d3c1db86989ed5196358ee03e2f1258ea183dcb,AI::Consumer AI
 Kodeus,AI,Consumer AI,KodeusMetricsTrackerV6,0xa0371d51c086f846bd02c331dd31cc510645332e,AI::Consumer AI
+Talentum,Consumer,Social,TalentumBuyBattlePass,0xe3885a21005434c53d945c3a717bcb23b49412e9,Consumer::Social;Consumer::Other;Gaming::Games;Gaming::Other;NFT::NFTFi
+Talentum,Consumer,Social,TalentumBuyProduct,0xe610baf2d321199be47ba943f2610bc82bab774b,Consumer::Social;Consumer::Other;Gaming::Games;Gaming::Other;NFT::NFTFi
+Talentum,Consumer,Social,TalentumDaily,0x4816287183534b5ced5ee93f098962d7db144845,Consumer::Social;Consumer::Other;Gaming::Games;Gaming::Other;NFT::NFTFi
+Talentum,Consumer,Social,TalentumMultiSend,0x5768af66fcff11328fde25398cc61bb201185697,Consumer::Social;Consumer::Other;Gaming::Games;Gaming::Other;NFT::NFTFi
+Talentum,Consumer,Social,TalentumNativeStaking,0xf42d150e621b7be050beb71c0f6e89a63bfaa95f,Consumer::Social;Consumer::Other;Gaming::Games;Gaming::Other;NFT::NFTFi
+Talentum,Consumer,Social,TalentumProof,0x28849cc5a79ce2f94958ff8f853140bce865dafa,Consumer::Social;Consumer::Other;Gaming::Games;Gaming::Other;NFT::NFTFi
+Talentum,Consumer,Social,TalentumWheelSpin,0x05f9dfef3e95228695bf449d96181b785144b456,Consumer::Social;Consumer::Other;Gaming::Games;Gaming::Other;NFT::NFTFi
+Talentum,Consumer,Social,TalentumWithdrawManager,0x429b401717130d24ed5c92805141442defb6ce1d,Consumer::Social;Consumer::Other;Gaming::Games;Gaming::Other;NFT::NFTFi
 Yap Market,Consumer,Social,Escrow,0x29957e3b3dabedbe830b0de53c2c9293d0db1bda,Consumer::Social
 StakeStone,DeFi,Asset Issuers,LayerZeroAdapter,0xec901da9c68e90798bbbb74c11406a32a70652c3,DeFi::Asset Issuers;DeFi::Liquid Staking;DeFi::Stablecoin;DeFi::Yield
 StakeStone,DeFi,Asset Issuers,STONEUSD,0x095957ceb9f317ac1328f0ab3123622401766d71,DeFi::Asset Issuers;DeFi::Liquid Staking;DeFi::Stablecoin;DeFi::Yield
