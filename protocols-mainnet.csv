@@ -113,6 +113,15 @@ Curve Finance,DeFi,DEX,TwocryptoFactory,0xe7fbd704b938cb8fe26313c3464d4b7b7348c8
 Curve Finance,DeFi,DEX,TwocryptoHandler,0x7e595b3b77cc16680c30617b88e9b87f987ac934,DeFi::DEX;DeFi::Stableswap
 Curve Finance,DeFi,DEX,TwocryptoMath,0x95249dd40dda3c0cbb4a7dd7d287e04aa68a3d4b,DeFi::DEX;DeFi::Stableswap
 Curve Finance,DeFi,DEX,TwocryptoViews,0x17c67c3a38f68cbc4dec77fd7378978971b6c271,DeFi::DEX;DeFi::Stableswap
+Dexalot,DeFi,DEX,BannedAccounts,0xa5c079c1986e2335d83fa2d7282e162958e515d5,DeFi::DEX;DeFi::Cross Chain;DeFi::Trading Interfaces
+Dexalot,DeFi,DEX,Create3Factory,0x06b82468100a3a7b0eac77289f0d1ab920573b16,DeFi::DEX;DeFi::Cross Chain;DeFi::Trading Interfaces
+Dexalot,DeFi,DEX,DexalotRouter,0x3d3e4f0523500f95039d0fe600acf2ade4b06eb9,DeFi::DEX;DeFi::Cross Chain;DeFi::Trading Interfaces
+Dexalot,DeFi,DEX,Exchange,0xc725229aefeab5faec9cc1667d79d9478e564a0c,DeFi::DEX;DeFi::Cross Chain;DeFi::Trading Interfaces
+Dexalot,DeFi,DEX,LzV2App,0x170c15cb9887e6adb097518104b174df212bb190,DeFi::DEX;DeFi::Cross Chain;DeFi::Trading Interfaces
+Dexalot,DeFi,DEX,MainnetRFQ,0xa0421a4db5bb7577f9bb9b577b5f600a642368be,DeFi::DEX;DeFi::Cross Chain;DeFi::Trading Interfaces
+Dexalot,DeFi,DEX,Portfolio,0x1fd108cf42a59c635bd4703b8dbc8a741ff834be,DeFi::DEX;DeFi::Cross Chain;DeFi::Trading Interfaces
+Dexalot,DeFi,DEX,PortfolioBridge,0x246c87368580acd6e9ca46bf112ad91978389634,DeFi::DEX;DeFi::Cross Chain;DeFi::Trading Interfaces
+Dexalot,DeFi,DEX,ProxyAdmin,0x15764530c716cefad9cbd2310d722704d03de875,DeFi::DEX;DeFi::Cross Chain;DeFi::Trading Interfaces
 Dirol,DeFi,DEX,CoreAggregator,0x77e73c3fcd3fedba383025cde4a5b97733a34c2e,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Launchpads;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces
 Dirol,DeFi,DEX,LimitOrderModule,0xa82098c33c75a4a1e20e06f352732910c75c690d,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Launchpads;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces
 Kansei,DeFi,DEX,BDeployer,0x0493b0f962346aadcab77abc6d24a9c69a74962b,DeFi::DEX;DeFi::Liquid Staking;DeFi::Leveraged Farming;DeFi::Lending;DeFi::Stableswap;DeFi::Yield

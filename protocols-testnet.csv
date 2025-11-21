@@ -172,6 +172,15 @@ Crystal,DeFi,DEX,OldFactory,0xc7e19a8ccd223e7def92f4dd620030f106409cf0,DeFi::DEX
 Crystal,DeFi,DEX,OldRouter,0xefe2f96df94bd1337e79bdf3d524cec44b10b45c,DeFi::DEX
 Crystal,DeFi,DEX,RouterFactory,0x4e77071d619aa164ca6427547aefa41ac51be7a0,DeFi::DEX
 Defx,DeFi,DEX,default,0xc30a6799ab7cde040438769c6de5025ce48c74ec,DeFi::DEX
+Dexalot,DeFi,DEX,BannedAccounts,0x0f52c1eb47e77b9c7ac4a6049c5e5afd6eabeb54,DeFi::DEX;DeFi::Cross Chain;DeFi::Trading Interfaces
+Dexalot,DeFi,DEX,Create3Factory,0xebf371993e47364a3926b977355ca60d79507406,DeFi::DEX;DeFi::Cross Chain;DeFi::Trading Interfaces
+Dexalot,DeFi,DEX,DexalotRouter,0xba6a764809d852306f0c19dd064279aea30bfeb2,DeFi::DEX;DeFi::Cross Chain;DeFi::Trading Interfaces
+Dexalot,DeFi,DEX,Exchange,0xaf6ccd3e5780cb1d110c2009ec0a4d93c7e58654,DeFi::DEX;DeFi::Cross Chain;DeFi::Trading Interfaces
+Dexalot,DeFi,DEX,LzV2App,0x27236544ac6a580825cf44ce1248a7c4395eec59,DeFi::DEX;DeFi::Cross Chain;DeFi::Trading Interfaces
+Dexalot,DeFi,DEX,MainnetRFQ,0x77a547b5be9346dda5c9704fc148b61477a8326c,DeFi::DEX;DeFi::Cross Chain;DeFi::Trading Interfaces
+Dexalot,DeFi,DEX,Portfolio,0x60d7d3394b96bad07c99bd9fa86a6bf9414ff177,DeFi::DEX;DeFi::Cross Chain;DeFi::Trading Interfaces
+Dexalot,DeFi,DEX,PortfolioBridge,0x4fd93ffc2ae634b1ec487405f8f31792f120c875,DeFi::DEX;DeFi::Cross Chain;DeFi::Trading Interfaces
+Dexalot,DeFi,DEX,ProxyAdmin,0xeed3c159f3a96ab8d41c8b9ca49ee1e5071a7cdd,DeFi::DEX;DeFi::Cross Chain;DeFi::Trading Interfaces
 Doppler,DeFi,DEX,Airlock,0x5f3ba43d44375286296cb85f1ea2ebfa25dde731,DeFi::DEX
 Doppler,DeFi,DEX,GovernanceFactory,0x136191b46478cab023cbc01a36160c4aad81677a,DeFi::DEX
 Doppler,DeFi,DEX,TokenFactory,0x5fbe931dc4b923a7abe4c47ad68d5bf9eda5b76d,DeFi::DEX
