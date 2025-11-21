@@ -471,6 +471,33 @@ Narwhal Finance,DeFi,Perpetuals / Derivatives,PairInfos,0x5c39f9739c123e64535f62
 Narwhal Finance,DeFi,Perpetuals / Derivatives,Trading,0x3556d16519e3407ad43d5d7b3011bb095553d77a,DeFi::Perpetuals / Derivatives
 Narwhal Finance,DeFi,Perpetuals / Derivatives,TradingStorage,0xfbc1cf329ad241352e777ab7bc17962452b87949,DeFi::Perpetuals / Derivatives
 Narwhal Finance,DeFi,Perpetuals / Derivatives,TradingVault,0xb412a5d72c203df308624e435659c9f70b6960aa,DeFi::Perpetuals / Derivatives
+Pingu Exchange,DeFi,Perpetuals / Derivatives,AssetStore,0x379a14208c15e99177b6a2003b77f38f80d66a2f,DeFi::Perpetuals / Derivatives
+Pingu Exchange,DeFi,Perpetuals / Derivatives,BuyBack,0xbfc60682970fd08e2e4eea96f8b7b6bfa25eab53,DeFi::Perpetuals / Derivatives
+Pingu Exchange,DeFi,Perpetuals / Derivatives,BuyBackStore,0x1b313e19df0b33880e99f38ac58e6bbdcc5b1810,DeFi::Perpetuals / Derivatives
+Pingu Exchange,DeFi,Perpetuals / Derivatives,DataStore,0x631c6e0d5ae2e1f6a39871a9be97f1d9d43d1c83,DeFi::Perpetuals / Derivatives
+Pingu Exchange,DeFi,Perpetuals / Derivatives,FundStore,0x576d51fb872065dc4af6f83902fd4078ebcc2f03,DeFi::Perpetuals / Derivatives
+Pingu Exchange,DeFi,Perpetuals / Derivatives,Funding,0xd7071c24f765ca1ad21ff8e9d89ad45845af64df,DeFi::Perpetuals / Derivatives
+Pingu Exchange,DeFi,Perpetuals / Derivatives,FundingStore,0xe0ffd61de51ce62d47845c5e6f10c35e8807224d,DeFi::Perpetuals / Derivatives
+Pingu Exchange,DeFi,Perpetuals / Derivatives,MarketStore,0xe5cdf1b3b36b9799b33e5c6f8c4c8b03848c6470,DeFi::Perpetuals / Derivatives
+Pingu Exchange,DeFi,Perpetuals / Derivatives,OrderStore,0xdd9bb855fcd8bc3f45b54b9c1f9de43dd2dff06b,DeFi::Perpetuals / Derivatives
+Pingu Exchange,DeFi,Perpetuals / Derivatives,Orders,0xee6a587c06e02f330c00ea3e7c102d9b1d8a52f3,DeFi::Perpetuals / Derivatives
+Pingu Exchange,DeFi,Perpetuals / Derivatives,PINGU,0xa2426cd97583939e79cfc12ac6e9121e37d0904d,DeFi::Perpetuals / Derivatives
+Pingu Exchange,DeFi,Perpetuals / Derivatives,Pool,0xb1744c2e2b9b34630551338568698368489aeb7f,DeFi::Perpetuals / Derivatives
+Pingu Exchange,DeFi,Perpetuals / Derivatives,PoolStore,0xcb30dff8515d4170bbf1fd0ff01cb21f9acc4caf,DeFi::Perpetuals / Derivatives
+Pingu Exchange,DeFi,Perpetuals / Derivatives,PositionStore,0x06fc8b836f78a2c95416d33028452f9c95aac6b4,DeFi::Perpetuals / Derivatives
+Pingu Exchange,DeFi,Perpetuals / Derivatives,Positions,0x3d7ec93875b6a6f0a5102fe29f887ee6e751b12f,DeFi::Perpetuals / Derivatives
+Pingu Exchange,DeFi,Perpetuals / Derivatives,Processor,0x75f2948bff7d6d6bb6133cc5fe3c710656c2a939,DeFi::Perpetuals / Derivatives
+Pingu Exchange,DeFi,Perpetuals / Derivatives,PythUpdater,0x605ad21a6a9328d74fa88aa80f23dbd4e746b2fd,DeFi::Perpetuals / Derivatives
+Pingu Exchange,DeFi,Perpetuals / Derivatives,Rebate,0x15e5e522a44b562f3c87da77c87ec858f62d221e,DeFi::Perpetuals / Derivatives
+Pingu Exchange,DeFi,Perpetuals / Derivatives,RebateStore,0xe199e871fc628488d6cd1b2d192ed51dc8f5b88f,DeFi::Perpetuals / Derivatives
+Pingu Exchange,DeFi,Perpetuals / Derivatives,Referral,0xdfd770c6ca5f690289ddf6a173025719c07996c4,DeFi::Perpetuals / Derivatives
+Pingu Exchange,DeFi,Perpetuals / Derivatives,ReferralStore,0xcf410b10c0f30948033e47b7209cc026054e9f18,DeFi::Perpetuals / Derivatives
+Pingu Exchange,DeFi,Perpetuals / Derivatives,RiskStore,0x66700b04bd1a912996fdb90f05c1b0965fef1b62,DeFi::Perpetuals / Derivatives
+Pingu Exchange,DeFi,Perpetuals / Derivatives,RoleStore,0x4f6e71a81a72fbd33c599596a7e3e28aa4b44ebb,DeFi::Perpetuals / Derivatives
+Pingu Exchange,DeFi,Perpetuals / Derivatives,Signable,0x99903470cc631d01f271340c94e224262168ed95,DeFi::Perpetuals / Derivatives
+Pingu Exchange,DeFi,Perpetuals / Derivatives,Staking,0xd53b51ae4216b80422216269edf064e9de89749b,DeFi::Perpetuals / Derivatives
+Pingu Exchange,DeFi,Perpetuals / Derivatives,StakingStore,0xd849497f08180d3f1a79397ef8ae4dbd05ec1a5c,DeFi::Perpetuals / Derivatives
+Pingu Exchange,DeFi,Perpetuals / Derivatives,Swapper,0x133f72734a185ff821705af80d57b8823ca8bc8e,DeFi::Perpetuals / Derivatives
 Mu Protocol,DeFi,RWA,AZND,0x4917a5ec9fcb5e10f47cbb197abe6ab63be81fe8,DeFi::RWA;DeFi::Yield
 Mu Protocol,DeFi,RWA,AZNDPriceFeed (Implementation),0x0b4c9dd5a3ecc14225d9b895716a65e4a7ad3fec,DeFi::RWA;DeFi::Yield
 Mu Protocol,DeFi,RWA,AZNDPriceFeed (Proxy),0x9d839e0a6a86b05643b4811de06ef09985ebbaef,DeFi::RWA;DeFi::Yield
