@@ -1,0 +1,19 @@
+{
+  "name": "Across",
+  "description": "Cross-chain liquidity protocol that allows users to swap tokens between different chains.",
+  "live": true,
+  "categories": [
+    "Infra::Interoperability"
+  ],
+  "addresses": {
+    "Helios": "0x09aea4b2242abc8bb4bb78d537a67a245a7bec64",
+    "MulticallHandler": "0xeC41F75c686e376Ab2a4F18bde263ab5822c4511",
+    "SpokePool": "0xd2ecb3afe598b746F8123CaE365a598DA831A449"
+  },
+  "links": {
+    "project": "https://across.to",
+    "twitter": "https://x.com/AcrossProtocol",
+    "github": "https://github.com/across-protocol",
+    "docs": "https://docs.across.to/"
+  }
+}
