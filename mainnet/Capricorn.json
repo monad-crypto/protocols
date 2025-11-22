@@ -1,0 +1,23 @@
+{
+    "name": "Capricorn",
+    "description": "The premier liquidity venue on Monad.",
+    "live": true,
+    "categories": ["DeFi::DEX"],
+    "addresses": {
+        "CapricornCLFactory": "0x6B5F564339DbAD6b780249827f2198a841FEB7F3",
+        "NonfungibleTokenPositionDescriptor": "0xEd2850D3704a1a5BcB6158f27deDA3d6FF4C31D9",
+        "NonfungibleTokenPositionManager": "0x4C02af995BB1f574c9bf31F43ddc112414aE0Ac7",
+        "QuoterV2": "0xB430EDD2b54cdB3B25703fb3342ca3a88663A04D",
+        "SwapRouter": "0xdac97b6a3951641B177283028A8f428332333071",
+        "PAMMPoolFactory": "comming_soon"
+    },
+    "initCodeHashes": {
+        "clmmInitCodeHash": "0x32103411033f4f192bc82f2336cf034c3faf574dfaa3539190239fc1f27ab9fa"
+    },
+    "links": {
+        "project": "https://capricorn.exchange/",
+        "twitter": "https://x.com/CapricornDEX/",
+        "docs": "https://capricorn-protocol.notion.site/Capricorn-DEX-Aggregator-Integration-Guide-28c945bc2f3a80b496e6c755f9ca7452",
+        "github": "https://github.com/capricorn-protocol/"
+    }
+}
