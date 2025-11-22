@@ -11,7 +11,6 @@
       "NoOpMigrator": "0x5F3bA43D44375286296Cb85F1EA2EBfa25dde731",
       "PoolManager": "0x188d586ddcf52439676ca21a244753fa19f9ea8e",
       "TokenFactory": "0xaA47D2977d622DBdFD33eeF6a8276727c52EB4e5",
-      "UniswapV4Quoter": "0xa222dd357a9076d1091ed6aa2e16c9742dd26891",
       "UniversalRouter": "0x0d97dc33264bfc1c226207428a79b26757fb9dc3",
       "V2Migrator": "0x136191B46478cAB023cbC01a36160C4Aad81677a",
       "V3Quoter": "0x66266174564170519409d8853898f065c719536b",
