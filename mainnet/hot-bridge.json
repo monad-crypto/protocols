@@ -1,0 +1,16 @@
+{
+    "name": "HOT Bridge",
+    "description": "Multichain bridge over HOT Protocol and NEAR Intents",
+    "categories": [
+        "Infra::Interoperability"
+    ],
+    "addresses": {
+        "BridgeLockerContract": "0x233c5370CCfb3cD7409d9A3fb98ab94dE94Cb4Cd",
+    },
+    "links": {
+        "project": "https://hot-labs.org/",
+        "twitter": "https://x.com/hotdao_",
+        "github": "https://github.com/hot-dao",
+        "telegram": "https://t.me/hotonnear"
+    }
+}
