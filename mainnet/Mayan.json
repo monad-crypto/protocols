@@ -1,0 +1,27 @@
+{
+    "name": "Mayan",
+    "description": "Mayan is a lightning-fast, intent-based cross-chain swap protocol that makes transfers seamless, instant, and cost-effective. Move any asset directly into Monad through our simple swap interface or integrate Mayan’s SDK and widget for seamless cross-chain liquidity.",
+    "live": true,
+    "categories": [
+      "DeFi::DEX",
+      "DeFi::BRIDGE",
+      "DeFi::Stableswap",
+      "DeFi::Swap",
+      "DeFi::Trading Interfaces",
+      "DeFi::Cross Chain"
+    ],
+    "addresses": {
+      "MayanSwift": "0xC38e4e6A15593f908255214653d3D947CA1c2338",
+      "MayanFulfillHelper": "0xBC0663ef63ADD180609944c58BA7D4851890cA45",
+      "MayanSwiftFeeManager": "0xF93191d350117723DBEda5484a3b0996d285CECF",
+      "MayanForwarder": "0x337685fdaB40D39bd02028545a4FfA7D287cC3E2",
+      "MayanFastMctp": "0xC1062b7C5Dc8E4b1Df9F200fe360cDc0eD6e7741",
+      "MayanFastMctpFeeManager": "0x598400bA0d8BA9C3b57ad424A68183f1D17c7e56",
+    },
+    "links": {
+      "project": "https://mayan.finance/",
+      "twitter": "https://x.com/MayanFinance",
+      "github": "https://github.com/mayan-finance",
+      "docs": "https://docs.mayan.finance/"
+    }
+}
