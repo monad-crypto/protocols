@@ -5,6 +5,7 @@
     "DeFi::Cross Chain",
     "Infra::Interoperability"
   ],
+  "live": true,
   "addresses": {
     "SwapExecutor": "0xd0389e84178f809903cbFE7D1EfAE3EFa9c1769c",
     "SwitchboardRouter": "0x3859AD748D03C358aAbB66d084bC5849B624E611",
