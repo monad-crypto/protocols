@@ -367,7 +367,8 @@ Hedgemony,DeFi,Intents,SwapRouter,0xe31371f8e2c7be43d35dd053b9fa4a613f167426,DeF
 Clanker,DeFi,Launchpads,Clanker,0xa0c65813dd1cde7092922a57548ec1ed25994318,DeFi::Launchpads;AI::Other
 Clanker,DeFi,Launchpads,ClankerVault,0x9505a57bf782058890f078be301575cd75045a9b,DeFi::Launchpads;AI::Other
 Clanker,DeFi,Launchpads,LpLockerV2,0xcd89c55d36097a64f777066a6cc8f2c31b7541f7,DeFi::Launchpads;AI::Other
-Flap,DeFi,Launchpads,default,0x4267f317adee7c6478a5ee92985c2bd5d855e274,DeFi::Launchpads
+Flap,DeFi,Launchpads,latest,0xa5dcba6ffbfb043c96243b36a77c2ede2f1322ce,DeFi::Launchpads
+Flap,DeFi,Launchpads,legacy,0x4267f317adee7c6478a5ee92985c2bd5d855e274,DeFi::Launchpads
 Nad.fun,DeFi,Launchpads,BONDING_CURVE,0xad720f94689edb929d9be7613223320a0b2f260f,DeFi::Launchpads
 Nad.fun,DeFi,Launchpads,BONDING_CURVE_ROUTER,0xf57f14335e9670ed2c0cef4a59fb707cf2eb3fac,DeFi::Launchpads
 Nad.fun,DeFi,Launchpads,COMMUNITY_TREASURY,0x8c786190186518a3a95d86cee8e972ce1c7eda8b,DeFi::Launchpads

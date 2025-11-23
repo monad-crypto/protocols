@@ -304,7 +304,7 @@ Clanker,DeFi,Launchpads,ClankerMevDescendingFees,0x3231d1ddfdc4ad585cf1939ffecd9
 Clanker,DeFi,Launchpads,ClankerUniV4EthDevBuy,0x8790d79283eb941c719b616cfd0ef116d13c7683,DeFi::Launchpads;AI::Other
 Clanker,DeFi,Launchpads,ClankerVault,0xe7d402a5bed94e5c49ac0639e80f784d06e2d397,DeFi::Launchpads;AI::Other
 Flap,DeFi,Launchpads,Portal,0x30e8ee7b5881bf2e158a0514f2150aabe2c68b23,DeFi::Launchpads
-Flap,DeFi,Launchpads,TaxTokenImplementation,0x8e6512ba94c723d8f140b0fd9dbb498854b7a1f4,DeFi::Launchpads
+Flap,DeFi,Launchpads,TaxTokenImplementation,0x1c8847736521f5cd725dfb8f33c7c610826e7c42,DeFi::Launchpads
 Flap,DeFi,Launchpads,TaxTokenSplitterImplementation,0x57fed6832f12150a77d5952b49190d9447acb5ee,DeFi::Launchpads
 Flap,DeFi,Launchpads,TokenV2Implementation,0xb88189aa1162850d75a1c1e16f837b7979994184,DeFi::Launchpads
 Nad.fun,DeFi,Launchpads,BONDING_CURVE,0x7193e46d4a812c8990f96a6e9c1f1ed338b2a6b7,DeFi::Launchpads
