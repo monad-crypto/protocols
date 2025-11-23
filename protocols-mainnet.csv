@@ -373,6 +373,41 @@ Gearbox,DeFi,Lending,Rewards_Compressor,0x19ca61e672d1c6105f609418bfdc784f92f4ec
 Gearbox,DeFi,Lending,Router,0x00ade38841ab8c6e236e232041e43b41d74b8b45,DeFi::Lending;DeFi::Leveraged Farming
 Gearbox,DeFi,Lending,Token_Compressor,0xae3dd11e5a7f99ed4cba2768d4095a55fbf7841b,DeFi::Lending;DeFi::Leveraged Farming
 Gearbox,DeFi,Lending,Withdrawal_Compressor,0xfb79b6713fe214b8748ed7b0db1f93e4f1ac9d29,DeFi::Lending;DeFi::Leveraged Farming
+Morpho,DeFi,Lending,AdaptiveCurveIrm,0x09475a3d6ea8c314c592b1a3799bde044e2f400f,DeFi::Lending
+Morpho,DeFi,Lending,Bundler3,0x82b684483e844422fd339df0b67b3b111f02c66e,DeFi::Lending
+Morpho,DeFi,Lending,Deployer1,0x6c3a89e814a9d150cd763f443dcee5ebc5bf60b6,DeFi::Lending
+Morpho,DeFi,Lending,Deployer1Deployer,0xa16b49505e39c373a8f9e1b1540514ba64b3942a,DeFi::Lending
+Morpho,DeFi,Lending,Deployer2,0x0a3c9f732c7e987ddbbaac13309a8b552aa50872,DeFi::Lending
+Morpho,DeFi,Lending,Deployer2Deployer,0x907a393ad715ac63389eec3236fac74e7d68a4ee,DeFi::Lending
+Morpho,DeFi,Lending,Deployer3,0xff08983faa3d689c8c8527bd69f90ea46d170db9,DeFi::Lending
+Morpho,DeFi,Lending,Deployer3Deployer,0x6f12916f559dc7f86a86cd3e33bfebe6348f979a,DeFi::Lending
+Morpho,DeFi,Lending,Deployer4,0xf4c840ea6fdd0493f77ef0141c5a5a09cd384918,DeFi::Lending
+Morpho,DeFi,Lending,Deployer4Deployer,0x03877db7caa28bc522dbb8c060eeaeb086020b83,DeFi::Lending
+Morpho,DeFi,Lending,Deployer6,0xa1a2ca8feb4d08a7123bfbb0a269501f885264de,DeFi::Lending
+Morpho,DeFi,Lending,Deployer6Deployer,0x22c3024c7e1e149d7e49766cd047a2da081e4eaf,DeFi::Lending
+Morpho,DeFi,Lending,Deployer7,0x3f12264881a118c2a74ad10f9039694579bdcf54,DeFi::Lending
+Morpho,DeFi,Lending,Deployer7Deployer,0x71dd91258eca11fc045098774ec2f331126a0b53,DeFi::Lending
+Morpho,DeFi,Lending,GeneralAdapter1,0x725ab8cad931bcb80fdbf10955a806765cce00e5,DeFi::Lending
+Morpho,DeFi,Lending,MetaMorphoV1_1,0x6d0090db99919d1594b9b824d295e923266c9052,DeFi::Lending
+Morpho,DeFi,Lending,MetaMorphoV1_1Factory,0x33f20973275b2f574488b18929cd7dcbf1abf275,DeFi::Lending
+Morpho,DeFi,Lending,Morpho,0xd5d960e8c380b724a48ac59e2dff1b2cb4a1eaee,DeFi::Lending
+Morpho,DeFi,Lending,MorphoChainlinkOracleV2,0x6a99cc46825a724b41f8e5656935929fa0a2cb2c,DeFi::Lending
+Morpho,DeFi,Lending,MorphoChainlinkOracleV2Factory,0xc8659bcd5279db664be973aefd752a5326653739,DeFi::Lending
+Morpho,DeFi,Lending,MorphoMarketV1Adapter,0xd155af55cf966886cc197f05399be4a033af7090,DeFi::Lending
+Morpho,DeFi,Lending,MorphoMarketV1AdapterFactory,0x8da54fbf89b3d6fc6dcc92f31cf75a211acf3d46,DeFi::Lending
+Morpho,DeFi,Lending,MorphoMarketV1Registry,0xf5e6dd4b06874f55444936cf0026b785383a9849,DeFi::Lending
+Morpho,DeFi,Lending,MorphoVaultV1Adapter,0x549bf7a3346ebebe88bd3fcad8ab1f23de8eb4e4,DeFi::Lending
+Morpho,DeFi,Lending,MorphoVaultV1AdapterFactory,0x9f3c0999425656fd189c69a8ad68cb64986d644a,DeFi::Lending
+Morpho,DeFi,Lending,MorphoVaultV1_1Registry,0x1d721eddac84e1b9995fc25ce3e57463688064a9,DeFi::Lending
+Morpho,DeFi,Lending,PreLiquidation,0x273dbc3f178d03fa9d385e61ee1e11dcf563ee14,DeFi::Lending
+Morpho,DeFi,Lending,PreLiquidationFactory,0xb5b3e541abd19799e0c65905a5a42bd37d6c94c0,DeFi::Lending
+Morpho,DeFi,Lending,PublicAllocator,0xfd70575b732f9482f4197fe1075492e114e97302,DeFi::Lending
+Morpho,DeFi,Lending,RegistryList,0x6a42f8b46224baa4dbbbc2f860f4675eea7bd52b,DeFi::Lending
+Morpho,DeFi,Lending,Safe,0xe27f43624fdb5325b853c4711bcf0feba754e558,DeFi::Lending
+Morpho,DeFi,Lending,UniversalRewardsDistributor,0xa3e73ec1792bb127b0915de9842eb999c12c0c34,DeFi::Lending
+Morpho,DeFi,Lending,UrdFactory,0xe8233125be3ecd274b8007618315dd2f3361eced,DeFi::Lending
+Morpho,DeFi,Lending,VaultV2,0xc1108c5d98dc09be44e656a9e34b04d37b90a50d,DeFi::Lending
+Morpho,DeFi,Lending,VaultV2Factory,0x8b2f922162fbb60a6a072cc784a2e4168fb0bb0c,DeFi::Lending
 Neverland,DeFi,Lending,ACLManager,0x73a78afa04b629e22db3bec357bfc4a8b4f149df,DeFi::Lending;NFT::Other;Governance::Other
 Neverland,DeFi,Lending,AToken,0x395118096f0ef19d7958ad8538ecee9685b94eb2,DeFi::Lending;NFT::Other;Governance::Other
 Neverland,DeFi,Lending,AaveOracle,0x94bba11004b9877d13bb5e1ae29319b6f7bdedd4,DeFi::Lending;NFT::Other;Governance::Other
