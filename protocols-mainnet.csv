@@ -90,6 +90,11 @@ Atlantis,DeFi,DEX,TickLens,0x13fce0acbe6fb11641ab753212550574cad31415,DeFi::DEX
 Bean Exchange,DeFi,DEX,DLMM_Factory,0x8bb9727ca742c146563dccbafb9308a234e1d242,DeFi::DEX;DeFi::Perpetuals / Derivatives
 Bean Exchange,DeFi,DEX,DLMM_Quoter,0xa398af902950081f2fbe3e16e5e474c2c72ae27a,DeFi::DEX;DeFi::Perpetuals / Derivatives
 Bean Exchange,DeFi,DEX,DLMM_Router,0x721ac9e688e6b86f48b08db2ba2d4b7bbbd12665,DeFi::DEX;DeFi::Perpetuals / Derivatives
+Capricorn,DeFi,DEX,CapricornCLFactory,0x6b5f564339dbad6b780249827f2198a841feb7f3,DeFi::DEX
+Capricorn,DeFi,DEX,NonfungibleTokenPositionDescriptor,0xed2850d3704a1a5bcb6158f27deda3d6ff4c31d9,DeFi::DEX
+Capricorn,DeFi,DEX,NonfungibleTokenPositionManager,0x4c02af995bb1f574c9bf31f43ddc112414ae0ac7,DeFi::DEX
+Capricorn,DeFi,DEX,QuoterV2,0xb430edd2b54cdb3b25703fb3342ca3a88663a04d,DeFi::DEX
+Capricorn,DeFi,DEX,SwapRouter,0xdac97b6a3951641b177283028a8f428332333071,DeFi::DEX
 Clober,DeFi,DEX,BookManager,0x6657d192273731c3cac646cc82d5f28d0cbe8ccc,DeFi::DEX
 Clober,DeFi,DEX,BookViewer,0xe424c211e2ed8a5b6d1c57fa493c41715568d238,DeFi::DEX
 Clober,DeFi,DEX,Controller,0x19b68a2b909d96c05b623050c276fbd457de8e83,DeFi::DEX
