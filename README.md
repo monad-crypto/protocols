@@ -10,6 +10,8 @@ metadata file as details change.
 
 Please create a fork of this repository in your own github account (personal or company), push your changes to that fork, and then make a pull request from that fork which contributes back to monad-crypto/protocols:main.
 
+Please make best efforts to verify your contracts on https://monadvision.com/ where possible, and let us know if you are running into issues with contract verification.
+
 ## Data
 
 For each network (`mainnet`, `testnet`), there is one json per protocol.
