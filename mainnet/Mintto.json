@@ -5,7 +5,6 @@
     "categories": ["NFT::Other"],
     "addresses": {
         "Factory": "0x00000000001594C61dD8a6804da9AB58eD2483ce",
-        "MintMaster": "0x00000000009a1E02f00E280dcfA4C81c55724212"
     },
     "links": {
         "project": "https://mintto.xyz/",
