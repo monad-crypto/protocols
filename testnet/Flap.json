@@ -4,7 +4,8 @@
     "live": true,
     "categories": ["DeFi::Launchpads"],
     "addresses": {
-        "default": "0x4267F317adee7C6478a5EE92985c2BD5D855E274"
+        "legacy": "0x4267F317adee7C6478a5EE92985c2BD5D855E274",
+        "latest": "0xa5DcBa6FfbfB043c96243B36a77C2ede2f1322ce"
     },
     "links": {
         "project": "monad.flap.sh",
