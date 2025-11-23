@@ -1,0 +1,19 @@
+{
+  "name": "Rango",
+  "description": "Rango offers smart routing over DEXs, DEX aggregators, bridges and cross-chain protocols to provides cross-chain swaps, interoperability and message passing",
+  "live": true,
+  "categories": [
+    "Infra::Interoperability",
+    "DeFi::DEX Aggregator",
+    "DeFi::Cross Chain"
+  ],
+  "addresses": {
+    "RangoDiamond": "0x69460570c93f9DE5E2edbC3052bf10125f0Ca22d"
+  },
+  "links": {
+    "project": "https://rango.exchange/",
+    "twitter": "https://x.com/RangoExchange",
+    "github": "https://github.com/rango-exchange",
+    "docs": "https://docs.rango.exchange/"
+  }
+}
