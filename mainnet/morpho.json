@@ -1,5 +1,12 @@
 {
-        "Deployer1Deployer": "0xA16B49505e39C373A8f9e1b1540514BA64B3942a",
+    "name": "Morpho",
+    "description": "The universal lending network",
+    "live": true,
+    "categories": [
+        "DeFi::Lending"
+    ],
+    "addresses": {
+       "Deployer1Deployer": "0xA16B49505e39C373A8f9e1b1540514BA64B3942a",
         "Morpho": "0xD5D960E8C380B724a48AC59E2DfF1b2CB4a1eAee",
         "AdaptiveCurveIrm": "0x09475a3D6eA8c314c592b1a3799bDE044E2F400F",
         "Safe": "0xe27f43624FDb5325b853c4711BCF0fEBA754e558",
@@ -34,4 +41,11 @@
         "MorphoMarketV1Registry": "0xF5e6DD4b06874f55444936cF0026b785383A9849",
         "MorphoVaultV1_1Registry": "0x1d721eddac84e1B9995Fc25ce3e57463688064a9",
         "Deployer7": "0x3f12264881a118C2A74Ad10F9039694579bdCf54"
-      }
+    },
+    "links": {
+        "project": "https://morpho.org/",
+        "twitter": "https://x.com/Morpho",
+        "github": "https://github.com/morpho-org",
+        "docs": "https://docs.morpho.org/"
+    }
+}
