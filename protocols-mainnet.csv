@@ -330,7 +330,7 @@ Mace,DeFi,DEX Aggregator,NadFunCurveAdapter,0x057f554fe1558d2910e5e0865d9177e8eb
 Mace,DeFi,DEX Aggregator,NitroAdapter,0x5c968a45404e55ffa5da393fe7db96f244792707,DeFi::DEX Aggregator;DeFi::Trading Interfaces
 Mace,DeFi,DEX Aggregator,PancakeswapV3Adapter,0xa24be4225dda623e4db49ed12c80aae583447482,DeFi::DEX Aggregator;DeFi::Trading Interfaces
 Mace,DeFi,DEX Aggregator,PrintrCurveAdapter,0x7d120c4fccbd620b398e04f9147271cf5cac587c,DeFi::DEX Aggregator;DeFi::Trading Interfaces
-Mace,DeFi,DEX Aggregator,ShMonAdapter,0x35b1341a7592e17940865cf69b40f37e05978f45,DeFi::DEX Aggregator;DeFi::Trading Interfaces
+Mace,DeFi,DEX Aggregator,ShMonAdapter,0x8a64d063dc534a160914da4dc86804be5e8de98b,DeFi::DEX Aggregator;DeFi::Trading Interfaces
 Mace,DeFi,DEX Aggregator,SomethingAdapter,0x39c361d267853a43f4e6237291cea0701c426abe,DeFi::DEX Aggregator;DeFi::Trading Interfaces
 Mace,DeFi,DEX Aggregator,UniswapV2Adapter,0x9d282092c60303ba8fc219501cfedafafa290a64,DeFi::DEX Aggregator;DeFi::Trading Interfaces
 Mace,DeFi,DEX Aggregator,UniswapV4Adapter,0xaa318069cee0e16e25b8aa34c27ac20c4de16fc2,DeFi::DEX Aggregator;DeFi::Trading Interfaces
