@@ -1,0 +1,14 @@
+{
+	"name": "Ooga Booga",
+	"description": "Protocol description",
+	"categories": ["DeFi::Dex Aggregator"],
+	"addresses": {
+		"OBRouter": "0x5fbD1B5AA82d09359C05428647871fe9aDd3F411"
+	},
+	"links": {
+		"project": "https://oogabooga.io/",
+		"twitter": "https://x.com/0xoogabooga",
+		"github": "https://github.com/0xoogabooga",
+		"docs": "https://docs.oogabooga.io/"
+	}
+}
