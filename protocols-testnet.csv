@@ -908,6 +908,10 @@ Ambire Wallet,Infra,Wallet,Paymaster,0xa8b267c68715fa1dca055993149f30217b572cf0,
 Ambire Wallet,Infra,Wallet,ProxyAccount,0x0f2aa7bcda3d9d210df69a394b6965cb2566c828,Infra::Wallet
 Cordial Systems,Infra,Wallet,protocol,0xa46ca499390af42bff1faa39ad42ce085e9387cd,Infra::Wallet
 HaHa Wallet,Infra,Wallet,Bundler,0x4337002c5702ce424cb62a56ca038e31e1d4a93d,Infra::Wallet
+HaHa Wallet,Infra,Wallet,FeeManager,0x4631f923c3c470061a97e008ed9c33da4349612c,Infra::Wallet;Consumer::Other
+HaHa Wallet,Infra,Wallet,MerkleDistributor,0xa01a2488cbe09156da4a78fa46483556ce41710a,Infra::Wallet;Consumer::Other
+HaHa Wallet,Infra,Wallet,MetaAccount,0xbd2c0dc6521cd25a8bb3943f50b5eec7a9d9a8a2,Infra::Wallet;Consumer::Other
+HaHa Wallet,Infra,Wallet,NonceManager,0xfff4badfe0eb9731f5593fe7ced5b1209055e640,Infra::Wallet;Consumer::Other
 Nomas Wallet,Infra,Wallet,default,0xfb0e7922709381f50cb53f9c3fbbb4dd007a3e89,Infra::Wallet
 Primus,Infra,ZK,Logic,0x616bdf7e9041c6f76b0ff6de9af5da2c88a9ac98,Infra::ZK;Infra::Other
 Primus,Infra,ZK,zkTLS Proxy,0x3760ab354507a29a9f5c65a66c74353fd86393fa,Infra::ZK;Infra::Other
