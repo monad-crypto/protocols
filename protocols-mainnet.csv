@@ -617,6 +617,13 @@ Enjoyoors,DeFi,Yield,Vault,0x6b5e332387e8bec98c52f10a72952b17176b4f1b,DeFi::Yiel
 Enjoyoors,DeFi,Yield,WithdrawalApprover,0x71f60773885011cc0a61613078733b4738b38f35,DeFi::Yield
 Lagoon,DeFi,Yield,ProtocolRegistry,0xbf994c358f939011595ab4216ac005147863f9d6,DeFi::Yield;DeFi::Asset Allocators
 Lagoon,DeFi,Yield,VaultFactory,0xccdc4d06ca12a29c47d5d105fed59a6d07e9cf70,DeFi::Yield;DeFi::Asset Allocators
+Sherpa,DeFi,Yield,CCIPPool,0xf9bc71bedeb6ba90de4cf79f09870d99b0ba2bf0,DeFi::Yield;DeFi::Trading Interfaces
+Sherpa,DeFi,Yield,ConfigManager,0xfa82b15cca7668f011171a026895dde0defcc46b,DeFi::Yield;DeFi::Trading Interfaces
+Sherpa,DeFi,Yield,SherpaRouter,0xf37dd3acbcb7b3be161f8f67d09273d5bc09bd85,DeFi::Yield;DeFi::Trading Interfaces
+Sherpa,DeFi,Yield,SherpaUSD,0x58fc8a79055519af779308a60a7f1315caa266af,DeFi::Yield;DeFi::Trading Interfaces
+Sherpa,DeFi,Yield,SherpaVault,0x96043804d00dcec238718eedad9ac10719778380,DeFi::Yield;DeFi::Trading Interfaces
+Sherpa,DeFi,Yield,SingleSigActionModule,0x352c308f0cb6f6b9443cbf38b89e62ca7808a61a,DeFi::Yield;DeFi::Trading Interfaces
+Sherpa,DeFi,Yield,TradingStrategyModule,0x35708afd736873c92134addbd2c76689993ab9c4,DeFi::Yield;DeFi::Trading Interfaces
 Accountable,DeFi,Yield Aggregator,AccountableFixedTerm,0xd0a53e724ea9cb041e30f0243e3c84bdea238dfa,DeFi::Yield Aggregator
 Accountable,DeFi,Yield Aggregator,AccountableOpenTerm,0x59b0b84371bb3261fad538c512efffc414cc1725,DeFi::Yield Aggregator
 Accountable,DeFi,Yield Aggregator,AsyncVaultFactory,0xee004aef79cb14bf31bfbfb14346e01fb7e5a2e8,DeFi::Yield Aggregator
