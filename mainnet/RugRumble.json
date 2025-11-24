@@ -1,0 +1,17 @@
+{
+    "name": "Rug Rumble",
+    "description": "Rug Rumble is a provably fair gaming platform. The Run to a 100x has begun!",
+    "categories": [
+        "Gaming::Mobile-First",
+        "Gaming::Games",
+        "Consumer::Other"
+    ],
+    "addresses": {
+        "RugRumble": "0xA33FCf1F510fF1365a7667e3328d042B7d559B8a"
+    },
+    "links": {
+        "project": "https://rugrumble.xyz/",
+        "twitter": "https://x.com/RugRumble",
+        "docs": "https://rugrumble.notion.site/run"
+    }
+}
