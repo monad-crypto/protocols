@@ -1,0 +1,34 @@
+{
+  "name": "Folks Finance",
+  "description": "Folks Finance is the leading crosschain DeFi protocol for lending, borrowing, staking & trading. Folks unifies liquidity and functionalities across blockchains, removing the inefficiencies of bridges.",
+  "live": true,
+  "categories": ["DeFi::Lending", "DeFi::Cross Chain"],
+  "addresses": {
+    "spokeCommon": "0xc7bc4A43384f84B8FC937Ab58173Edab23a4c3cD",
+    "bridgeRouterSpoke": "0xF854AC65A40f1EabFD32E6D4C7d0E1c4B1753Cc5",
+    "wormholeDataAdapter": "0x37d761883a01e9F0B0d7fe59EEC8c21D94393CDD",
+    "ccipDataAdapter": "0xeB48a1eE43B91959A1686b70B7Cd482c65DE69c9",
+    "ccipTokenAdapter": "0x5C60f12838b8E3EEB525F299cD7C454c989dd04e",
+    "monSpokeAddress": "0x531490B7674ef239C9FEC39d2Cf3Cc10645d14d4",
+    "wBtcSpokeAddress": "0xF4c542518320F09943C35Db6773b2f9FeB2F847e",
+    "wEthSpokeAddress": "0xe3B0e4Db870aA58A24f87d895c62D3dc5CD05883",
+    "sMonSpokeAddress": "0xb39c03297E87032fF69f4D42A6698e4c4A934449",
+    "aUsdSpokeAddress": "0xC30107a8e782E98Fe890f0375afa4185aeEa3356",
+    "usdt0SpokeAddress": "0xB1e2939b501B73F4cFEf6a9FB0aa89a75F1774EE",
+    "bridgeRouterSpokeReward": "0x5f2F4771B7dc7e2F7E9c1308B154E1e8957ecAB0",
+    "wormholeDataAdapterReward": "0x1b2a8d56967d00700DD5C94E27B1a116a1deF8Df",
+    "ccipDataAdapterReward": "0x12Db9758c4D9902334C523b94e436258EB54156f",
+    "spokeCommonRewardV2": "0x802063A23E78D0f5D158feaAc605028Ee490b03b",
+    "folksSpokeRewardV2": "0x7218Bd1050D41A9ECfc517abdd294FB8116aEe81"
+  },
+  "links": {
+    "project": "https://xapp.folks.finance",
+    "discord": "https://discord.com/invite/folksfinance",
+    "twitter": "https://x.com/FolksFinance",
+    "reddit": "https://www.reddit.com/r/FolksFinance",
+    "telegram": "https://t.me/FolksfinanceOfficial",
+    "youtube": "https://www.youtube.com/@FolksFinance",
+    "github": "https://github.com/Folks-Finance",
+    "docs": "https://docs.xapp.folks.finance"
+  }
+}
