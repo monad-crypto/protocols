@@ -9,7 +9,6 @@
     "DeFi::Cross Chain"
   ],
   "addresses": {
-    // OpenOcean DEX Aggregator
     "OpenOceanExchangeProxy": "0x6352a56caadC4F1E25CD6c75970Fa768A3304e64"
 },
   "links": {
