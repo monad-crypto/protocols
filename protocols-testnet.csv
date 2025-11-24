@@ -21,6 +21,7 @@ Proof-of-Skill,AI,Consumer AI,protocol,0xca28b582af1e1701a1c91fb19f8633b79ad2e57
 Codatta,AI,Data,default,0x7ddd7de29a12c122ac6a97584aa734b5d096ef8f,AI::Data
 Monadata AI,AI,Data,default,0xa1848085c2a7804516c14faac35f1899ee74cb51,AI::Data;DePIN::Data Labelling
 OpenPad AI,AI,Data,contract,0x179fd30f3924be36f6d61f750ee8054effab49c3,AI::Data
+Sela Network,AI,Data,SelaPower,0xd43d1530ec32dc33c95eea1e5fd913412ede1561,AI::Data;AI::Infrastructure;DePIN::Data Collection;DePIN::Compute
 Fortytwo,AI,Inference,Core,0xdf26b347a02e74cd8bf6f562454826cd49cc6cb1,AI::Inference
 Fortytwo,AI,Inference,NodeRatings,0x66a49be7a0dc3150146d2db64f4aa46c3e1562a5,AI::Inference
 MemeAIAssistant,AI,Other,Daily SignIn,0x18f72532ec1511e3a5132d1f114d5fac30ca9226,AI::Other
@@ -946,4 +947,3 @@ PingMe,Payments,Neobanks,CryptoDrop,0x3de0e31a0a9d885bf98ea1512188e06f70d507b2,P
 PingMe,Payments,Neobanks,Forwarder,0x2a217b43b138e36979f59999776585ed6bb27542,Payments::Neobanks
 PingMe,Payments,Neobanks,RecoveryVault,0x32f62bdc2be3e1b1c0265143831155253cd5a248,Payments::Neobanks
 DAU Cards,Payments,Onramp and Offramps,default,0x3214bf2e017f390f5593ea67cc816923b36996c0,Payments::Onramp and Offramps
-Sela Network,AI,Data,SelaPower,0xd43D1530EC32Dc33c95EEA1E5Fd913412eDe1561,AI::Data;AI::Infrastructure;DePIN::Data Collection;DePIN::Compute
