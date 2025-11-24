@@ -907,6 +907,7 @@ Safe,Infra,Wallet,MultiSend,0xa238cbeb142c10ef7ad8442c6d1f9e89e07e7761,Infra::Wa
 Safe,Infra,Wallet,MultiSendCallOnly,0x40a2accbd92bca938b02010e17a5b8929b49130d,Infra::Wallet
 Safe,Infra,Wallet,SignMessageLib,0xa65387f16b013cf2af4605ad8aa5ec25a2cba3a2,Infra::Wallet
 Safe,Infra,Wallet,SimulateTxAccessor,0x59ad6735bcd8152b84860cb256dd9e96b85f69da,Infra::Wallet
+Mintpad,NFT,Marketplace,Factory,0xaaae0243007aa3000000d8e8beef0a944a0d3900,NFT::Marketplace
 NFTs2Me,NFT,Marketplace,Factory,0x00000000001594c61dd8a6804da9ab58ed2483ce,NFT::Marketplace
 Poply,NFT,Marketplace,NftDropFactory,0x35a9eaf67c2c6276c8edf083d5b42ec36214ebd3,NFT::Marketplace
 Poply,NFT,Marketplace,PoplyMarketplace (Proxy),0x81389aecadcff4b8ae1391d3dcec9a21de51694c,NFT::Marketplace
