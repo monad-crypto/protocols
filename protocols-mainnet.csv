@@ -36,6 +36,23 @@ Covenant,DeFi,CDP,CovenantCurator,0xab0f8ab1e67cc02a9d58fc27055292289b159094,DeF
 Covenant,DeFi,CDP,DataProvider,0x5c1fb9a1232e87702897424ec0852d30b713bfd8,DeFi::CDP;DeFi::DEX;DeFi::Yield
 Covenant,DeFi,CDP,LatentSwapLEX - 50% targetLTV,0x6a5aa3df89ba1c1f8b471c72159458d61a9447c2,DeFi::CDP;DeFi::DEX;DeFi::Yield
 Covenant,DeFi,CDP,LatentSwapLEX - 80% targetLTV,0x9a369df53ec62725c93f41b891e701bd88aff2c8,DeFi::CDP;DeFi::DEX;DeFi::Yield
+Bungee.Exchange,DeFi,Cross Chain,BungeeGateway,0x1a2f1085a94de6fbcc334aae1ddf527c567b75e7,DeFi::Cross Chain;Infra::Interoperability
+Bungee.Exchange,DeFi,Cross Chain,BungeeInbox,0xab568b1b49f8be7488ca1c0d5dda6ff94691e4c8,DeFi::Cross Chain;Infra::Interoperability
+Bungee.Exchange,DeFi,Cross Chain,CCTPV2RouterSingleOutput,0x09b043840cd2f32687ec6b63fb0412585de39822,DeFi::Cross Chain;Infra::Interoperability
+Bungee.Exchange,DeFi,Cross Chain,CalldataExecutor,0xa873aab6a98cb764ad6d52820d129d0e3667d9f9,DeFi::Cross Chain;Infra::Interoperability
+Bungee.Exchange,DeFi,Cross Chain,Entrypoint,0x3bb92b8452bde5ac20c18e10e606fdc9ac19b414,DeFi::Cross Chain;Infra::Interoperability
+Bungee.Exchange,DeFi,Cross Chain,FeeCollector,0x82260eac86558c0835d08eeff360014aea7454b6,DeFi::Cross Chain;Infra::Interoperability
+Bungee.Exchange,DeFi,Cross Chain,GenericStakedRoute,0x5013c0b3defd8f832d1b6dec750382946de5c13b,DeFi::Cross Chain;Infra::Interoperability
+Bungee.Exchange,DeFi,Cross Chain,RFQRouterSingleOutput,0x7aea2188414c6d22ce15b2b0b2870bce69e5e5d5,DeFi::Cross Chain;Infra::Interoperability
+Bungee.Exchange,DeFi,Cross Chain,SingleOutputRequestImpl,0x27d966329a325f214b4854a4f0e62550bfebdca3,DeFi::Cross Chain;Infra::Interoperability
+Bungee.Exchange,DeFi,Cross Chain,StakedRouterExecutor,0x12efda5e4d410c5da723ceb7e43942779e3fe49b,DeFi::Cross Chain;Infra::Interoperability
+Bungee.Exchange,DeFi,Cross Chain,StakedRouterReceiver,0x26d8da52e56de71194950689ccf74cd309761324,DeFi::Cross Chain;Infra::Interoperability
+Bungee.Exchange,DeFi,Cross Chain,StakedRouterSingleOutput,0x94d0bef156041af3ef0b9fec4784468e660045dd,DeFi::Cross Chain;Infra::Interoperability
+Bungee.Exchange,DeFi,Cross Chain,SwapExecutor,0xd0389e84178f809903cbfe7d1efae3efa9c1769c,DeFi::Cross Chain;Infra::Interoperability
+Bungee.Exchange,DeFi,Cross Chain,SwapRequestCallback,0x88a8596e2b51512aab3867cc895d7047e1d9ef7b,DeFi::Cross Chain;Infra::Interoperability
+Bungee.Exchange,DeFi,Cross Chain,SwapRequestImpl,0x01d8a85adb82408e14bc242ed43fbad0ca2f94cb,DeFi::Cross Chain;Infra::Interoperability
+Bungee.Exchange,DeFi,Cross Chain,SwitchboardPlug,0xf20b3cb7508c519296556c1caa9db6f210e0232a,DeFi::Cross Chain;Infra::Interoperability
+Bungee.Exchange,DeFi,Cross Chain,SwitchboardRouter,0x3859ad748d03c358aabb66d084bc5849b624e611,DeFi::Cross Chain;Infra::Interoperability
 Cashmere,DeFi,Cross Chain,CashmereCCTP,0xd156ffb54871f4562744d6be5d6321b5bffca3b6,DeFi::Cross Chain
 Garden,DeFi,Cross Chain,htlc_native,0xe413743b51f3cc8b3ac24addf50d18fa138cb0bb,DeFi::Cross Chain
 Garden,DeFi,Cross Chain,htlc_usdc,0x5fa58e4e89c85b8d678ade970bd6afd4311af17e,DeFi::Cross Chain
