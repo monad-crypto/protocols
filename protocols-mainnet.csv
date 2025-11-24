@@ -366,10 +366,9 @@ bonad.fun,DeFi,Launchpads,NoOpGovernanceFactory,0xb4dee32eb70a5e55f3d2d861f49fb3
 bonad.fun,DeFi,Launchpads,NoOpMigrator,0x5f3ba43d44375286296cb85f1ea2ebfa25dde731,DeFi::Launchpads;DeFi::Memecoin
 bonad.fun,DeFi,Launchpads,PoolManager,0x188d586ddcf52439676ca21a244753fa19f9ea8e,DeFi::Launchpads;DeFi::Memecoin
 bonad.fun,DeFi,Launchpads,TokenFactory,0xaa47d2977d622dbdfd33eef6a8276727c52eb4e5,DeFi::Launchpads;DeFi::Memecoin
+bonad.fun,DeFi,Launchpads,UniswapV2Migrator,0x136191b46478cab023cbc01a36160c4aad81677a,DeFi::Launchpads;DeFi::Memecoin
+bonad.fun,DeFi,Launchpads,UniswapV4ScheduledMulticurveInitializer,0xce3099b2f07029b086e5e92a1573c5f5a3071783,DeFi::Launchpads;DeFi::Memecoin
 bonad.fun,DeFi,Launchpads,UniversalRouter,0x0d97dc33264bfc1c226207428a79b26757fb9dc3,DeFi::Launchpads;DeFi::Memecoin
-bonad.fun,DeFi,Launchpads,V2Migrator,0x136191b46478cab023cbc01a36160c4aad81677a,DeFi::Launchpads;DeFi::Memecoin
-bonad.fun,DeFi,Launchpads,V3Quoter,0x66266174564170519409d8853898f065c719536b,DeFi::Launchpads;DeFi::Memecoin
-bonad.fun,DeFi,Launchpads,V4ScheduledMulticurveInitializer,0xce3099b2f07029b086e5e92a1573c5f5a3071783,DeFi::Launchpads;DeFi::Memecoin
 Gearbox,DeFi,Lending,Account_Compressor,0x4115708fc8fe6bb392de2e0c21c2c81da2222394,DeFi::Lending;DeFi::Leveraged Farming
 Gearbox,DeFi,Lending,Address_Provider,0xf7f0a609bfab9a0a98786951ef10e5fe26cc1e38,DeFi::Lending;DeFi::Leveraged Farming
 Gearbox,DeFi,Lending,Batches_Chain,0x59b2fd348e4ade84ffefdaf5fcdda7276c8c5041,DeFi::Lending;DeFi::Leveraged Farming
