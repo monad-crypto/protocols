@@ -1,0 +1,13 @@
+{
+    "name": "Jenius",
+    "description": "TikTok: Agent video content",
+    "live": true,
+    "categories": [ "Consumer::Social","AI::Consumer AI","AI::Models"],
+    "addresses": {
+      "JenMon": "0x0B60222EE89AB189cdfBdba4328eaD42B6a34956"
+    },
+    "links": {
+      "project": "https://jns.fun",
+      "twitter": "https://x.com/jeniusrndm"
+    }
+  }
