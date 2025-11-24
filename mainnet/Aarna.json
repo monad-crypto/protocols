@@ -1,0 +1,16 @@
+{
+    "name": "aarna protocol",
+    "description": "aarna is an agentic onchain treasury for defi. it is the infra where high value users, project treasuries and funds deploy capital into a full stack onchain asset management layer. over time, the aarna token becomes meta exposure to curated, low risk defi markets.",
+    "live": true,
+    "categories": [
+        "DeFi::Yield Aggregator"
+    ],
+    "addresses": {
+        "BaseVault": "0x0E7593aa7696F8F0f2c676f3d978Ddd5F09ecc5e"
+    },
+    "links": {
+        "project": "https://www.aarna.ai/",
+        "twitter": "https://x.com/aarnasays",
+        "docs": "https://docs.aarna.ai/"
+    }
+}
