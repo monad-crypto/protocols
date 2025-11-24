@@ -12,9 +12,10 @@
       "PoolManager": "0x188d586ddcf52439676ca21a244753fa19f9ea8e",
       "TokenFactory": "0xaA47D2977d622DBdFD33eeF6a8276727c52EB4e5",
       "UniversalRouter": "0x0d97dc33264bfc1c226207428a79b26757fb9dc3",
-      "V2Migrator": "0x136191B46478cAB023cbC01a36160C4Aad81677a",
-      "V3Quoter": "0x66266174564170519409d8853898f065c719536b",
-      "V4ScheduledMulticurveInitializer": "0xCe3099B2F07029b086E5e92a1573C5f5A3071783"
+      "UniswapV2Migrator": "0x136191B46478cAB023cbC01a36160C4Aad81677a",
+      // invalid address:
+      // "V3Quoter": "0x66266174564170519409d8853898f065c719536b",
+      "UniswapV4ScheduledMulticurveInitializer": "0xCe3099B2F07029b086E5e92a1573C5f5A3071783"
     },
     "links": {
       "project": "https://bonad.fun",
