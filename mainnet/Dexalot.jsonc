@@ -1,0 +1,30 @@
+{
+    "name": "Dexalot",
+    "description": "Dexalot is a decentralized exchange (DEX) for spot trading, powered by a fully on-chain central limit order book (CLOB).  Competitive prices, zero to minimal slippage and no fees.",
+    "live": true,
+    "categories": ["DeFi::DEX", "DeFi::Cross Chain", "DeFi::Trading Interfaces"],
+    "addresses": {
+        // Core
+        "Portfolio": "0x1FD108cf42A59c635bD4703b8DbC8a741ff834Be",
+        "Exchange": "0xC725229Aefeab5fAec9cc1667d79D9478e564a0C",
+
+        // Swap
+        "DexalotRouter": "0x3D3E4F0523500f95039D0Fe600ACf2ADE4b06eB9",
+        "MainnetRFQ": "0xA0421a4DB5bb7577f9bb9B577b5F600a642368be",
+
+        // Bridging
+        "PortfolioBridge": "0x246c87368580acd6E9ca46Bf112aD91978389634",
+        "LzV2App": "0x170c15cb9887E6Adb097518104B174Df212bB190",
+
+        // Admin
+        "BannedAccounts": "0xa5C079C1986E2335d83fA2d7282e162958e515D5",
+        "Create3Factory": "0x06B82468100A3A7b0EAC77289f0D1ab920573B16",
+        "ProxyAdmin": "0x15764530c716cEFaD9Cbd2310D722704D03de875"
+    },
+    "links": {
+        "project": "https://app.dexalot.com/",
+        "twitter": "https://x.com/dexalot",
+        "github": "https://github.com/dexalot",
+        "docs": "https://docs.dexalot.com/"
+    }
+}

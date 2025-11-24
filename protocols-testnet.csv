@@ -21,6 +21,7 @@ Proof-of-Skill,AI,Consumer AI,protocol,0xca28b582af1e1701a1c91fb19f8633b79ad2e57
 Codatta,AI,Data,default,0x7ddd7de29a12c122ac6a97584aa734b5d096ef8f,AI::Data
 Monadata AI,AI,Data,default,0xa1848085c2a7804516c14faac35f1899ee74cb51,AI::Data;DePIN::Data Labelling
 OpenPad AI,AI,Data,contract,0x179fd30f3924be36f6d61f750ee8054effab49c3,AI::Data
+Sela Network,AI,Data,SelaPower,0xd43d1530ec32dc33c95eea1e5fd913412ede1561,AI::Data;AI::Infrastructure;DePIN::Data Collection;DePIN::Compute
 Fortytwo,AI,Inference,Core,0xdf26b347a02e74cd8bf6f562454826cd49cc6cb1,AI::Inference
 Fortytwo,AI,Inference,NodeRatings,0x66a49be7a0dc3150146d2db64f4aa46c3e1562a5,AI::Inference
 MemeAIAssistant,AI,Other,Daily SignIn,0x18f72532ec1511e3a5132d1f114d5fac30ca9226,AI::Other
@@ -172,6 +173,15 @@ Crystal,DeFi,DEX,OldFactory,0xc7e19a8ccd223e7def92f4dd620030f106409cf0,DeFi::DEX
 Crystal,DeFi,DEX,OldRouter,0xefe2f96df94bd1337e79bdf3d524cec44b10b45c,DeFi::DEX
 Crystal,DeFi,DEX,RouterFactory,0x4e77071d619aa164ca6427547aefa41ac51be7a0,DeFi::DEX
 Defx,DeFi,DEX,default,0xc30a6799ab7cde040438769c6de5025ce48c74ec,DeFi::DEX
+Dexalot,DeFi,DEX,BannedAccounts,0x0f52c1eb47e77b9c7ac4a6049c5e5afd6eabeb54,DeFi::DEX;DeFi::Cross Chain;DeFi::Trading Interfaces
+Dexalot,DeFi,DEX,Create3Factory,0xebf371993e47364a3926b977355ca60d79507406,DeFi::DEX;DeFi::Cross Chain;DeFi::Trading Interfaces
+Dexalot,DeFi,DEX,DexalotRouter,0xba6a764809d852306f0c19dd064279aea30bfeb2,DeFi::DEX;DeFi::Cross Chain;DeFi::Trading Interfaces
+Dexalot,DeFi,DEX,Exchange,0xaf6ccd3e5780cb1d110c2009ec0a4d93c7e58654,DeFi::DEX;DeFi::Cross Chain;DeFi::Trading Interfaces
+Dexalot,DeFi,DEX,LzV2App,0x27236544ac6a580825cf44ce1248a7c4395eec59,DeFi::DEX;DeFi::Cross Chain;DeFi::Trading Interfaces
+Dexalot,DeFi,DEX,MainnetRFQ,0x77a547b5be9346dda5c9704fc148b61477a8326c,DeFi::DEX;DeFi::Cross Chain;DeFi::Trading Interfaces
+Dexalot,DeFi,DEX,Portfolio,0x60d7d3394b96bad07c99bd9fa86a6bf9414ff177,DeFi::DEX;DeFi::Cross Chain;DeFi::Trading Interfaces
+Dexalot,DeFi,DEX,PortfolioBridge,0x4fd93ffc2ae634b1ec487405f8f31792f120c875,DeFi::DEX;DeFi::Cross Chain;DeFi::Trading Interfaces
+Dexalot,DeFi,DEX,ProxyAdmin,0xeed3c159f3a96ab8d41c8b9ca49ee1e5071a7cdd,DeFi::DEX;DeFi::Cross Chain;DeFi::Trading Interfaces
 Doppler,DeFi,DEX,Airlock,0x5f3ba43d44375286296cb85f1ea2ebfa25dde731,DeFi::DEX
 Doppler,DeFi,DEX,GovernanceFactory,0x136191b46478cab023cbc01a36160c4aad81677a,DeFi::DEX
 Doppler,DeFi,DEX,TokenFactory,0x5fbe931dc4b923a7abe4c47ad68d5bf9eda5b76d,DeFi::DEX
@@ -358,7 +368,8 @@ Hedgemony,DeFi,Intents,SwapRouter,0xe31371f8e2c7be43d35dd053b9fa4a613f167426,DeF
 Clanker,DeFi,Launchpads,Clanker,0xa0c65813dd1cde7092922a57548ec1ed25994318,DeFi::Launchpads;AI::Other
 Clanker,DeFi,Launchpads,ClankerVault,0x9505a57bf782058890f078be301575cd75045a9b,DeFi::Launchpads;AI::Other
 Clanker,DeFi,Launchpads,LpLockerV2,0xcd89c55d36097a64f777066a6cc8f2c31b7541f7,DeFi::Launchpads;AI::Other
-Flap,DeFi,Launchpads,default,0x4267f317adee7c6478a5ee92985c2bd5d855e274,DeFi::Launchpads
+Flap,DeFi,Launchpads,latest,0xa5dcba6ffbfb043c96243b36a77c2ede2f1322ce,DeFi::Launchpads
+Flap,DeFi,Launchpads,legacy,0x4267f317adee7c6478a5ee92985c2bd5d855e274,DeFi::Launchpads
 Nad.fun,DeFi,Launchpads,BONDING_CURVE,0xad720f94689edb929d9be7613223320a0b2f260f,DeFi::Launchpads
 Nad.fun,DeFi,Launchpads,BONDING_CURVE_ROUTER,0xf57f14335e9670ed2c0cef4a59fb707cf2eb3fac,DeFi::Launchpads
 Nad.fun,DeFi,Launchpads,COMMUNITY_TREASURY,0x8c786190186518a3a95d86cee8e972ce1c7eda8b,DeFi::Launchpads
@@ -516,6 +527,33 @@ Neverland,DeFi,Lending,gMON_VariableDebtToken,0xbb40488f28c78d2d5cd79d46f9349083
 Neverland,DeFi,Lending,shMON_AToken,0x81167bcbf086973018aeab9f2598fc872eb3ee8e,DeFi::Lending;NFT::Other;Governance::Other
 Neverland,DeFi,Lending,shMON_StableDebtToken,0x956cfaec111576cbdecda79af8f2efd9a388c008,DeFi::Lending;NFT::Other;Governance::Other
 Neverland,DeFi,Lending,shMON_VariableDebtToken,0x4fd95e1609220bf078b465456ee7864b9a780830,DeFi::Lending;NFT::Other;Governance::Other
+Peridot,DeFi,Lending,$P,0x28fe679719e740d15fc60325416bb43eac50cd15,DeFi::Lending
+Peridot,DeFi,Lending,JumpRateModelV2,0x2d271deb2596d78aaa2551695ebfa9cd440713ac,DeFi::Lending
+Peridot,DeFi,Lending,NewOracle,0x023c03e97a685f5196d9616a1bbc00bbe148b969,DeFi::Lending
+Peridot,DeFi,Lending,Oracle,0xeaedaf63cbc1d00cb6c14b5c4de161d68b7c63a0,DeFi::Lending
+Peridot,DeFi,Lending,PErc20Delegate_Implementation_1,0xf0a6303ca0a99d9235979b317e3a78083162a88b,DeFi::Lending
+Peridot,DeFi,Lending,PErc20Delegate_Implementation_2,0xe2c04eb02f2301bfd6be2c132308ba1100dd6646,DeFi::Lending
+Peridot,DeFi,Lending,PErc20Delegate_Implementation_3,0x056b0e9b04d535c82d2442e6030b53208c98cc86,DeFi::Lending
+Peridot,DeFi,Lending,PErc20Delegate_Implementation_4,0xacd0736723be61f223ffa37077f2dec0fb8cedbc,DeFi::Lending
+Peridot,DeFi,Lending,PErc20Delegate_Implementation_5,0xb744c93dc73262f64f04f1cd526c1ed889aa9868,DeFi::Lending
+Peridot,DeFi,Lending,PErc20Delegate_Implementation_6,0x887c4a5d984b472cdda699f1b5158d5f217b54aa,DeFi::Lending
+Peridot,DeFi,Lending,PErc20Delegate_Implementation_7,0x37f4061480c00aacc4721e9ebe20d1cce3dd6aeb,DeFi::Lending
+Peridot,DeFi,Lending,PErc20Delegate_pLINK,0x58ca60610bf8962d01fc275452f5fa9179940cc9,DeFi::Lending
+Peridot,DeFi,Lending,PErc20Delegate_pUSDT,0x3cdab3da772f08261777f38e770c14c8122200e4,DeFi::Lending
+Peridot,DeFi,Lending,PErc20Delegate_pWMON,0xf667095937651f3e2c8d1b035eed6c702eb6d51b,DeFi::Lending
+Peridot,DeFi,Lending,PeridottrollerG7FixedImplementation,0x1e0c46946ce9512f8b161c4ac012705c948f0dcd,DeFi::Lending
+Peridot,DeFi,Lending,PeridottrollerG7Implementation,0xf79b3af6954bcbedfe0f6be34dd1153a391e8083,DeFi::Lending
+Peridot,DeFi,Lending,UnitrollerProxy,0xa41d586530bc7bc872095950ae03a780d5114445,DeFi::Lending
+Peridot,DeFi,Lending,gMON_Delegator,0x0a33efcb5e2436e386bbfd377ee5c430132dad40,DeFi::Lending
+Peridot,DeFi,Lending,pLINK_Delegator,0x06827a2db9047219b3989e926e811808233c95ac,DeFi::Lending
+Peridot,DeFi,Lending,pPUSD_Delegator,0x06a08324a1bda9a89aa8c4e81d6529f583beff1e,DeFi::Lending
+Peridot,DeFi,Lending,pP_Delegator,0xf73e2d1b5c7fe43351212f6559dabb32da71f237,DeFi::Lending
+Peridot,DeFi,Lending,pUSDC_Delegator,0xa72b43bd60e5a9a13b99d0bdbed36a9041269246,DeFi::Lending
+Peridot,DeFi,Lending,pUSDT_Delegator,0xa568bd70068a940910d04117c36ab1a0225fd140,DeFi::Lending
+Peridot,DeFi,Lending,pWBTC_Delegator,0x8f11d42eeaa6b454a040c2390501afe16d150eb4,DeFi::Lending
+Peridot,DeFi,Lending,pWETH_Delegator,0xd3167fbadd8eac1b1b60a5adfcf504d15dc56005,DeFi::Lending
+Peridot,DeFi,Lending,pWMON_Delegator,0x8a1a797594997ae7f9972d5c5bd94f17c6a30282,DeFi::Lending
+Peridot,DeFi,Lending,rUSDC_Delegator,0xd2d72fdbcbd7c89a4dca2c9516e5cb54f76b808b,DeFi::Lending
 Pike,DeFi,Lending,OracleEngine1,0x5ea59495da9b648e61a81842214d950a0b36ee96,DeFi::Lending
 Pike,DeFi,Lending,OracleEngine2,0xe0985152f70accbccb76ed48df93d524dbc78e6d,DeFi::Lending
 Pike,DeFi,Lending,OracleEngineBeacon,0x1afe460cdef8ff250f846f7eaaafda7cb648c68e,DeFi::Lending
@@ -659,6 +697,7 @@ SkyTrade,DeFi,RWA,SecurityTokenRegistry,0x110eadcbeb9ad0131a09a52cdf038d9a3959d4
 Zona,DeFi,RWA,Master,0xcf91cd9f22889f1e8631a51b6115b46b51548202,DeFi::RWA
 Zona,DeFi,RWA,ZonaOracle,0x0fed9873f364bd49cb4d7039567f69c59ae6eb2b,DeFi::RWA
 Agora,DeFi,Stablecoin,default,0xcece051914985de98df4429d50d5d1f4776721f7,DeFi::Stablecoin
+Circle USDC,DeFi,Stablecoin,USDC,0x534b2f3a21130d7a60830c2df862319e593943a3,DeFi::Stablecoin
 Unipay,DeFi,Stablecoin,StakedUSDu,0x5d9ec43ab8eea781faa035944c6cfa0f4e9b44d5,DeFi::Stablecoin;DeFi::Asset Issuers
 Unipay,DeFi,Stablecoin,StakedUSDuV2,0xdd3a4131352556746d1dab05a79c0b0e0d32f395,DeFi::Stablecoin;DeFi::Asset Issuers
 Unipay,DeFi,Stablecoin,StakingRewardsDistributor,0x3e0e4d0e9f5f521f93a52aac8051296098ebf10b,DeFi::Stablecoin;DeFi::Asset Issuers
@@ -808,6 +847,10 @@ Axelar,Infra,Interoperability,Create3Deployer,0x6513aedb4d1593ba12e50644401d976a
 Axelar,Infra,Interoperability,MonadAxelarTransceiver,0x50beabe4883981624aea01f737b040d1e3fe83fb,Infra::Interoperability
 Axelar,Infra,Interoperability,Operators,0x7f83f5ca2ae4206abff8a3c3668e88ce5f11c0b5,Infra::Interoperability
 Chainlink CCIP,Infra,Interoperability,Router,0x5f16e51e3dcb255480f090157dd01ba962a53e54,Infra::Interoperability
+Circle CCTP,Infra,Interoperability,MessageTransmitterV2,0xe737e5cebeeba77efe34d4aa090756590b1ce275,Infra::Interoperability
+Circle CCTP,Infra,Interoperability,MessageV2,0xbac0179bb358a8936169a63408c8481d582390c4,Infra::Interoperability
+Circle CCTP,Infra,Interoperability,TokenMessengerV2,0x8fe6b999dc680ccfdd5bf7eb0974218be2542daa,Infra::Interoperability
+Circle CCTP,Infra,Interoperability,TokenMinterV2,0xb43db544e2c27092c107639ad201b3defabcf192,Infra::Interoperability
 Fiamma,Infra,Interoperability,BridgeProxy,0xa93005d851949d695614c80b1c7e7dbf933f3042,Infra::Interoperability
 Hyperlane,Infra,Interoperability,ISMOperator,0x734628f55694d2a5f4de3e755ccb40ecd72b16d9,Infra::Interoperability
 LayerZero,Infra,Interoperability,BlockedMessageLib,0x926984a57b10a3a5c4cfdbac04daaa0309e78932,Infra::Interoperability

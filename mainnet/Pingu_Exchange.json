@@ -1,0 +1,41 @@
+{
+  "name": "Pingu Exchange",
+  "description": "A perps protocol for trading crypto and real-world assets with leverage.",
+  "live": true,
+  "categories": ["DeFi::Perpetuals / Derivatives"],
+  "addresses": {
+    "PythUpdater": "0x605AD21A6A9328d74fA88AA80F23dbD4e746b2fD",
+    "RoleStore": "0x4F6e71a81a72Fbd33C599596A7E3e28Aa4b44Ebb",
+    "DataStore": "0x631c6E0d5ae2E1F6a39871a9BE97F1D9d43D1C83",
+    "AssetStore": "0x379A14208c15e99177b6A2003B77F38f80D66a2f",
+    "FundingStore": "0xE0FfD61De51Ce62D47845c5e6F10c35e8807224d",
+    "FundStore": "0x576d51fB872065DC4Af6f83902fd4078eBCc2f03",
+    "MarketStore": "0xe5CdF1b3b36b9799B33E5C6f8C4c8B03848C6470",
+    "OrderStore": "0xDD9Bb855fcD8bc3F45b54B9C1F9dE43Dd2DFf06B",
+    "PoolStore": "0xCB30DFf8515d4170BBf1fd0Ff01CB21F9ACc4caF",
+    "PositionStore": "0x06FC8B836F78A2C95416d33028452f9C95AAc6b4",
+    "RiskStore": "0x66700b04bD1a912996fdB90f05c1B0965Fef1b62",
+    "BuyBackStore": "0x1B313E19Df0B33880e99f38AC58e6BbdCC5B1810",
+    "StakingStore": "0xD849497f08180d3f1a79397EF8ae4DBD05EC1a5c",
+    "Funding": "0xD7071C24f765Ca1ad21FF8E9d89ad45845Af64DF",
+    "Orders": "0xeE6A587C06e02f330C00EA3E7c102d9b1d8a52f3",
+    "Pool": "0xb1744C2e2B9b34630551338568698368489AEB7f",
+    "Positions": "0x3d7ec93875B6a6f0A5102fE29f887ee6E751b12F",
+    "Processor": "0x75F2948bfF7D6D6bb6133cc5FE3c710656c2A939",
+    "BuyBack": "0xBfC60682970fd08E2e4eEa96f8B7b6BFa25EAb53",
+    "Staking": "0xD53b51aE4216B80422216269Edf064E9DE89749b",
+    "ReferralStore": "0xCf410B10C0f30948033e47b7209CC026054E9F18",
+    "RebateStore": "0xe199e871fC628488d6cd1b2d192Ed51Dc8f5b88F",
+    "Referral": "0xDfD770c6ca5F690289Ddf6a173025719C07996c4",
+    "Rebate": "0x15E5E522a44B562f3c87da77c87eC858F62d221E",
+    "Swapper": "0x133f72734a185ff821705af80D57B8823CA8bC8e",
+    "Signable": "0x99903470cc631D01F271340C94E224262168ED95",
+    "PINGU": "0xA2426cD97583939E79Cfc12aC6E9121e37D0904d"
+  },
+  "links": {
+    "project": "https://pingu.exchange/",
+    "twitter": "https://x.com/PinguExchange/",
+    "github": "https://github.com/PinguProtocol/pingu-exchange-contracts/",
+    "docs": "https://docs.pingu.exchange/"
+  }
+}
