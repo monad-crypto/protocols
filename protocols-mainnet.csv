@@ -780,6 +780,7 @@ Chronicle,Infra,Oracle,Chronicle_WEETH_USD_1,0x847a305548462557945088c97074524d1
 Chronicle,Infra,Oracle,Chronicle_WETH_USD_1,0xd4920c3eba8c0e4824afe7b3737facd7c1022234,Infra::Oracle
 Chronicle,Infra,Oracle,Chronicle_WSTETH_USD_1,0x418541ffd62bdb3078fb669cb9c18d45942d9c3d,Infra::Oracle
 Orochi,Infra,Oracle,Orocle_v2,0x78291455bf33aa5437f9d69ff63e0b1c09833429,Infra::Oracle
+Pyth,Infra,Oracle,Entropy,0xd458261e832415cfd3bae5e416fdf3230ce6f134,Infra::Oracle
 Pyth,Infra,Oracle,PriceFeed,0x2880ab155794e7179c9ee2e38200202908c17b43,Infra::Oracle
 Stork,Infra,Oracle,default,0xacc0a0cf13571d30b4b8637996f5d6d774d4fd62,Infra::Oracle
 Supra Oracles,Infra,Oracle,SupraSValueFeedStorage,0x58e158c74df7ad6396c0dcbadc4878fac9e93d57,Infra::Oracle
