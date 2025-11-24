@@ -899,6 +899,8 @@ Canonical Contracts,Infra,Other,SingletonFactory,0xce0042b868300000d44a59004da54
 Canonical Contracts,Infra,Other,VanityMarket,0x000000000000b361194cfe6312ee3210d53c15aa,Infra::Other
 Canonical Contracts,Infra,Other,WMON,0x3bd359c1119da7da1d913d1c4d2b7c461115433a,Infra::Other
 Canonical Contracts,Infra,Other,ZoltuDeterministicDeploymentProxy,0x7a0d94f55792c434d74a40883c6ed8545e406d12,Infra::Other
+Primus Token Distribution Platform,Infra,Privacy / Encryption,PrimusRedEnvelope,0x50bd377eb8d4236bb587ab3fb1eeafd888aeec58,Infra::Privacy / Encryption;Infra::ZK;Consumer::Social
+Primus Token Distribution Platform,Infra,Privacy / Encryption,PrimusTip,0xa2e0700a269be3158c81e4739518b324d4398588,Infra::Privacy / Encryption;Infra::ZK;Consumer::Social
 Safe,Infra,Wallet,CompatibilityFallbackHandler,0xf48f2b2d2a534e402487b3ee7c18c33aec0fe5e4,Infra::Wallet
 Safe,Infra,Wallet,CreateCall,0x7cbb62eaa69f79e6873cd1ecb2392971036cfaa4,Infra::Wallet
 Safe,Infra,Wallet,GnosisSafe,0xd9db270c1b5e3bd161e8c8503c55ceabee709552,Infra::Wallet
