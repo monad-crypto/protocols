@@ -263,6 +263,8 @@ Swyrl,DeFi,DEX,SwyrlV3PoolDeployer,0x66ae3f94eb3ab532cc4f8fc8700f6d7488e40a4f,De
 Swyrl,DeFi,DEX,TickLens,0x95d4063ad9ceda0d83428986d23baa9ed5163f58,DeFi::DEX
 Swyrl,DeFi,DEX,UniswapInterfaceMulticall,0xb79ba9375fc66c4ddf236bed3d53ef6213aac7b6,DeFi::DEX
 Swyrl,DeFi,DEX,UniversalRouter,0x6b096391742baaed539ad25f44dc775065f73322,DeFi::DEX
+Tadle,DeFi,DEX Aggregator,TadleSandBoxFactory,0x89d6AeE63Bd92A9a021d3c4943a66C8e4C8D31f9
+Tadle,DeFi,DEX Aggregator,TadleConnectors,0xA8DD40CE8d5fCA018160D21d5142fB4F938F5453
 Uniswap,DeFi,DEX,FeeOnTransferDetector,0x5c834b6cac4173bfe288c5722a38e04b9e366e30,DeFi::DEX
 Uniswap,DeFi,DEX,NFTDescriptor,0x2e9d45bb7b30549f5216813ada9a6b7982c5b3ed,DeFi::DEX
 Uniswap,DeFi,DEX,NonfungiblePositionManager,0x7197e214c0b767cfb76fb734ab638e2c192f4e53,DeFi::DEX
