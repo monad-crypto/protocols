@@ -1,0 +1,13 @@
+{
+	"name": "Mongu",
+	"description": "Launch and trade all tokens on Monad",
+	"categories": ["DeFi::Launchpads"],
+	"addresses": {
+		"MonguFactory": "0x8FB1863CAba3eB8CdB0F693363BdBb013b65073b",
+		"MonguBondingCurve": "0x6197cbf7e0e7164bDeD5Cdd81F3bf8504515F12a"
+	},
+	"links": {
+		"project": "https://mongu.fun",
+		"twitter": "https://x.com/mongu_fun"
+	}
+}
