@@ -1,0 +1,20 @@
+{
+    "name": "HaHa Wallet",
+    "description": "Native wallet with ultra-fast transactions, exclusive rewards, and discounts.",
+    "categories": [
+        "Infra::Wallet",
+        "Consumer::Other"
+    ],
+    "addresses": {
+        "MetaAccount": "0xbd2C0dc6521CD25A8bb3943f50B5Eec7A9d9a8a2",
+        "FeeManager": "0x4631F923C3c470061A97e008ED9c33DA4349612c",
+        "NonceManager": "0xfFf4baDfe0EB9731F5593fE7CEd5B1209055E640",
+        "MerkleDistributor": "0xA01A2488Cbe09156da4a78fA46483556CE41710a"
+    },
+    "links": {
+        "project": "https://www.haha.me/",
+        "twitter": "https://x.com/haha_app",
+        "github": "https://github.com/permutize",
+        "docs": "https://hahacrypto.notion.site/HaHa-Wallet-dApp-Integration-Guide-450e401310844f069d92ba82b4ddb68c/"
+    }
+}
