@@ -558,6 +558,58 @@ TownSquare,DeFi,Lending,USDC Pool,0xdb4e67f878289a820046f46f6304fd6ee1449281,DeF
 TownSquare,DeFi,Lending,USDC SpokeToken,0xa457235b68606a7921b7c525d92e9592e793b4c0,DeFi::Lending;DeFi::Cross Chain
 TownSquare,DeFi,Lending,WMON Pool,0xf358f9e4ba7d210fde8c9a30522bb0063e15c4bb,DeFi::Lending;DeFi::Cross Chain
 TownSquare,DeFi,Lending,WMON SpokeToken,0xa2b1ac2bb0a6ad5e74d74f8809a2f935813d273a,DeFi::Lending;DeFi::Cross Chain
+Mellow Protocol,DeFi,Leveraged Farming,BasicRedeemHook,0x00000001d757b0554f564d88c6855ccd9bab5b6c,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,BasicShareManager_Implementation,0x00000001198a8ac01f183cfc340fdbf01b441c83,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,BitmaskVerifier,0x000000019a3e622ee54b1f6e155fb740d1fd9f0f,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,Consensus_Factory,0x2e84d9e713610d7eafcdf7f998ce1bdb835f5668,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,Consensus_Implementation,0x000000005ab29daa855dfa661d8d9d25cd88c103,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,DepositQueue_Factory,0xa67330bb89668ba66502a6d6670dacf5f334eb53,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,DepositQueue_Implementation,0x00000004f672aa091ebf44545cb8ae75143d8f4c,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,ERC20Verifier,0x00000009710aebae63b94487a7d4a0b07e6c4837,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,ERC20Verifier_Factory,0xc14bcd44686ee3eaf483edc5436d93e97ac50d71,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,Factory_Factory,0x000000049057e402f46800cdc08199b1358a7691,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,Factory_Implementation,0x0000000834bd05fe8a94b5e0bfec2a58a4c9171e,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,Fastlane_DepositQueue_shMON,0xd25b8b6b15c19d6eff91bd00aa17ad9c5d09a3d3,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,Fastlane_FeeManager,0x0d4c9dfa80c7f291d0de6b305b3308e45f966445,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,Fastlane_Oracle,0xd585e5660e1c22b6c0b0374396d728fb8c284235,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,Fastlane_RedeemQueue_shMON,0xb03cac60f47b9ae204ef4d5576a378c4c62d0471,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,Fastlane_RiskManager,0x80a22358ec0a749eabaa26eff7cb1f0b6d4007d3,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,Fastlane_Subvault_0,0xb2a616b410c3d7eb83fbe0ec4830daf9a6e4356b,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,Fastlane_Timelock_Controller,0x6ba64c154347b5fba27b64dd3a773445341461b0,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,Fastlane_Vault,0xd7441a389df504d2124529157152aaad766456da,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,Fastlane_Verifier_0,0xfa6f89537231d0321affa8fe4d8faf52c9f9e008,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,FeeManager_Factory,0xdc40601eee986e739831a96669f931eb818f43d2,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,FeeManager_Implementation,0x00000005e070fe45d9bc67a4e3201994347ec9f5,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,MVT,0x04f8c38ae80bcf690b947f60f62bda18145c3d67,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,Monad_DepositQueue_MON,0x4b54bf09e779578a5afd96c84b78aa30488014b4,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,Monad_DepositQueue_WMON,0x47a3d2eba87628d643664fca5d0fe2fca48265c1,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,Monad_FeeManager,0x164142c927f8874264f8a2fc65aea7e93b218156,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,Monad_Oracle,0xeb9144abd066233e48b549b97a23ff7358bcd424,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,Monad_RedeemQueue_MON,0x1aea6d1e29966bb53f8b6ed02ad93884a0c03541,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,Monad_RedeemQueue_WMON,0x7c68288064f54e274694cb2c08c0eea5d1c05592,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,Monad_RiskManager,0x28bd6fea28263ffe63d67b211ab01180ebaa928c,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,Monad_Timelock_Controller,0xdcf8808e66ba87c71b88d0e2672eb90a6e85fda0,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,Monad_Vault,0x912644cdfada93469b8ab5b4351bdcff61691613,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,OracleHelper,0x00000002449a991f159727e9aa64583a560e5efd,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,Oracle_Factory,0x2c2ca09e5511bd69ffe9f156254b901ddc4f7fc5,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,Oracle_Implementation,0x0000000ccdcc8a633bc9738fd8d3129e70f7a049,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,RedeemQueue_Factory,0xa92cea07d6009de8f2aa377a4298deccf94d942a,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,RedeemQueue_Implementation,0x00000004051f95d5836ff4149ca4a26b5cfb8784,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,RedirectingDepositHook,0x0000000ef1a84ae7d455249d61d33e6397c46d72,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,RiskManager_Factory,0x195b23ba895ed8c951a093d295a33ecbe2bd8edd,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,RiskManager_Implementation,0x00000004d3a91eb46d4f405bf539eeae30a01782,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,ShareManager_Factory,0xfa6cd2822912f86f17429683334f2b79fb5cd7e7,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,SignatureDepositQueue_Implementation,0x00000008d840ca76629607583c697fedfa5fdd49,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,SignatureRedeemQueue_Implementation,0x00000002cb862cedd58b73b24996f54e43a3e00f,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,Subvault_Factory,0x5e11c97db901edd8932fdaa77b015da89f3f289e,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,Subvault_Implementation,0x000000019aea95f32accbd160b12dc39c3b6c0a7,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,TokenizedShareManager_Implementation,0x0000000f017d7077e34f4292e034478c371eb2c3,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,VaultConfigurator,0x0000000594e51babd99dae398e877c474201f1a5,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,Vault_Factory,0x04c0287dede16e0c04a1c2a52f31400a88f1df4c,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,Vault_Implementation,0x000000061cf24abc52e54ba275579e21e96e7716,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,Verifier_Factory,0x48766b2e6b321f6550988d1a2e09b42e91708759,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,Verifier_Implementation,0x00000001ea707ec337425aeb128d5c92ebac3da0,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,vshMON,0x982c66d60a18f05db7d1a8987189310062d2f818,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
 Fastlane,DeFi,Liquid Staking,Atlas,0x2da28fedc4643c787cb5c5e84fa6aadb596875e8,DeFi::Liquid Staking;DeFi::Staking;DeFi::MEV
 Fastlane,DeFi,Liquid Staking,ShMonad,0x1b68626dca36c7fe922fd2d55e4f631d962de19c,DeFi::Liquid Staking;DeFi::Staking;DeFi::MEV
 Magma,DeFi,Liquid Staking,gMON,0x8498312a6b3cbd158bf0c93abdcf29e6e4f55081,DeFi::Liquid Staking;DeFi::Staking;DeFi::MEV
