@@ -2,8 +2,6 @@
     "name": "Mellow Protocol",
     "description": "Mellow builds a liquid vaults primitive that enables permissionless creation of variety of vaults, including Core Vaults, Simple LRT, MultiVaults, DVV, Interoperability Vaults and more to come. The primitive consists of a series of vault smart contracts with customizable risk profiles, managed by curators. In this docs book you can find overview of Mellow vaults architecture, details about smart contracts, audit links, user tutorials, API and point program details.",
     "categories": [
-        "DeFi::Staking",
-        "DeFi::Liquid Staking",
         "DeFi::Leveraged Farming",
         "DeFi::Yield",
         "DeFi::Yield Aggregator"
@@ -39,7 +37,7 @@
         "ERC20Verifier_Factory": "0xC14BCd44686EE3eAF483EdC5436d93e97Ac50D71",
         "ERC20Verifier": "0x00000009710AebAE63B94487a7d4A0B07e6c4837",
         "VaultConfigurator": "0x0000000594E51babd99Dae398E877C474201F1a5",
-        "BasicRedeeHook": "0x00000001D757B0554F564d88C6855ccD9BaB5B6c",
+        "BasicRedeemHook": "0x00000001D757B0554F564d88C6855ccD9BaB5B6c",
         "RedirectingDepositHook": "0x0000000Ef1A84Ae7D455249D61d33e6397C46D72",
         "OracleHelper": "0x00000002449a991F159727e9AA64583a560e5efD",
 
