@@ -7,7 +7,8 @@
     ],
     "addresses": {
         "LumiterraGameInbox": "0x4bd7aB4f4251f6A20E8c64D24F3A2f89F47D80B9",
-        "LumiterraGameItemNFT": "0x8f28E18039c37cdB4389E6dcb8703966fb9480A8"
+        "LumiterraGameItemNFT": "0x8f28E18039c37cdB4389E6dcb8703966fb9480A8",
+        "LumiterraGameMarketplace": "0xEf8BB725e1056317dBafD9B356E63c160e63dCdd"
     },
     "links": {
         "project": "https://lumiterra.net/",
