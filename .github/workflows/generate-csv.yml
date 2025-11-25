@@ -5,8 +5,6 @@ name: Generate CSV
 on:
   push:
     branches: [ main, master ]
-  pull_request:
-    branches: [ main, master ]
 
 jobs:
   generate-csv:
@@ -47,6 +45,6 @@ jobs:
       # Commit all changed files back to the repository
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Update protocols csvs"
+          commit_message: "Update protocols CSV files"
           file_pattern: "*.csv"
           push_options: "--force"
