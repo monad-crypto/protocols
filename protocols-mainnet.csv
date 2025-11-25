@@ -325,6 +325,7 @@ iZiSwap,DeFi,DEX,swapY2XModule,0x32d02fc7722e81f6ac60b87ea8b4b63a52ad2b55,DeFi::
 iZiSwap,DeFi,DEX,tapProxy,0x2c6df0fdbce9d2ded2b52a117126f2dc991f770f,DeFi::DEX
 Eisen,DeFi,DEX Aggregator,EisenDiamond,0x787c474b8a86354d0f5f19fb599a5fc7662a265f,DeFi::DEX Aggregator
 Eisen,DeFi,DEX Aggregator,Forwarder,0xece5e77f9a9846c4d69555eb44e0cff8b5f03f1e,DeFi::DEX Aggregator
+Gmgn,DeFi,DEX Aggregator,Router,0xc9ca80b5ea956afa98627963d1880033545d108e,DeFi::DEX Aggregator
 Mace,DeFi,DEX Aggregator,APRMonAdapter,0x0e89c6d18933e2da3a5c56b0727113b2247ac847,DeFi::DEX Aggregator;DeFi::Trading Interfaces
 Mace,DeFi,DEX Aggregator,AlgebraAdapter,0xc1d16c871d816cb2400243dc7a61ed4e9137fbeb,DeFi::DEX Aggregator;DeFi::Trading Interfaces
 Mace,DeFi,DEX Aggregator,ClobberV2Adapter,0x42a3ed3010d38dab622b9e135df724ab4a813cd7,DeFi::DEX Aggregator;DeFi::Trading Interfaces
@@ -397,6 +398,22 @@ bonad.fun,DeFi,Launchpads,TokenFactory,0xaa47d2977d622dbdfd33eef6a8276727c52eb4e
 bonad.fun,DeFi,Launchpads,UniswapV2Migrator,0x136191b46478cab023cbc01a36160c4aad81677a,DeFi::Launchpads;DeFi::Memecoin
 bonad.fun,DeFi,Launchpads,UniswapV4ScheduledMulticurveInitializer,0xce3099b2f07029b086e5e92a1573c5f5a3071783,DeFi::Launchpads;DeFi::Memecoin
 bonad.fun,DeFi,Launchpads,UniversalRouter,0x0d97dc33264bfc1c226207428a79b26757fb9dc3,DeFi::Launchpads;DeFi::Memecoin
+Folks Finance,DeFi,Lending,aUsdSpokeAddress,0xc30107a8e782e98fe890f0375afa4185aeea3356,DeFi::Lending;DeFi::Cross Chain
+Folks Finance,DeFi,Lending,bridgeRouterSpoke,0xf854ac65a40f1eabfd32e6d4c7d0e1c4b1753cc5,DeFi::Lending;DeFi::Cross Chain
+Folks Finance,DeFi,Lending,bridgeRouterSpokeReward,0x5f2f4771b7dc7e2f7e9c1308b154e1e8957ecab0,DeFi::Lending;DeFi::Cross Chain
+Folks Finance,DeFi,Lending,ccipDataAdapter,0xeb48a1ee43b91959a1686b70b7cd482c65de69c9,DeFi::Lending;DeFi::Cross Chain
+Folks Finance,DeFi,Lending,ccipDataAdapterReward,0x12db9758c4d9902334c523b94e436258eb54156f,DeFi::Lending;DeFi::Cross Chain
+Folks Finance,DeFi,Lending,ccipTokenAdapter,0x5c60f12838b8e3eeb525f299cd7c454c989dd04e,DeFi::Lending;DeFi::Cross Chain
+Folks Finance,DeFi,Lending,folksSpokeRewardV2,0x7218bd1050d41a9ecfc517abdd294fb8116aee81,DeFi::Lending;DeFi::Cross Chain
+Folks Finance,DeFi,Lending,monSpokeAddress,0x531490b7674ef239c9fec39d2cf3cc10645d14d4,DeFi::Lending;DeFi::Cross Chain
+Folks Finance,DeFi,Lending,sMonSpokeAddress,0xb39c03297e87032ff69f4d42a6698e4c4a934449,DeFi::Lending;DeFi::Cross Chain
+Folks Finance,DeFi,Lending,spokeCommon,0xc7bc4a43384f84b8fc937ab58173edab23a4c3cd,DeFi::Lending;DeFi::Cross Chain
+Folks Finance,DeFi,Lending,spokeCommonRewardV2,0x802063a23e78d0f5d158feaac605028ee490b03b,DeFi::Lending;DeFi::Cross Chain
+Folks Finance,DeFi,Lending,usdt0SpokeAddress,0xb1e2939b501b73f4cfef6a9fb0aa89a75f1774ee,DeFi::Lending;DeFi::Cross Chain
+Folks Finance,DeFi,Lending,wBtcSpokeAddress,0xf4c542518320f09943c35db6773b2f9feb2f847e,DeFi::Lending;DeFi::Cross Chain
+Folks Finance,DeFi,Lending,wEthSpokeAddress,0xe3b0e4db870aa58a24f87d895c62d3dc5cd05883,DeFi::Lending;DeFi::Cross Chain
+Folks Finance,DeFi,Lending,wormholeDataAdapter,0x37d761883a01e9f0b0d7fe59eec8c21d94393cdd,DeFi::Lending;DeFi::Cross Chain
+Folks Finance,DeFi,Lending,wormholeDataAdapterReward,0x1b2a8d56967d00700dd5c94e27b1a116a1def8df,DeFi::Lending;DeFi::Cross Chain
 Gearbox,DeFi,Lending,Account_Compressor,0x4115708fc8fe6bb392de2e0c21c2c81da2222394,DeFi::Lending;DeFi::Leveraged Farming
 Gearbox,DeFi,Lending,Address_Provider,0xf7f0a609bfab9a0a98786951ef10e5fe26cc1e38,DeFi::Lending;DeFi::Leveraged Farming
 Gearbox,DeFi,Lending,Batches_Chain,0x59b2fd348e4ade84ffefdaf5fcdda7276c8c5041,DeFi::Lending;DeFi::Leveraged Farming
