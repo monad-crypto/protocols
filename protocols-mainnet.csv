@@ -209,6 +209,9 @@ Monday Trade,DeFi,DEX,MondayFactory,0xc1e98d0a2a58fb8abd10ccc30a58efff4080aa21,D
 Monday Trade,DeFi,DEX,NFTPositionManager,0x68b507bf58ed32173f41ff20aa2494a569daec44,DeFi::DEX;DeFi::Perpetuals / Derivatives
 Monday Trade,DeFi,DEX,QuoterV2,0xb97ecd41aef0f842e773c8f9905919cde49880c9,DeFi::DEX;DeFi::Perpetuals / Derivatives
 Monday Trade,DeFi,DEX,SwapRouter,0xfe951b693a2fe54be5148614b109e316b567632f,DeFi::DEX;DeFi::Perpetuals / Derivatives
+Nabla Finance,DeFi,DEX,BackstopPool,0x11b06ef8adc5ea73841023cb39be614f471213cc,DeFi::DEX;DeFi::Yield
+Nabla Finance,DeFi,DEX,Portal,0xb361f3e5bb3614be2b1c247683cb5636840ffb70,DeFi::DEX;DeFi::Yield
+Nabla Finance,DeFi,DEX,Router,0x610748f49774c062467c7ae1ec9e4729ffe94577,DeFi::DEX;DeFi::Yield
 OctoSwap,DeFi,DEX,NonfungiblePositionManager,0x16eb676bbbe51eb6e4e9ddf57bfbee0537aa4d7b,DeFi::DEX
 OctoSwap,DeFi,DEX,NonfungibleTokenPositionDescriptor,0x2ff18d8ca8447db19392aa3e27dcb640cee83882,DeFi::DEX
 OctoSwap,DeFi,DEX,OctoSwapV2Factory,0x30db57a29acf3641dfc3885af2e5f1f5a408d9cb,DeFi::DEX
