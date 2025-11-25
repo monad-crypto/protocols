@@ -346,6 +346,8 @@ Mace,DeFi,DEX Aggregator,UniswapV4Adapter,0xaa318069cee0e16e25b8aa34c27ac20c4de1
 Mace,DeFi,DEX Aggregator,WethAdapter,0xc6b6b9e8eb8b3cf2cecd8ff536a9e1599d8ab426,DeFi::DEX Aggregator;DeFi::Trading Interfaces
 Madhouse,DeFi,DEX Aggregator,Aggregator,0x6017684bea9cb6e9874fc6dba4438271ebf9f5da,DeFi::DEX Aggregator
 Monorail,DeFi,DEX Aggregator,AggregationRouter,0xa68a7f0601effdc65c64d9c47ca1b18d96b4352c,DeFi::DEX Aggregator;DeFi::Trading Interfaces
+Velvet Capital,DeFi,DEX Aggregator,MetaAggregatorManager,0x995efd92cc2f70a2091ba9aae04cbb5fb24b7dd1,DeFi::DEX Aggregator
+Velvet Capital,DeFi,DEX Aggregator,MetaAggregatorSwapContract,0x6ddf98aece7d24fe37c70abc3f0f95acec66f32f,DeFi::DEX Aggregator
 Clanker,DeFi,Launchpads,Clanker,0xf9a0c289eab6b571c6247094a853810987e5b26d,DeFi::Launchpads;AI::Other
 Clanker,DeFi,Launchpads,ClankerAirdropV2,0x654e7221fa51d4359ded21d524e3aff18e93a507,DeFi::Launchpads;AI::Other
 Clanker,DeFi,Launchpads,ClankerFeeLocker,0x46b77bacfd712d79131f1ad7611794869483c353,DeFi::Launchpads;AI::Other
