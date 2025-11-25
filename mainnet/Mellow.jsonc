@@ -1,0 +1,66 @@
+{
+    "name": "Mellow Protocol",
+    "description": "Mellow builds a liquid vaults primitive that enables permissionless creation of variety of vaults, including Core Vaults, Simple LRT, MultiVaults, DVV, Interoperability Vaults and more to come. The primitive consists of a series of vault smart contracts with customizable risk profiles, managed by curators. In this docs book you can find overview of Mellow vaults architecture, details about smart contracts, audit links, user tutorials, API and point program details.",
+    "categories": [
+        "DeFi::Staking",
+        "DeFi::Liquid Staking",
+        "DeFi::Leveraged Farming",
+        "DeFi::Yield",
+        "DeFi::Yield Aggregator"
+    ],
+    "addresses": {
+        // Factories and Implementations
+        "Factory_Implementation": "0x0000000834bD05fe8A94b5e0bFeC2A58A4C9171E",
+        "Factory_Factory": "0x000000049057E402f46800CDC08199b1358a7691",
+        "Consensus_Factory": "0x2e84d9E713610d7eAFcDF7f998ce1Bdb835F5668",
+        "Consensus_Implementation": "0x000000005AB29dAA855DfA661d8D9D25cD88c103",
+        "DepositQueue_Factory": "0xa67330bb89668bA66502a6D6670dACf5F334eb53",
+        "DepositQueue_Implementation": "0x00000004F672aA091EbF44545cb8aE75143d8F4c",
+        "SignatureDepositQueue_Implementation": "0x00000008D840ca76629607583C697FEdFA5fdd49",
+        "FeeManager_Factory": "0xDC40601EeE986E739831A96669F931EB818F43d2",
+        "FeeManager_Implementation": "0x00000005e070fE45D9bc67A4E3201994347Ec9F5",
+        "Oracle_Factory": "0x2c2ca09e5511bd69fFe9f156254b901DdC4f7FC5",
+        "Oracle_Implementation": "0x0000000cCDCc8A633bC9738fD8D3129e70f7a049",
+        "RedeemQueue_Factory": "0xA92CeA07d6009DE8F2AA377a4298dECCF94d942a",
+        "RedeemQueue_Implementation": "0x00000004051f95d5836fF4149ca4a26B5Cfb8784",
+        "SignatureRedeemQueue_Implementation": "0x00000002CB862cEdD58B73B24996f54E43a3E00f",
+        "RiskManager_Factory": "0x195b23BA895ed8c951A093D295a33ecbE2BD8EDD",
+        "RiskManager_Implementation": "0x00000004d3A91Eb46d4F405bf539EeaE30A01782",
+        "ShareManager_Factory": "0xFA6CD2822912f86f17429683334F2B79FB5cd7E7",
+        "TokenizedShareManager_Implementation": "0x0000000F017D7077E34F4292E034478c371EB2C3",
+        "BasicShareManager_Implementation": "0x00000001198a8ac01F183Cfc340FdBF01b441C83",
+        "Subvault_Factory": "0x5e11c97dB901EdD8932fdaA77b015da89F3f289E",
+        "Subvault_Implementation": "0x000000019aEA95f32aCcBD160B12Dc39C3b6c0A7",
+        "Verifier_Factory": "0x48766B2e6B321f6550988d1A2e09b42E91708759",
+        "Verifier_Implementation": "0x00000001eA707eC337425AEB128d5C92EbAc3dA0",
+        "Vault_Factory": "0x04c0287DEdE16e0C04A1C2A52F31400a88f1dF4c",
+        "Vault_Implementation": "0x000000061Cf24abc52E54BA275579e21E96e7716",
+        "BitmaskVerifier": "0x000000019a3e622ee54B1F6e155fB740D1fd9F0F",
+        "ERC20Verifier_Factory": "0xC14BCd44686EE3eAF483EdC5436d93e97Ac50D71",
+        "ERC20Verifier": "0x00000009710AebAE63B94487a7d4A0B07e6c4837",
+        "VaultConfigurator": "0x0000000594E51babd99Dae398E877C474201F1a5",
+        "BasicRedeeHook": "0x00000001D757B0554F564d88C6855ccD9BaB5B6c",
+        "RedirectingDepositHook": "0x0000000Ef1A84Ae7D455249D61d33e6397C46D72",
+        "OracleHelper": "0x00000002449a991F159727e9AA64583a560e5efD",
+
+        // Monad Vault (MVT)
+        "MVT": "0x04f8c38AE80BcF690B947f60F62BdA18145c3D67",
+        "Monad_Vault": "0x912644cdFadA93469b8aB5b4351bDCFf61691613",
+        "Monad_DepositQueue_MON": "0x4b54bF09E779578a5AFD96c84b78Aa30488014B4",
+        "Monad_DepositQueue_WMON": "0x47A3D2EBA87628d643664FCa5d0FE2Fca48265C1",
+        "Monad_RedeemQueue_MON": "0x1aEA6D1e29966BB53f8b6eD02Ad93884a0c03541",
+        "Monad_RedeemQueue_WMON": "0x7c68288064F54E274694CB2c08c0eeA5d1C05592",
+
+        // Fastlane Strategic Vault (vshMON)
+        "vshMON": "0x982c66D60a18F05db7D1a8987189310062d2F818",
+        "Fastlane_Vault": "0xd7441a389Df504D2124529157152AaAD766456da",
+        "Fastlane_DepositQueue_shMON": "0xD25B8b6b15c19d6eFF91bd00aA17AD9c5d09a3D3",
+        "Fastlane_RedeemQueue_shMON": "0xB03cac60f47b9aE204Ef4D5576a378c4C62D0471"
+    },
+    "links": {
+        "project": "https://mellow.finance//",
+        "twitter": "https://x.com/mellowprotocol",
+        "github": "https://github.com/mellow-finance",
+        "docs": "https://docs.mellow.finance/core-vaults/overview"
+    }
+}
