@@ -363,6 +363,8 @@ Flap,DeFi,Launchpads,Portal,0x30e8ee7b5881bf2e158a0514f2150aabe2c68b23,DeFi::Lau
 Flap,DeFi,Launchpads,TaxTokenImplementation,0x1c8847736521f5cd725dfb8f33c7c610826e7c42,DeFi::Launchpads
 Flap,DeFi,Launchpads,TaxTokenSplitterImplementation,0x57fed6832f12150a77d5952b49190d9447acb5ee,DeFi::Launchpads
 Flap,DeFi,Launchpads,TokenV2Implementation,0xb88189aa1162850d75a1c1e16f837b7979994184,DeFi::Launchpads
+Mongu,DeFi,Launchpads,MonguBondingCurve,0x6197cbf7e0e7164bded5cdd81f3bf8504515f12a,DeFi::Launchpads
+Mongu,DeFi,Launchpads,MonguFactory,0x8fb1863caba3eb8cdb0f693363bdbb013b65073b,DeFi::Launchpads
 Nad.fun,DeFi,Launchpads,BONDING_CURVE,0xa7283d07812a02afb7c09b60f8896bcea3f90ace,DeFi::Launchpads
 Nad.fun,DeFi,Launchpads,BONDING_CURVE_ROUTER,0x6f6b8f1a20703309951a5127c45b49b1cd981a22,DeFi::Launchpads
 Nad.fun,DeFi,Launchpads,COMMUNITY_TREASURY,0x46895ee48fb1d750a81562fd6019b37f21d7fd52,DeFi::Launchpads
