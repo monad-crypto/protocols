@@ -620,6 +620,8 @@ ApeBond,DeFi,Other,ApeBond,0x1b7858f745211dba1387fe30124ebca2d706d7dd,DeFi::Othe
 ApeBond,DeFi,Other,ApeBondFactory,0xd731d8103132275b21a27ea8c8428ac6b97c5d35,DeFi::Other
 ApeBond,DeFi,Other,BondNft,0xc765c358622cb346f236f8bfffe53036e421bb4e,DeFi::Other
 ApeBond,DeFi,Other,BondTreasury,0x1f226c1008f5de89614bb15d09745128cf2a4d62,DeFi::Other
+GoPlus SafeToken Locker,DeFi,Other,TokenLocker,0xf17a08a7d41f53b24ad07eb322cbbda2ebdec04b,DeFi::Other
+GoPlus SafeToken Locker,DeFi,Other,UniV3LPLocker,0x24a9eb23de8e6f59bdb981b03e847f0f3abbfa0d,DeFi::Other
 Sablier,DeFi,Other,FlowNFTDescriptor,0xf51bb8bd1cfc7c890db68c39dcca67cad7810ce4,DeFi::Other
 Sablier,DeFi,Other,Helpers,0xa0a1ac47260b95d334763473b868117ef7343aa0,DeFi::Other
 Sablier,DeFi,Other,LockupMath,0x1feb172238638897b13b69c65feb508a0a96b35d,DeFi::Other
