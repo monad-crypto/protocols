@@ -267,6 +267,9 @@ Skate AMM,DeFi,DEX,PeripheryPoolImplementation,0x4b13d62a8209b3b25edca3046dcb831
 Skate AMM,DeFi,DEX,Pool_USDC_AUSD_1bps,0x0b6414df25eb6d23b7089055885c3d9058b33dee,DeFi::DEX;Infra::Interoperability
 Skate AMM,DeFi,DEX,Pool_WMON_USDC_5bps,0xc2be4b8852e37ecf979b3e2b5d58162719303804,DeFi::DEX;Infra::Interoperability
 Skate AMM,DeFi,DEX,SkateGateway,0x79e31a114e6d2f16e1e2a3ec47c82fac520881a4,DeFi::DEX;Infra::Interoperability
+SomeSwap,DeFi,DEX,SomeFactory,0x00008a3c1077325bb19cd93e5a0f1e95144700fa,DeFi::DEX
+SomeSwap,DeFi,DEX,SomeLiquidityLocker,0x001176f5ef99f53eae957bb2fb2ae93e9b6f110c,DeFi::DEX
+SomeSwap,DeFi,DEX,SomeRouter,0x000799b28ae9c3e9ca70b7ff67b191519ab80fee,DeFi::DEX
 Swaap,DeFi,DEX,SafeguardFactory,0xcc74bd5d8d2d333d14475e022325555eba3369b8,DeFi::DEX
 Swaap,DeFi,DEX,Vault,0xd315a9c38ec871068fec378e4ce78af528c76293,DeFi::DEX
 Swyrl,DeFi,DEX,MixedRouteQuoterV1,0xe6c40d7cdc1f1622ddf2af41ae8c4230a587d133,DeFi::DEX
@@ -382,6 +385,7 @@ Nad.fun,DeFi,Launchpads,TOKEN_IMPLEMENT,0x7f64ccfeb3e3afd7691ea0ef404e947786cefa
 Nad.fun,DeFi,Launchpads,TOKEN_REGISTRY,0x3be9198208c198e2a4dab9a575764c8468dc83c6,DeFi::Launchpads
 Nad.fun,DeFi,Launchpads,TOKEN_TREASURY,0xb0baace23ac7cbd25211134a0b47ad70a9d42fa4,DeFi::Launchpads
 Nad.fun,DeFi,Launchpads,UNISWAP_ACTOR,0xcd68f7c0668b72ab943e09ff4dbf53da64b8a8c2,DeFi::Launchpads
+Something,DeFi,Launchpads,SmthTokenFactory,0x00f4353c69039b25c9338097fff51099981e00ce,DeFi::Launchpads
 bonad.fun,DeFi,Launchpads,Airlock,0x660eaaedebc968f8f3694354fa8ec0b4c5ba8d12,DeFi::Launchpads;DeFi::Memecoin
 bonad.fun,DeFi,Launchpads,Bundler,0xc99b485499f78995c6f1640dbb1413c57f8ba684,DeFi::Launchpads;DeFi::Memecoin
 bonad.fun,DeFi,Launchpads,GovernanceFactory,0xfaafde6a5b658684cc5eb0c5c2c755b00a246f45,DeFi::Launchpads;DeFi::Memecoin
