@@ -26,20 +26,22 @@ jobs:
         with:
           python-version: '3.10'
 
+      - name: Install uv
+        uses: astral-sh/setup-uv@v4
+        with:
+          enable-cache: true
+
       - name: Install dependencies
-        run: |
-          python -m venv venv
-          source venv/bin/activate
-          pip install -r requirements.txt
+        run: uv sync
 
       - name: Run script (testnet)
         run: |
-          source venv/bin/activate
+          source .venv/bin/activate
           python scripts/ProtocolsTable.py --network testnet
 
       - name: Run script (mainnet)
         run: |
-          source venv/bin/activate
+          source .venv/bin/activate
           python scripts/ProtocolsTable.py --network mainnet
 
       # Commit all changed files back to the repository
