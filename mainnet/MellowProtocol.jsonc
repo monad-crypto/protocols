@@ -50,17 +50,27 @@
         "Monad_DepositQueue_WMON": "0x47A3D2EBA87628d643664FCa5d0FE2Fca48265C1",
         "Monad_RedeemQueue_MON": "0x1aEA6D1e29966BB53f8b6eD02Ad93884a0c03541",
         "Monad_RedeemQueue_WMON": "0x7c68288064F54E274694CB2c08c0eeA5d1C05592",
+        "Monad_Oracle": "0xeb9144AbD066233e48b549b97a23ff7358BcD424",
+        "Monad_FeeManager": "0x164142C927F8874264F8A2fc65aEa7e93B218156",
+        "Monad_RiskManager": "0x28bd6fEA28263FFe63D67B211Ab01180EBAA928C",
+        "Monad_Timelock_Controller": "0xdcF8808e66ba87C71B88D0e2672Eb90A6e85FdA0",
 
         // Fastlane Strategic Vault (vshMON)
         "vshMON": "0x982c66D60a18F05db7D1a8987189310062d2F818",
         "Fastlane_Vault": "0xd7441a389Df504D2124529157152AaAD766456da",
         "Fastlane_DepositQueue_shMON": "0xD25B8b6b15c19d6eFF91bd00aA17AD9c5d09a3D3",
-        "Fastlane_RedeemQueue_shMON": "0xB03cac60f47b9aE204Ef4D5576a378c4C62D0471"
+        "Fastlane_RedeemQueue_shMON": "0xB03cac60f47b9aE204Ef4D5576a378c4C62D0471",
+        "Fastlane_Oracle": "0xd585e5660e1C22b6c0B0374396D728Fb8c284235",
+        "Fastlane_FeeManager": "0x0D4C9dFa80c7F291d0dE6b305B3308E45f966445",
+        "Fastlane_RiskManager": "0x80a22358eC0A749eAbAA26efF7cb1f0b6d4007D3",
+        "Fastlane_Timelock_Controller": "0x6BA64C154347b5fBa27b64DD3a773445341461b0",
+        "Fastlane_Subvault_0": "0xb2a616B410c3D7eB83fbE0ec4830Daf9a6E4356b",
+        "Fastlane_Verifier_0": "0xFa6f89537231D0321AfFa8fe4d8faf52c9f9e008"
     },
     "links": {
-        "project": "https://mellow.finance//",
-        "twitter": "https://x.com/mellowprotocol",
-        "github": "https://github.com/mellow-finance",
-        "docs": "https://docs.mellow.finance/core-vaults/overview"
+        "project": "https://mellow.finance/",
+        "twitter": "https://x.com/mellowprotocol/",
+        "github": "https://github.com/mellow-finance/",
+        "docs": "https://docs.mellow.finance/core-vaults/overview/"
     }
 }
