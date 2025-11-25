@@ -1,0 +1,19 @@
+{
+    "name": "Nabla Finance",
+    "description": "The open Prop AMM",
+    "categories": [
+        "DeFi::DEX",
+        "DeFi::Yield"
+    ],
+    "addresses": {
+        "Router": "0x610748f49774C062467c7AE1eC9E4729FFE94577",
+        "Portal": "0xb361f3E5Bb3614Be2b1c247683Cb5636840ffB70",
+        "BackstopPool": "0x11B06EF8Adc5ea73841023CB39Be614f471213cc"
+    },
+    "links": {
+        "project": "https://monad.nabla.fi",
+        "twitter": "https://x.com/NablaFi",
+        "github": "https://github.com/NablaFinance/monad-integration-guide",
+        "docs": "https://docs.nabla.fi/"
+    }
+}
