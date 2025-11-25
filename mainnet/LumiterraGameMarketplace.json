@@ -1,0 +1,17 @@
+{
+    "name": "LumiterraGameMarketplace",
+    "description": "LumiterraGame Marketplace is the in-game trading hub where players can buy, sell, and trade Lumiterra NFTs and items, powered by on-chain settlement",
+    "live": true,
+    "categories": [
+        "NFT::Marketplace"
+    ],
+    "addresses": {
+        "LumiterraGameMarketplace": "0xEf8BB725e1056317dBafD9B356E63c160e63dCdd"
+    },
+    "links": {
+        "project": "https://lumiterra.net/",
+        "twitter": "https://x.com/LumiterraGame",
+        "github": "https://github.com/LumiterraGame",
+        "docs": "https://lumiterra.notion.site/Lumiterra-Multiverse-241211cc5a888022ac5aca4a04064a80"
+    }
+}
