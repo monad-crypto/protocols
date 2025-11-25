@@ -221,6 +221,7 @@ OctoSwap,DeFi,DEX,OctoswapV1Router,0x60fd5aa15debd5ffdefb5129fd9fd8a34d80d608,De
 OctoSwap,DeFi,DEX,OctoswapV2Router,0xbfd2cf709a17c4eee8daaf3b96e134408881259e,DeFi::DEX
 OctoSwap,DeFi,DEX,QuoterV2,0xf27ba2b4ee5580cb2a14fdf98cb981ff0ae149f4,DeFi::DEX
 OctoSwap,DeFi,DEX,UniversalRouter,0x241bf19641839b249e8174bd22facd3d3ac0642a,DeFi::DEX
+OpenOcean,DeFi,DEX,OpenOceanExchangeProxy,0x6352a56caadc4f1e25cd6c75970fa768a3304e64,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Trading Interfaces;DeFi::Cross Chain
 OrbiterFinance,DeFi,DEX,AggregatorRouter,0x70f6060fc8b01b56869feba8361df468f98c2900,DeFi::DEX;Infra::Interoperability
 PancakeSwap,DeFi,DEX,MixedRouteQuoterV1,0x77b482d9a4e391d682c857c630b8d869fdee5c44,DeFi::DEX
 PancakeSwap,DeFi,DEX,NfpTokenDescriptor,0xb099b459887bc759dbf0293e12d3dfcd0c456cff,DeFi::DEX
