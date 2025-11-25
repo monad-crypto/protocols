@@ -1,6 +1,6 @@
 {
     "name": "Mellow Protocol",
-    "description": "Mellow builds a liquid vaults primitive that enables permissionless creation of variety of vaults, including Core Vaults, Simple LRT, MultiVaults, DVV, Interoperability Vaults and more to come. The primitive consists of a series of vault smart contracts with customizable risk profiles, managed by curators. In this docs book you can find overview of Mellow vaults architecture, details about smart contracts, audit links, user tutorials, API and point program details.",
+    "description": "Mellow builds a liquid vaults primitive that enables permissionless creation of variety of vaults, including Core Vaults, Simple LRT, MultiVaults, DVV, Interoperability Vaults and more to come. The primitive consists of a series of vault smart contracts with customizable risk profiles, managed by curators.",
     "categories": [
         "DeFi::Leveraged Farming",
         "DeFi::Yield",
