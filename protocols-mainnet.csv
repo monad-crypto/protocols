@@ -356,6 +356,11 @@ Clanker,DeFi,Launchpads,ClankerLpLockerFeeConversion,0xde51a86d3b6ec9ac4756115d3
 Clanker,DeFi,Launchpads,ClankerMevDescendingFees,0x3231d1ddfdc4ad585cf1939ffecd9c88b338dbf2,DeFi::Launchpads;AI::Other
 Clanker,DeFi,Launchpads,ClankerUniV4EthDevBuy,0x8790d79283eb941c719b616cfd0ef116d13c7683,DeFi::Launchpads;AI::Other
 Clanker,DeFi,Launchpads,ClankerVault,0xe7d402a5bed94e5c49ac0639e80f784d06e2d397,DeFi::Launchpads;AI::Other
+Cult,DeFi,Launchpads,CultFactoryImplementation,0x951a3a01122511f01abffff1acefbab2c5c9ff17,DeFi::Launchpads
+Cult,DeFi,Launchpads,CultFactoryProxy,0xce6fc8af085bcd42fa5338f739d1a2cdda2c19fe,DeFi::Launchpads
+Cult,DeFi,Launchpads,CultFeeHook,0x7a2524ce937f206844b9508eec8f6486800a40cc,DeFi::Launchpads
+Cult,DeFi,Launchpads,CultImplementation,0x69c382cf1a36f2665d449c0e6c446927d3904d35,DeFi::Launchpads
+Cult,DeFi,Launchpads,CultRewards,0x440a157243d7820c2077d1be931fc6bb52716f31,DeFi::Launchpads
 Doppler,DeFi,Launchpads,Airlock,0x660eaaedebc968f8f3694354fa8ec0b4c5ba8d12,DeFi::Launchpads;DeFi::Asset Issuers
 Doppler,DeFi,Launchpads,Bundler,0xc99b485499f78995c6f1640dbb1413c57f8ba684,DeFi::Launchpads;DeFi::Asset Issuers
 Doppler,DeFi,Launchpads,GovernanceFactory,0xfaafde6a5b658684cc5eb0c5c2c755b00a246f45,DeFi::Launchpads;DeFi::Asset Issuers
