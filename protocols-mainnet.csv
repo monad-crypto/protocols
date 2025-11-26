@@ -54,6 +54,7 @@ Bungee.Exchange,DeFi,Cross Chain,SwapRequestCallback,0x88a8596e2b51512aab3867cc8
 Bungee.Exchange,DeFi,Cross Chain,SwapRequestImpl,0x01d8a85adb82408e14bc242ed43fbad0ca2f94cb,DeFi::Cross Chain;Infra::Interoperability
 Bungee.Exchange,DeFi,Cross Chain,SwitchboardPlug,0xf20b3cb7508c519296556c1caa9db6f210e0232a,DeFi::Cross Chain;Infra::Interoperability
 Bungee.Exchange,DeFi,Cross Chain,SwitchboardRouter,0x3859ad748d03c358aabb66d084bc5849b624e611,DeFi::Cross Chain;Infra::Interoperability
+CCTP Exchange,DeFi,Cross Chain,RathCctpRouter,0x9ebe71d432cf73f7baca46e3a59080609375b844,DeFi::Cross Chain;Infra::Interoperability
 Cashmere,DeFi,Cross Chain,CashmereCCTP,0xd156ffb54871f4562744d6be5d6321b5bffca3b6,DeFi::Cross Chain
 Garden,DeFi,Cross Chain,htlc_native,0xe413743b51f3cc8b3ac24addf50d18fa138cb0bb,DeFi::Cross Chain
 Garden,DeFi,Cross Chain,htlc_usdc,0x5fa58e4e89c85b8d678ade970bd6afd4311af17e,DeFi::Cross Chain
