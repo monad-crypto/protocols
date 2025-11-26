@@ -1,0 +1,18 @@
+{
+    "name": "Avail Nexus",
+    "description": "Crosschain meta-interoperability protocol that enables unified balances and seamless spending of unified balances across multiple chains.",
+    "categories": [
+        "Infra::Interoperability",
+        "DeFi::Cross Chain",
+        "DeFi::Intents"
+    ],
+    "addresses": {
+        "Vault": "0x00000000ac0ac9d69424fA5Adc291D75Ec4a0F11"
+    },
+    "links": {
+        "project": "https://availproject.org/",
+        "twitter": "https://x.com/AvailProject",
+        "github": "https://github.com/availproject",
+        "docs": "https://docs.availproject.org/"
+    }
+}
