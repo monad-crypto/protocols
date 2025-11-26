@@ -4,7 +4,7 @@ version = "0.0.1"
 description = "Monad Token List"
 readme = "README.md"
 requires-python = ">=3.9"
-dependencies = ["json5>=0.12.1"]
+dependencies = ["json5>=0.12.1", "requests>=2.31.0", "jsoncomment>=0.4.2"]
 
 [dependency-groups]
 dev = ["ruff>=0.14.4"]
