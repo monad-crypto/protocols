@@ -80,7 +80,7 @@
     // shMON
     "shMON_AToken": "0xC64d73Bb8748C6fA7487ace2D0d945B6fBb2EcDe",
     "shMON_StableDebtToken": "0x1b1947ecaA12E644d09165F3c43Ce059f6E24274",
-    "shMON_VariableDebtToken": "0x0xbb64E46e995bE16eEF3Ec009442ABC0f2c8381B1",
+    "shMON_VariableDebtToken": "0xbb64E46e995bE16eEF3Ec009442ABC0f2c8381B1",
 
     // --- Lending Utilities ---
     "WalletBalanceProvider": "0x8911Db480C1c0c1E06f17C2Bc76b26D861e40D47",
