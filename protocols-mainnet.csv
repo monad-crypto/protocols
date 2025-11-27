@@ -754,6 +754,7 @@ Mona Trading Bot,DeFi,Trading Interfaces,MonaV2Router02,0x95def69a01962f0cb24e2c
 Mona Trading Bot,DeFi,Trading Interfaces,MonaV3Router01,0x7e75d7eb235703d8acbd71382bf2f344fb23ab5b,DeFi::Trading Interfaces
 Mona Trading Bot,DeFi,Trading Interfaces,MonaV3Router02,0x50adc49f643f06888a8950dd172ae48221e49a38,DeFi::Trading Interfaces
 Mona Trading Bot,DeFi,Trading Interfaces,MonaV3Router03,0x09ec7d8d3065097d5859539ed4590dd76c0c77e0,DeFi::Trading Interfaces
+Syrax,DeFi,Trading Interfaces,Router,0x449134df9148d9a5cf12bc17f12dff602bd153a4,DeFi::Trading Interfaces
 Enjoyoors,DeFi,Yield,Vault,0x6b5e332387e8bec98c52f10a72952b17176b4f1b,DeFi::Yield
 Enjoyoors,DeFi,Yield,WithdrawalApprover,0x71f60773885011cc0a61613078733b4738b38f35,DeFi::Yield
 Lagoon,DeFi,Yield,ProtocolRegistry,0xbf994c358f939011595ab4216ac005147863f9d6,DeFi::Yield;DeFi::Asset Allocators
