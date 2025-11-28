@@ -6,7 +6,8 @@
         "DeFi::Yield Aggregator"
     ],
     "addresses": {
-        "BaseVault": "0x0E7593aa7696F8F0f2c676f3d978Ddd5F09ecc5e"
+        "BaseVault": "0x4C09558A0d000240726679fC3805c3918922d6C6",
+        "GearBoxAdapter": "0xaE68912a8B1b74cb65dF892f2c8F42074F9640Ba"
     },
     "links": {
         "project": "https://www.aarna.ai/",
