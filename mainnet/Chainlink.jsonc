@@ -4,11 +4,13 @@
     "live": true,
     "categories": ["Infra::Oracle"],
     "addresses": {
-        // Data Streams (pull oracle):
+        // Data Streams (pull oracle)
+        // https://docs.chain.link/data-streams/supported-networks
         "Router": "0x33566fE5976AAa420F3d5C64996641Fc3858CaDB",
         "VerifierProxy": "0xEd813D895457907399E41D36Ec0bE103E32148c8",
 
         // Price Feeds (push oracle):
+        // https://docs.chain.link/data-feeds/price-feeds/addresses?page=1&testnetPage=1&network=monad
         "AAVE_USD_Proxy": "0x2a954d493eE80BcC7cDeF56DB6fC6edC6758CA5d",
         "AAVE_USD_Aggregator": "0x81Bf4bbD9910F95c18cf661752bD9a07629fe191",
         "ADA_USD_Proxy": "0xA7cd3368eBC801df68812d46AB6b3F47d4BF37ea",
@@ -47,6 +49,8 @@
         "LINK_USD_Aggregator": "0x44b9e53236b95Ca6Cfc1dAED893C5b312e596477",
         "LTC_USD_Proxy": "0xF29B907b292fb27e07f06331E4e92Ea7288a6001",
         "LTC_USD_Aggregator": "0x24f29BB8ec47674F1A0a9011116c41F867a94337",
+        "MON_USD_Proxy": "0xBcD78f76005B7515837af6b50c7C52BCf73822fb",
+        "MON_USD_Aggregator": "0x2A347b30e1DA22Ec136142cdA88Bec59fDB6e9d3",
         "NEAR_USD_Proxy": "0x921cB0E4f2397454240CcdB27596217CE4e65090",
         "NEAR_USD_Aggregator": "0x5658EC04E7e6EF42B1C567AafC33Cd92751E1730",
         "OP_USD_Proxy": "0x3B59380FdCf2fd414F1675D76AF5F20FB92663a7",

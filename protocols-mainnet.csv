@@ -944,6 +944,8 @@ Chainlink,Infra,Oracle,LINK_USD_Aggregator,0x44b9e53236b95ca6cfc1daed893c5b312e5
 Chainlink,Infra,Oracle,LINK_USD_Proxy,0x5c266b5c655664d6c99a13ff0d7f1f7eaf4ac9ba,Infra::Oracle
 Chainlink,Infra,Oracle,LTC_USD_Aggregator,0x24f29bb8ec47674f1a0a9011116c41f867a94337,Infra::Oracle
 Chainlink,Infra,Oracle,LTC_USD_Proxy,0xf29b907b292fb27e07f06331e4e92ea7288a6001,Infra::Oracle
+Chainlink,Infra,Oracle,MON_USD_Aggregator,0x2a347b30e1da22ec136142cda88bec59fdb6e9d3,Infra::Oracle
+Chainlink,Infra,Oracle,MON_USD_Proxy,0xbcd78f76005b7515837af6b50c7c52bcf73822fb,Infra::Oracle
 Chainlink,Infra,Oracle,NEAR_USD_Aggregator,0x5658ec04e7e6ef42b1c567aafc33cd92751e1730,Infra::Oracle
 Chainlink,Infra,Oracle,NEAR_USD_Proxy,0x921cb0e4f2397454240ccdb27596217ce4e65090,Infra::Oracle
 Chainlink,Infra,Oracle,OP_USD_Aggregator,0xb5be9cb264d299710f98c03f2604157e33e2c4cc,Infra::Oracle
