@@ -1,0 +1,17 @@
+{
+  "name": "Gmonad.meme",
+  "description": "The go-to native memecoin launchpad on Monad.",
+  "live": true,
+  "categories": ["DeFi::Launchpads"],
+  "addresses": {
+    "CoinFactory": "0xD079AC9B31371C8Fd4Cb53cd035ED449a96A4b37",
+    "BondingCurveImplementation": "0x1dd39B2117d496C8493Fb1e13a1E522b01dad959",
+    "TokenImplementation": "0x7b81878306f8B073068dA8F3BAE1a8eDA983Cf7e"
+  },
+  "links": {
+    "project": "https://gmonad.meme",
+    "twitter": "https://x.com/gmonadmeme",
+    "discord": "https://discord.gg/gmonad",
+    "docs": "https://docs.gmonad.meme/"
+  }
+}
