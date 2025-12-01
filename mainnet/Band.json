@@ -1,10 +1,10 @@
 {
-    "name": "Band Protocol",
-    "description": "Band Protocol is a cross-chain data oracle platform that aggregates and connects real-world data and APIs to smart contracts.",
+    "name": "Band",
+    "description": "Band is the data layer that trains AI engines and powers blockchain applications.",
     "live": true,
     "categories": ["Infra::Oracle"],
     "addresses": {
-        "proxy": "0xb6256dcb23cee06eda2408e73945963606fdddd7"
+        "proxy": "0x9c5490fc68005dF8b2DC124309c2C036B93d785f"
     },
     "links": {
         "project": "https://www.bandprotocol.com/",
