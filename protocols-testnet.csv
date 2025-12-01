@@ -865,7 +865,7 @@ Wormhole,Infra,Interoperability,Core,0xbb73cb66c26740f31d1fabdc6b7a46a038a300dd,
 Wormhole,Infra,Interoperability,Relayer,0x362fca37e45fe1096b42021b543f462d49a5c8df,Infra::Interoperability
 Wormhole,Infra,Interoperability,TokenBridge,0xf323dcde4d33efe83cf455f78f9f6cc656e6b659,Infra::Interoperability
 t3rn,Infra,Interoperability,contract,0xa8bda68f249fa96bec91cf2c669ec8cbdef51d59,Infra::Interoperability
-Band Protocol,Infra,Oracle,proxy,0xb6256dcb23cee06eda2408e73945963606fdddd7,Infra::Oracle
+Band,Infra,Oracle,proxy,0x8c064bcf7c0da3b3b090babfe8f3323534d84d68,Infra::Oracle
 Chainlink,Infra,Oracle,FeeTokens,0x6fe981dbd557f81ff66836af0932cba535cbc343,Infra::Oracle
 Chainlink,Infra,Oracle,RMN,0xabe6c62737539bea929647187c3bf13455b33c84,Infra::Oracle
 Chainlink,Infra,Oracle,RegistryModuleOwner,0x4b90270eaca902fbb9b3bbfd185f82a137a29739,Infra::Oracle
