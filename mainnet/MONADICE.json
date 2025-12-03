@@ -11,7 +11,6 @@
   "addresses": {
     "BetMarketFactory": "0xeBfbE5f4EDB6378ade8A815Fc2DAf147C5b8Cb86",
     "BetCampaignBTC": "0x5A2693D05fb99bE88d7d9133Fc806FA713a7c55B",
-    "USDC": "0x754704Bc059F8C67012fEd69BC8A327a5aafb603",
     "OracleVerifier": "0xC87fB6De3C266E84b8730dD5AbCD5DCD4eE6e34c"
   },
 
