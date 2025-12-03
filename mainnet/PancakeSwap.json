@@ -8,6 +8,7 @@
         "PancakeV2Router": "0xB1Bc24c34e88f7D43D5923034E3a14B24DaACfF9",
         "PancakeV3PoolDeployer": "0x41ff9AA7e16B8B1a8a8dc4f0eFacd93D02d071c9",
         "PancakeV3Factory": "0x0BFbCF9fa4f9C56B0F40a671Ad40E0805A091865",
+        "Router": "0x23682a588cf2601aca977df200938634c9f7d552",
         "SwapRouter": "0x1b81D678ffb9C0263b24A97847620C99d213eB14",
         "NfpTokenDescriptor": "0xb099b459887bC759dBF0293E12D3DFcD0C456cff",
         "NonfungiblePositionManager": "0x46A15B0b27311cedF172AB29E4f4766fbE7F4364",

@@ -1,0 +1,20 @@
+{
+    "name": "Curvance",
+    "description": "Click Less, Earn More. Powered by @wormhole.",
+    "live": true,
+    "categories": [
+        "DeFi::Lending"
+    ],
+    "addresses": {
+        "SimpleZapper": "0x5af9b7cAc0530d3C9e11C23B7A69Cce335B8C395",
+        "NativeVaultZapper": "0x1D60A3F3f84F095b3D6001fbc135F6D42c812269",
+        "OracleManager": "0x32fad39e79fac67f80d1c86cbd1598043e52cdb6",
+        "RedstoneClassicAdaptor": "0x0fa602b3e748438a3f1599206ed6dc497ab3331e",
+        "CentralRegistry": "0x1310f352f1389969ece6741671c4b919523912ff"
+    },
+    "links": {
+        "project": "https://app.curvance.com/",
+        "twitter": "https://x.com/Curvance",
+        "docs": "https://docs.curvance.com/cve/"
+    }
+}
