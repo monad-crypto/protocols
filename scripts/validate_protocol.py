@@ -94,7 +94,9 @@ def check_duplicated_addresses(base_dir: str, json_files: list[str]) -> bool:
     ]
     has_duplicated_addresses = False
     for address, labels in multiple_address_labels:
-        labels_str = ", ".join([f"[{json_file}: {label}]" for json_file, label in labels])
+        labels_str = ", ".join(
+            [f"[{json_file}: {label}]" for json_file, label in labels]
+        )
         print(f"❌ Address {address} has multiple distinct labels: {labels_str}")
         has_duplicated_addresses = True
 
@@ -228,9 +230,7 @@ def main():
     has_included_canonical_contracts = check_included_canonical_contracts(
         base_dir, json_files
     )
-    has_duplicated_addresses = check_duplicated_addresses(
-        base_dir, json_files
-    )
+    has_duplicated_addresses = check_duplicated_addresses(base_dir, json_files)
     if args.link:
         check_invalid_links(base_dir, json_files)
 
