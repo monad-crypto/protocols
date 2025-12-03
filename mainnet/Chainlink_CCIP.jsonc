@@ -4,7 +4,6 @@
     "live": true,
     "categories": ["Infra::Interoperability"],
     "addresses": {
-        "Router": "0x33566fE5976AAa420F3d5C64996641Fc3858CaDB",
         "RegistryModuleOwnerCustom": "0x4AfC00570596d172595A4E38384289b880263006",
         "RMNProxy": "0x99dFCa5d88f4D9C023531F4403966b8d61562AcD",
         "RMN": "0xF181489663b5b99af5C5a57310F1d66eEEEC2160",

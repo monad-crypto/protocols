@@ -4,7 +4,7 @@
     "live": true,
     "categories": ["Infra::Interoperability"],
     "addresses": {
-        "Router": "0x5f16e51e3Dcb255480F090157DD01bA962a53E54"
+
     },
     "info": {
         "note": "Supported lanes can be found at https://docs.chain.link/ccip/directory/testnet/chain/monad-testnet"

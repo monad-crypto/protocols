@@ -9,9 +9,6 @@
       "GovernanceFactory": "0xFAafdE6a5b658684cC5eb0C5c2c755B00A246F45",
       "NoOpGovernanceFactory": "0xb4deE32EB70A5E55f3D2d861F49Fb3D79f7a14d9",
       "NoOpMigrator": "0x5F3bA43D44375286296Cb85F1EA2EBfa25dde731",
-      "PoolManager": "0x188d586ddcf52439676ca21a244753fa19f9ea8e",
-      "TokenFactory": "0xaA47D2977d622DBdFD33eeF6a8276727c52EB4e5",
-      "UniversalRouter": "0x0d97dc33264bfc1c226207428a79b26757fb9dc3",
       "UniswapV2Migrator": "0x136191B46478cAB023cbC01a36160C4Aad81677a",
       // invalid address:
       // "V3Quoter": "0x66266174564170519409d8853898f065c719536b",
