@@ -79,7 +79,7 @@ def is_valid_file(filepath: str) -> bool:
     return True
 
 
-def check_duplicated_address_labels(base_dir: str, json_files: list[str]) -> bool:
+def check_duplicated_addresses(base_dir: str, json_files: list[str]) -> bool:
     address_labels = defaultdict(lambda: [])
     for json_file in json_files:
         with open(os.path.join(base_dir, json_file), "r", encoding="utf-8") as f:
@@ -92,17 +92,13 @@ def check_duplicated_address_labels(base_dir: str, json_files: list[str]) -> boo
         for address, labels in address_labels.items()
         if len(labels) > 1
     ]
-    has_duplicated_address_labels = False
+    has_duplicated_addresses = False
     for address, labels in multiple_address_labels:
-        distinct_labels = {address_label for json_file, address_label in labels}
-        if len(distinct_labels) >= 2:
-            labels_str = "\n" + "\n".join(
-                [f"{json_file}: {x}" for json_file, x in labels]
-            )
-            print(f"❌ Address {address} has multiple distinct labels:{labels_str}")
-            has_duplicated_address_labels = True
+        labels_str = ", ".join([f"[{json_file}: {label}]" for json_file, label in labels])
+        print(f"❌ Address {address} has multiple distinct labels: {labels_str}")
+        has_duplicated_addresses = True
 
-    return has_duplicated_address_labels
+    return has_duplicated_addresses
 
 
 def check_included_canonical_contracts(base_dir: str, json_files: list[str]) -> bool:
@@ -232,7 +228,7 @@ def main():
     has_included_canonical_contracts = check_included_canonical_contracts(
         base_dir, json_files
     )
-    has_duplicated_address_labels = check_duplicated_address_labels(
+    has_duplicated_addresses = check_duplicated_addresses(
         base_dir, json_files
     )
     if args.link:
@@ -241,8 +237,8 @@ def main():
     if has_included_canonical_contracts:
         raise Exception("Found included canonical contracts in repo")
 
-    if has_duplicated_address_labels:
-        raise Exception("Found duplicated address labels in repo")
+    if has_duplicated_addresses:
+        raise Exception("Found duplicated addresses in repo")
 
 
 if __name__ == "__main__":
