@@ -235,6 +235,7 @@ PancakeSwap,DeFi,DEX,PancakeV3Factory,0x0bfbcf9fa4f9c56b0f40a671ad40e0805a091865
 PancakeSwap,DeFi,DEX,PancakeV3PoolDeployer,0x41ff9aa7e16b8b1a8a8dc4f0efacd93d02d071c9,DeFi::DEX
 PancakeSwap,DeFi,DEX,QuoterV2_periphery,0xb048bbc1ee6b733fffcfb9e9cef7375518e25997,DeFi::DEX
 PancakeSwap,DeFi,DEX,QuoterV2_smartRouter,0x4c650fb471fe4e0f476fd3437c3411b1122c4e3b,DeFi::DEX
+PancakeSwap,DeFi,DEX,Router,0x23682a588cf2601aca977df200938634c9f7d552,DeFi::DEX
 PancakeSwap,DeFi,DEX,SmartRouter,0x21114915ac6d5a2e156931e20b20b038ded0be7c,DeFi::DEX
 PancakeSwap,DeFi,DEX,SwapRouter,0x1b81d678ffb9c0263b24a97847620c99d213eb14,DeFi::DEX
 PancakeSwap,DeFi,DEX,TickLens,0x9a489505a00ce272eaa5e07dba6491314cae3796,DeFi::DEX
@@ -300,6 +301,7 @@ Uniswap,DeFi,DEX,Quoter,0x2d01411773c8c24805306e89a41f7855c3c4fe65,DeFi::DEX
 Uniswap,DeFi,DEX,QuoterV2,0x661e93cca42afacb172121ef892830ca3b70f08d,DeFi::DEX
 Uniswap,DeFi,DEX,StateView,0x77395f3b2e73ae90843717371294fa97cc419d64,DeFi::DEX
 Uniswap,DeFi,DEX,SwapRouter,0xd6145b2d3f379919e8cdeda7b97e37c4b2ca9c40,DeFi::DEX
+Uniswap,DeFi,DEX,SwapRouter02,0xfe31f71c1b106eac32f1a19239c9a9a72ddfb900,DeFi::DEX
 Uniswap,DeFi,DEX,TickLens,0xf025e0fe9e331a0ef05c2ad3c4e9c64b625cda6f,DeFi::DEX
 Uniswap,DeFi,DEX,UniswapInterfaceMulticall,0xd1b797d92d87b688193a2b976efc8d577d204343,DeFi::DEX
 Uniswap,DeFi,DEX,UniswapV2Factory,0x182a927119d56008d921126764bf884221b10f59,DeFi::DEX
@@ -406,6 +408,11 @@ bonad.fun,DeFi,Launchpads,TokenFactory,0xaa47d2977d622dbdfd33eef6a8276727c52eb4e
 bonad.fun,DeFi,Launchpads,UniswapV2Migrator,0x136191b46478cab023cbc01a36160c4aad81677a,DeFi::Launchpads;DeFi::Memecoin
 bonad.fun,DeFi,Launchpads,UniswapV4ScheduledMulticurveInitializer,0xce3099b2f07029b086e5e92a1573c5f5a3071783,DeFi::Launchpads;DeFi::Memecoin
 bonad.fun,DeFi,Launchpads,UniversalRouter,0x0d97dc33264bfc1c226207428a79b26757fb9dc3,DeFi::Launchpads;DeFi::Memecoin
+Curvance,DeFi,Lending,CentralRegistry,0x1310f352f1389969ece6741671c4b919523912ff,DeFi::Lending
+Curvance,DeFi,Lending,NativeVaultZapper,0x1d60a3f3f84f095b3d6001fbc135f6d42c812269,DeFi::Lending
+Curvance,DeFi,Lending,OracleManager,0x32fad39e79fac67f80d1c86cbd1598043e52cdb6,DeFi::Lending
+Curvance,DeFi,Lending,RedstoneClassicAdaptor,0x0fa602b3e748438a3f1599206ed6dc497ab3331e,DeFi::Lending
+Curvance,DeFi,Lending,SimpleZapper,0x5af9b7cac0530d3c9e11c23b7a69cce335b8c395,DeFi::Lending
 Folks Finance,DeFi,Lending,aUsdSpokeAddress,0xc30107a8e782e98fe890f0375afa4185aeea3356,DeFi::Lending;DeFi::Cross Chain
 Folks Finance,DeFi,Lending,bridgeRouterSpoke,0xf854ac65a40f1eabfd32e6d4c7d0e1c4b1753cc5,DeFi::Lending;DeFi::Cross Chain
 Folks Finance,DeFi,Lending,bridgeRouterSpokeReward,0x5f2f4771b7dc7e2f7e9c1308b154e1e8957ecab0,DeFi::Lending;DeFi::Cross Chain
