@@ -638,7 +638,6 @@ Narwhal Finance,DeFi,Perpetuals / Derivatives,DefaultProxyAdmin,0x319f35a71dfcf3
 Narwhal Finance,DeFi,Perpetuals / Derivatives,FeeHelper,0x2c71f06c207296b66894e5200f6a6e1ac08ed632,DeFi::Perpetuals / Derivatives
 Narwhal Finance,DeFi,Perpetuals / Derivatives,PairInfos,0xb88ea39a53eaff588daf34aaf48daaa6f7a26e89,DeFi::Perpetuals / Derivatives
 Narwhal Finance,DeFi,Perpetuals / Derivatives,PythOracle,0x96855958f2f8f751f64a2d141b5809162515f0a4,DeFi::Perpetuals / Derivatives
-Narwhal Finance,DeFi,Perpetuals / Derivatives,PythPriceFeed,0x2880ab155794e7179c9ee2e38200202908c17b43,DeFi::Perpetuals / Derivatives
 Narwhal Finance,DeFi,Perpetuals / Derivatives,Referrals,0x5bbafd788b896e4bfb3cdef2a7671deb80a0620f,DeFi::Perpetuals / Derivatives
 Narwhal Finance,DeFi,Perpetuals / Derivatives,TinderTrading,0x59cf938d5e2af9e79685efaf02ad1a97669b7941,DeFi::Perpetuals / Derivatives
 Narwhal Finance,DeFi,Perpetuals / Derivatives,Trading,0x17642ce98f4abfabcbb5e1a5d5825902cc311ceb,DeFi::Perpetuals / Derivatives
@@ -773,7 +772,6 @@ Monflipcoin,Gaming,Games,CoinflipGame,0x664e248c39cd70fa333e9b2544beed6a7a2de09b
 Monix,Gaming,Games,BoxNFT,0xef4fd52da1822bb346170f4916f5dbe2d51dbce5,Gaming::Games;Gaming::Metaverse;NFT::Collections
 Monix,Gaming,Games,GameManager,0xde237666bc7839e17d12f113e2c776a0b683ad9b,Gaming::Games;Gaming::Metaverse;NFT::Collections
 Nadflip,Gaming,Games,Coinflip,0x5e447c5588c551e9959cec493a40b52768b3d8ae,Gaming::Games;Consumer::Betting
-Nadflip,Gaming,Games,PythEntropy,0x36825bf3fbdf5a29e2d5148bfe7dcf7b5639e320,Gaming::Games;Consumer::Betting
 Outpost Surge,Gaming,Games,game,0x33f6fc28945d3fb5b5113056ad015588d56df5c7,Gaming::Games
 PLAY Network,Gaming,Games,default,0x20c577ee802f4a802c8631997981271f7636c42f,Gaming::Games
 Plato,Gaming,Games,StakingVault,0xd0d542b9a1e9944880faf93deaa432047ef58579,Gaming::Games
@@ -846,7 +844,6 @@ Axelar,Infra,Interoperability,ConstAddressDeployer,0x98b2920d53612483f91f12ed775
 Axelar,Infra,Interoperability,Create3Deployer,0x6513aedb4d1593ba12e50644401d976aebdc90d8,Infra::Interoperability
 Axelar,Infra,Interoperability,MonadAxelarTransceiver,0x50beabe4883981624aea01f737b040d1e3fe83fb,Infra::Interoperability
 Axelar,Infra,Interoperability,Operators,0x7f83f5ca2ae4206abff8a3c3668e88ce5f11c0b5,Infra::Interoperability
-Chainlink CCIP,Infra,Interoperability,Router,0x5f16e51e3dcb255480f090157dd01ba962a53e54,Infra::Interoperability
 Circle CCTP,Infra,Interoperability,MessageTransmitterV2,0xe737e5cebeeba77efe34d4aa090756590b1ce275,Infra::Interoperability
 Circle CCTP,Infra,Interoperability,MessageV2,0xbac0179bb358a8936169a63408c8481d582390c4,Infra::Interoperability
 Circle CCTP,Infra,Interoperability,TokenMessengerV2,0x8fe6b999dc680ccfdd5bf7eb0974218be2542daa,Infra::Interoperability
