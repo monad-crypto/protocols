@@ -9,7 +9,9 @@
     "addresses": {
         "DLMM_Factory": "0x8Bb9727Ca742C146563DccBAFb9308A234e1d242",
         "DLMM_Router": "0x721aC9E688E6b86F48b08DB2ba2D4B7bBBd12665",
-        "DLMM_Quoter": "0xA398af902950081F2FBE3E16e5E474C2C72ae27a"
+        "DLMM_Quoter": "0xA398af902950081F2FBE3E16e5E474C2C72ae27a",
+        "DLMM_Rewarder": "0x9095e0a4EB3BD8647B636079C32336535397487D",
+        "Beannad": "0x967CAD6A877a660244E09dc0C0654609186aD410"
     },
     "links": {
         "project": "https://bean.exchange",
