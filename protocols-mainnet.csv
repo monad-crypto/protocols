@@ -101,8 +101,10 @@ Atlantis,DeFi,DEX,QuoterV2,0xa77ad9f635a3fb3bccc5e6d1a87cb269746aba17,DeFi::DEX
 Atlantis,DeFi,DEX,SecurityRegistry,0x83d4a9ea77a4dba073cd90b30410ac9f95f93e7c,DeFi::DEX
 Atlantis,DeFi,DEX,SwapRouter,0x3012e9049d05b4b5369d690114d5a5861ebb85cb,DeFi::DEX
 Atlantis,DeFi,DEX,TickLens,0x13fce0acbe6fb11641ab753212550574cad31415,DeFi::DEX
+Bean Exchange,DeFi,DEX,Beannad,0x967cad6a877a660244e09dc0c0654609186ad410,DeFi::DEX;DeFi::Perpetuals / Derivatives
 Bean Exchange,DeFi,DEX,DLMM_Factory,0x8bb9727ca742c146563dccbafb9308a234e1d242,DeFi::DEX;DeFi::Perpetuals / Derivatives
 Bean Exchange,DeFi,DEX,DLMM_Quoter,0xa398af902950081f2fbe3e16e5e474c2c72ae27a,DeFi::DEX;DeFi::Perpetuals / Derivatives
+Bean Exchange,DeFi,DEX,DLMM_Rewarder,0x9095e0a4eb3bd8647b636079c32336535397487d,DeFi::DEX;DeFi::Perpetuals / Derivatives
 Bean Exchange,DeFi,DEX,DLMM_Router,0x721ac9e688e6b86f48b08db2ba2d4b7bbbd12665,DeFi::DEX;DeFi::Perpetuals / Derivatives
 Capricorn,DeFi,DEX,CapricornCLFactory,0x6b5f564339dbad6b780249827f2198a841feb7f3,DeFi::DEX
 Capricorn,DeFi,DEX,NonfungibleTokenPositionDescriptor,0xed2850d3704a1a5bcb6158f27deda3d6ff4c31d9,DeFi::DEX
