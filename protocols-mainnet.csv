@@ -22,6 +22,9 @@ Castora,Consumer,Prediction Market,CastoraActivities,0x83d063acde4c3e799f0f0162d
 Castora,Consumer,Prediction Market,CastoraGetters,0xf08959e66614027ae76303f4c5359ebffd00bc30,Consumer::Prediction Market
 Castora,Consumer,Prediction Market,CastoraPoolsManager,0xf8f179ab96165b61833f2930309bce9c6ab281be,Consumer::Prediction Market
 Castora,Consumer,Prediction Market,CastoraPoolsRules,0xfaca692bfeafb4c6dcaf95a25e5cbcdb65d6ec41,Consumer::Prediction Market
+Monadice,Consumer,Prediction Market,BetCampaignBTC,0x5a2693d05fb99be88d7d9133fc806fa713a7c55b,Consumer::Prediction Market;AI::Infrastructure;AI::Consumer AI
+Monadice,Consumer,Prediction Market,BetMarketFactory,0xebfbe5f4edb6378ade8a815fc2daf147c5b8cb86,Consumer::Prediction Market;AI::Infrastructure;AI::Consumer AI
+Monadice,Consumer,Prediction Market,OracleVerifier,0xc87fb6de3c266e84b8730dd5abcd5dcd4ee6e34c,Consumer::Prediction Market;AI::Infrastructure;AI::Consumer AI
 Fluffle,Consumer,Social,FluffleDragons,0x2ed99dbe114249b7611478d67818b399865ffc89,Consumer::Social;NFT::Other;Gaming::Mobile-First
 Fluffle,Consumer,Social,FluffleFurniture,0x67f58f1faf78781b7eb90c457846e0f965bb1a2f,Consumer::Social;NFT::Other;Gaming::Mobile-First
 Fluffle,Consumer,Social,FluffleSolveil,0x8255dacd8a45f4abe6dc821e6f7f3c92a8e22fbb,Consumer::Social;NFT::Other;Gaming::Mobile-First
