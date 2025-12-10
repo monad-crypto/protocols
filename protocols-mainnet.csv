@@ -17,6 +17,8 @@ Kinic AI Memory Agent,AI,Consumer AI,KinicMemoryLog,0xeb5b78fa81cfea1a46d46b3a42
 Kodeus,AI,Consumer AI,KodeusAgents,0x3d3c1db86989ed5196358ee03e2f1258ea183dcb,AI::Consumer AI
 Kodeus,AI,Consumer AI,KodeusMetricsTrackerV6,0xa0371d51c086f846bd02c331dd31cc510645332e,AI::Consumer AI
 Sela Network,AI,Data,SelaPower,0x42ea86b7e84ea022aa902c6dc470758ba68a7506,AI::Data;AI::Infrastructure;DePIN::Data Collection;DePIN::Compute
+RareBetSports,Consumer,Betting,Oracle,0x3987049dc3d79a9a43805e771b084a3da8d90ed4,Consumer::Betting;Consumer::Prediction Market
+RareBetSports,Consumer,Betting,SlipRepository,0x07133ff8291876c693117212de67f3c0b3d3a3fc,Consumer::Betting;Consumer::Prediction Market
 Castora,Consumer,Prediction Market,Castora,0x9e1e6f277df3f2cd150ae1e08b05f45b3297be6d,Consumer::Prediction Market
 Castora,Consumer,Prediction Market,CastoraActivities,0x83d063acde4c3e799f0f0162d36d8b0605081b6e,Consumer::Prediction Market
 Castora,Consumer,Prediction Market,CastoraGetters,0xf08959e66614027ae76303f4c5359ebffd00bc30,Consumer::Prediction Market
