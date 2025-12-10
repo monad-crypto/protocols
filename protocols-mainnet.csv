@@ -824,6 +824,10 @@ TeleMafia,Gaming,Games,TeleMafiaCheckIn,0xae2dfca11311e1652b9d3dc39527465435ea94
 TeleMafia,Gaming,Games,UpgradeableBeacon,0x5d1814d6981247bc796ca3f48d5cc382dd552552,Gaming::Games
 TeleMafia,Gaming,Games,VaultFactory,0x777acab541a663abbad28de92af6caefd67c72cd,Gaming::Games
 TeleMafia,Gaming,Games,VaultImplementation,0xcba51d62d0b240bb8f60eee98351464beaa5cc77,Gaming::Games
+Valley of Heroes,Gaming,Games,CursedValley,0x989b737562ac6ebe68c2acc5810c2f8fdb11bb1d,Gaming::Games
+Valley of Heroes,Gaming,Games,HONOR,0xd414088c42ac24b4905e0651973acc72ea0ac5b9,Gaming::Games
+Valley of Heroes,Gaming,Games,MysteryBox,0xd8789a9286336272ca5c23add2648827e3efc6ac,Gaming::Games
+Valley of Heroes,Gaming,Games,ValleyHeroes,0xcc09dd25a3953fc918a3b069d343ac566da58808,Gaming::Games
 LootGO,Gaming,Mobile-First,LootDrop,0x3e1fc8371bf6dceffd829ae2134005a4ae890b71,Gaming::Mobile-First;Gaming::Games;Consumer::Other
 Rug Rumble,Gaming,Mobile-First,RugRumble,0xa33fcf1f510ff1365a7667e3328d042b7d559b8a,Gaming::Mobile-First;Gaming::Games;Consumer::Other
 Nar.bet,Gaming,Other,Baccarat,0xbeaafcc7648354a0722350378bf2a295b9b946a8,Gaming::Other
