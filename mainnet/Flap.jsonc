@@ -14,7 +14,7 @@
         "TokenV2Implementation": "0xB88189aA1162850D75A1c1e16F837b7979994184", 
         // Tax Token Implementation 
         // For each tax token created via Flap, a clone of this instance of this contract is deployed
-        "TaxTokenImplementation": "0x8E6512bA94C723D8F140B0FD9DBb498854b7a1F4", 
+        "TaxTokenImplementation": "0x1C8847736521f5cD725dFB8f33c7c610826e7C42", 
         // Tax Token splitter implementation 
         // For tax token, tax will be process by the splitter contract 
         // We use clone pattern to save gas and reduce deployment costs for users creating new tokens 
@@ -22,6 +22,7 @@
     },
     "links": {
         // This link will be available on Monad mainnet launch 
+        // Previsouly, this link was broken. Now, we have a placeholder page. 
         "project": "https://flap.sh/monad",
         "twitter": "https://x.com/flapdotsh",
         "docs": "https://docs.flap.sh/flap/", 

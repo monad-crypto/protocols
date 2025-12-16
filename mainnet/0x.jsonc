@@ -1,0 +1,38 @@
+{
+  "name": "0x",
+  "description": "High performance APIs that aggregate DEX and private liquidity sources to provide optimal trade executions for digital asset trades.",
+  "live": true,
+  "categories": [
+    "DeFi::DEX",
+    "DeFi::DEX Aggregator",
+    "DeFi::Launchpads",
+    "DeFi::Memecoin",
+    "DeFi::Stableswap",
+    "DeFi::Trading Interfaces",
+    "DeFi::Cross Chain"
+  ],
+  "addresses": {
+    // these are included in Matcha.jsonc
+
+    // "AllowanceHolder": "0x0000000000001fF3684f28c67538d4D072C22734",
+    // "0xSettlerDeployer": "0x00000000000004533Fe15556B1E086BB1A72cEae",
+
+    // Taker-submitted settlement contract
+    // "MonadSettler": "0x478cF28Fd1Ba92a6afd04F44b05833F6dF7f1486",
+
+    // Meta-transaction settlement contract
+    // "MonadSettlerMetaTxn": "0xFB36B62145A4B272bc804e5E1b41ddbf4BFF4CF4",
+
+    // Intent settlement contract
+    // "MonadSettlerIntent": "0xb2376d1183829f444e0ffE9EF1FFaf1b483B84F3",
+
+    // Cross-chain settlement contract
+    // "MonadBridgeSettler": "0xb40e9939bb598C38665A5C99c68020EEB8Cf49FB"
+  },
+  "links": {
+    "project": "https://0x.org/",
+    "twitter": "https://x.com/0xProject",
+    "github": "https://github.com/0xProject",
+    "docs": "https://0x.org/docs"
+  }
+}

@@ -1,0 +1,121 @@
+name: Verify PR Contracts
+
+on:
+  pull_request:
+    branches: [main, master]
+    paths:
+      - "mainnet/**.json"
+      - "mainnet/**.jsonc"
+
+jobs:
+  verify-contracts:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: read
+      pull-requests: write
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0 # Fetch all history to compare with base branch
+
+      - name: Get changed files
+        id: changed-files
+        run: |
+          # Get the base and head commits
+          BASE_SHA="${{ github.event.pull_request.base.sha }}"
+          HEAD_SHA="${{ github.event.pull_request.head.sha }}"
+
+          # Get all changed files in mainnet folder (json and jsonc)
+          CHANGED_FILES=$(git diff --name-only --diff-filter=AM "$BASE_SHA" "$HEAD_SHA" | grep -E '^mainnet/.*\.(json|jsonc)$' || true)
+
+          if [ -z "$CHANGED_FILES" ]; then
+            echo "No JSON/JSONC files changed in mainnet folder"
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+            exit 0
+          fi
+
+          echo "Changed files:"
+          echo "$CHANGED_FILES"
+
+          # Save changed files for later use
+          echo "$CHANGED_FILES" > changed_files.txt
+          echo "has_changes=true" >> $GITHUB_OUTPUT
+
+      - name: Set up Python
+        if: steps.changed-files.outputs.has_changes == 'true'
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - name: Install uv
+        if: steps.changed-files.outputs.has_changes == 'true'
+        uses: astral-sh/setup-uv@v4
+        with:
+          enable-cache: true
+
+      - name: Install dependencies
+        if: steps.changed-files.outputs.has_changes == 'true'
+        run: uv sync
+
+      - name: Verify contracts
+        if: steps.changed-files.outputs.has_changes == 'true'
+        id: verify
+        env:
+          BLOCKVISION_API_KEY: ${{ secrets.BLOCKVISION_API_KEY }}
+        run: |
+          # Read changed files and run verification
+          FILES=$(cat changed_files.txt | tr '\n' ' ')
+
+          echo "Running verification on: $FILES"
+
+          # Run the verification script and capture output
+          set +e  # Don't exit on error
+          source .venv/bin/activate
+          OUTPUT=$(python scripts/check_verified_contracts.py $FILES 2>&1)
+          EXIT_CODE=$?
+          set -e
+
+          # Save output to file for comment
+          echo "$OUTPUT" > verification_output.txt
+          echo "exit_code=$EXIT_CODE" >> $GITHUB_OUTPUT
+
+          # Print output for workflow logs
+          echo "$OUTPUT"
+
+          exit 0
+
+      - name: Post verification results as comment
+        if: steps.changed-files.outputs.has_changes == 'true' && always()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const output = fs.readFileSync('verification_output.txt', 'utf8');
+            const exitCode = '${{ steps.verify.outputs.exit_code }}';
+
+            const changedFiles = fs.readFileSync('changed_files.txt', 'utf8').trim().split('\n');
+            const filesList = changedFiles.map(f => `- \`${f}\``).join('\n');
+
+            const comment = `## Contract Verification Results
+
+            ### Changed Files
+            ${filesList}
+
+            ### Verification Output
+            \`\`\`
+            ${output}
+            \`\`\`
+
+            ---
+            <sub>Workflow run: [${context.workflow}](${context.payload.repository.html_url}/actions/runs/${context.runId})</sub>
+            `;
+
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: comment
+            });

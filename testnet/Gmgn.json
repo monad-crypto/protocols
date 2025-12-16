@@ -1,0 +1,14 @@
+{
+    "name": "Gmgn",
+    "description": "GMGN Follow the smart money and KOL, discover future hot assets, and let GMGN take you one step ahead! track unrealized/realized profit, discover Smart Traders, and monitor wallet movement in real-time.",
+    "live": true,
+    "categories": ["DeFi::DEX Aggregator"],
+    "addresses": {
+        "Router": "0x5eb3C32432bD54904f2d3C50C4BACE9c6690a2E6"
+    },
+    "links": {
+        "project": "https://gmgn.ai/",
+        "twitter": "https://x.com/gmgnai/",
+        "docs": "https://docs.gmgn.ai/"
+    }
+}

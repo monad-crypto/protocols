@@ -1,0 +1,15 @@
+{
+    "name": "Circle USDC",
+    "description": "Building the Internet Financial Platform",
+    "live": true,
+    "categories": ["DeFi::Stablecoin"],
+    "addresses": {
+        "USDC": "0x534b2f3A21130d7a60830c2Df862319e593943A3"
+    },
+    "links": {
+        "project": "https://circle.com",
+        "twitter": "https://x.com/circle",
+        "github": "https://github.com/circlefin",
+        "docs": "https://developers.circle.com/"
+    }
+}

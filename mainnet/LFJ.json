@@ -1,0 +1,30 @@
+{
+  "name": "LFJ",
+  "description": "The most CRACKED fee machine in crypto. Ultrasound DLMM with hyper-efficient trade flow capture.",
+  "live": true,
+  "categories": ["DeFi::DEX", "DeFi::Memecoin"],
+  "addresses": {
+    "LBFactory": "0xb43120c4745967fa9b93E79C149E66B0f2D6Fe0c",
+    "LBRouter": "0x18556DA13313f3532c54711497A8FedAC273220E",
+    "LBQuoter": "0x9A550a522BBaDFB69019b0432800Ed17855A51C3",
+    "LBHooksManager": "0x3A8E1Be95467690F7C592B596e42d11b3710c633",
+    "LBHooksLens": "0x6124086B90AB910038E607aa1BDD67b284C31c98",
+    "LiquidityHelperContract": "0xA5c68C9E55Dde3505e60c4B5eAe411e2977dfB35",
+    "DexLens": "0x7ac3Dd4B5A3F7013116D8a28f0579a678282EA5c",
+    "LimitOrderV2": "0xDbeeB3FB3e864e490e71b1d5c86c3de683cA4626",
+    "JoeAggregatorRouter": "0x45A62B090DF48243F12A21897e7ed91863E2c86b",
+    "JoeRouterLogic": "0xF8155BcA49576B54018311C6129bdA088605B88b",
+    "JoeRouterForwarderLogic": "0xF780668669C193B5D2Cf22B8420473fA1E3Ee3D1",
+    "JoeV1Factory": "0xe32D45C2B1c17a0fE0De76f1ebFA7c44B7810034",
+    "JoeV1Router": "0x4faCe5b0EF2757Ceb9151D14C036A1135931C70E",
+    "JoeV1Quoter": "0xf57B8a91F775B01d53450D7Cb4D2A99Ba989fd19",
+    "TMFactory": "0xe70d21aD211DB6DCD3f54B9804A1b64BB21b17B1",
+    "Joe": "0x371c7ec6d8039ff7933a2aa28eb827ffe1f52f07"
+  },
+  "links": {
+    "project": "https://lfj.gg/",
+    "twitter": "https://twitter.com/LFJ_gg",
+    "github": "https://github.com/lfj-gg/",
+    "docs": "https://docs.lfj.gg/"
+  }
+}

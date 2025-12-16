@@ -1,0 +1,29 @@
+{
+  "name": "Swyrl",
+  "description": "Swyrl is a Monad-native DEX with dual AMMs and liquid staking, aligning users and protocols via ve(3,3)-driven governance.",
+  "live": true,
+  "categories": ["DeFi::DEX"],
+  "addresses": {
+    "SwyrlV2Router": "0x020e762D529628aDd359a9f4D2f63A3BCFe373Bd",
+    "SwyrlV2Factory": "0xD158CDfeC90E9429A290c3144Afeb72E8C23603a",
+    "NonfungiblePositionManager": "0xa6931259B8921F2ED1E7B6c2E657e82873C195ed",
+    "NonfungibleTokenPositionDescriptor": "0x10974f1aEE2983b052cD0EF2321Fa7d3edf2B426",
+    "SwyrlV3Factory": "0x02a898F85a6984213Ac6d2577ff3406394172abf",
+    "SwyrlV3PoolDeployer": "0x66ae3f94EB3Ab532cC4F8fC8700f6d7488E40A4f",
+    "UniversalRouter": "0x6B096391742bAaEd539Ad25F44dC775065f73322",
+    "UniswapInterfaceMulticall": "0xb79bA9375Fc66C4ddF236BeD3D53ef6213aac7B6",
+    "MixedRouteQuoterV1": "0xE6c40D7cDc1F1622Ddf2af41ae8c4230A587D133",
+    "Quoter": "0xfDD71E68FE7C3565C5fEaE6Bf3057F9841Fe1F8D",
+    "QuoterV2": "0x65552047E14028B6c20EB58f305F7663d87013A1",
+    "SwapRouter": "0xA1164853b6Ad6EfC8B28dEcA0aE5CCbf5CE88328",
+    "SwapRouter02": "0xd8De315eE724CEfD5a4f215daE3d6729e5150a90",
+    "TickLens": "0x95d4063ad9cEDA0d83428986d23BaA9eD5163F58",
+    "Swyrl": "0x32D14d57c60A4A213EB4cF76Cb805776D869Bffb"
+  },
+  "links": {
+    "project": "https://swyrl.finance/",
+    "twitter": "https://x.com/SwyrlFi",
+    "github": "https://github.com/SwyrlFi",
+    "docs": "https://docs.swyrl.finance/"
+  }
+}

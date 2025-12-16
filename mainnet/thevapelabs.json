@@ -1,0 +1,24 @@
+{
+    "name": "Thevapelabs",
+    "description": "TheVapeLabs is the world’s first AI-powered smart vape brand, built on Monad. We help people cut down and quit nicotine with real-time tracking, personalized AI tips and incentives. Users can even flex their NFTs right on the device, bringing on-chain culture into real life.",
+    "live": true,
+    "categories": [
+        "DePIN::Data Collection", 
+        "DePIN::Data Labelling",
+        "AI::Consumer AI"
+    ],
+    "addresses": {
+        "MIST": "0xfA2F863Eb512434E99E2365Fa5f7AC7674DDe000",
+        "Staking": "0x51FFf43eb9Cc9cE9de491E86dcfBFbf0864cfEED",
+        "PointSyncer": "0x925726a0AAbB82464d21F6795A457fA9Fe0a57c1"
+    },
+    "links":
+    {
+        "project": "http://thevapelabs.io",
+        "twitter": "https://x.com/thevapelabs",
+        "github": "https://github.com/thevapelabs-io",
+        "docs": "https://thevapelabs.gitbook.io/docs",
+        "discord": "https://discord.com/invite/PkR24GRSYe"
+    }
+}
+

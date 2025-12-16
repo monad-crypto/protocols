@@ -18,6 +18,7 @@
         "PoolManager": "0x188d586ddcf52439676ca21a244753fa19f9ea8e",
         "PositionDescriptor": "0x5770d2914355a6d0a39a70aeea9bcce55df4201b",
         "PositionManager": "0x5b7ec4a94ff9bedb700fb82ab09d5846972f4016",
+        "SwapRouter02": "0xfe31f71c1b106eac32f1a19239c9a9a72ddfb900",
         "V4Quoter": "0xa222dd357a9076d1091ed6aa2e16c9742dd26891",
         "StateView": "0x77395f3b2e73ae90843717371294fa97cc419d64",
         "Quoter": "0x2d01411773c8c24805306e89a41f7855c3c4fe65",
@@ -27,7 +28,7 @@
     "links": {
         "project": "https://app.uniswap.org/",
         "twitter": "https://x.com/Uniswap",
-        "github": " https://github.com/Uniswap/",
+        "github": "https://github.com/Uniswap/",
         "docs": "https://docs.uniswap.org/"
     }
 }

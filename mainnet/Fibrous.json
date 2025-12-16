@@ -1,0 +1,19 @@
+{
+    "name": "Fibrous",
+    "description": "One place for best execution across chains.",
+    "live": true,
+    "categories": [
+        "DeFi::DEX",
+        "DeFi::DEX Aggregator",
+        "DeFi::Trading Interfaces"
+    ],
+    "addresses": {
+        "FibrousSettler": "0x274602a953847d807231d2370072F5f4E4594B44"
+    },
+    "links": {
+        "project": "https://fibrous.finance",
+        "twitter": "https://x.com/FibrousFinance",
+        "github": "https://github.com/Fibrous-Finance",
+        "docs": "https://docs.fibrous.finance"
+    }
+}

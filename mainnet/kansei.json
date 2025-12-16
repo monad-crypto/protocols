@@ -1,0 +1,35 @@
+{
+    "name": "Kansei",
+    "description": "All-in-one trading / yield leverage / liquid staking SuperApp with near instant UX.",
+    "live": true,
+    "categories": [
+        "DeFi::DEX",
+        "DeFi::Liquid Staking",
+        "DeFi::Leveraged Farming",
+        "DeFi::Lending",
+        "DeFi::Stableswap",
+        "DeFi::Yield"
+    ],
+    "addresses": {
+        "V2Factory": "0x6B672532B4347B56236ceeD8a2410Aec4395FdB2",
+        "V2Router": "0x33d4220003A120b07F0A764a6C9A70e6D328C461",
+        "KanseiToken": "0xDa3A330073c10eB00AFc322F77BC24ed289D083F",
+        "KanseiPoints": "0xe665DE7AAD6B20cAfa4BEe85b6B27a4000b106e4",
+        "KanseiFarm": "0xcB79E3EdB6Bf3d7e66e3f685cd9F2373F462f4f3",
+        "stMON": "0x8F8420CFeD0B9F84f3b4c593494D288F8a4A84C4",
+        "wstMON": "0x41D5eF83d666Bed43D78bc467C844512f27F5d03",
+        "KanseiVault": "0xaD2074EBBd819f47aC936CDADC5F3FC8A6609f00",
+        "PriceOracle": "0xeBA09ADcb1D0052745CEadf0e9c3A87E2Ab11B2f",
+        "BDeployer": "0x0493B0f962346AadCaB77ABc6d24a9c69A74962b",
+        "CDeployer": "0x58BA4Db931da0509b7F0b7477925dE3e9a20CE1A",
+        "KanseiLendFactory": "0x2632662f3750EE27b025D44ADFF0B86839D0BeC1",
+        "KanseiLendRouter": "0x4834a84C17c2a449054e0ad1e0FC63cd5512bFd2",
+        "KanseiLendVaultTokenFactory": "0xfD792edCe7926484c560466A6A4C7952602670EA"
+    },
+    "links": {
+        "project": "https://kansei.finance/",
+        "twitter": "https://x.com/0xKansei",
+        "github": "https://github.com/kansei",
+        "docs": "https://docs.kansei.finance/"
+    }
+}

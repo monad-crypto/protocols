@@ -28,9 +28,12 @@
     "SupplyLogic": "0x4c505f18C39Ef5881bCb5eBFBDd89E607ea2185d",
 
     // --- Interest Rate Strategies ---
-    "StableOne": "0x09bD1E4bc6F035D5025D0e86a9b24a7fC9F1125B",
-    "StableTwo": "0xb00E2D557cFCF73A3c6D9Fe98332290fac7546e4",
-    "VolatileOne": "0x9B4528918159e1ae937740051Fb69bcD4E164cc3",
+    "RateStrategyStableOne": "0x09bD1E4bc6F035D5025D0e86a9b24a7fC9F1125B",
+    "RateStrategyStableTwo": "0xb00E2D557cFCF73A3c6D9Fe98332290fac7546e4",
+    "RateStrategyVolatileOne": "0x9B4528918159e1ae937740051Fb69bcD4E164cc3",
+    "RateStrategyNativeOne": "0x1fdb8eEBa059B8715B90714BE158012B0e08db1E",
+    "RateStrategyStableFlatten": "0xf462fEF6bf18AfeC12C93474Cce5C2FDF94034f4",
+    "RateStrategyVolatileFlatten": "0x0Aa3af6c66109bB71D39e8EF572DaB15503338D4",
 
     // --- Oracle ---
     "AaveOracle": "0x94bbA11004B9877d13bb5E1aE29319b6f7bDEdD4",
@@ -50,6 +53,34 @@
     "USDC_AToken": "0x38648958836eA88b368b4ac23b86Ad44B0fe7508",
     "USDC_StableDebtToken": "0x7491E87eed26418ff67422169a7608E67d691978",
     "USDC_VariableDebtToken": "0xb26FB5e35f6527d6f878F7784EA71774595B249C",
+    // USDT0
+    "USDT0_AToken": "0x39F901c32b2E0d25AE8DEaa1ee115C748f8f6bDf",
+    "USDT0_StableDebtToken": "0xc76A07FAc2bb9b1C43E7702b0F96B2d15fD037E1",
+    "USDT0_VariableDebtToken": "0xa2d753458946612376ce6e5704Ab1cc79153d272",
+    // AUSD
+    "AUSD_AToken": "0x784999fc2Dd132a41D1Cc0F1aE9805854BaD1f2D",
+    "AUSD_StableDebtToken": "0xe004483d67B06f5B002098DB51217A7cCaFeD403",
+    "AUSD_VariableDebtToken": "0x54fC077EAe1006FE3C5d01f1614802eAFCbEe57E",
+    // WBTC
+    "WBTC_AToken": "0x34c43684293963c546b0aB6841008A4d3393B9ab",
+    "WBTC_StableDebtToken": "0xF5512227759C963b03ac1bDcAF176F3A68880192",
+    "WBTC_VariableDebtToken": "0x544a5fF071090F4eE3AD879435f4dC1C1eeC1873",
+    // WETH
+    "WETH_AToken": "0x31f63Ae5a96566b93477191778606BeBDC4CA66f",
+    "WETH_StableDebtToken": "0xD22e72BA1356c4aDE09EA0b6463617A6e4349778",
+    "WETH_VariableDebtToken": "0xdE6C157e43c5d9B713C635f439a93CA3BE2156B6",
+    // sMON
+    "sMON_AToken": "0xdFC14d336aea9E49113b1356333FD374e646Bf85",
+    "sMON_StableDebtToken": "0xcde3986864Bd06ace8726B65b9fd5b9cBB4EA47d",
+    "sMON_VariableDebtToken": "0x26A823b286B5dE1185EF0D90F77b7f04e6E24306",
+    // gMON
+    "gMON_AToken": "0x7f81779736968836582D31D36274Ed82053aD1AE",
+    "gMON_StableDebtToken": "0xd8842741B71e01aee846AbEc07Cf26c52302d010",
+    "gMON_VariableDebtToken": "0x905999CC7B7e26c1Cb2761F6C00909B65C862b78",
+    // shMON
+    "shMON_AToken": "0xC64d73Bb8748C6fA7487ace2D0d945B6fBb2EcDe",
+    "shMON_StableDebtToken": "0x1b1947ecaA12E644d09165F3c43Ce059f6E24274",
+    "shMON_VariableDebtToken": "0xbb64E46e995bE16eEF3Ec009442ABC0f2c8381B1",
 
     // --- Lending Utilities ---
     "WalletBalanceProvider": "0x8911Db480C1c0c1E06f17C2Bc76b26D861e40D47",
@@ -83,8 +114,8 @@
     "ProxyAdmin": "0x6400650cED1eD7179143D40b4431c3cC8c068D90",
 
     // --- Utilities ---
-    "NeverlandDustHelper": "0xc91BA13910b358E0De6510D4e2F3AFDaf6395538",
-    "NeverlandUiProvider": "0xc8B7b87EB4a4B404a421bD3a1491a689A0be8611"
+    "NeverlandDustHelper": "0x7A634b66d43ad04E2D6780FFD031F8BB7327b258",
+    "NeverlandUiProvider": "0x2FfB9B6ba7FE23793c3a2Fdd18EcE88f73cE20a0"
   },
   "links": {
     "project": "https://neverland.money",

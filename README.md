@@ -6,6 +6,12 @@ assist with ecosystem coordination.
 Representatives of each protocol should open pull requests to add or adjust their corresponding
 metadata file as details change.
 
+## Contributing
+
+Please create a fork of this repository in your own github account (personal or company), push your changes to that fork, and then make a pull request from that fork which contributes back to monad-crypto/protocols:main.
+
+Please make best efforts to verify your contracts on https://monadvision.com/ where possible, and let us know if you are running into issues with contract verification.
+
 ## Data
 
 For each network (`mainnet`, `testnet`), there is one json per protocol.
@@ -123,110 +129,153 @@ is also listed below. For ease of understanding, categories are organized by top
 Generally protocols will be associated with a single category, however more than one is 
 permissible, in which case please put the primary category first.
 
-- AI
-  * AI::Agent Launchpad
-  * AI::Abstraction Infrastructure
-  * AI::Consumer AI
-  * AI::Data
-  * AI::Compute
-  * AI::Inference
-  * AI::Gaming
-  * AI::Infrastructure
-  * AI::Investing
-  * AI::Models
-  * AI::Trading Agent
-  * AI::Other
-- CeFi
-  * CeFi::CEX
-  * CeFi::Institutional Trading
-  * CeFi::Other
-- Consumer
-  * Consumer::Betting
-  * Consumer::E-commerce / Ticketing
-  * Consumer::Prediction Market
-  * Consumer::Social
-  * Consumer::Other
-- DeFi
-  * DeFi::Asset Allocators
-  * DeFi::Asset Issuers
-  * DeFi::CDP
-  * DeFi::Cross Chain
-  * DeFi::DEX
-  * DeFi::DEX Aggregator
-  * DeFi::Indexes
-  * DeFi::Insurance
-  * DeFi::Intents
-  * DeFi::Launchpads
-  * DeFi::Lending
-  * DeFi::Leveraged Farming
-  * DeFi::Liquid Staking
-  * DeFi::Memecoin
-  * DeFi::MEV
-  * DeFi::Options
-  * DeFi::Perpetuals / Derivatives
-  * DeFi::Prime Brokerage
-  * DeFi::Reserve Currency
-  * DeFi::RWA
-  * DeFi::Stablecoin
-  * DeFi::Stableswap
-  * DeFi::Staking
-  * DeFi::Synthetics
-  * DeFi::Trading Interfaces
-  * DeFi::Uncollateralized Lending
-  * DeFi::Yield
-  * DeFi::Yield Aggregator
-  * DeFi::Other
-- DePIN
-  * DePIN::Spatial Intelligence
-  * DePIN::CDN
-  * DePIN::Compute
-  * DePIN::Data Collection
-  * DePIN::Data Labelling
-  * DePIN::Mapping
-  * DePIN::Monitoring Networks
-  * DePIN::Storage
-  * DePIN::Wireless Network
-  * DePIN::Other
-- DeSci
-  * DeSci::Other
-- Gaming
-  * Gaming::Metaverse
-  * Gaming::Mobile-First
-  * Gaming::Games
-  * Gaming::Infrastructure
-  * Gaming::Other
-- Governance
-  * Governance::Delegation
-  * Governance::Risk Management
-  * Governance::Other
-- Infra
-  * Infra::AA
-  * Infra::Automation
-  * Infra::Analytics
-  * Infra::Developer Tooling
-  * Infra::Identity
-  * Infra::Indexing
-  * Infra::Interoperability
-  * Infra::Gaming
-  * Infra::Oracle
-  * Infra::Privacy / Encryption
-  * Infra::RaaS (Rollup as a Service)
-  * Infra::RPC
-  * Infra::WaaS
-  * Infra::Wallet
-  * Infra::ZK
-  * Infra::Other
-- NFT
-  * NFT::Collections
-  * NFT::Infrastructure
-  * NFT::Interoperability
-  * NFT::Marketplace
-  * NFT::NFTFi
-  * NFT::Other
-- Payments
-  * Payments::Credit Cards
-  * Payments::Onramp and Offramps
-  * Payments::Neobanks
-  * Payments::Orchestration
-  * Payments::Remittance
-  * Payments::Other
+<details>
+<summary>AI</summary>
+
+- `AI::Agent Launchpad`
+- `AI::Abstraction Infrastructure`
+- `AI::Consumer AI`
+- `AI::Data`
+- `AI::Compute`
+- `AI::Inference`
+- `AI::Gaming`
+- `AI::Infrastructure`
+- `AI::Investing`
+- `AI::Models`
+- `AI::Trading Agent`
+- `AI::Other`
+</details>
+
+<details>
+<summary>CeFi</summary>
+
+- `CeFi::CEX`
+- `CeFi::Institutional Trading`
+- `CeFi::Other`
+</details>
+
+<details>
+<summary>Consumer</summary>
+
+- `Consumer::Betting`
+- `Consumer::E-commerce / Ticketing`
+- `Consumer::Prediction Market`
+- `Consumer::Social`
+- `Consumer::Other`
+</details>
+
+<details>
+<summary>DeFi</summary>
+
+- `DeFi::Asset Allocators`
+- `DeFi::Asset Issuers`
+- `DeFi::CDP`
+- `DeFi::Cross Chain`
+- `DeFi::DEX`
+- `DeFi::DEX Aggregator`
+- `DeFi::Indexes`
+- `DeFi::Insurance`
+- `DeFi::Intents`
+- `DeFi::Launchpads`
+- `DeFi::Lending`
+- `DeFi::Leveraged Farming`
+- `DeFi::Liquid Staking`
+- `DeFi::Memecoin`
+- `DeFi::MEV`
+- `DeFi::Options`
+- `DeFi::Perpetuals / Derivatives`
+- `DeFi::Prime Brokerage`
+- `DeFi::Reserve Currency`
+- `DeFi::RWA`
+- `DeFi::Stablecoin`
+- `DeFi::Stableswap`
+- `DeFi::Staking`
+- `DeFi::Synthetics`
+- `DeFi::Trading Interfaces`
+- `DeFi::Uncollateralized Lending`
+- `DeFi::Yield`
+- `DeFi::Yield Aggregator`
+- `DeFi::Other`
+</details>
+
+<details>
+<summary>DePIN</summary>
+
+- `DePIN::Spatial Intelligence`
+- `DePIN::CDN`
+- `DePIN::Compute`
+- `DePIN::Data Collection`
+- `DePIN::Data Labelling`
+- `DePIN::Mapping`
+- `DePIN::Monitoring Networks`
+- `DePIN::Storage`
+- `DePIN::Wireless Network`
+- `DePIN::Other`
+</details>
+
+<details>
+<summary>DeSci</summary>
+
+- `DeSci::Other`
+</details>
+
+<details>
+<summary>Gaming</summary>
+
+- `Gaming::Metaverse`
+- `Gaming::Mobile-First`
+- `Gaming::Games`
+- `Gaming::Infrastructure`
+- `Gaming::Other`
+</details>
+
+<details>
+<summary>Governance</summary>
+
+- `Governance::Delegation`
+- `Governance::Risk Management`
+- `Governance::Other`
+</details>
+
+<details>
+<summary>Infra</summary>
+
+- `Infra::AA`
+- `Infra::Automation`
+- `Infra::Analytics`
+- `Infra::Developer Tooling`
+- `Infra::Identity`
+- `Infra::Indexing`
+- `Infra::Interoperability`
+- `Infra::Gaming`
+- `Infra::Oracle`
+- `Infra::Privacy / Encryption`
+- `Infra::RaaS (Rollup as a Service)`
+- `Infra::RPC`
+- `Infra::WaaS`
+- `Infra::Wallet`
+- `Infra::ZK`
+- `Infra::Other`
+</details>
+
+<details>
+<summary>NFT</summary>
+
+- `NFT::Collections`
+- `NFT::Infrastructure`
+- `NFT::Interoperability`
+- `NFT::Marketplace`
+- `NFT::NFTFi`
+- `NFT::Other`
+</details>
+
+<details>
+<summary>Payments</summary>
+
+- `Payments::Credit Cards`
+- `Payments::Onramp and Offramps`
+- `Payments::Neobanks`
+- `Payments::Orchestration`
+- `Payments::Remittance`
+- `Payments::Other`
+</details>

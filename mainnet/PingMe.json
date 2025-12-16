@@ -1,0 +1,17 @@
+{
+    "name": "PingMe",
+    "description": "Making stablecoin payment as simple as sending a message",
+    "live": true,
+    "categories": ["Payments::Neobanks"],
+    "addresses": {
+        "CryptoDrop": "0x3de0E31A0a9d885bF98ea1512188e06F70D507B2",
+        "Forwarder": "0x2a217B43b138e36979f59999776585ed6Bb27542",
+        "RecoveryVault": "0x32F62bDC2BE3E1B1C0265143831155253cd5A248"
+    },
+    "links": {
+        "project": "https://www.pingme.xyz",
+        "twitter": "https://x.com/pingme_xyz",
+        "github": "https://github.com/pingme",
+        "docs": "https://www.pingme.xyz"
+    }
+}
