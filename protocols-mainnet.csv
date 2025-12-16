@@ -690,6 +690,7 @@ Sablier,DeFi,Other,SablierFactoryMerkleLT,0xfa2bf3eddefe67631bffa5c53b621a9c6beb
 Sablier,DeFi,Other,SablierFactoryMerkleVCA,0xcdcc46a7759de01271e533bbc3b0f32899545a76,DeFi::Other
 Sablier,DeFi,Other,SablierFlow,0x0340a829b6dc3adf7710a5baf1970914af4977f5,DeFi::Other
 Sablier,DeFi,Other,SablierLockup,0x003f5393f4836f710d492ad98d89f5bfccf1c962,DeFi::Other
+LeverUp,DeFi,Perpetuals / Derivatives,LV,0x1001ff13bf368aa4fa85f21043648079f00e1001,DeFi::Perpetuals / Derivatives;DeFi::RWA;DeFi::Stablecoin
 LeverUp,DeFi,Perpetuals / Derivatives,LVMON,0x91b81bfbe3a747230f0529aa28d8b2bc898e6d56,DeFi::Perpetuals / Derivatives;DeFi::RWA;DeFi::Stablecoin
 LeverUp,DeFi,Perpetuals / Derivatives,LVMON_Issuer,0xbf52ced429c3901afa4bbf25849269ef7a4ad105,DeFi::Perpetuals / Derivatives;DeFi::RWA;DeFi::Stablecoin
 LeverUp,DeFi,Perpetuals / Derivatives,LVUSD,0xfd44b35139ae53fff7d8f2a9869c503d987f00d1,DeFi::Perpetuals / Derivatives;DeFi::RWA;DeFi::Stablecoin
