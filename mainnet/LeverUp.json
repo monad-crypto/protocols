@@ -12,7 +12,8 @@
         "LVUSD": "0xFD44B35139Ae53FFF7d8F2A9869c503D987f00d1",
         "LVMON": "0x91b81bfbe3A747230F0529Aa28d8b2Bc898E6D56",
         "LVUSD_Issuer": "0x135951057cfcccA7E8ef87ee41318D670f723F68",
-        "LVMON_Issuer": "0xbF52cED429C3901AfA4BBF25849269eF7A4ad105"
+        "LVMON_Issuer": "0xbF52cED429C3901AfA4BBF25849269eF7A4ad105",
+        "LV": "0x1001fF13bf368Aa4fa85F21043648079F00E1001"
     },
     "links": {
         "project": "https://leverup.xyz",
