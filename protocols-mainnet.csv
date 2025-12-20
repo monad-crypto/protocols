@@ -410,8 +410,10 @@ Folks Finance,DeFi,Lending,ccipDataAdapter,0xeb48a1ee43b91959a1686b70b7cd482c65d
 Folks Finance,DeFi,Lending,ccipDataAdapterReward,0x12db9758c4d9902334c523b94e436258eb54156f,DeFi::Lending;DeFi::Cross Chain
 Folks Finance,DeFi,Lending,ccipTokenAdapter,0x5c60f12838b8e3eeb525f299cd7c454c989dd04e,DeFi::Lending;DeFi::Cross Chain
 Folks Finance,DeFi,Lending,folksSpokeRewardV2,0x7218bd1050d41a9ecfc517abdd294fb8116aee81,DeFi::Lending;DeFi::Cross Chain
+Folks Finance,DeFi,Lending,gMonSpokeAddress,0x9105ceebaf43ef6b80df1b66beffd5f98a036c36,DeFi::Lending;DeFi::Cross Chain
 Folks Finance,DeFi,Lending,monSpokeAddress,0x531490b7674ef239c9fec39d2cf3cc10645d14d4,DeFi::Lending;DeFi::Cross Chain
 Folks Finance,DeFi,Lending,sMonSpokeAddress,0xb39c03297e87032ff69f4d42a6698e4c4a934449,DeFi::Lending;DeFi::Cross Chain
+Folks Finance,DeFi,Lending,shMonSpokeAddress,0x1a40208e9506e08a6f62dbccf8de7387743179e9,DeFi::Lending;DeFi::Cross Chain
 Folks Finance,DeFi,Lending,spokeCommon,0xc7bc4a43384f84b8fc937ab58173edab23a4c3cd,DeFi::Lending;DeFi::Cross Chain
 Folks Finance,DeFi,Lending,spokeCommonRewardV2,0x802063a23e78d0f5d158feaac605028ee490b03b,DeFi::Lending;DeFi::Cross Chain
 Folks Finance,DeFi,Lending,usdt0SpokeAddress,0xb1e2939b501b73f4cfef6a9fb0aa89a75f1774ee,DeFi::Lending;DeFi::Cross Chain
