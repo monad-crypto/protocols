@@ -1,0 +1,21 @@
+
+{
+    "name": "Grimmy's",
+    "description": "Grimmy's is a play-to-own decentralized casino where players can earn $GRIMMY on top of every wager.",
+    "live": true,
+    "categories": [
+        "Gaming::Games",
+        "Gaming::Mobile-First"
+    ],
+    "addresses": {
+        "Grimmy": "0xDcA99DcC29e19022012c5D755f1b12C61D127857",
+        "Stimmy": "0x26018Cb486254c9697ed654D023C5d737FDD31e4",
+        "Flippy": "0x3717F45e87744E48D954684f34f57902da1134da"
+    },
+    "links": {
+        "project": "https://grimmy.fun",
+        "twitter": "https://x.com/grimmysburgers",
+        "github": "https://github.com/grimmys-frycook/grimmy",
+        "docs": "https://docs.grimmy.fun"
+    }
+}
