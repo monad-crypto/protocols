@@ -796,6 +796,8 @@ Accountable,DeFi,Yield Aggregator,FixedTermFactory,0x8a5caf00c3eb20aec11fc35c153
 Accountable,DeFi,Yield Aggregator,GlobalRegistry,0xf786154e56e5c88ce984800dea71b48ea4ffabfe,DeFi::Yield Aggregator
 Accountable,DeFi,Yield Aggregator,OpenTermFactory,0x606556a6b544ecdcbf15af73a63b67516dc16ad7,DeFi::Yield Aggregator
 Accountable,DeFi,Yield Aggregator,RewardsFactory,0x1106a70223e98e2b1807bf3e12698afe2c5693e6,DeFi::Yield Aggregator
+aarna protocol,DeFi,Yield Aggregator,BaseVault,0x4c09558a0d000240726679fc3805c3918922d6c6,DeFi::Yield Aggregator
+aarna protocol,DeFi,Yield Aggregator,GearBoxAdapter,0xae68912a8b1b74cb65df892f2c8f42074f9640ba,DeFi::Yield Aggregator
 earnAUSD,DeFi,Yield Aggregator,assetsWhitelist,0xcea701f0ff0a2e8a51a5c5c1d2b6b69bfa849989,DeFi::Yield Aggregator
 earnAUSD,DeFi,Yield Aggregator,contract,0x36edbf0c834591bfdfcac0ef9605528c75c406aa,DeFi::Yield Aggregator
 earnAUSD,DeFi,Yield Aggregator,proxyAdmin,0x04ae5a71ea943f9fc4ecb3bd4118e381cd04067d,DeFi::Yield Aggregator
