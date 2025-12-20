@@ -15,6 +15,8 @@
     "sMonSpokeAddress": "0xb39c03297E87032fF69f4D42A6698e4c4A934449",
     "aUsdSpokeAddress": "0xC30107a8e782E98Fe890f0375afa4185aeEa3356",
     "usdt0SpokeAddress": "0xB1e2939b501B73F4cFEf6a9FB0aa89a75F1774EE",
+    "gMonSpokeAddress": "0x9105CEEbaf43EF6B80dF1b66BEfFd5F98A036c36",
+    "shMonSpokeAddress": "0x1A40208E9506E08a6f62DbCCf8de7387743179E9",
     "bridgeRouterSpokeReward": "0x5f2F4771B7dc7e2F7E9c1308B154E1e8957ecAB0",
     "wormholeDataAdapterReward": "0x1b2a8d56967d00700DD5C94E27B1a116a1deF8Df",
     "ccipDataAdapterReward": "0x12Db9758c4D9902334C523b94e436258EB54156f",
