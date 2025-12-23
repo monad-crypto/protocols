@@ -329,23 +329,25 @@ iZiSwap,DeFi,DEX,tapProxy,0x2c6df0fdbce9d2ded2b52a117126f2dc991f770f,DeFi::DEX
 Eisen,DeFi,DEX Aggregator,EisenDiamond,0x787c474b8a86354d0f5f19fb599a5fc7662a265f,DeFi::DEX Aggregator
 Eisen,DeFi,DEX Aggregator,Forwarder,0xece5e77f9a9846c4d69555eb44e0cff8b5f03f1e,DeFi::DEX Aggregator
 Gmgn,DeFi,DEX Aggregator,Router,0xc9ca80b5ea956afa98627963d1880033545d108e,DeFi::DEX Aggregator
-Mace,DeFi,DEX Aggregator,APRMonAdapter,0x0e89c6d18933e2da3a5c56b0727113b2247ac847,DeFi::DEX Aggregator;DeFi::Trading Interfaces
-Mace,DeFi,DEX Aggregator,AlgebraAdapter,0xc1d16c871d816cb2400243dc7a61ed4e9137fbeb,DeFi::DEX Aggregator;DeFi::Trading Interfaces
-Mace,DeFi,DEX Aggregator,ClobberV2Adapter,0x42a3ed3010d38dab622b9e135df724ab4a813cd7,DeFi::DEX Aggregator;DeFi::Trading Interfaces
+Mace,DeFi,DEX Aggregator,APRMonAdapter,0xd74356eb3617d25e695d675a674eb90dbf073b74,DeFi::DEX Aggregator;DeFi::Trading Interfaces
+Mace,DeFi,DEX Aggregator,AlgebraAdapter,0x84bee47463ad63bebb96d066d548c042875bb6a0,DeFi::DEX Aggregator;DeFi::Trading Interfaces
+Mace,DeFi,DEX Aggregator,ClobberV2Adapter,0xae3dc93190979063448d0edc5e29a213def78b6e,DeFi::DEX Aggregator;DeFi::Trading Interfaces
 Mace,DeFi,DEX Aggregator,CrystalAdapter,0x70ca11a8bb062ef86e6e662b58ae3caeef1d66e5,DeFi::DEX Aggregator;DeFi::Trading Interfaces
-Mace,DeFi,DEX Aggregator,IzumiAdapter,0x60672942dd9beaf2d4980892a1b8001b5178149f,DeFi::DEX Aggregator;DeFi::Trading Interfaces
+Mace,DeFi,DEX Aggregator,IzumiAdapter,0x82c3871bc051ff5898dcb752035ecfa3dee46941,DeFi::DEX Aggregator;DeFi::Trading Interfaces
 Mace,DeFi,DEX Aggregator,KintsuAdapter,0xb346fbd2ba963a1c3b00946c733e9f0d5ce7aeec,DeFi::DEX Aggregator;DeFi::Trading Interfaces
 Mace,DeFi,DEX Aggregator,KuruAdapter,0x59966add989bb2b8a528b796a81fb7e593072529,DeFi::DEX Aggregator;DeFi::Trading Interfaces
 Mace,DeFi,DEX Aggregator,LFJAdapter,0x73590e38f40f799edb3afe3142c0ea891f393d9d,DeFi::DEX Aggregator;DeFi::Trading Interfaces
 Mace,DeFi,DEX Aggregator,MaceRouter,0x6f05a0746a8cb5c7de5af1568c8d020dbb521b23,DeFi::DEX Aggregator;DeFi::Trading Interfaces
-Mace,DeFi,DEX Aggregator,NadFunCurveAdapter,0x057f554fe1558d2910e5e0865d9177e8ebb60197,DeFi::DEX Aggregator;DeFi::Trading Interfaces
+Mace,DeFi,DEX Aggregator,MagmaAdapter,0xcf32b343f6b9f74abe075f414f87ea7b0adbf1c1,DeFi::DEX Aggregator;DeFi::Trading Interfaces
+Mace,DeFi,DEX Aggregator,NadFunCurveAdapter,0x076afaf46b983b1d23b98e9fdcb4314b11ac3ab9,DeFi::DEX Aggregator;DeFi::Trading Interfaces
 Mace,DeFi,DEX Aggregator,NitroAdapter,0x5c968a45404e55ffa5da393fe7db96f244792707,DeFi::DEX Aggregator;DeFi::Trading Interfaces
-Mace,DeFi,DEX Aggregator,PancakeswapV3Adapter,0xa24be4225dda623e4db49ed12c80aae583447482,DeFi::DEX Aggregator;DeFi::Trading Interfaces
-Mace,DeFi,DEX Aggregator,PrintrCurveAdapter,0x7d120c4fccbd620b398e04f9147271cf5cac587c,DeFi::DEX Aggregator;DeFi::Trading Interfaces
+Mace,DeFi,DEX Aggregator,PancakeswapV3Adapter,0xa0ad7736dfd6abdbffcb0ec4df8d31df40a127fe,DeFi::DEX Aggregator;DeFi::Trading Interfaces
+Mace,DeFi,DEX Aggregator,PrintrCurveAdapter,0xb7d014ba893a22e9b6a2214e22f0fd68e9cd0741,DeFi::DEX Aggregator;DeFi::Trading Interfaces
 Mace,DeFi,DEX Aggregator,ShMonAdapter,0x8a64d063dc534a160914da4dc86804be5e8de98b,DeFi::DEX Aggregator;DeFi::Trading Interfaces
 Mace,DeFi,DEX Aggregator,SomethingAdapter,0x39c361d267853a43f4e6237291cea0701c426abe,DeFi::DEX Aggregator;DeFi::Trading Interfaces
+Mace,DeFi,DEX Aggregator,SomethingCurveAdapter,0xb3661b5d02f5f4b49e1d5084590aacd8867646f6,DeFi::DEX Aggregator;DeFi::Trading Interfaces
 Mace,DeFi,DEX Aggregator,UniswapV2Adapter,0x9d282092c60303ba8fc219501cfedafafa290a64,DeFi::DEX Aggregator;DeFi::Trading Interfaces
-Mace,DeFi,DEX Aggregator,UniswapV4Adapter,0xaa318069cee0e16e25b8aa34c27ac20c4de16fc2,DeFi::DEX Aggregator;DeFi::Trading Interfaces
+Mace,DeFi,DEX Aggregator,UniswapV4Adapter,0x52dfbfa557516e1775b014ef01309ca8160b5296,DeFi::DEX Aggregator;DeFi::Trading Interfaces
 Mace,DeFi,DEX Aggregator,WethAdapter,0xc6b6b9e8eb8b3cf2cecd8ff536a9e1599d8ab426,DeFi::DEX Aggregator;DeFi::Trading Interfaces
 Madhouse,DeFi,DEX Aggregator,Aggregator,0x6017684bea9cb6e9874fc6dba4438271ebf9f5da,DeFi::DEX Aggregator
 Monorail,DeFi,DEX Aggregator,AggregationRouter,0xa68a7f0601effdc65c64d9c47ca1b18d96b4352c,DeFi::DEX Aggregator;DeFi::Trading Interfaces
