@@ -400,11 +400,48 @@ bonad.fun,DeFi,Launchpads,NoOpGovernanceFactory,0xb4dee32eb70a5e55f3d2d861f49fb3
 bonad.fun,DeFi,Launchpads,NoOpMigrator,0x5f3ba43d44375286296cb85f1ea2ebfa25dde731,DeFi::Launchpads;DeFi::Memecoin
 bonad.fun,DeFi,Launchpads,UniswapV2Migrator,0x136191b46478cab023cbc01a36160c4aad81677a,DeFi::Launchpads;DeFi::Memecoin
 bonad.fun,DeFi,Launchpads,UniswapV4ScheduledMulticurveInitializer,0xce3099b2f07029b086e5e92a1573c5f5a3071783,DeFi::Launchpads;DeFi::Memecoin
+Curvance,DeFi,Lending,AUSD DynamicIRM,0x08dcb6ad285217ef29816ac0f813c21c54c48cd5,DeFi::Lending
 Curvance,DeFi,Lending,CentralRegistry,0x1310f352f1389969ece6741671c4b919523912ff,DeFi::Lending
+Curvance,DeFi,Lending,ChainlinkAdaptor,0xacfe3fccae79445836e03c5359bb96bd352b9c00,DeFi::Lending
+Curvance,DeFi,Lending,NativePositionManager,0xc7b2377ef1744229698ca72c11003184fbbdf770,DeFi::Lending
 Curvance,DeFi,Lending,NativeVaultZapper,0x1d60a3f3f84f095b3d6001fbc135f6d42c812269,DeFi::Lending
 Curvance,DeFi,Lending,OracleManager,0x32fad39e79fac67f80d1c86cbd1598043e52cdb6,DeFi::Lending
+Curvance,DeFi,Lending,ProtocolViewer,0xed12668728c95dda3411f29d5347356e6da222da,DeFi::Lending
 Curvance,DeFi,Lending,RedstoneClassicAdaptor,0x0fa602b3e748438a3f1599206ed6dc497ab3331e,DeFi::Lending
+Curvance,DeFi,Lending,RedstoneCoreAdaptor,0x1779e22c746b3ca505ffa636f96c4e0916d616d8,DeFi::Lending
+Curvance,DeFi,Lending,SimplePositionManager,0x6b84b03bc8481b1380c3a4cddf221d30b5e40663,DeFi::Lending
 Curvance,DeFi,Lending,SimpleZapper,0x5af9b7cac0530d3c9e11c23b7a69cce335b8c395,DeFi::Lending
+Curvance,DeFi,Lending,VaultPositionManager,0x953d7190e9d132776877ca86fae718562a67fb52,DeFi::Lending
+Curvance,DeFi,Lending,VaultZapper,0x6a6a087eec9333acc0a71782daf2ce9fc229d145,DeFi::Lending
+Curvance,DeFi,Lending,WMON DynamicIRM,0x16cb8a09f2a17e30273b749ed178954fe63bb1bc,DeFi::Lending
+Curvance,DeFi,Lending,cAUSD,0x6e182eb501800c555bd5e662e6d350d627f504d8,DeFi::Lending
+Curvance,DeFi,Lending,cAUSD DynamicIRM,0x72cb6a15e050427e1a6047614a47659a2c94d1ba,DeFi::Lending
+Curvance,DeFi,Lending,cUSDC,0x21adbb60a5fb909e7f1fb48aacc4569615cd97b5,DeFi::Lending
+Curvance,DeFi,Lending,cUSDC DynamicIRM,0x034f1a014946fe4d4ea3bd36a315f775a8c1ab26,DeFi::Lending
+Curvance,DeFi,Lending,cWBTC,0x3d2ff9f862d89ba526a0fc166bd56abe04ef28d5,DeFi::Lending
+Curvance,DeFi,Lending,cWBTC / cUSDC Market Manager,0x01c4a0d396efe982b1b103be9910321d34e1aea9,DeFi::Lending
+Curvance,DeFi,Lending,cWBTC DynamicIRM,0x8a78bd450258b7b1d42431fb904453ca43161ade,DeFi::Lending
+Curvance,DeFi,Lending,cWETH,0x8af00fbbb2601a8f7636eabbf6243b30bea47d50,DeFi::Lending
+Curvance,DeFi,Lending,cWETH / cUSDC Market Manager,0xb3e9e0134354cc91b7fb9f9d6c3ab0de7854bb49,DeFi::Lending
+Curvance,DeFi,Lending,cWETH DynamicIRM,0x8c82ccf6ee43346425e04325df03219cf46a7739,DeFi::Lending
+Curvance,DeFi,Lending,cWMON,0x1e240e30e51491546dec3af16b0b4eac8dd110d4,DeFi::Lending
+Curvance,DeFi,Lending,cWMON / cUSDC Market Manager,0xa6a2a92f126b79ee0804845ee6b52899b4491093,DeFi::Lending
+Curvance,DeFi,Lending,cWMON DynamicIRM,0x50264b615175f8dbfff417cf6d0003d2e77d87b4,DeFi::Lending
+Curvance,DeFi,Lending,caprMON,0xd9e2025b907e95ecc963a5018f56b87575b4ab26,DeFi::Lending
+Curvance,DeFi,Lending,caprMON / cWMON Market Manager,0x5ea0a1cf3501c954b64902c5e92100b8a2cab1ac,DeFi::Lending
+Curvance,DeFi,Lending,cearnAUSD,0x852ff1ec21d63b405ec431e04ae3ac760e29263d,DeFi::Lending
+Curvance,DeFi,Lending,cearnAUSD / cAUSD Market Manager,0xd6365555f6a697c7c295ba741100aa644ce28545,DeFi::Lending
+Curvance,DeFi,Lending,cezETH,0x20f1a13bfbf85a22aa59d189861790981372220b,DeFi::Lending
+Curvance,DeFi,Lending,cezETH / cWETH Market Manager,0x83840d837e7a3e00bbb0b8501e60e989a8987c37,DeFi::Lending
+Curvance,DeFi,Lending,cmuBOND,0x92ee4b4d33dc61bd93a88601f29131b08acedbf1,DeFi::Lending
+Curvance,DeFi,Lending,cmuBOND / AUSD Market Manager,0x830d40cdfdc494bc1a2729a7381bfce44326c944,DeFi::Lending
+Curvance,DeFi,Lending,csAUSD,0xad4aa2a713fb86fbb6b60de2af9e32a11db6abf2,DeFi::Lending
+Curvance,DeFi,Lending,csAUSD / cAUSD Market Manager,0xbbe7a3c45adbb16f6490767b663428c34aa341eb,DeFi::Lending
+Curvance,DeFi,Lending,csMON,0x494876051b0e85dce5ecd5822b1ad39b9660c928,DeFi::Lending
+Curvance,DeFi,Lending,csMON/ cWMON Market Manager,0xe5970cdb1916b2ccf6185c86c174eee2d330d05b,DeFi::Lending
+Curvance,DeFi,Lending,cshMON,0x926c101cf0a3de8725eb24a93e980f9fe34d6230,DeFi::Lending
+Curvance,DeFi,Lending,cshMON / cWMON Market Manager,0xe1c24b2e93230fbe33d32ba38eca3218284143e2,DeFi::Lending
+Curvance,DeFi,Lending,sAUSD,0xfd493ce1a0ae986e09d17004b7e748817a47d73c,DeFi::Lending
 Folks Finance,DeFi,Lending,aUsdSpokeAddress,0xc30107a8e782e98fe890f0375afa4185aeea3356,DeFi::Lending;DeFi::Cross Chain
 Folks Finance,DeFi,Lending,bridgeRouterSpoke,0xf854ac65a40f1eabfd32e6d4c7d0e1c4b1753cc5,DeFi::Lending;DeFi::Cross Chain
 Folks Finance,DeFi,Lending,bridgeRouterSpokeReward,0x5f2f4771b7dc7e2f7e9c1308b154e1e8957ecab0,DeFi::Lending;DeFi::Cross Chain
