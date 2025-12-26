@@ -20,7 +20,9 @@
         "MarginAccount": "0x2A68ba1833cDf93fa9Da1EEbd7F46242aD8E90c5",
         "KuruForwarder": "0x974E61BBa9C4704E8Bcc1923fdC3527B41323FAA",
         // One step token deployment and market bootstrapping contract
-        "MonadDeployer": "0xe29309e308af3EE3B1a414E97c37A58509f27D1E"
+        "MonadDeployer": "0xe29309e308af3EE3B1a414E97c37A58509f27D1E",
+        "Vault": "0x4869a4c7657cef5e5496c9ce56dde4cd593e4923",
+        "Vault2": "0xD6Eae39b96FbdB7daA2227829Be34b4e1BC9069a"
     },
     "links": {
         "project": "https://kuru.io",

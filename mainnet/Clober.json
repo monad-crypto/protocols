@@ -7,7 +7,8 @@
         "BookManager": "0x6657d192273731C3cAc646cc82D5F28D0CBE8CCC",
         "Controller": "0x19b68a2b909D96c05B623050C276FBD457De8e83",
         "BookViewer": "0xe424c211e2Ed8a5B6d1C57FA493C41715568D238",
-        "Router": "0x7B58A24C5628881a141D630f101Db433D419B372"
+        "Router": "0x7B58A24C5628881a141D630f101Db433D419B372",
+        "Operator": "0xcbd3c0b81a9a36356a3669a7f60a0d2f0846195b"
     },
     "links": {
         "project": "https://clober.io",
