@@ -122,6 +122,7 @@ Capricorn,DeFi,DEX,SwapRouter,0xdac97b6a3951641b177283028a8f428332333071,DeFi::D
 Clober,DeFi,DEX,BookManager,0x6657d192273731c3cac646cc82d5f28d0cbe8ccc,DeFi::DEX
 Clober,DeFi,DEX,BookViewer,0xe424c211e2ed8a5b6d1c57fa493c41715568d238,DeFi::DEX
 Clober,DeFi,DEX,Controller,0x19b68a2b909d96c05b623050c276fbd457de8e83,DeFi::DEX
+Clober,DeFi,DEX,Operator,0xcbd3c0b81a9a36356a3669a7f60a0d2f0846195b,DeFi::DEX
 Clober,DeFi,DEX,Router,0x7b58a24c5628881a141d630f101db433d419b372,DeFi::DEX
 Curve Finance,DeFi,DEX,AddressProvider,0x4574921eb950d3fd5b01562162ec566cb8bc3648,DeFi::DEX;DeFi::Stableswap
 Curve Finance,DeFi,DEX,ChildGaugeFactory,0x41d2c5128a7241ec1f7ce346b162c347c19548b7,DeFi::DEX;DeFi::Stableswap
@@ -180,6 +181,8 @@ Kuru,DeFi,DEX,KuruForwarder,0x974e61bba9c4704e8bcc1923fdc3527b41323faa,DeFi::DEX
 Kuru,DeFi,DEX,MarginAccount,0x2a68ba1833cdf93fa9da1eebd7f46242ad8e90c5,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Launchpads;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces
 Kuru,DeFi,DEX,MonadDeployer,0xe29309e308af3ee3b1a414e97c37a58509f27d1e,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Launchpads;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces
 Kuru,DeFi,DEX,Router,0xd651346d7c789536ebf06dc72ae3c8502cd695cc,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Launchpads;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces
+Kuru,DeFi,DEX,Vault,0x4869a4c7657cef5e5496c9ce56dde4cd593e4923,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Launchpads;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces
+Kuru,DeFi,DEX,Vault2,0xd6eae39b96fbdb7daa2227829be34b4e1bc9069a,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Launchpads;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces
 KyberSwap,DeFi,DEX,DSLOProtocol,0xcab2fa2eeab7065b45cbcf6e3936dde2506b4f6c,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Trading Interfaces;DeFi::Cross Chain
 KyberSwap,DeFi,DEX,KSZapRouterPosition,0x89c91686948c3bc9a5bdf7a2a773ea71530a233e,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Trading Interfaces;DeFi::Cross Chain
 KyberSwap,DeFi,DEX,MetaAggregationRouterV2,0x6131b5fae19ea4f9d964eac0408e4408b66337b5,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Trading Interfaces;DeFi::Cross Chain
@@ -1097,12 +1100,14 @@ Redstone,Infra,Oracle,SOL_USD,0x0be6929fd4ad87347e97a525db6ac8e884fcdcec,Infra::
 Redstone,Infra,Oracle,USDC_USD,0x7a9b672fc20b5c89d6774514052b3e0899e5e263,Infra::Oracle
 Redstone,Infra,Oracle,USDT_USD,0x90196f6d52fce394c79d1614265d36d3f0033ccf,Infra::Oracle
 Redstone,Infra,Oracle,WBTC_USD,0x98ece0d516f891a35278e3186772fb1545b274eb,Infra::Oracle
+Redstone,Infra,Oracle,adapterContract,0x368ee51e47a594fe1e9908b48228748a30bc7ca4,Infra::Oracle
 Redstone,Infra,Oracle,aprMON_MON_FUNDAMENTAL,0x096073133355f874a7d0a857ffac314dda4e0551,Infra::Oracle
 Redstone,Infra,Oracle,cbBTC_USD,0x7a532b1b204409472cb92cd07c8b0bb09dd2f520,Infra::Oracle
 Redstone,Infra,Oracle,earnAUSD_AUSD_FUNDAMENTAL,0xd1136a8c1e5a8ff204d6875b51158b5ef1858f60,Infra::Oracle
 Redstone,Infra,Oracle,ezETH_ETH_FUNDAMENTAL,0x6e7407fcd5021e3fe5f75959575b20c85231562d,Infra::Oracle
 Redstone,Infra,Oracle,gMON_MON_FUNDAMENTAL,0x8c9f39f0d08ee284a4fe0198524fe7c28630ceab,Infra::Oracle
 Redstone,Infra,Oracle,muBOND_USD_FUNDAMENTAL,0x61669df14b681010a5cfaefc4688cf9e079dde5d,Infra::Oracle
+Redstone,Infra,Oracle,priceFeeds,0x98dc6e90d4c2f212ed9d124ad2afba4833268633,Infra::Oracle
 Redstone,Infra,Oracle,sMON_MON_FUNDAMENTAL,0xe77456457619ad1948336fbabc3883cb965b50d1,Infra::Oracle
 Redstone,Infra,Oracle,shMON_MON_FUNDAMENTAL,0xad1a270a3f7ff685b90445d9da3ee7eb22f8a1ec,Infra::Oracle
 Redstone,Infra,Oracle,stETH_USD,0xd3a0c347b07fd45f41270d557089b389fa735c3d,Infra::Oracle
@@ -1111,6 +1116,7 @@ Redstone,Infra,Oracle,weETH_ETH_FUNDAMENTAL,0xb3c5be567817f127412d1758048b376d4d
 Redstone,Infra,Oracle,wstETH_USD_FUNDAMENTAL,0xc0fc9416b5c3737e13507f4bad58cfc016779c84,Infra::Oracle
 Redstone,Infra,Oracle,yzUSD_USD_FUNDAMENTAL,0x5577797e21fbbb7458f500fa80770d80aae39bca,Infra::Oracle
 Stork,Infra,Oracle,default,0xacc0a0cf13571d30b4b8637996f5d6d774d4fd62,Infra::Oracle
+Supra Oracles,Infra,Oracle,SupraOraclePull,0x16f70cad28dd621b0072b5a8a8c392970e87c3dd,Infra::Oracle
 Supra Oracles,Infra,Oracle,SupraSValueFeedStorage,0x58e158c74df7ad6396c0dcbadc4878fac9e93d57,Infra::Oracle
 Switchboard,Infra,Oracle,Oracle,0x33a5066f65f66161beb3f827a3e40fce7d7a2e6c,Infra::Oracle
 Canonical Contracts,Infra,Other,Create2Deployer,0x13b0d85ccb8bf860b6b79af3029fca081ae9bef2,Infra::Other
