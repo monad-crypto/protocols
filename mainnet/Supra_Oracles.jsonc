@@ -6,7 +6,8 @@
     "addresses": {
         // DORA Push
         // feed list: https://docs.supra.com/oracles/data-feeds/data-feeds-index
-        "SupraSValueFeedStorage": "0x58e158c74DF7Ad6396C0dcbadc4878faC9e93d57"
+        "SupraSValueFeedStorage": "0x58e158c74DF7Ad6396C0dcbadc4878faC9e93d57",
+        "SupraOraclePull": "0x16f70cAD28dd621b0072B5A8a8c392970E87C3dD"
     },
     "info": {
         // DORA Push
