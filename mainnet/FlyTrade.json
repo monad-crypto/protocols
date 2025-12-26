@@ -1,0 +1,15 @@
+{
+    "name": "Fly Trade",
+    "description": "Fly Trade is a multichain liquidity aggregator live on 20+ chains, designed to optimize swaps for traders, protocols, and agents. It integrates DEXs, DeFi protocols, and bridges while providing one of most efficient aggregation infrastructure.",
+    "live": true,
+    "categories": ["DeFi::DEX Aggregator"],
+    "addresses": {
+        "MagpieRouterV3_1": "0x956df8424b556f0076e8abf5481605f5a791cc7f"
+    },
+    "links": {
+        "project": "https://www.fly.trade",
+        "twitter": "https://x.com/flytrade_",
+        "github": "https://github.com/magpieprotocol",
+        "docs": "https://docs.fly.trade"
+    }
+}
