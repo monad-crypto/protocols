@@ -12,20 +12,22 @@
     "DeFi::Cross Chain"
   ],
   "addresses": {
-    "AllowanceHolder": "0x0000000000001fF3684f28c67538d4D072C22734",
-    "0xSettlerDeployer": "0x00000000000004533Fe15556B1E086BB1A72cEae",
+    // these are included in Matcha.jsonc
+
+    // "AllowanceHolder": "0x0000000000001fF3684f28c67538d4D072C22734",
+    // "0xSettlerDeployer": "0x00000000000004533Fe15556B1E086BB1A72cEae",
 
     // Taker-submitted settlement contract
-    "MonadSettler": "0x478cF28Fd1Ba92a6afd04F44b05833F6dF7f1486",
+    // "MonadSettler": "0x478cF28Fd1Ba92a6afd04F44b05833F6dF7f1486",
 
     // Meta-transaction settlement contract
-    "MonadSettlerMetaTxn": "0xFB36B62145A4B272bc804e5E1b41ddbf4BFF4CF4",
+    // "MonadSettlerMetaTxn": "0xFB36B62145A4B272bc804e5E1b41ddbf4BFF4CF4",
 
     // Intent settlement contract
-    "MonadSettlerIntent": "0xb2376d1183829f444e0ffE9EF1FFaf1b483B84F3",
+    // "MonadSettlerIntent": "0xb2376d1183829f444e0ffE9EF1FFaf1b483B84F3",
 
     // Cross-chain settlement contract
-    "MonadBridgeSettler": "0xb40e9939bb598C38665A5C99c68020EEB8Cf49FB"
+    // "MonadBridgeSettler": "0xb40e9939bb598C38665A5C99c68020EEB8Cf49FB"
   },
   "links": {
     "project": "https://0x.org/",

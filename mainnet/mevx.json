@@ -9,7 +9,16 @@
         "MevxSwapRouterUV3": "0xd1f47ef81354663F3786b62B5B95C1015dA48CA4",
         "MevxSwapRouterPV2": "0xC67134cc40765fc28e2d54f58Cd93d382D9137d8",
         "MevxSwapRouterPV3": "0xa26326Af694D03A12250df01733B173c05153A76",
-        "MevxSwapRouterMT3": "0xf867f2bfd6C1926770E6451A72B2899231678A56"
+        "MevxSwapRouterMT3": "0xf867f2bfd6C1926770E6451A72B2899231678A56",
+        "MevxSwapRouterFL01": "0xb471bec8Cf0D70f5eb5a892c7BBa04ca80E6c291",
+        "MevxSwapRouterNF01": "0x4B087C54DA0A465e4b85f07EFAC5480Bb018d6D3",
+        "MevxSwapRouterCA01": "0x0B167e4e6fd71f373DeB34d1018a8dd335A52531",
+        "MevxSwapRouterPTR01": "0xac37C11aE6F984337dA3f7E6A5631b365bbD308f",
+        "MevxSwapRouterKR01": "0x29E35a617EBdBE5c532aABcf2C277D1aE20dFa5D",
+        "MevxSwapRouterSW01": "0x9b69C7BC2A3dEd73cea62cF5310b68e790BBc580",
+        "MevxSwapRouterST01": "0x001359f88b63AcF76468f6Ed0781B4b26a8B33ED",
+        "MevxSwapRouterDF01": "0x090a4a3D8A265AB5b842697DBa51173Eb20F3dc5",
+        "MevxSwapRouterDSW02": "0x39818B70d5525E28c9C19316e99E1E9b576DCCC1"
     },
     "links": {
         "project": "https://mevx.io/",

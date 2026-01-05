@@ -1,0 +1,21 @@
+{
+  "name": "Clanker",
+  "description": "Clanker is an AI that launches crypto tokens for you. Give it a name and symbol, and it handles deployment, market creation, and fee sharing automatically.",
+  "live": true,
+  "categories": [
+    "DeFi::Launchpads",
+    "AI::Other"
+  ],
+  "addresses": {
+    "Clanker": "0xA0C65813DD1Cde7092922a57548Ec1eD25994318",
+    "LpLockerV2": "0xcd89C55d36097a64f777066A6cc8F2c31B7541F7",
+    "ClankerVault": "0x9505A57Bf782058890f078bE301575cD75045a9b"
+  },
+  "links": {
+    "project": "https://clanker.world/",
+    "farcaster": "https://farcaster.xyz/clanker",
+    "twitter": "https://x.com/clanker_world",
+    "github": "https://github.com/clanker-devco",
+    "docs": "https://clanker.gitbook.io"
+  }
+}

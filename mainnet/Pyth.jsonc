@@ -4,7 +4,9 @@
     "live": true,
     "categories": ["Infra::Oracle"],
     "addresses": {
-        "PriceFeed": "0x2880aB155794e7179c9eE2e38200202908C17B43"
+        // see feed ids at https://docs.pyth.network/price-feeds/core/push-feeds/evm#monad-mainnet
+        "PriceFeed": "0x2880aB155794e7179c9eE2e38200202908C17B43",
+        "Entropy": "0xD458261E832415CFd3BAE5E416FdF3230ce6F134"
     },
     "links": {
         "project": "https://pyth.network",

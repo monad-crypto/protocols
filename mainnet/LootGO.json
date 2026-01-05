@@ -7,7 +7,12 @@
         "Consumer::Other"
     ],
     "addresses": {
-        "LootDrop": "0x3E1fC8371bf6dCEFfd829ae2134005a4AE890b71"
+        "LootDrop": "0x3E1fC8371bf6dCEFfd829ae2134005a4AE890b71",
+        "Compass": "0xA3522ea57c0Bc48e602E2fE9F3929309D9618D96",
+        "Looties Logs": "0xD2C7FD8e7Ab1527a2cb5A7177d1A29393F416A6d",
+        "Holiday Cheer": "0x342aBe620EE4B02AEff85dED68105E2F6A0F06ab",
+        "Countdown Celebration": "0x7415085DA3A7c3D9B41Bc339A91132d08f964c6c",
+        "New Years Resolutions": "0x37A8EC703D1D4CBccb90cF9141E9Ce6611d87bF2"
     },
     "links": {
         "project": "https://lootgo.app",

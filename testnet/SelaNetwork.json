@@ -1,0 +1,19 @@
+{
+  "name": "Sela Network",
+  "description": "Sela Network is a DePIN infrastructure that connects distributed nodes using daily devices, unlocking AI's potential through real-life data accessibility",
+  "categories": [
+    "AI::Data",
+    "AI::Infrastructure",
+    "DePIN::Data Collection",
+    "DePIN::Compute"
+  ],
+  "addresses": {
+    "SelaPower": "0xd43D1530EC32Dc33c95EEA1E5Fd913412eDe1561"
+  },
+  "links": {
+    "project": "https://www.selanetwork.io/",
+    "twitter": "https://x.com/selaNetwork",
+    "github": "https://github.com/sela-network",
+    "docs": "https://docs.selanetwork.io/"
+  }
+}

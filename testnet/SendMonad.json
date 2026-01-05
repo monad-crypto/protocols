@@ -1,0 +1,13 @@
+{
+    "name": "SendMonad.com",
+    "description": "SendMonad.com is the first Monad Disperse utility that allows sending native MON tokens and ERC20 tokens to multiple addresses in one transaction. The protocol has enabled 25,000+ users to receive MON or ERC20 tokens on Monad testnet.",
+    "categories": [
+        "DeFi::Other"
+    ],
+    "addresses": {
+        "Contract": "0xd1513D1d9fCA6e2495b62898194aE2303D1726A5"
+    },
+    "links": {
+        "project": "https://www.sendmonad.com"
+    }
+}

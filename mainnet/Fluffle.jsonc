@@ -1,0 +1,27 @@
+{
+    "name": "Fluffle",
+    "description": "Fluffle is the first hyper-gamified productivity platform that makes focus addictive. ",
+    "live": true,
+    "categories": [
+      "Consumer::Social",
+      "NFT::Other",
+      "Gaming::Mobile-First"
+    ],
+
+    "addresses": {
+      // Battle Pass Contract
+      "FluffleSolveil": "0x8255DACD8A45f4aBE6dc821E6f7F3c92a8E22fBB",
+  
+      // Contract for minting dragons or eggs.
+      "FluffleDragons": "0x2eD99dbE114249B7611478d67818B399865FFc89",
+  
+      // Contract for minting furniture.
+      "FluffleFurniture": "0x67f58f1faf78781b7eb90c457846e0f965bb1a2f"
+    },
+
+    "links": {
+      "project": "https://fluffle.world/",
+      "twitter": "https://x.com/fluffleworld",
+      "docs": ""
+    }
+  }

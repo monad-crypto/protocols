@@ -1,0 +1,19 @@
+{
+    "name": "TeleMafia",
+    "description": "TeleMafia is a Telegram-native social mafia RPG where Families compete, earn Respect, and grow shared on-chain Treasuries powered by Monad.",
+    "categories": [
+        "Gaming::Games"
+    ],
+    "addresses": {
+        "FamilyRegistry": "0xA5A6F68A3fcE8D345Be024d0E0Bf4240Bc620Be4",
+        "VaultFactory": "0x777AcAb541A663ABbad28de92Af6caeFD67c72CD",
+        "TeleMafiaCheckIn": "0xaE2DfCa11311e1652B9d3dC39527465435eA94ef",
+        "UpgradeableBeacon": "0x5d1814D6981247bc796CA3F48d5Cc382dd552552",
+        "VaultImplementation": "0xCbA51d62D0B240Bb8f60eee98351464beaa5Cc77"
+    },
+    "links": {
+        "project": "https://mafia.family/",
+        "twitter": "https://x.com/TeleMafia",
+        "docs": "https://docs.sonz.ai/ecosystem/telemafia"
+    }
+}

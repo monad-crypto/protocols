@@ -4,7 +4,6 @@
     "live": true,
     "categories": ["Infra::Interoperability"],
     "addresses": {
-        "Router": "0x33566fE5976AAa420F3d5C64996641Fc3858CaDB",
         "RegistryModuleOwnerCustom": "0x4AfC00570596d172595A4E38384289b880263006",
         "RMNProxy": "0x99dFCa5d88f4D9C023531F4403966b8d61562AcD",
         "RMN": "0xF181489663b5b99af5C5a57310F1d66eEEEC2160",
@@ -21,6 +20,10 @@
         // "EthToMonadOnRamp": "0xffBD6B0146C9E16A9f9E77DC8898cbfF6E2AA389", // Eth->Monad Onramp (on Eth)
         "EthToMonadCommitStore": "0xCE78587FEADDefC30e36520C09fc3a333dd6eEf4", // Eth->Monad Commit Store (on Monad); contract is named CommitStore
         "EthToMonadOffRamp": "0xBad8b04ED03A1CEaC89e8328f4eA7148B2E6D642" // Eth->Monad Offramp (on Monad); contract is named EVM2EVMOffRamp
+    },
+    "info": {   
+        "selector": 8481857512324358265,
+        "name": "monad-mainnet"
     },
     "links": {
         "project": "https://chain.link/",

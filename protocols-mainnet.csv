@@ -13,27 +13,116 @@ Symphony,AI,Agent Launchpad,SymphonySmartAccount,0x527849787bb79cbede5ebed438e68
 Banza,AI,Consumer AI,DropsToken Implementation,0x11fbe9e637c4a3deca3453f2925aaaa18e16963e,AI::Consumer AI
 Banza,AI,Consumer AI,DropsToken Proxy,0x68b571f834c9853d2a7e8e364d28db52de47d46d,AI::Consumer AI
 KINETK,AI,Consumer AI,KinetkIPCertificate,0xd057b63f5e69cf1b929b356b579cba08d7688048,AI::Consumer AI;AI::Data;DeFi::RWA;Infra::Other
+Kinic AI Memory Agent,AI,Consumer AI,KinicMemoryLog,0xeb5b78fa81cfea1a46d46b3a42814f5a68038548,AI::Consumer AI;DePIN::Storage
 Kodeus,AI,Consumer AI,KodeusAgents,0x3d3c1db86989ed5196358ee03e2f1258ea183dcb,AI::Consumer AI
 Kodeus,AI,Consumer AI,KodeusMetricsTrackerV6,0xa0371d51c086f846bd02c331dd31cc510645332e,AI::Consumer AI
+Sela Network,AI,Data,SelaPower,0x42ea86b7e84ea022aa902c6dc470758ba68a7506,AI::Data;AI::Infrastructure;DePIN::Data Collection;DePIN::Compute
+RareBetSports,Consumer,Betting,Oracle,0x3987049dc3d79a9a43805e771b084a3da8d90ed4,Consumer::Betting;Consumer::Prediction Market
+RareBetSports,Consumer,Betting,SlipRepository,0x07133ff8291876c693117212de67f3c0b3d3a3fc,Consumer::Betting;Consumer::Prediction Market
+Castora,Consumer,Prediction Market,Castora,0x9e1e6f277df3f2cd150ae1e08b05f45b3297be6d,Consumer::Prediction Market
+Castora,Consumer,Prediction Market,CastoraActivities,0x83d063acde4c3e799f0f0162d36d8b0605081b6e,Consumer::Prediction Market
+Castora,Consumer,Prediction Market,CastoraGetters,0xf08959e66614027ae76303f4c5359ebffd00bc30,Consumer::Prediction Market
+Castora,Consumer,Prediction Market,CastoraPoolsManager,0xf8f179ab96165b61833f2930309bce9c6ab281be,Consumer::Prediction Market
+Castora,Consumer,Prediction Market,CastoraPoolsRules,0xfaca692bfeafb4c6dcaf95a25e5cbcdb65d6ec41,Consumer::Prediction Market
+Monadice,Consumer,Prediction Market,BetCampaignBTC,0x5a2693d05fb99be88d7d9133fc806fa713a7c55b,Consumer::Prediction Market;AI::Infrastructure;AI::Consumer AI
+Monadice,Consumer,Prediction Market,BetMarketFactory,0xebfbe5f4edb6378ade8a815fc2daf147c5b8cb86,Consumer::Prediction Market;AI::Infrastructure;AI::Consumer AI
+Monadice,Consumer,Prediction Market,OracleVerifier,0xc87fb6de3c266e84b8730dd5abcd5dcd4ee6e34c,Consumer::Prediction Market;AI::Infrastructure;AI::Consumer AI
+Fluffle,Consumer,Social,FluffleDragons,0x2ed99dbe114249b7611478d67818b399865ffc89,Consumer::Social;NFT::Other;Gaming::Mobile-First
+Fluffle,Consumer,Social,FluffleFurniture,0x67f58f1faf78781b7eb90c457846e0f965bb1a2f,Consumer::Social;NFT::Other;Gaming::Mobile-First
+Fluffle,Consumer,Social,FluffleSolveil,0x8255dacd8a45f4abe6dc821e6f7f3c92a8e22fbb,Consumer::Social;NFT::Other;Gaming::Mobile-First
+Jenius,Consumer,Social,JenMon,0x0b60222ee89ab189cdfbdba4328ead42b6a34956,Consumer::Social;AI::Consumer AI;AI::Models
+Talentum,Consumer,Social,TalentumBuyBattlePass,0xe3885a21005434c53d945c3a717bcb23b49412e9,Consumer::Social;Consumer::Other;Gaming::Games;Gaming::Other;NFT::NFTFi
+Talentum,Consumer,Social,TalentumBuyProduct,0xe610baf2d321199be47ba943f2610bc82bab774b,Consumer::Social;Consumer::Other;Gaming::Games;Gaming::Other;NFT::NFTFi
+Talentum,Consumer,Social,TalentumDaily,0x4816287183534b5ced5ee93f098962d7db144845,Consumer::Social;Consumer::Other;Gaming::Games;Gaming::Other;NFT::NFTFi
+Talentum,Consumer,Social,TalentumMultiSend,0x5768af66fcff11328fde25398cc61bb201185697,Consumer::Social;Consumer::Other;Gaming::Games;Gaming::Other;NFT::NFTFi
+Talentum,Consumer,Social,TalentumNativeStaking,0xf42d150e621b7be050beb71c0f6e89a63bfaa95f,Consumer::Social;Consumer::Other;Gaming::Games;Gaming::Other;NFT::NFTFi
+Talentum,Consumer,Social,TalentumProof,0x28849cc5a79ce2f94958ff8f853140bce865dafa,Consumer::Social;Consumer::Other;Gaming::Games;Gaming::Other;NFT::NFTFi
+Talentum,Consumer,Social,TalentumWheelSpin,0x05f9dfef3e95228695bf449d96181b785144b456,Consumer::Social;Consumer::Other;Gaming::Games;Gaming::Other;NFT::NFTFi
+Talentum,Consumer,Social,TalentumWithdrawManager,0x429b401717130d24ed5c92805141442defb6ce1d,Consumer::Social;Consumer::Other;Gaming::Games;Gaming::Other;NFT::NFTFi
+Yap Market,Consumer,Social,Escrow,0x29957e3b3dabedbe830b0de53c2c9293d0db1bda,Consumer::Social
+StakeStone,DeFi,Asset Issuers,LayerZeroAdapter,0xec901da9c68e90798bbbb74c11406a32a70652c3,DeFi::Asset Issuers;DeFi::Liquid Staking;DeFi::Stablecoin;DeFi::Yield
+StakeStone,DeFi,Asset Issuers,STONEUSD,0x095957ceb9f317ac1328f0ab3123622401766d71,DeFi::Asset Issuers;DeFi::Liquid Staking;DeFi::Stablecoin;DeFi::Yield
 Covenant,DeFi,CDP,Covenant,0x11a7ab0a9d7bd531dbcf0f0630bf7167f8f198f6,DeFi::CDP;DeFi::DEX;DeFi::Yield
 Covenant,DeFi,CDP,CovenantCurator,0xab0f8ab1e67cc02a9d58fc27055292289b159094,DeFi::CDP;DeFi::DEX;DeFi::Yield
 Covenant,DeFi,CDP,DataProvider,0x5c1fb9a1232e87702897424ec0852d30b713bfd8,DeFi::CDP;DeFi::DEX;DeFi::Yield
 Covenant,DeFi,CDP,LatentSwapLEX - 50% targetLTV,0x6a5aa3df89ba1c1f8b471c72159458d61a9447c2,DeFi::CDP;DeFi::DEX;DeFi::Yield
 Covenant,DeFi,CDP,LatentSwapLEX - 80% targetLTV,0x9a369df53ec62725c93f41b891e701bd88aff2c8,DeFi::CDP;DeFi::DEX;DeFi::Yield
+Bungee.Exchange,DeFi,Cross Chain,BungeeGateway,0x1a2f1085a94de6fbcc334aae1ddf527c567b75e7,DeFi::Cross Chain;Infra::Interoperability
+Bungee.Exchange,DeFi,Cross Chain,BungeeInbox,0xab568b1b49f8be7488ca1c0d5dda6ff94691e4c8,DeFi::Cross Chain;Infra::Interoperability
+Bungee.Exchange,DeFi,Cross Chain,CCTPV2RouterSingleOutput,0x09b043840cd2f32687ec6b63fb0412585de39822,DeFi::Cross Chain;Infra::Interoperability
+Bungee.Exchange,DeFi,Cross Chain,CalldataExecutor,0xa873aab6a98cb764ad6d52820d129d0e3667d9f9,DeFi::Cross Chain;Infra::Interoperability
+Bungee.Exchange,DeFi,Cross Chain,Entrypoint,0x3bb92b8452bde5ac20c18e10e606fdc9ac19b414,DeFi::Cross Chain;Infra::Interoperability
+Bungee.Exchange,DeFi,Cross Chain,FeeCollector,0x82260eac86558c0835d08eeff360014aea7454b6,DeFi::Cross Chain;Infra::Interoperability
+Bungee.Exchange,DeFi,Cross Chain,GenericStakedRoute,0x5013c0b3defd8f832d1b6dec750382946de5c13b,DeFi::Cross Chain;Infra::Interoperability
+Bungee.Exchange,DeFi,Cross Chain,RFQRouterSingleOutput,0x7aea2188414c6d22ce15b2b0b2870bce69e5e5d5,DeFi::Cross Chain;Infra::Interoperability
+Bungee.Exchange,DeFi,Cross Chain,SingleOutputRequestImpl,0x27d966329a325f214b4854a4f0e62550bfebdca3,DeFi::Cross Chain;Infra::Interoperability
+Bungee.Exchange,DeFi,Cross Chain,StakedRouterExecutor,0x12efda5e4d410c5da723ceb7e43942779e3fe49b,DeFi::Cross Chain;Infra::Interoperability
+Bungee.Exchange,DeFi,Cross Chain,StakedRouterReceiver,0x26d8da52e56de71194950689ccf74cd309761324,DeFi::Cross Chain;Infra::Interoperability
+Bungee.Exchange,DeFi,Cross Chain,StakedRouterSingleOutput,0x94d0bef156041af3ef0b9fec4784468e660045dd,DeFi::Cross Chain;Infra::Interoperability
+Bungee.Exchange,DeFi,Cross Chain,SwapExecutor,0xd0389e84178f809903cbfe7d1efae3efa9c1769c,DeFi::Cross Chain;Infra::Interoperability
+Bungee.Exchange,DeFi,Cross Chain,SwapRequestCallback,0x88a8596e2b51512aab3867cc895d7047e1d9ef7b,DeFi::Cross Chain;Infra::Interoperability
+Bungee.Exchange,DeFi,Cross Chain,SwapRequestImpl,0x01d8a85adb82408e14bc242ed43fbad0ca2f94cb,DeFi::Cross Chain;Infra::Interoperability
+Bungee.Exchange,DeFi,Cross Chain,SwitchboardPlug,0xf20b3cb7508c519296556c1caa9db6f210e0232a,DeFi::Cross Chain;Infra::Interoperability
+Bungee.Exchange,DeFi,Cross Chain,SwitchboardRouter,0x3859ad748d03c358aabb66d084bc5849b624e611,DeFi::Cross Chain;Infra::Interoperability
+CCTP Exchange,DeFi,Cross Chain,RathCctpRouter,0x9ebe71d432cf73f7baca46e3a59080609375b844,DeFi::Cross Chain;Infra::Interoperability
+Cashmere,DeFi,Cross Chain,CashmereCCTP,0xd156ffb54871f4562744d6be5d6321b5bffca3b6,DeFi::Cross Chain
 Garden,DeFi,Cross Chain,htlc_native,0xe413743b51f3cc8b3ac24addf50d18fa138cb0bb,DeFi::Cross Chain
 Garden,DeFi,Cross Chain,htlc_usdc,0x5fa58e4e89c85b8d678ade970bd6afd4311af17e,DeFi::Cross Chain
-0x,DeFi,DEX,0xSettlerDeployer,0x00000000000004533fe15556b1e086bb1a72ceae,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Launchpads;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces;DeFi::Cross Chain
-0x,DeFi,DEX,AllowanceHolder,0x0000000000001ff3684f28c67538d4d072c22734,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Launchpads;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces;DeFi::Cross Chain
-0x,DeFi,DEX,MonadBridgeSettler,0xb40e9939bb598c38665a5c99c68020eeb8cf49fb,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Launchpads;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces;DeFi::Cross Chain
-0x,DeFi,DEX,MonadSettler,0x478cf28fd1ba92a6afd04f44b05833f6df7f1486,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Launchpads;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces;DeFi::Cross Chain
-0x,DeFi,DEX,MonadSettlerIntent,0xb2376d1183829f444e0ffe9ef1ffaf1b483b84f3,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Launchpads;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces;DeFi::Cross Chain
-0x,DeFi,DEX,MonadSettlerMetaTxn,0xfb36b62145a4b272bc804e5e1b41ddbf4bff4cf4,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Launchpads;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces;DeFi::Cross Chain
+Mayan,DeFi,Cross Chain,MayanFastMctp,0xc1062b7c5dc8e4b1df9f200fe360cdc0ed6e7741,DeFi::Cross Chain;DeFi::DEX;DeFi::Intents;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces
+Mayan,DeFi,Cross Chain,MayanFastMctpFeeManager,0x598400ba0d8ba9c3b57ad424a68183f1d17c7e56,DeFi::Cross Chain;DeFi::DEX;DeFi::Intents;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces
+Mayan,DeFi,Cross Chain,MayanForwarder,0x337685fdab40d39bd02028545a4ffa7d287cc3e2,DeFi::Cross Chain;DeFi::DEX;DeFi::Intents;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces
+AethonSwap,DeFi,DEX,AlgebraFactory,0x05aa1d36f78d1242c40b3680d38eb1fee7060c20,DeFi::DEX
+AethonSwap,DeFi,DEX,AlgebraInterfaceMulticall,0x90dd87c994959a36d725bb98f9008b0b3c3504a0,DeFi::DEX
+AethonSwap,DeFi,DEX,AlgebraPoolDeployer,0x6f85f158c2289579be8e79a31b78f7dcd4686857,DeFi::DEX
+AethonSwap,DeFi,DEX,AlgebraVaultFactoryStub,0xc67f01e87294a846acecb22d4f8d7aabea9ea794,DeFi::DEX
+AethonSwap,DeFi,DEX,CompounderRelay,0x245f061e602e690266012e8bfbf9b5131ee66d86,DeFi::DEX
+AethonSwap,DeFi,DEX,ConverterRelay,0x81554cc2ac39d03ef5f2e879c9b3748fff61385a,DeFi::DEX
+AethonSwap,DeFi,DEX,EntryPoint,0xe35569726922f66a71e1279824ba6082767e8569,DeFi::DEX
+AethonSwap,DeFi,DEX,IncentiveManagerFactory,0x77996bd2e8272cb694d320be78ce972307d85bf9,DeFi::DEX
+AethonSwap,DeFi,DEX,Lens,0xff9382865eac4c9e79f15586ae7ff68209419f2e,DeFi::DEX
+AethonSwap,DeFi,DEX,Minter,0x217fd038ff2ac580de8e635a5d726f6f0e5214e3,DeFi::DEX
+AethonSwap,DeFi,DEX,NFTArt,0x26c48519bbcf6df3e39d4c724ff82b6f060d3bbe,DeFi::DEX
+AethonSwap,DeFi,DEX,NonfungiblePositionManager,0xdd68207a952718b91d5df31819d0676c269f1fb5,DeFi::DEX
+AethonSwap,DeFi,DEX,NonfungibleTokenPositionDescriptor,0xbf511a2d4f7d895f4cb8dec448ce25a7be211eaf,DeFi::DEX
+AethonSwap,DeFi,DEX,Quoter,0xf31443f5d3fe6b2d026b9079f2fcef2647a9fecc,DeFi::DEX
+AethonSwap,DeFi,DEX,QuoterV2,0x8510e4c073fb7fe75b8e767a1856f85586e24679,DeFi::DEX
+AethonSwap,DeFi,DEX,RewarderRegistry,0x41534b64b8a10b4e5c03bbb792f75f6dfcf462bf,DeFi::DEX
+AethonSwap,DeFi,DEX,SwapRouter,0x50aa60edb77f0446b8e760b5dc3015ad53d04d80,DeFi::DEX
+AethonSwap,DeFi,DEX,TickLens,0xd1814cc0faee1ec941112f8739c47ddd0a908860,DeFi::DEX
+AethonSwap,DeFi,DEX,VeNFTGovernance,0x79b952a25c03b109ce6a6118f1a68a0e0113e8f3,DeFi::DEX
+AethonSwap,DeFi,DEX,Voting,0xcea03e70f95e1998d90549aba02e5f89d1db2c90,DeFi::DEX
+AethonSwap,DeFi,DEX,veNFT,0x545069ebd6cfa0b3028cec5a23c37839b9eeebaa,DeFi::DEX
+Atlantis,DeFi,DEX,AlgebraCommunityVault,0x4439199c3743161ca22bb8f8b6dec5bf6ff65b04,DeFi::DEX
+Atlantis,DeFi,DEX,AlgebraDefaultPluginFactory,0x38a5c36fa8c8c9e4649b51fcd61810b14e7ce047,DeFi::DEX
+Atlantis,DeFi,DEX,AlgebraEternalFarming,0x50fcbf85d23af7c91f94842fecd83d16665d27ba,DeFi::DEX
+Atlantis,DeFi,DEX,AlgebraFactory,0x10253594a832f967994b44f33411940533302acb,DeFi::DEX
+Atlantis,DeFi,DEX,AlgebraInterfaceMulticall,0xb4f9b6b019e75cbe51af4425b2fc12797e2ee2a1,DeFi::DEX
+Atlantis,DeFi,DEX,AlgebraPoolDeployer,0xd7cb0e0692f2d55a17ba81c1fe5501d66774fc4a,DeFi::DEX
+Atlantis,DeFi,DEX,AlgebraVaultFactoryStub,0x955b95b8532fe75ddcf2161f61127be74a768158,DeFi::DEX
+Atlantis,DeFi,DEX,EntryPoint,0x4a3bc48c156384f9564fd65a53a2f3d534d8f2b7,DeFi::DEX
+Atlantis,DeFi,DEX,FarmingCenter,0x658e287e9c820484f5808f687dc4863b552de37d,DeFi::DEX
+Atlantis,DeFi,DEX,LimitOrderManager,0x503d191cafab1d097b5f798d850e5897195c1d74,DeFi::DEX
+Atlantis,DeFi,DEX,NonfungiblePositionManager,0x69d57b9d705ead73a5d2f2476c30c55bd755cc2f,DeFi::DEX
+Atlantis,DeFi,DEX,NonfungibleTokenPositionDescriptor,0xd637cbc214bc3dd354abb309f4fe717ffdd0b28c,DeFi::DEX
+Atlantis,DeFi,DEX,PluginFactory,0xfe3becd788320465ab649015f34f7771220a88b2,DeFi::DEX
+Atlantis,DeFi,DEX,Proxy,0x6ad6a4f233f1e33613e996ccc17409b93ff8bf5f,DeFi::DEX
+Atlantis,DeFi,DEX,Quoter,0x03f8b4b140249dc7b2503c928e7258cce1d91f1a,DeFi::DEX
+Atlantis,DeFi,DEX,QuoterV2,0xa77ad9f635a3fb3bccc5e6d1a87cb269746aba17,DeFi::DEX
+Atlantis,DeFi,DEX,SecurityRegistry,0x83d4a9ea77a4dba073cd90b30410ac9f95f93e7c,DeFi::DEX
+Atlantis,DeFi,DEX,SwapRouter,0x3012e9049d05b4b5369d690114d5a5861ebb85cb,DeFi::DEX
+Atlantis,DeFi,DEX,TickLens,0x13fce0acbe6fb11641ab753212550574cad31415,DeFi::DEX
 Bean Exchange,DeFi,DEX,DLMM_Factory,0x8bb9727ca742c146563dccbafb9308a234e1d242,DeFi::DEX;DeFi::Perpetuals / Derivatives
 Bean Exchange,DeFi,DEX,DLMM_Quoter,0xa398af902950081f2fbe3e16e5e474c2c72ae27a,DeFi::DEX;DeFi::Perpetuals / Derivatives
 Bean Exchange,DeFi,DEX,DLMM_Router,0x721ac9e688e6b86f48b08db2ba2d4b7bbbd12665,DeFi::DEX;DeFi::Perpetuals / Derivatives
+Capricorn,DeFi,DEX,CapricornCLFactory,0x6b5f564339dbad6b780249827f2198a841feb7f3,DeFi::DEX
+Capricorn,DeFi,DEX,NonfungibleTokenPositionDescriptor,0xed2850d3704a1a5bcb6158f27deda3d6ff4c31d9,DeFi::DEX
+Capricorn,DeFi,DEX,NonfungibleTokenPositionManager,0x4c02af995bb1f574c9bf31f43ddc112414ae0ac7,DeFi::DEX
+Capricorn,DeFi,DEX,QuoterV2,0xb430edd2b54cdb3b25703fb3342ca3a88663a04d,DeFi::DEX
+Capricorn,DeFi,DEX,SwapRouter,0xdac97b6a3951641b177283028a8f428332333071,DeFi::DEX
 Clober,DeFi,DEX,BookManager,0x6657d192273731c3cac646cc82d5f28d0cbe8ccc,DeFi::DEX
 Clober,DeFi,DEX,BookViewer,0xe424c211e2ed8a5b6d1c57fa493c41715568d238,DeFi::DEX
 Clober,DeFi,DEX,Controller,0x19b68a2b909d96c05b623050c276fbd457de8e83,DeFi::DEX
+Clober,DeFi,DEX,Operator,0xcbd3c0b81a9a36356a3669a7f60a0d2f0846195b,DeFi::DEX
 Clober,DeFi,DEX,Router,0x7b58a24c5628881a141d630f101db433d419b372,DeFi::DEX
 Curve Finance,DeFi,DEX,AddressProvider,0x4574921eb950d3fd5b01562162ec566cb8bc3648,DeFi::DEX;DeFi::Stableswap
 Curve Finance,DeFi,DEX,ChildGaugeFactory,0x41d2c5128a7241ec1f7ce346b162c347c19548b7,DeFi::DEX;DeFi::Stableswap
@@ -60,14 +149,44 @@ Curve Finance,DeFi,DEX,TwocryptoFactory,0xe7fbd704b938cb8fe26313c3464d4b7b7348c8
 Curve Finance,DeFi,DEX,TwocryptoHandler,0x7e595b3b77cc16680c30617b88e9b87f987ac934,DeFi::DEX;DeFi::Stableswap
 Curve Finance,DeFi,DEX,TwocryptoMath,0x95249dd40dda3c0cbb4a7dd7d287e04aa68a3d4b,DeFi::DEX;DeFi::Stableswap
 Curve Finance,DeFi,DEX,TwocryptoViews,0x17c67c3a38f68cbc4dec77fd7378978971b6c271,DeFi::DEX;DeFi::Stableswap
+Dexalot,DeFi,DEX,BannedAccounts,0xa5c079c1986e2335d83fa2d7282e162958e515d5,DeFi::DEX;DeFi::Cross Chain;DeFi::Trading Interfaces
+Dexalot,DeFi,DEX,Create3Factory,0x06b82468100a3a7b0eac77289f0d1ab920573b16,DeFi::DEX;DeFi::Cross Chain;DeFi::Trading Interfaces
+Dexalot,DeFi,DEX,DexalotRouter,0x3d3e4f0523500f95039d0fe600acf2ade4b06eb9,DeFi::DEX;DeFi::Cross Chain;DeFi::Trading Interfaces
+Dexalot,DeFi,DEX,Exchange,0xc725229aefeab5faec9cc1667d79d9478e564a0c,DeFi::DEX;DeFi::Cross Chain;DeFi::Trading Interfaces
+Dexalot,DeFi,DEX,LzV2App,0x170c15cb9887e6adb097518104b174df212bb190,DeFi::DEX;DeFi::Cross Chain;DeFi::Trading Interfaces
+Dexalot,DeFi,DEX,MainnetRFQ,0xa0421a4db5bb7577f9bb9b577b5f600a642368be,DeFi::DEX;DeFi::Cross Chain;DeFi::Trading Interfaces
+Dexalot,DeFi,DEX,Portfolio,0x1fd108cf42a59c635bd4703b8dbc8a741ff834be,DeFi::DEX;DeFi::Cross Chain;DeFi::Trading Interfaces
+Dexalot,DeFi,DEX,PortfolioBridge,0x246c87368580acd6e9ca46bf112ad91978389634,DeFi::DEX;DeFi::Cross Chain;DeFi::Trading Interfaces
+Dexalot,DeFi,DEX,ProxyAdmin,0x15764530c716cefad9cbd2310d722704d03de875,DeFi::DEX;DeFi::Cross Chain;DeFi::Trading Interfaces
 Dirol,DeFi,DEX,CoreAggregator,0x77e73c3fcd3fedba383025cde4a5b97733a34c2e,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Launchpads;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces
 Dirol,DeFi,DEX,LimitOrderModule,0xa82098c33c75a4a1e20e06f352732910c75c690d,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Launchpads;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces
+Fibrous,DeFi,DEX,FibrousSettler,0x274602a953847d807231d2370072f5f4e4594b44,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Trading Interfaces
+Kansei,DeFi,DEX,BDeployer,0x0493b0f962346aadcab77abc6d24a9c69a74962b,DeFi::DEX;DeFi::Liquid Staking;DeFi::Leveraged Farming;DeFi::Lending;DeFi::Stableswap;DeFi::Yield
+Kansei,DeFi,DEX,CDeployer,0x58ba4db931da0509b7f0b7477925de3e9a20ce1a,DeFi::DEX;DeFi::Liquid Staking;DeFi::Leveraged Farming;DeFi::Lending;DeFi::Stableswap;DeFi::Yield
+Kansei,DeFi,DEX,KanseiFarm,0xcb79e3edb6bf3d7e66e3f685cd9f2373f462f4f3,DeFi::DEX;DeFi::Liquid Staking;DeFi::Leveraged Farming;DeFi::Lending;DeFi::Stableswap;DeFi::Yield
+Kansei,DeFi,DEX,KanseiLendFactory,0x2632662f3750ee27b025d44adff0b86839d0bec1,DeFi::DEX;DeFi::Liquid Staking;DeFi::Leveraged Farming;DeFi::Lending;DeFi::Stableswap;DeFi::Yield
+Kansei,DeFi,DEX,KanseiLendRouter,0x4834a84c17c2a449054e0ad1e0fc63cd5512bfd2,DeFi::DEX;DeFi::Liquid Staking;DeFi::Leveraged Farming;DeFi::Lending;DeFi::Stableswap;DeFi::Yield
+Kansei,DeFi,DEX,KanseiLendVaultTokenFactory,0xfd792edce7926484c560466a6a4c7952602670ea,DeFi::DEX;DeFi::Liquid Staking;DeFi::Leveraged Farming;DeFi::Lending;DeFi::Stableswap;DeFi::Yield
+Kansei,DeFi,DEX,KanseiPoints,0xe665de7aad6b20cafa4bee85b6b27a4000b106e4,DeFi::DEX;DeFi::Liquid Staking;DeFi::Leveraged Farming;DeFi::Lending;DeFi::Stableswap;DeFi::Yield
+Kansei,DeFi,DEX,KanseiToken,0xda3a330073c10eb00afc322f77bc24ed289d083f,DeFi::DEX;DeFi::Liquid Staking;DeFi::Leveraged Farming;DeFi::Lending;DeFi::Stableswap;DeFi::Yield
+Kansei,DeFi,DEX,KanseiVault,0xad2074ebbd819f47ac936cdadc5f3fc8a6609f00,DeFi::DEX;DeFi::Liquid Staking;DeFi::Leveraged Farming;DeFi::Lending;DeFi::Stableswap;DeFi::Yield
+Kansei,DeFi,DEX,PriceOracle,0xeba09adcb1d0052745ceadf0e9c3a87e2ab11b2f,DeFi::DEX;DeFi::Liquid Staking;DeFi::Leveraged Farming;DeFi::Lending;DeFi::Stableswap;DeFi::Yield
+Kansei,DeFi,DEX,V2Factory,0x6b672532b4347b56236ceed8a2410aec4395fdb2,DeFi::DEX;DeFi::Liquid Staking;DeFi::Leveraged Farming;DeFi::Lending;DeFi::Stableswap;DeFi::Yield
+Kansei,DeFi,DEX,V2Router,0x33d4220003a120b07f0a764a6c9a70e6d328c461,DeFi::DEX;DeFi::Liquid Staking;DeFi::Leveraged Farming;DeFi::Lending;DeFi::Stableswap;DeFi::Yield
+Kansei,DeFi,DEX,stMON,0x8f8420cfed0b9f84f3b4c593494d288f8a4a84c4,DeFi::DEX;DeFi::Liquid Staking;DeFi::Leveraged Farming;DeFi::Lending;DeFi::Stableswap;DeFi::Yield
+Kansei,DeFi,DEX,wstMON,0x41d5ef83d666bed43d78bc467c844512f27f5d03,DeFi::DEX;DeFi::Liquid Staking;DeFi::Leveraged Farming;DeFi::Lending;DeFi::Stableswap;DeFi::Yield
 Kuru,DeFi,DEX,KuruFlowEntryPoint,0xb3e6778480b2e488385e8205ea05e20060b813cb,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Launchpads;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces
 Kuru,DeFi,DEX,KuruFlowRouter,0x465d06d4521ae9ce724e0c182daad5d8a2ff7040,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Launchpads;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces
 Kuru,DeFi,DEX,KuruForwarder,0x974e61bba9c4704e8bcc1923fdc3527b41323faa,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Launchpads;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces
 Kuru,DeFi,DEX,MarginAccount,0x2a68ba1833cdf93fa9da1eebd7f46242ad8e90c5,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Launchpads;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces
 Kuru,DeFi,DEX,MonadDeployer,0xe29309e308af3ee3b1a414e97c37a58509f27d1e,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Launchpads;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces
 Kuru,DeFi,DEX,Router,0xd651346d7c789536ebf06dc72ae3c8502cd695cc,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Launchpads;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces
+Kuru,DeFi,DEX,Vault,0x4869a4c7657cef5e5496c9ce56dde4cd593e4923,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Launchpads;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces
+Kuru,DeFi,DEX,Vault2,0xd6eae39b96fbdb7daa2227829be34b4e1bc9069a,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Launchpads;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces
+KyberSwap,DeFi,DEX,DSLOProtocol,0xcab2fa2eeab7065b45cbcf6e3936dde2506b4f6c,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Trading Interfaces;DeFi::Cross Chain
+KyberSwap,DeFi,DEX,KSZapRouterPosition,0x89c91686948c3bc9a5bdf7a2a773ea71530a233e,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Trading Interfaces;DeFi::Cross Chain
+KyberSwap,DeFi,DEX,MetaAggregationRouterV2,0x6131b5fae19ea4f9d964eac0408e4408b66337b5,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Trading Interfaces;DeFi::Cross Chain
+KyberSwap,DeFi,DEX,UniswapV4KEMHook,0x4445520306c9c70952bdfec28f3989f53d9f80c4,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Trading Interfaces;DeFi::Cross Chain
 LFJ,DeFi,DEX,DexLens,0x7ac3dd4b5a3f7013116d8a28f0579a678282ea5c,DeFi::DEX;DeFi::Memecoin
 LFJ,DeFi,DEX,Joe,0x371c7ec6d8039ff7933a2aa28eb827ffe1f52f07,DeFi::DEX;DeFi::Memecoin
 LFJ,DeFi,DEX,JoeAggregatorRouter,0x45a62b090df48243f12a21897e7ed91863e2c86b,DeFi::DEX;DeFi::Memecoin
@@ -90,15 +209,14 @@ Matcha,DeFi,DEX,MonadBridgeSettler,0xb40e9939bb598c38665a5c99c68020eeb8cf49fb,De
 Matcha,DeFi,DEX,MonadSettler,0x478cf28fd1ba92a6afd04f44b05833f6df7f1486,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Stableswap;DeFi::Trading Interfaces;DeFi::Cross Chain
 Matcha,DeFi,DEX,MonadSettlerIntent,0xb2376d1183829f444e0ffe9ef1ffaf1b483b84f3,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Stableswap;DeFi::Trading Interfaces;DeFi::Cross Chain
 Matcha,DeFi,DEX,MonadSettlerMetaTxn,0xfb36b62145a4b272bc804e5e1b41ddbf4bff4cf4,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Stableswap;DeFi::Trading Interfaces;DeFi::Cross Chain
-Matcha Meta,DeFi,DEX,0xSettlerDeployer,0x00000000000004533fe15556b1e086bb1a72ceae,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Stableswap;DeFi::Trading Interfaces;DeFi::Cross Chain
-Matcha Meta,DeFi,DEX,AllowanceHolder,0x0000000000001ff3684f28c67538d4d072c22734,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Stableswap;DeFi::Trading Interfaces;DeFi::Cross Chain
-Matcha Meta,DeFi,DEX,MonadBridgeSettler,0xb40e9939bb598c38665a5c99c68020eeb8cf49fb,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Stableswap;DeFi::Trading Interfaces;DeFi::Cross Chain
-Matcha Meta,DeFi,DEX,MonadSettler,0x478cf28fd1ba92a6afd04f44b05833f6df7f1486,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Stableswap;DeFi::Trading Interfaces;DeFi::Cross Chain
 Monday Trade,DeFi,DEX,Aggregator,0xad8974d98f7fc386e396ffe826b886cf20afe232,DeFi::DEX;DeFi::Perpetuals / Derivatives
 Monday Trade,DeFi,DEX,MondayFactory,0xc1e98d0a2a58fb8abd10ccc30a58efff4080aa21,DeFi::DEX;DeFi::Perpetuals / Derivatives
 Monday Trade,DeFi,DEX,NFTPositionManager,0x68b507bf58ed32173f41ff20aa2494a569daec44,DeFi::DEX;DeFi::Perpetuals / Derivatives
 Monday Trade,DeFi,DEX,QuoterV2,0xb97ecd41aef0f842e773c8f9905919cde49880c9,DeFi::DEX;DeFi::Perpetuals / Derivatives
 Monday Trade,DeFi,DEX,SwapRouter,0xfe951b693a2fe54be5148614b109e316b567632f,DeFi::DEX;DeFi::Perpetuals / Derivatives
+Nabla Finance,DeFi,DEX,BackstopPool,0x11b06ef8adc5ea73841023cb39be614f471213cc,DeFi::DEX;DeFi::Yield
+Nabla Finance,DeFi,DEX,Portal,0xb361f3e5bb3614be2b1c247683cb5636840ffb70,DeFi::DEX;DeFi::Yield
+Nabla Finance,DeFi,DEX,Router,0x610748f49774c062467c7ae1ec9e4729ffe94577,DeFi::DEX;DeFi::Yield
 OctoSwap,DeFi,DEX,NonfungiblePositionManager,0x16eb676bbbe51eb6e4e9ddf57bfbee0537aa4d7b,DeFi::DEX
 OctoSwap,DeFi,DEX,NonfungibleTokenPositionDescriptor,0x2ff18d8ca8447db19392aa3e27dcb640cee83882,DeFi::DEX
 OctoSwap,DeFi,DEX,OctoSwapV2Factory,0x30db57a29acf3641dfc3885af2e5f1f5a408d9cb,DeFi::DEX
@@ -107,41 +225,43 @@ OctoSwap,DeFi,DEX,OctoswapV1Router,0x60fd5aa15debd5ffdefb5129fd9fd8a34d80d608,De
 OctoSwap,DeFi,DEX,OctoswapV2Router,0xbfd2cf709a17c4eee8daaf3b96e134408881259e,DeFi::DEX
 OctoSwap,DeFi,DEX,QuoterV2,0xf27ba2b4ee5580cb2a14fdf98cb981ff0ae149f4,DeFi::DEX
 OctoSwap,DeFi,DEX,UniversalRouter,0x241bf19641839b249e8174bd22facd3d3ac0642a,DeFi::DEX
+OpenOcean,DeFi,DEX,OpenOceanExchangeProxy,0x6352a56caadc4f1e25cd6c75970fa768a3304e64,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Trading Interfaces;DeFi::Cross Chain
 OrbiterFinance,DeFi,DEX,AggregatorRouter,0x70f6060fc8b01b56869feba8361df468f98c2900,DeFi::DEX;Infra::Interoperability
-PancakeSwap,DeFi,DEX,MixedRouteQuoterV1,0x678aa4bf4e210cf2166753e054d5b7c31cc7fa86,DeFi::DEX
+PancakeSwap,DeFi,DEX,MixedRouteQuoterV1,0x77b482d9a4e391d682c857c630b8d869fdee5c44,DeFi::DEX
 PancakeSwap,DeFi,DEX,NfpTokenDescriptor,0xb099b459887bc759dbf0293e12d3dfcd0c456cff,DeFi::DEX
 PancakeSwap,DeFi,DEX,NonfungiblePositionManager,0x46a15b0b27311cedf172ab29e4f4766fbe7f4364,DeFi::DEX
 PancakeSwap,DeFi,DEX,PancakeInterfaceMulticall,0xac1ce734566f390a94b00eb9bf561c2625bf44ea,DeFi::DEX
 PancakeSwap,DeFi,DEX,PancakeInterfaceMulticallV2,0x3095ec7d29b588283bab3184fae4decd54d5d811,DeFi::DEX
 PancakeSwap,DeFi,DEX,PancakeV2Factory,0x02a84c1b3bbd7401a5f7fa98a384ebc70bb5749e,DeFi::DEX
-PancakeSwap,DeFi,DEX,PancakeV2Router,0x8cfe327cec66d1c090dd72bd0ff11d690c33a2eb,DeFi::DEX
+PancakeSwap,DeFi,DEX,PancakeV2Router,0xb1bc24c34e88f7d43d5923034e3a14b24daacff9,DeFi::DEX
 PancakeSwap,DeFi,DEX,PancakeV3Factory,0x0bfbcf9fa4f9c56b0f40a671ad40e0805a091865,DeFi::DEX
 PancakeSwap,DeFi,DEX,PancakeV3PoolDeployer,0x41ff9aa7e16b8b1a8a8dc4f0efacd93d02d071c9,DeFi::DEX
 PancakeSwap,DeFi,DEX,QuoterV2_periphery,0xb048bbc1ee6b733fffcfb9e9cef7375518e25997,DeFi::DEX
 PancakeSwap,DeFi,DEX,QuoterV2_smartRouter,0x4c650fb471fe4e0f476fd3437c3411b1122c4e3b,DeFi::DEX
-PancakeSwap,DeFi,DEX,SmartRouter,0x13f4ea83d0bd40e75c8222255bc855a974568dd4,DeFi::DEX
+PancakeSwap,DeFi,DEX,Router,0x23682a588cf2601aca977df200938634c9f7d552,DeFi::DEX
+PancakeSwap,DeFi,DEX,SmartRouter,0x21114915ac6d5a2e156931e20b20b038ded0be7c,DeFi::DEX
 PancakeSwap,DeFi,DEX,SwapRouter,0x1b81d678ffb9c0263b24a97847620c99d213eb14,DeFi::DEX
 PancakeSwap,DeFi,DEX,TickLens,0x9a489505a00ce272eaa5e07dba6491314cae3796,DeFi::DEX
-PancakeSwap,DeFi,DEX,TokenValidator,0x864ed564875bddd6f421e226494a0e7c071c06f8,DeFi::DEX
+PancakeSwap,DeFi,DEX,TokenValidator,0xfcb76dfdf9c79ae5d334c0e1901449c8a893df22,DeFi::DEX
 PancakeSwap,DeFi,DEX,V3Migrator,0xbc203d7f83677c7ed3f7acec959963e7f4ecc5c2,DeFi::DEX
-PinotFinance,DeFi,DEX,AssetHelper,0xe0c6bb0e88fdb069ae3a712bbf1dc07759d576bf,DeFi::DEX
-PinotFinance,DeFi,DEX,Ballot,0x7ebd75a81c66552103ef6db3f1e62fb5ef341290,DeFi::DEX
-PinotFinance,DeFi,DEX,Emission,0x83200b60b8e37df8945f1ae33c54b357c9b82a2f,DeFi::DEX
-PinotFinance,DeFi,DEX,GovernanceToken,0x76e82126a82eceea8ca510ca4942a3b1a9023147,DeFi::DEX
-PinotFinance,DeFi,DEX,NonfungiblePositionManager,0xedfa5ecfd924a523d114873c38fe5187759754a6,DeFi::DEX
-PinotFinance,DeFi,DEX,PersonalAssetManagerFactory,0xc8348a19b7507b05858b50afc25eb20d1da9a065,DeFi::DEX
-PinotFinance,DeFi,DEX,Quoter,0xbfde050470c8f92bd046afbfc8ad6454f87099a7,DeFi::DEX
-PinotFinance,DeFi,DEX,QuoterV2,0x74e6165544851e2c1235a9f45f59b8291048f2f3,DeFi::DEX
-PinotFinance,DeFi,DEX,SegmentedElectorFactory(V3),0x1be678804ca2158ebd72a57c2dfef45b27e7fa77,DeFi::DEX
-PinotFinance,DeFi,DEX,SegmentedElectorFactory(v2),0x7e4d672436ba64299bbad971f2752897bbfb4103,DeFi::DEX
-PinotFinance,DeFi,DEX,SwapRouter,0xfd3f832a97444795978334c380f01abc546630fc,DeFi::DEX
-PinotFinance,DeFi,DEX,TickLens,0xde29c0aa8c86b78e0bcda01402e79a6ce56439ea,DeFi::DEX
-PinotFinance,DeFi,DEX,UniswapInterfaceMulticall,0xfb23eed4b15567dbed0b7da7934504ee7ea2a427,DeFi::DEX
-PinotFinance,DeFi,DEX,UniswapV2Factory,0x6b7dd9d985bb9cc42d01e6d9d1e6ea3c082e61c4,DeFi::DEX
-PinotFinance,DeFi,DEX,UniswapV2GaugeFactory,0x769b660da133f9fbc0fefb829daabc8314abed17,DeFi::DEX
-PinotFinance,DeFi,DEX,UniswapV2Router,0x276e41572bb7a063ec728d659467d42bc91f9f6c,DeFi::DEX
-PinotFinance,DeFi,DEX,UniswapV3Factory,0xfd9c7369347e3b0a80e65223384831b2926ff4d0,DeFi::DEX
-PinotFinance,DeFi,DEX,UniversalRouter,0x8968a4f1fe7094834afd4156f716da1e342648a5,DeFi::DEX
+PinotFinance,DeFi,DEX,AssetHelper,0x14b8190e024f10a4f0ac0d118af3f5807fa3fe12,DeFi::DEX
+PinotFinance,DeFi,DEX,Ballot,0x3cbe70c025f045acacfbec5119d70b6ebd076b9a,DeFi::DEX
+PinotFinance,DeFi,DEX,Emission,0x0d96571886fe0cbcafef3109e8b569c7498ed3fc,DeFi::DEX
+PinotFinance,DeFi,DEX,GovernanceToken,0x89975e0fa4e663bb3d52ce699bdc792ad24c7273,DeFi::DEX
+PinotFinance,DeFi,DEX,NonfungiblePositionManager,0xb8058cdbc6cdc4b0aa0aa00a7ecf7caaf1441392,DeFi::DEX
+PinotFinance,DeFi,DEX,PersonalAssetManagerFactory,0xa217276c368c9f548f9838863904be3f9f0d9844,DeFi::DEX
+PinotFinance,DeFi,DEX,Quoter,0x22e3d8acb2b32f138018732b6f034e05a46e42f8,DeFi::DEX
+PinotFinance,DeFi,DEX,QuoterV2,0xfb72484a019f2458b8b609d9230f320f5371a3e3,DeFi::DEX
+PinotFinance,DeFi,DEX,SegmentedElectorFactory(V3),0xcae374853e8d37c2c8fc6fea770629054c391756,DeFi::DEX
+PinotFinance,DeFi,DEX,SegmentedElectorFactory(v2),0xd7f63bbb5f866258eb9b9112b6a940d35dbaeb4f,DeFi::DEX
+PinotFinance,DeFi,DEX,SwapRouter,0x252b9c1a6c9867a514ea70fe9bbb23621acc1a50,DeFi::DEX
+PinotFinance,DeFi,DEX,TickLens,0xbc3e14cdbfdd8bb58d1b9a7aa20c316e6b32643d,DeFi::DEX
+PinotFinance,DeFi,DEX,UniswapInterfaceMulticall,0xa8f00b0df5d4ada95fc89e8c389819594ef45720,DeFi::DEX
+PinotFinance,DeFi,DEX,UniswapV2Factory,0x82a70cabe732542996a57455affec578b4061322,DeFi::DEX
+PinotFinance,DeFi,DEX,UniswapV2GaugeFactory,0x0a99443b8d303d443bd86186c68c78f3a55c5487,DeFi::DEX
+PinotFinance,DeFi,DEX,UniswapV2Router,0x452146eb925f089a5999976674f40692ad44549c,DeFi::DEX
+PinotFinance,DeFi,DEX,UniswapV3Factory,0x7716f310d62aee3d009fd94067c627fe7e2f2aa9,DeFi::DEX
+PinotFinance,DeFi,DEX,UniversalRouter,0x7f00f30d518737a6de6e2a4c9da39d356ca3a737,DeFi::DEX
 Purps,DeFi,DEX,PurpsRouter04,0x17b4b5f99ec25aaaa644107f86a7756212d4d026,DeFi::DEX;DeFi::Perpetuals / Derivatives;DeFi::Launchpads
 Purps,DeFi,DEX,PurpsV2Factory,0xafe4d3eb898591ace6285176b26f0f5beb894447,DeFi::DEX;DeFi::Perpetuals / Derivatives;DeFi::Launchpads
 Purps,DeFi,DEX,PurpsV2Router02,0x22adf91b491abc7a50895cd5c5c194eccc93f5e2,DeFi::DEX;DeFi::Perpetuals / Derivatives;DeFi::Launchpads
@@ -153,6 +273,9 @@ Skate AMM,DeFi,DEX,PeripheryPoolImplementation,0x4b13d62a8209b3b25edca3046dcb831
 Skate AMM,DeFi,DEX,Pool_USDC_AUSD_1bps,0x0b6414df25eb6d23b7089055885c3d9058b33dee,DeFi::DEX;Infra::Interoperability
 Skate AMM,DeFi,DEX,Pool_WMON_USDC_5bps,0xc2be4b8852e37ecf979b3e2b5d58162719303804,DeFi::DEX;Infra::Interoperability
 Skate AMM,DeFi,DEX,SkateGateway,0x79e31a114e6d2f16e1e2a3ec47c82fac520881a4,DeFi::DEX;Infra::Interoperability
+SomeSwap,DeFi,DEX,SomeFactory,0x00008a3c1077325bb19cd93e5a0f1e95144700fa,DeFi::DEX
+SomeSwap,DeFi,DEX,SomeLiquidityLocker,0x001176f5ef99f53eae957bb2fb2ae93e9b6f110c,DeFi::DEX
+SomeSwap,DeFi,DEX,SomeRouter,0x000799b28ae9c3e9ca70b7ff67b191519ab80fee,DeFi::DEX
 Swaap,DeFi,DEX,SafeguardFactory,0xcc74bd5d8d2d333d14475e022325555eba3369b8,DeFi::DEX
 Swaap,DeFi,DEX,Vault,0xd315a9c38ec871068fec378e4ce78af528c76293,DeFi::DEX
 Swyrl,DeFi,DEX,MixedRouteQuoterV1,0xe6c40d7cdc1f1622ddf2af41ae8c4230a587d133,DeFi::DEX
@@ -181,6 +304,7 @@ Uniswap,DeFi,DEX,Quoter,0x2d01411773c8c24805306e89a41f7855c3c4fe65,DeFi::DEX
 Uniswap,DeFi,DEX,QuoterV2,0x661e93cca42afacb172121ef892830ca3b70f08d,DeFi::DEX
 Uniswap,DeFi,DEX,StateView,0x77395f3b2e73ae90843717371294fa97cc419d64,DeFi::DEX
 Uniswap,DeFi,DEX,SwapRouter,0xd6145b2d3f379919e8cdeda7b97e37c4b2ca9c40,DeFi::DEX
+Uniswap,DeFi,DEX,SwapRouter02,0xfe31f71c1b106eac32f1a19239c9a9a72ddfb900,DeFi::DEX
 Uniswap,DeFi,DEX,TickLens,0xf025e0fe9e331a0ef05c2ad3c4e9c64b625cda6f,DeFi::DEX
 Uniswap,DeFi,DEX,UniswapInterfaceMulticall,0xd1b797d92d87b688193a2b976efc8d577d204343,DeFi::DEX
 Uniswap,DeFi,DEX,UniswapV2Factory,0x182a927119d56008d921126764bf884221b10f59,DeFi::DEX
@@ -189,30 +313,156 @@ Uniswap,DeFi,DEX,UniswapV3Factory,0x204faca1764b154221e35c0d20abb3c525710498,DeF
 Uniswap,DeFi,DEX,UniversalRouter,0x0d97dc33264bfc1c226207428a79b26757fb9dc3,DeFi::DEX
 Uniswap,DeFi,DEX,V3Migrator,0x7078c4537c04c2b2e52ddba06074dbdacf23ca15,DeFi::DEX
 Uniswap,DeFi,DEX,V4Quoter,0xa222dd357a9076d1091ed6aa2e16c9742dd26891,DeFi::DEX
+iZiSwap,DeFi,DEX,factory,0x8c7d3063579bdb0b90997e18a770eae32e1ebb08,DeFi::DEX
+iZiSwap,DeFi,DEX,flashModule,0xbd6aba1ef82a4cd6e15cb05e95f433ef48dfb5df,DeFi::DEX
+iZiSwap,DeFi,DEX,limitOrderManager,0x02f55d53dce23b4aa962cc68b0f685f26143bdb2,DeFi::DEX
+iZiSwap,DeFi,DEX,limitOrderModule,0xe96526e92ee57bbd468da1721987aa988b008768,DeFi::DEX
+iZiSwap,DeFi,DEX,limitOrderWithSwapManager,0x2db0afd0045f3518c77ec6591a542e326befd3d7,DeFi::DEX
+iZiSwap,DeFi,DEX,liquidityManager,0x19b683a2f45012318d9b2ae1280d68d3ec54d663,DeFi::DEX
+iZiSwap,DeFi,DEX,liquidityModule,0xf4efdb5a1e852f78e807fae7100b1d38351e38c7,DeFi::DEX
+iZiSwap,DeFi,DEX,locker,0x3f559139c2fc7b97ad6fe9b4d1f75149f551db18,DeFi::DEX
+iZiSwap,DeFi,DEX,multicall,0x14323afbc2b82fe58f0d9c203830ee969b4d1be2,DeFi::DEX
+iZiSwap,DeFi,DEX,oracle,0x04830cfced9772b8acbaf76cfc7a630ad82c9148,DeFi::DEX
+iZiSwap,DeFi,DEX,quoter,0x3ef68d3f7664b2805d4e88381b64868a56f88bc4,DeFi::DEX
+iZiSwap,DeFi,DEX,quoterWithLim,0x33531bdbfe34fa6fd5963d0423f7699775aacaaf,DeFi::DEX
+iZiSwap,DeFi,DEX,swap,0x34bc1b87f60e0a30c0e24fd7abada70436c71406,DeFi::DEX
+iZiSwap,DeFi,DEX,swapX2YModule,0x4d4673745aac664efb9758fdd571f40d78a87bfe,DeFi::DEX
+iZiSwap,DeFi,DEX,swapY2XModule,0x32d02fc7722e81f6ac60b87ea8b4b63a52ad2b55,DeFi::DEX
+iZiSwap,DeFi,DEX,tapProxy,0x2c6df0fdbce9d2ded2b52a117126f2dc991f770f,DeFi::DEX
 Eisen,DeFi,DEX Aggregator,EisenDiamond,0x787c474b8a86354d0f5f19fb599a5fc7662a265f,DeFi::DEX Aggregator
 Eisen,DeFi,DEX Aggregator,Forwarder,0xece5e77f9a9846c4d69555eb44e0cff8b5f03f1e,DeFi::DEX Aggregator
+Gmgn,DeFi,DEX Aggregator,Router,0xc9ca80b5ea956afa98627963d1880033545d108e,DeFi::DEX Aggregator
+Mace,DeFi,DEX Aggregator,APRMonAdapter,0xd74356eb3617d25e695d675a674eb90dbf073b74,DeFi::DEX Aggregator;DeFi::Trading Interfaces
+Mace,DeFi,DEX Aggregator,AlgebraAdapter,0x84bee47463ad63bebb96d066d548c042875bb6a0,DeFi::DEX Aggregator;DeFi::Trading Interfaces
+Mace,DeFi,DEX Aggregator,ClobberV2Adapter,0xae3dc93190979063448d0edc5e29a213def78b6e,DeFi::DEX Aggregator;DeFi::Trading Interfaces
+Mace,DeFi,DEX Aggregator,CrystalAdapter,0x70ca11a8bb062ef86e6e662b58ae3caeef1d66e5,DeFi::DEX Aggregator;DeFi::Trading Interfaces
+Mace,DeFi,DEX Aggregator,IzumiAdapter,0x82c3871bc051ff5898dcb752035ecfa3dee46941,DeFi::DEX Aggregator;DeFi::Trading Interfaces
+Mace,DeFi,DEX Aggregator,KintsuAdapter,0xb346fbd2ba963a1c3b00946c733e9f0d5ce7aeec,DeFi::DEX Aggregator;DeFi::Trading Interfaces
+Mace,DeFi,DEX Aggregator,KuruAdapter,0x59966add989bb2b8a528b796a81fb7e593072529,DeFi::DEX Aggregator;DeFi::Trading Interfaces
+Mace,DeFi,DEX Aggregator,LFJAdapter,0x73590e38f40f799edb3afe3142c0ea891f393d9d,DeFi::DEX Aggregator;DeFi::Trading Interfaces
+Mace,DeFi,DEX Aggregator,MaceRouter,0x6f05a0746a8cb5c7de5af1568c8d020dbb521b23,DeFi::DEX Aggregator;DeFi::Trading Interfaces
+Mace,DeFi,DEX Aggregator,MagmaAdapter,0xcf32b343f6b9f74abe075f414f87ea7b0adbf1c1,DeFi::DEX Aggregator;DeFi::Trading Interfaces
+Mace,DeFi,DEX Aggregator,NadFunCurveAdapter,0x076afaf46b983b1d23b98e9fdcb4314b11ac3ab9,DeFi::DEX Aggregator;DeFi::Trading Interfaces
+Mace,DeFi,DEX Aggregator,NitroAdapter,0x5c968a45404e55ffa5da393fe7db96f244792707,DeFi::DEX Aggregator;DeFi::Trading Interfaces
+Mace,DeFi,DEX Aggregator,PancakeswapV3Adapter,0xa0ad7736dfd6abdbffcb0ec4df8d31df40a127fe,DeFi::DEX Aggregator;DeFi::Trading Interfaces
+Mace,DeFi,DEX Aggregator,PrintrCurveAdapter,0xb7d014ba893a22e9b6a2214e22f0fd68e9cd0741,DeFi::DEX Aggregator;DeFi::Trading Interfaces
+Mace,DeFi,DEX Aggregator,ShMonAdapter,0x8a64d063dc534a160914da4dc86804be5e8de98b,DeFi::DEX Aggregator;DeFi::Trading Interfaces
+Mace,DeFi,DEX Aggregator,SomethingAdapter,0x39c361d267853a43f4e6237291cea0701c426abe,DeFi::DEX Aggregator;DeFi::Trading Interfaces
+Mace,DeFi,DEX Aggregator,SomethingCurveAdapter,0xb3661b5d02f5f4b49e1d5084590aacd8867646f6,DeFi::DEX Aggregator;DeFi::Trading Interfaces
+Mace,DeFi,DEX Aggregator,UniswapV2Adapter,0x9d282092c60303ba8fc219501cfedafafa290a64,DeFi::DEX Aggregator;DeFi::Trading Interfaces
+Mace,DeFi,DEX Aggregator,UniswapV4Adapter,0x52dfbfa557516e1775b014ef01309ca8160b5296,DeFi::DEX Aggregator;DeFi::Trading Interfaces
+Mace,DeFi,DEX Aggregator,WethAdapter,0xc6b6b9e8eb8b3cf2cecd8ff536a9e1599d8ab426,DeFi::DEX Aggregator;DeFi::Trading Interfaces
 Madhouse,DeFi,DEX Aggregator,Aggregator,0x6017684bea9cb6e9874fc6dba4438271ebf9f5da,DeFi::DEX Aggregator
 Monorail,DeFi,DEX Aggregator,AggregationRouter,0xa68a7f0601effdc65c64d9c47ca1b18d96b4352c,DeFi::DEX Aggregator;DeFi::Trading Interfaces
+Velvet Capital,DeFi,DEX Aggregator,MetaAggregatorManager,0x995efd92cc2f70a2091ba9aae04cbb5fb24b7dd1,DeFi::DEX Aggregator
+Velvet Capital,DeFi,DEX Aggregator,MetaAggregatorSwapContract,0x6ddf98aece7d24fe37c70abc3f0f95acec66f32f,DeFi::DEX Aggregator
+Clanker,DeFi,Launchpads,Clanker,0xf9a0c289eab6b571c6247094a853810987e5b26d,DeFi::Launchpads;AI::Other
+Clanker,DeFi,Launchpads,ClankerAirdropV2,0x654e7221fa51d4359ded21d524e3aff18e93a507,DeFi::Launchpads;AI::Other
+Clanker,DeFi,Launchpads,ClankerFeeLocker,0x46b77bacfd712d79131f1ad7611794869483c353,DeFi::Launchpads;AI::Other
+Clanker,DeFi,Launchpads,ClankerHookStaticFeeV2,0x94f802a9efe4dd542fdbd77a25d9e69a6dc828cc,DeFi::Launchpads;AI::Other
+Clanker,DeFi,Launchpads,ClankerLpLockerFeeConversion,0xde51a86d3b6ec9ac4756115d3744335aa2c30144,DeFi::Launchpads;AI::Other
+Clanker,DeFi,Launchpads,ClankerMevDescendingFees,0x3231d1ddfdc4ad585cf1939ffecd9c88b338dbf2,DeFi::Launchpads;AI::Other
+Clanker,DeFi,Launchpads,ClankerUniV4EthDevBuy,0x8790d79283eb941c719b616cfd0ef116d13c7683,DeFi::Launchpads;AI::Other
+Clanker,DeFi,Launchpads,ClankerVault,0xe7d402a5bed94e5c49ac0639e80f784d06e2d397,DeFi::Launchpads;AI::Other
+Cult,DeFi,Launchpads,CultFactoryImplementation,0x951a3a01122511f01abffff1acefbab2c5c9ff17,DeFi::Launchpads
+Cult,DeFi,Launchpads,CultFactoryProxy,0xce6fc8af085bcd42fa5338f739d1a2cdda2c19fe,DeFi::Launchpads
+Cult,DeFi,Launchpads,CultFeeHook,0x7a2524ce937f206844b9508eec8f6486800a40cc,DeFi::Launchpads
+Cult,DeFi,Launchpads,CultImplementation,0x69c382cf1a36f2665d449c0e6c446927d3904d35,DeFi::Launchpads
+Cult,DeFi,Launchpads,CultRewards,0x440a157243d7820c2077d1be931fc6bb52716f31,DeFi::Launchpads
+Doppler,DeFi,Launchpads,LaunchpadGovernanceFactory,0x5fbe931dc4b923a7abe4c47ad68d5bf9eda5b76d,DeFi::Launchpads;DeFi::Asset Issuers
+Doppler,DeFi,Launchpads,LockableUniswapV3Initializer,0x8b4c7db9121fc885689c0a50d5a1429f15aec2a0,DeFi::Launchpads;DeFi::Asset Issuers
+Doppler,DeFi,Launchpads,TokenFactory,0xaa47d2977d622dbdfd33eef6a8276727c52eb4e5,DeFi::Launchpads;DeFi::Asset Issuers
+Doppler,DeFi,Launchpads,UniswapV4ScheduledMulticurveInitializerHook,0x580ca49389d83b019d07e17e99454f2f218e2dc0,DeFi::Launchpads;DeFi::Asset Issuers
 Flap,DeFi,Launchpads,Portal,0x30e8ee7b5881bf2e158a0514f2150aabe2c68b23,DeFi::Launchpads
-Flap,DeFi,Launchpads,TaxTokenImplementation,0x8e6512ba94c723d8f140b0fd9dbb498854b7a1f4,DeFi::Launchpads
+Flap,DeFi,Launchpads,TaxTokenImplementation,0x1c8847736521f5cd725dfb8f33c7c610826e7c42,DeFi::Launchpads
 Flap,DeFi,Launchpads,TaxTokenSplitterImplementation,0x57fed6832f12150a77d5952b49190d9447acb5ee,DeFi::Launchpads
 Flap,DeFi,Launchpads,TokenV2Implementation,0xb88189aa1162850d75a1c1e16f837b7979994184,DeFi::Launchpads
-Nad.fun,DeFi,Launchpads,BONDING_CURVE,0x7193e46d4a812c8990f96a6e9c1f1ed338b2a6b7,DeFi::Launchpads
-Nad.fun,DeFi,Launchpads,BONDING_CURVE_ROUTER,0x84202fd46851b4a9da9ab3100dd459bf1f0a3dc0,DeFi::Launchpads
-Nad.fun,DeFi,Launchpads,COMMUNITY_TREASURY,0x6abcb85307c59fb6813f2e3f97509bc1d1ec87f8,DeFi::Launchpads
-Nad.fun,DeFi,Launchpads,CREATOR_MANAGER,0xde2e1c7ffde10281ec3e515f12868ea7bcb1bf56,DeFi::Launchpads
-Nad.fun,DeFi,Launchpads,CREATOR_TREASURY,0x432ccb0c0fcbfeddd392d95aa64ebe5d78be606e,DeFi::Launchpads
-Nad.fun,DeFi,Launchpads,DEX_DEPLOYER,0x19ec7e26a4d3106dde05ddb3690220881940d68d,DeFi::Launchpads
-Nad.fun,DeFi,Launchpads,DEX_ROUTER,0x2b1d8bb0ded32dd1c4d4b04b4b3829dda9aecc65,DeFi::Launchpads
-Nad.fun,DeFi,Launchpads,FOUNDATION_TREASURY,0xb200d8c25e37695da63e6ae4bfe29ea5cc0ef340,DeFi::Launchpads
-Nad.fun,DeFi,Launchpads,LENS,0x5c34ed2a9675dc4c77378175870a6822cb925a8b,DeFi::Launchpads
-Nad.fun,DeFi,Launchpads,LP_MANAGER,0xb555cf21cd738b2282b13c8ec9ff9b25bccdffeb,DeFi::Launchpads
-Nad.fun,DeFi,Launchpads,QUOTER_V3,0x2e06b20ee1f785bce6862971fdd58f7ba878da9c,DeFi::Launchpads
-Nad.fun,DeFi,Launchpads,REWARD_POOL,0xe26ef0fa5939439706199da23d3f7de42087f735,DeFi::Launchpads
-Nad.fun,DeFi,Launchpads,TOKEN_IMPLEMENT,0xaf84c7e1737540e6e30731d2e547a006f40b0c1c,DeFi::Launchpads
-Nad.fun,DeFi,Launchpads,TOKEN_REGISTRY,0x54467b6300474cf485829ea5151848aeb20d6138,DeFi::Launchpads
-Nad.fun,DeFi,Launchpads,TOKEN_TREASURY,0x98f74cd9cdeddd58e6460e8f6b89fcf8b102f8d7,DeFi::Launchpads
-Nad.fun,DeFi,Launchpads,UNISWAP_ACTOR,0x39314025e1f0e2d430b65fb7d2a4a2d4fd740576,DeFi::Launchpads
+Mongu,DeFi,Launchpads,MonguBondingCurve,0x6197cbf7e0e7164bded5cdd81f3bf8504515f12a,DeFi::Launchpads
+Mongu,DeFi,Launchpads,MonguFactory,0x8fb1863caba3eb8cdb0f693363bdbb013b65073b,DeFi::Launchpads
+Nad.fun,DeFi,Launchpads,BONDING_CURVE,0xa7283d07812a02afb7c09b60f8896bcea3f90ace,DeFi::Launchpads
+Nad.fun,DeFi,Launchpads,BONDING_CURVE_ROUTER,0x6f6b8f1a20703309951a5127c45b49b1cd981a22,DeFi::Launchpads
+Nad.fun,DeFi,Launchpads,COMMUNITY_TREASURY,0x46895ee48fb1d750a81562fd6019b37f21d7fd52,DeFi::Launchpads
+Nad.fun,DeFi,Launchpads,CREATOR_MANAGER,0x65fda572628c1d3f55b9e9e66e6e8a61c53cff7c,DeFi::Launchpads
+Nad.fun,DeFi,Launchpads,CREATOR_TREASURY,0x42e75b4b96d7000e7da1e0c729cec8d2049b9731,DeFi::Launchpads
+Nad.fun,DeFi,Launchpads,DEX_DEPLOYER,0x095acd3d26dd09c8e26ab864c8717a39fe61f320,DeFi::Launchpads
+Nad.fun,DeFi,Launchpads,DEX_ROUTER,0x0b79d71ae99528d1db24a4148b5f4f865cc2b137,DeFi::Launchpads
+Nad.fun,DeFi,Launchpads,FOUNDATION_TREASURY,0x4ac5fd82b91a10de7f91343ddcca7a2541d3f509,DeFi::Launchpads
+Nad.fun,DeFi,Launchpads,LENS,0x7e78a8de94f21804f7a17f4e8bf9ec2c872187ea,DeFi::Launchpads
+Nad.fun,DeFi,Launchpads,LP_MANAGER,0xaebe5522749b65eae7b2a35c593145cc3128b515,DeFi::Launchpads
+Nad.fun,DeFi,Launchpads,QUOTER_V3,0xad8887348e5d5d479156c851f4f4778e83a1dfe3,DeFi::Launchpads
+Nad.fun,DeFi,Launchpads,REWARD_POOL,0xd5ee94894f3c86952af792e1a03b1699c08b8c73,DeFi::Launchpads
+Nad.fun,DeFi,Launchpads,TOKEN_IMPLEMENT,0x7f64ccfeb3e3afd7691ea0ef404e947786cefae8,DeFi::Launchpads
+Nad.fun,DeFi,Launchpads,TOKEN_REGISTRY,0x3be9198208c198e2a4dab9a575764c8468dc83c6,DeFi::Launchpads
+Nad.fun,DeFi,Launchpads,TOKEN_TREASURY,0xb0baace23ac7cbd25211134a0b47ad70a9d42fa4,DeFi::Launchpads
+Nad.fun,DeFi,Launchpads,UNISWAP_ACTOR,0xcd68f7c0668b72ab943e09ff4dbf53da64b8a8c2,DeFi::Launchpads
+Something,DeFi,Launchpads,SmthTokenFactory,0x00f4353c69039b25c9338097fff51099981e00ce,DeFi::Launchpads
+bonad.fun,DeFi,Launchpads,Airlock,0x660eaaedebc968f8f3694354fa8ec0b4c5ba8d12,DeFi::Launchpads;DeFi::Memecoin
+bonad.fun,DeFi,Launchpads,Bundler,0xc99b485499f78995c6f1640dbb1413c57f8ba684,DeFi::Launchpads;DeFi::Memecoin
+bonad.fun,DeFi,Launchpads,GovernanceFactory,0xfaafde6a5b658684cc5eb0c5c2c755b00a246f45,DeFi::Launchpads;DeFi::Memecoin
+bonad.fun,DeFi,Launchpads,NoOpGovernanceFactory,0xb4dee32eb70a5e55f3d2d861f49fb3d79f7a14d9,DeFi::Launchpads;DeFi::Memecoin
+bonad.fun,DeFi,Launchpads,NoOpMigrator,0x5f3ba43d44375286296cb85f1ea2ebfa25dde731,DeFi::Launchpads;DeFi::Memecoin
+bonad.fun,DeFi,Launchpads,UniswapV2Migrator,0x136191b46478cab023cbc01a36160c4aad81677a,DeFi::Launchpads;DeFi::Memecoin
+bonad.fun,DeFi,Launchpads,UniswapV4ScheduledMulticurveInitializer,0xce3099b2f07029b086e5e92a1573c5f5a3071783,DeFi::Launchpads;DeFi::Memecoin
+Curvance,DeFi,Lending,AUSD DynamicIRM,0x08dcb6ad285217ef29816ac0f813c21c54c48cd5,DeFi::Lending
+Curvance,DeFi,Lending,CentralRegistry,0x1310f352f1389969ece6741671c4b919523912ff,DeFi::Lending
+Curvance,DeFi,Lending,ChainlinkAdaptor,0xacfe3fccae79445836e03c5359bb96bd352b9c00,DeFi::Lending
+Curvance,DeFi,Lending,NativePositionManager,0xc7b2377ef1744229698ca72c11003184fbbdf770,DeFi::Lending
+Curvance,DeFi,Lending,NativeVaultZapper,0x1d60a3f3f84f095b3d6001fbc135f6d42c812269,DeFi::Lending
+Curvance,DeFi,Lending,OracleManager,0x32fad39e79fac67f80d1c86cbd1598043e52cdb6,DeFi::Lending
+Curvance,DeFi,Lending,ProtocolViewer,0xed12668728c95dda3411f29d5347356e6da222da,DeFi::Lending
+Curvance,DeFi,Lending,RedstoneClassicAdaptor,0x0fa602b3e748438a3f1599206ed6dc497ab3331e,DeFi::Lending
+Curvance,DeFi,Lending,RedstoneCoreAdaptor,0x1779e22c746b3ca505ffa636f96c4e0916d616d8,DeFi::Lending
+Curvance,DeFi,Lending,SimplePositionManager,0x6b84b03bc8481b1380c3a4cddf221d30b5e40663,DeFi::Lending
+Curvance,DeFi,Lending,SimpleZapper,0x5af9b7cac0530d3c9e11c23b7a69cce335b8c395,DeFi::Lending
+Curvance,DeFi,Lending,VaultPositionManager,0x953d7190e9d132776877ca86fae718562a67fb52,DeFi::Lending
+Curvance,DeFi,Lending,VaultZapper,0x6a6a087eec9333acc0a71782daf2ce9fc229d145,DeFi::Lending
+Curvance,DeFi,Lending,WMON DynamicIRM,0x16cb8a09f2a17e30273b749ed178954fe63bb1bc,DeFi::Lending
+Curvance,DeFi,Lending,cAUSD,0x6e182eb501800c555bd5e662e6d350d627f504d8,DeFi::Lending
+Curvance,DeFi,Lending,cAUSD DynamicIRM,0x72cb6a15e050427e1a6047614a47659a2c94d1ba,DeFi::Lending
+Curvance,DeFi,Lending,cUSDC,0x21adbb60a5fb909e7f1fb48aacc4569615cd97b5,DeFi::Lending
+Curvance,DeFi,Lending,cUSDC DynamicIRM,0x034f1a014946fe4d4ea3bd36a315f775a8c1ab26,DeFi::Lending
+Curvance,DeFi,Lending,cWBTC,0x3d2ff9f862d89ba526a0fc166bd56abe04ef28d5,DeFi::Lending
+Curvance,DeFi,Lending,cWBTC / cUSDC Market Manager,0x01c4a0d396efe982b1b103be9910321d34e1aea9,DeFi::Lending
+Curvance,DeFi,Lending,cWBTC DynamicIRM,0x8a78bd450258b7b1d42431fb904453ca43161ade,DeFi::Lending
+Curvance,DeFi,Lending,cWETH,0x8af00fbbb2601a8f7636eabbf6243b30bea47d50,DeFi::Lending
+Curvance,DeFi,Lending,cWETH / cUSDC Market Manager,0xb3e9e0134354cc91b7fb9f9d6c3ab0de7854bb49,DeFi::Lending
+Curvance,DeFi,Lending,cWETH DynamicIRM,0x8c82ccf6ee43346425e04325df03219cf46a7739,DeFi::Lending
+Curvance,DeFi,Lending,cWMON,0x1e240e30e51491546dec3af16b0b4eac8dd110d4,DeFi::Lending
+Curvance,DeFi,Lending,cWMON / cUSDC Market Manager,0xa6a2a92f126b79ee0804845ee6b52899b4491093,DeFi::Lending
+Curvance,DeFi,Lending,cWMON DynamicIRM,0x50264b615175f8dbfff417cf6d0003d2e77d87b4,DeFi::Lending
+Curvance,DeFi,Lending,caprMON,0xd9e2025b907e95ecc963a5018f56b87575b4ab26,DeFi::Lending
+Curvance,DeFi,Lending,caprMON / cWMON Market Manager,0x5ea0a1cf3501c954b64902c5e92100b8a2cab1ac,DeFi::Lending
+Curvance,DeFi,Lending,cearnAUSD,0x852ff1ec21d63b405ec431e04ae3ac760e29263d,DeFi::Lending
+Curvance,DeFi,Lending,cearnAUSD / cAUSD Market Manager,0xd6365555f6a697c7c295ba741100aa644ce28545,DeFi::Lending
+Curvance,DeFi,Lending,cezETH,0x20f1a13bfbf85a22aa59d189861790981372220b,DeFi::Lending
+Curvance,DeFi,Lending,cezETH / cWETH Market Manager,0x83840d837e7a3e00bbb0b8501e60e989a8987c37,DeFi::Lending
+Curvance,DeFi,Lending,cmuBOND,0x92ee4b4d33dc61bd93a88601f29131b08acedbf1,DeFi::Lending
+Curvance,DeFi,Lending,cmuBOND / AUSD Market Manager,0x830d40cdfdc494bc1a2729a7381bfce44326c944,DeFi::Lending
+Curvance,DeFi,Lending,csAUSD,0xad4aa2a713fb86fbb6b60de2af9e32a11db6abf2,DeFi::Lending
+Curvance,DeFi,Lending,csAUSD / cAUSD Market Manager,0xbbe7a3c45adbb16f6490767b663428c34aa341eb,DeFi::Lending
+Curvance,DeFi,Lending,csMON,0x494876051b0e85dce5ecd5822b1ad39b9660c928,DeFi::Lending
+Curvance,DeFi,Lending,csMON/ cWMON Market Manager,0xe5970cdb1916b2ccf6185c86c174eee2d330d05b,DeFi::Lending
+Curvance,DeFi,Lending,cshMON,0x926c101cf0a3de8725eb24a93e980f9fe34d6230,DeFi::Lending
+Curvance,DeFi,Lending,cshMON / cWMON Market Manager,0xe1c24b2e93230fbe33d32ba38eca3218284143e2,DeFi::Lending
+Curvance,DeFi,Lending,sAUSD,0xfd493ce1a0ae986e09d17004b7e748817a47d73c,DeFi::Lending
+Folks Finance,DeFi,Lending,aUsdSpokeAddress,0xc30107a8e782e98fe890f0375afa4185aeea3356,DeFi::Lending;DeFi::Cross Chain
+Folks Finance,DeFi,Lending,bridgeRouterSpoke,0xf854ac65a40f1eabfd32e6d4c7d0e1c4b1753cc5,DeFi::Lending;DeFi::Cross Chain
+Folks Finance,DeFi,Lending,bridgeRouterSpokeReward,0x5f2f4771b7dc7e2f7e9c1308b154e1e8957ecab0,DeFi::Lending;DeFi::Cross Chain
+Folks Finance,DeFi,Lending,ccipDataAdapter,0xeb48a1ee43b91959a1686b70b7cd482c65de69c9,DeFi::Lending;DeFi::Cross Chain
+Folks Finance,DeFi,Lending,ccipDataAdapterReward,0x12db9758c4d9902334c523b94e436258eb54156f,DeFi::Lending;DeFi::Cross Chain
+Folks Finance,DeFi,Lending,ccipTokenAdapter,0x5c60f12838b8e3eeb525f299cd7c454c989dd04e,DeFi::Lending;DeFi::Cross Chain
+Folks Finance,DeFi,Lending,folksSpokeRewardV2,0x7218bd1050d41a9ecfc517abdd294fb8116aee81,DeFi::Lending;DeFi::Cross Chain
+Folks Finance,DeFi,Lending,gMonSpokeAddress,0x9105ceebaf43ef6b80df1b66beffd5f98a036c36,DeFi::Lending;DeFi::Cross Chain
+Folks Finance,DeFi,Lending,monSpokeAddress,0x531490b7674ef239c9fec39d2cf3cc10645d14d4,DeFi::Lending;DeFi::Cross Chain
+Folks Finance,DeFi,Lending,sMonSpokeAddress,0xb39c03297e87032ff69f4d42a6698e4c4a934449,DeFi::Lending;DeFi::Cross Chain
+Folks Finance,DeFi,Lending,shMonSpokeAddress,0x1a40208e9506e08a6f62dbccf8de7387743179e9,DeFi::Lending;DeFi::Cross Chain
+Folks Finance,DeFi,Lending,spokeCommon,0xc7bc4a43384f84b8fc937ab58173edab23a4c3cd,DeFi::Lending;DeFi::Cross Chain
+Folks Finance,DeFi,Lending,spokeCommonRewardV2,0x802063a23e78d0f5d158feaac605028ee490b03b,DeFi::Lending;DeFi::Cross Chain
+Folks Finance,DeFi,Lending,usdt0SpokeAddress,0xb1e2939b501b73f4cfef6a9fb0aa89a75f1774ee,DeFi::Lending;DeFi::Cross Chain
+Folks Finance,DeFi,Lending,wBtcSpokeAddress,0xf4c542518320f09943c35db6773b2f9feb2f847e,DeFi::Lending;DeFi::Cross Chain
+Folks Finance,DeFi,Lending,wEthSpokeAddress,0xe3b0e4db870aa58a24f87d895c62d3dc5cd05883,DeFi::Lending;DeFi::Cross Chain
+Folks Finance,DeFi,Lending,wormholeDataAdapter,0x37d761883a01e9f0b0d7fe59eec8c21d94393cdd,DeFi::Lending;DeFi::Cross Chain
+Folks Finance,DeFi,Lending,wormholeDataAdapterReward,0x1b2a8d56967d00700dd5c94e27b1a116a1def8df,DeFi::Lending;DeFi::Cross Chain
 Gearbox,DeFi,Lending,Account_Compressor,0x4115708fc8fe6bb392de2e0c21c2c81da2222394,DeFi::Lending;DeFi::Leveraged Farming
 Gearbox,DeFi,Lending,Address_Provider,0xf7f0a609bfab9a0a98786951ef10e5fe26cc1e38,DeFi::Lending;DeFi::Leveraged Farming
 Gearbox,DeFi,Lending,Batches_Chain,0x59b2fd348e4ade84ffefdaf5fcdda7276c8c5041,DeFi::Lending;DeFi::Leveraged Farming
@@ -239,8 +489,46 @@ Gearbox,DeFi,Lending,Rewards_Compressor,0x19ca61e672d1c6105f609418bfdc784f92f4ec
 Gearbox,DeFi,Lending,Router,0x00ade38841ab8c6e236e232041e43b41d74b8b45,DeFi::Lending;DeFi::Leveraged Farming
 Gearbox,DeFi,Lending,Token_Compressor,0xae3dd11e5a7f99ed4cba2768d4095a55fbf7841b,DeFi::Lending;DeFi::Leveraged Farming
 Gearbox,DeFi,Lending,Withdrawal_Compressor,0xfb79b6713fe214b8748ed7b0db1f93e4f1ac9d29,DeFi::Lending;DeFi::Leveraged Farming
+Morpho,DeFi,Lending,AdaptiveCurveIrm,0x09475a3d6ea8c314c592b1a3799bde044e2f400f,DeFi::Lending
+Morpho,DeFi,Lending,Bundler3,0x82b684483e844422fd339df0b67b3b111f02c66e,DeFi::Lending
+Morpho,DeFi,Lending,Deployer1,0x6c3a89e814a9d150cd763f443dcee5ebc5bf60b6,DeFi::Lending
+Morpho,DeFi,Lending,Deployer1Deployer,0xa16b49505e39c373a8f9e1b1540514ba64b3942a,DeFi::Lending
+Morpho,DeFi,Lending,Deployer2,0x0a3c9f732c7e987ddbbaac13309a8b552aa50872,DeFi::Lending
+Morpho,DeFi,Lending,Deployer2Deployer,0x907a393ad715ac63389eec3236fac74e7d68a4ee,DeFi::Lending
+Morpho,DeFi,Lending,Deployer3,0xff08983faa3d689c8c8527bd69f90ea46d170db9,DeFi::Lending
+Morpho,DeFi,Lending,Deployer3Deployer,0x6f12916f559dc7f86a86cd3e33bfebe6348f979a,DeFi::Lending
+Morpho,DeFi,Lending,Deployer4,0xf4c840ea6fdd0493f77ef0141c5a5a09cd384918,DeFi::Lending
+Morpho,DeFi,Lending,Deployer4Deployer,0x03877db7caa28bc522dbb8c060eeaeb086020b83,DeFi::Lending
+Morpho,DeFi,Lending,Deployer6,0xa1a2ca8feb4d08a7123bfbb0a269501f885264de,DeFi::Lending
+Morpho,DeFi,Lending,Deployer6Deployer,0x22c3024c7e1e149d7e49766cd047a2da081e4eaf,DeFi::Lending
+Morpho,DeFi,Lending,Deployer7,0x3f12264881a118c2a74ad10f9039694579bdcf54,DeFi::Lending
+Morpho,DeFi,Lending,Deployer7Deployer,0x71dd91258eca11fc045098774ec2f331126a0b53,DeFi::Lending
+Morpho,DeFi,Lending,GeneralAdapter1,0x725ab8cad931bcb80fdbf10955a806765cce00e5,DeFi::Lending
+Morpho,DeFi,Lending,MetaMorphoV1_1,0x6d0090db99919d1594b9b824d295e923266c9052,DeFi::Lending
+Morpho,DeFi,Lending,MetaMorphoV1_1Factory,0x33f20973275b2f574488b18929cd7dcbf1abf275,DeFi::Lending
+Morpho,DeFi,Lending,Morpho,0xd5d960e8c380b724a48ac59e2dff1b2cb4a1eaee,DeFi::Lending
+Morpho,DeFi,Lending,MorphoChainlinkOracleV2,0x6a99cc46825a724b41f8e5656935929fa0a2cb2c,DeFi::Lending
+Morpho,DeFi,Lending,MorphoChainlinkOracleV2Factory,0xc8659bcd5279db664be973aefd752a5326653739,DeFi::Lending
+Morpho,DeFi,Lending,MorphoMarketV1Adapter,0xd155af55cf966886cc197f05399be4a033af7090,DeFi::Lending
+Morpho,DeFi,Lending,MorphoMarketV1AdapterFactory,0x8da54fbf89b3d6fc6dcc92f31cf75a211acf3d46,DeFi::Lending
+Morpho,DeFi,Lending,MorphoMarketV1Registry,0xf5e6dd4b06874f55444936cf0026b785383a9849,DeFi::Lending
+Morpho,DeFi,Lending,MorphoVaultV1Adapter,0x549bf7a3346ebebe88bd3fcad8ab1f23de8eb4e4,DeFi::Lending
+Morpho,DeFi,Lending,MorphoVaultV1AdapterFactory,0x9f3c0999425656fd189c69a8ad68cb64986d644a,DeFi::Lending
+Morpho,DeFi,Lending,MorphoVaultV1_1Registry,0x1d721eddac84e1b9995fc25ce3e57463688064a9,DeFi::Lending
+Morpho,DeFi,Lending,PreLiquidation,0x273dbc3f178d03fa9d385e61ee1e11dcf563ee14,DeFi::Lending
+Morpho,DeFi,Lending,PreLiquidationFactory,0xb5b3e541abd19799e0c65905a5a42bd37d6c94c0,DeFi::Lending
+Morpho,DeFi,Lending,PublicAllocator,0xfd70575b732f9482f4197fe1075492e114e97302,DeFi::Lending
+Morpho,DeFi,Lending,RegistryList,0x6a42f8b46224baa4dbbbc2f860f4675eea7bd52b,DeFi::Lending
+Morpho,DeFi,Lending,Safe,0xe27f43624fdb5325b853c4711bcf0feba754e558,DeFi::Lending
+Morpho,DeFi,Lending,UniversalRewardsDistributor,0xa3e73ec1792bb127b0915de9842eb999c12c0c34,DeFi::Lending
+Morpho,DeFi,Lending,UrdFactory,0xe8233125be3ecd274b8007618315dd2f3361eced,DeFi::Lending
+Morpho,DeFi,Lending,VaultV2,0xc1108c5d98dc09be44e656a9e34b04d37b90a50d,DeFi::Lending
+Morpho,DeFi,Lending,VaultV2Factory,0x8b2f922162fbb60a6a072cc784a2e4168fb0bb0c,DeFi::Lending
 Neverland,DeFi,Lending,ACLManager,0x73a78afa04b629e22db3bec357bfc4a8b4f149df,DeFi::Lending;NFT::Other;Governance::Other
 Neverland,DeFi,Lending,AToken,0x395118096f0ef19d7958ad8538ecee9685b94eb2,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,AUSD_AToken,0x784999fc2dd132a41d1cc0f1ae9805854bad1f2d,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,AUSD_StableDebtToken,0xe004483d67b06f5b002098db51217a7ccafed403,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,AUSD_VariableDebtToken,0x54fc077eae1006fe3c5d01f1614802eafcbee57e,DeFi::Lending;NFT::Other;Governance::Other
 Neverland,DeFi,Lending,AaveOracle,0x94bba11004b9877d13bb5e1ae29319b6f7bdedd4,DeFi::Lending;NFT::Other;Governance::Other
 Neverland,DeFi,Lending,BorrowLogic,0xe0b05346fa8f57c2c634ee1d53ace20806858c01,DeFi::Lending;NFT::Other;Governance::Other
 Neverland,DeFi,Lending,BridgeLogic,0xc8a6a884b47ca0699a9dd76d5b8d1d3d21a8d94b,DeFi::Lending;NFT::Other;Governance::Other
@@ -256,8 +544,8 @@ Neverland,DeFi,Lending,DustRewardsController (Proxy),0x57ea245ccbfab074babb9d01d
 Neverland,DeFi,Lending,EModeLogic,0x44d2575191306da86c488bf86872ca6d35489e4a,DeFi::Lending;NFT::Other;Governance::Other
 Neverland,DeFi,Lending,FlashLoanLogic,0x427b9008a254799aa3ac1d5cc1dc2920da3ad3cf,DeFi::Lending;NFT::Other;Governance::Other
 Neverland,DeFi,Lending,LiquidationLogic,0x4ad738afac73f32f1e5f1898bca150d4a52c88db,DeFi::Lending;NFT::Other;Governance::Other
-Neverland,DeFi,Lending,NeverlandDustHelper,0xc91ba13910b358e0de6510d4e2f3afdaf6395538,DeFi::Lending;NFT::Other;Governance::Other
-Neverland,DeFi,Lending,NeverlandUiProvider,0xc8b7b87eb4a4b404a421bd3a1491a689a0be8611,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,NeverlandDustHelper,0x7a634b66d43ad04e2d6780ffd031f8bb7327b258,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,NeverlandUiProvider,0x2ffb9b6ba7fe23793c3a2fdd18ece88f73ce20a0,DeFi::Lending;NFT::Other;Governance::Other
 Neverland,DeFi,Lending,Pool (Impl.),0xe3b56aad3c21531055f39e73a51e8ff29daad049,DeFi::Lending;NFT::Other;Governance::Other
 Neverland,DeFi,Lending,Pool (Proxy),0x80f00661b13cc5f6ccd3885be7b4c9c67545d585,DeFi::Lending;NFT::Other;Governance::Other
 Neverland,DeFi,Lending,PoolAddressesProvider,0x49d75170f55c964dfdd6726c74fdedee75553a0f,DeFi::Lending;NFT::Other;Governance::Other
@@ -267,16 +555,23 @@ Neverland,DeFi,Lending,PoolConfigurator (Proxy),0x193672b2454850ee247435e365a87f
 Neverland,DeFi,Lending,PoolDataProvider,0xfd0b6b6f736376f7b99ee989c749007c7757fdba,DeFi::Lending;NFT::Other;Governance::Other
 Neverland,DeFi,Lending,PoolLogic,0xdcf1dcb529fe2c61bf8bbb10eb8b5ae843882dc5,DeFi::Lending;NFT::Other;Governance::Other
 Neverland,DeFi,Lending,ProxyAdmin,0x6400650ced1ed7179143d40b4431c3cc8c068d90,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,RateStrategyNativeOne,0x1fdb8eeba059b8715b90714be158012b0e08db1e,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,RateStrategyStableFlatten,0xf462fef6bf18afec12c93474cce5c2fdf94034f4,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,RateStrategyStableOne,0x09bd1e4bc6f035d5025d0e86a9b24a7fc9f1125b,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,RateStrategyStableTwo,0xb00e2d557cfcf73a3c6d9fe98332290fac7546e4,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,RateStrategyVolatileFlatten,0x0aa3af6c66109bb71d39e8ef572dab15503338d4,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,RateStrategyVolatileOne,0x9b4528918159e1ae937740051fb69bcd4e164cc3,DeFi::Lending;NFT::Other;Governance::Other
 Neverland,DeFi,Lending,ReservesSetupHelper,0xe7d17a88c66b4ed0b73872937cdc5e081c118dcd,DeFi::Lending;NFT::Other;Governance::Other
 Neverland,DeFi,Lending,RevenueReward (Impl.),0x1df0f25344d29f541a53502a96dfed3066d40b0a,DeFi::Lending;NFT::Other;Governance::Other
 Neverland,DeFi,Lending,RevenueReward (Proxy),0xff20ac10eb808b1e31f5cfca58d80ede2ba71c43,DeFi::Lending;NFT::Other;Governance::Other
 Neverland,DeFi,Lending,StableDebtToken,0xa02c3e9d0b9dec0a7f53908742af141af4ef45b5,DeFi::Lending;NFT::Other;Governance::Other
-Neverland,DeFi,Lending,StableOne,0x09bd1e4bc6f035d5025d0e86a9b24a7fc9f1125b,DeFi::Lending;NFT::Other;Governance::Other
-Neverland,DeFi,Lending,StableTwo,0xb00e2d557cfcf73a3c6d9fe98332290fac7546e4,DeFi::Lending;NFT::Other;Governance::Other
 Neverland,DeFi,Lending,SupplyLogic,0x4c505f18c39ef5881bcb5ebfbdd89e607ea2185d,DeFi::Lending;NFT::Other;Governance::Other
 Neverland,DeFi,Lending,USDC_AToken,0x38648958836ea88b368b4ac23b86ad44b0fe7508,DeFi::Lending;NFT::Other;Governance::Other
 Neverland,DeFi,Lending,USDC_StableDebtToken,0x7491e87eed26418ff67422169a7608e67d691978,DeFi::Lending;NFT::Other;Governance::Other
 Neverland,DeFi,Lending,USDC_VariableDebtToken,0xb26fb5e35f6527d6f878f7784ea71774595b249c,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,USDT0_AToken,0x39f901c32b2e0d25ae8deaa1ee115c748f8f6bdf,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,USDT0_StableDebtToken,0xc76a07fac2bb9b1c43e7702b0f96b2d15fd037e1,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,USDT0_VariableDebtToken,0xa2d753458946612376ce6e5704ab1cc79153d272,DeFi::Lending;NFT::Other;Governance::Other
 Neverland,DeFi,Lending,UiIncentiveDataProviderV3,0x81242ada455d766b5032eb4abf9baeaa49077450,DeFi::Lending;NFT::Other;Governance::Other
 Neverland,DeFi,Lending,UiPoolDataProviderV3,0x0733e79171dd5a5e8af41e387c6299bcfe6a7e55,DeFi::Lending;NFT::Other;Governance::Other
 Neverland,DeFi,Lending,UserVaultBeacon,0xc9fe3db9b14a538fab2eeba33a8feab6ed7ddceb,DeFi::Lending;NFT::Other;Governance::Other
@@ -285,12 +580,31 @@ Neverland,DeFi,Lending,UserVaultFactory (Proxy),0xe82f2fa836bc5db42a36c66027c011
 Neverland,DeFi,Lending,UserVaultImplementation,0x49f745b5265b6ca695e60e89dc50fd36edd252ab,DeFi::Lending;NFT::Other;Governance::Other
 Neverland,DeFi,Lending,UserVaultRegistry,0x794ccdb375ab08c340528a71ba433a9016c657a5,DeFi::Lending;NFT::Other;Governance::Other
 Neverland,DeFi,Lending,VariableDebtToken,0x936c7e76905c83edc12f8a5ca993a6609d8bbaa2,DeFi::Lending;NFT::Other;Governance::Other
-Neverland,DeFi,Lending,VolatileOne,0x9b4528918159e1ae937740051fb69bcd4e164cc3,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,WBTC_AToken,0x34c43684293963c546b0ab6841008a4d3393b9ab,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,WBTC_StableDebtToken,0xf5512227759c963b03ac1bdcaf176f3a68880192,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,WBTC_VariableDebtToken,0x544a5ff071090f4ee3ad879435f4dc1c1eec1873,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,WETH_AToken,0x31f63ae5a96566b93477191778606bebdc4ca66f,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,WETH_StableDebtToken,0xd22e72ba1356c4ade09ea0b6463617a6e4349778,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,WETH_VariableDebtToken,0xde6c157e43c5d9b713c635f439a93ca3be2156b6,DeFi::Lending;NFT::Other;Governance::Other
 Neverland,DeFi,Lending,WMON_AToken,0xd0fd2cf7f6ceff4f96b1161f5e995d5843326154,DeFi::Lending;NFT::Other;Governance::Other
 Neverland,DeFi,Lending,WMON_StableDebtToken,0x81b19837295a2b4b1f6e0b2eaa239999294374e4,DeFi::Lending;NFT::Other;Governance::Other
 Neverland,DeFi,Lending,WMON_VariableDebtToken,0x3aca285b9f57832ff55f1e6835966890845c1526,DeFi::Lending;NFT::Other;Governance::Other
 Neverland,DeFi,Lending,WalletBalanceProvider,0x8911db480c1c0c1e06f17c2bc76b26d861e40d47,DeFi::Lending;NFT::Other;Governance::Other
 Neverland,DeFi,Lending,WrappedTokenGatewayV3,0x800409dbd7157813bb76501c30e04596cc478f25,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,gMON_AToken,0x7f81779736968836582d31d36274ed82053ad1ae,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,gMON_StableDebtToken,0xd8842741b71e01aee846abec07cf26c52302d010,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,gMON_VariableDebtToken,0x905999cc7b7e26c1cb2761f6c00909b65c862b78,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,sMON_AToken,0xdfc14d336aea9e49113b1356333fd374e646bf85,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,sMON_StableDebtToken,0xcde3986864bd06ace8726b65b9fd5b9cbb4ea47d,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,sMON_VariableDebtToken,0x26a823b286b5de1185ef0d90f77b7f04e6e24306,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,shMON_AToken,0xc64d73bb8748c6fa7487ace2d0d945b6fbb2ecde,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,shMON_StableDebtToken,0x1b1947ecaa12e644d09165f3c43ce059f6e24274,DeFi::Lending;NFT::Other;Governance::Other
+Neverland,DeFi,Lending,shMON_VariableDebtToken,0xbb64e46e995be16eef3ec009442abc0f2c8381b1,DeFi::Lending;NFT::Other;Governance::Other
+Peridot,DeFi,Lending,$P,0x96650bebc549456f253974c11fc6cbe28172a2d2,DeFi::Lending
+Peridot,DeFi,Lending,JumpRateModelV2,0x1fb287e1c4f7b4c6b511f4d190523814593ad84e,DeFi::Lending
+Peridot,DeFi,Lending,PeridottrollerG7Implementation,0x81c0533c8132bc20c3a53f599925ab01c7da2b3a,DeFi::Lending
+Peridot,DeFi,Lending,PeridottrollerG7Proxy,0x6d208789f0a978af789a3c8ba515749598940716,DeFi::Lending
+Peridot,DeFi,Lending,SimpleOracle,0x42d5b37cd3682edd0a3dbb242c579bdcb108f47c,DeFi::Lending
 Sumer,DeFi,Lending,CompLogic,0x332f124323a1da3aeca4860f3b2b4a4c0df232ae,DeFi::Lending;DeFi::CDP;DeFi::Cross Chain;DeFi::Synthetics
 Sumer,DeFi,Lending,Comptroller,0x2d9b96648c784906253c7fa94817437ef59cf226,DeFi::Lending;DeFi::CDP;DeFi::Cross Chain;DeFi::Synthetics
 Sumer,DeFi,Lending,RedemptionManager,0xbb134359b3e6794127c7232680f959ce6bf60814,DeFi::Lending;DeFi::CDP;DeFi::Cross Chain;DeFi::Synthetics
@@ -298,6 +612,8 @@ Sumer,DeFi,Lending,Timelock,0x0f0af0e3deb8a884fcb54907ba571c84c2eb3042,DeFi::Len
 Sumer,DeFi,Lending,sdrMON,0x16c7d1f9ea48f7de5e8bc3165a04e8340da574fa,DeFi::Lending;DeFi::CDP;DeFi::Cross Chain;DeFi::Synthetics
 Sumer,DeFi,Lending,sdrUSDC,0xe19fd48c972e2db074c4b0b29ff2f0d3e1aefe52,DeFi::Lending;DeFi::CDP;DeFi::Cross Chain;DeFi::Synthetics
 Sumer,DeFi,Lending,sdrWETH,0xf4db30e806609516d14cdb53d9bc306c99505451,DeFi::Lending;DeFi::CDP;DeFi::Cross Chain;DeFi::Synthetics
+Tadle,DeFi,Lending,TadleConnectors,0xa8dd40ce8d5fca018160d21d5142fb4f938f5453,DeFi::Lending;DeFi::CDP;DeFi::Launchpads;DeFi::Liquid Staking;DeFi::DEX Aggregator;DeFi::Yield Aggregator;Infra::Interoperability;DeFi::Stablecoin;DeFi::Yield
+Tadle,DeFi,Lending,TadleSandBoxFactory,0x89d6aee63bd92a9a021d3c4943a66c8e4c8d31f9,DeFi::Lending;DeFi::CDP;DeFi::Launchpads;DeFi::Liquid Staking;DeFi::DEX Aggregator;DeFi::Yield Aggregator;Infra::Interoperability;DeFi::Stablecoin;DeFi::Yield
 Timeswap,DeFi,Lending,TimeswapV2LiquidityToken,0xca9fea121c08f7b71f4625af75c9a8bfc7adbc3b,DeFi::Lending;DeFi::CDP
 Timeswap,DeFi,Lending,TimeswapV2OptionFactory,0x9515507fc36174e0babac382b6640ef2325e61da,DeFi::Lending;DeFi::CDP
 Timeswap,DeFi,Lending,TimeswapV2Periphery,0x69a88955d83d7952142dda9c688716ca51bc7eeb,DeFi::Lending;DeFi::CDP
@@ -343,11 +659,82 @@ TownSquare,DeFi,Lending,USDC Pool,0xdb4e67f878289a820046f46f6304fd6ee1449281,DeF
 TownSquare,DeFi,Lending,USDC SpokeToken,0xa457235b68606a7921b7c525d92e9592e793b4c0,DeFi::Lending;DeFi::Cross Chain
 TownSquare,DeFi,Lending,WMON Pool,0xf358f9e4ba7d210fde8c9a30522bb0063e15c4bb,DeFi::Lending;DeFi::Cross Chain
 TownSquare,DeFi,Lending,WMON SpokeToken,0xa2b1ac2bb0a6ad5e74d74f8809a2f935813d273a,DeFi::Lending;DeFi::Cross Chain
+Mellow Protocol,DeFi,Leveraged Farming,BasicRedeemHook,0x00000001d757b0554f564d88c6855ccd9bab5b6c,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,BasicShareManager_Implementation,0x00000001198a8ac01f183cfc340fdbf01b441c83,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,BitmaskVerifier,0x000000019a3e622ee54b1f6e155fb740d1fd9f0f,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,Consensus_Factory,0x2e84d9e713610d7eafcdf7f998ce1bdb835f5668,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,Consensus_Implementation,0x000000005ab29daa855dfa661d8d9d25cd88c103,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,DepositQueue_Factory,0xa67330bb89668ba66502a6d6670dacf5f334eb53,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,DepositQueue_Implementation,0x00000004f672aa091ebf44545cb8ae75143d8f4c,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,ERC20Verifier,0x00000009710aebae63b94487a7d4a0b07e6c4837,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,ERC20Verifier_Factory,0xc14bcd44686ee3eaf483edc5436d93e97ac50d71,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,Factory_Factory,0x000000049057e402f46800cdc08199b1358a7691,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,Factory_Implementation,0x0000000834bd05fe8a94b5e0bfec2a58a4c9171e,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,Fastlane_DepositQueue_shMON,0xd25b8b6b15c19d6eff91bd00aa17ad9c5d09a3d3,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,Fastlane_FeeManager,0x0d4c9dfa80c7f291d0de6b305b3308e45f966445,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,Fastlane_Oracle,0xd585e5660e1c22b6c0b0374396d728fb8c284235,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,Fastlane_RedeemQueue_shMON,0xb03cac60f47b9ae204ef4d5576a378c4c62d0471,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,Fastlane_RiskManager,0x80a22358ec0a749eabaa26eff7cb1f0b6d4007d3,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,Fastlane_Subvault_0,0xb2a616b410c3d7eb83fbe0ec4830daf9a6e4356b,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,Fastlane_Timelock_Controller,0x6ba64c154347b5fba27b64dd3a773445341461b0,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,Fastlane_Vault,0xd7441a389df504d2124529157152aaad766456da,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,Fastlane_Verifier_0,0xfa6f89537231d0321affa8fe4d8faf52c9f9e008,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,FeeManager_Factory,0xdc40601eee986e739831a96669f931eb818f43d2,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,FeeManager_Implementation,0x00000005e070fe45d9bc67a4e3201994347ec9f5,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,MVT,0x04f8c38ae80bcf690b947f60f62bda18145c3d67,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,Monad_DepositQueue_MON,0x4b54bf09e779578a5afd96c84b78aa30488014b4,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,Monad_DepositQueue_WMON,0x47a3d2eba87628d643664fca5d0fe2fca48265c1,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,Monad_FeeManager,0x164142c927f8874264f8a2fc65aea7e93b218156,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,Monad_Oracle,0xeb9144abd066233e48b549b97a23ff7358bcd424,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,Monad_RedeemQueue_MON,0x1aea6d1e29966bb53f8b6ed02ad93884a0c03541,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,Monad_RedeemQueue_WMON,0x7c68288064f54e274694cb2c08c0eea5d1c05592,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,Monad_RiskManager,0x28bd6fea28263ffe63d67b211ab01180ebaa928c,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,Monad_Timelock_Controller,0xdcf8808e66ba87c71b88d0e2672eb90a6e85fda0,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,Monad_Vault,0x912644cdfada93469b8ab5b4351bdcff61691613,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,OracleHelper,0x00000002449a991f159727e9aa64583a560e5efd,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,Oracle_Factory,0x2c2ca09e5511bd69ffe9f156254b901ddc4f7fc5,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,Oracle_Implementation,0x0000000ccdcc8a633bc9738fd8d3129e70f7a049,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,RedeemQueue_Factory,0xa92cea07d6009de8f2aa377a4298deccf94d942a,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,RedeemQueue_Implementation,0x00000004051f95d5836ff4149ca4a26b5cfb8784,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,RedirectingDepositHook,0x0000000ef1a84ae7d455249d61d33e6397c46d72,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,RiskManager_Factory,0x195b23ba895ed8c951a093d295a33ecbe2bd8edd,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,RiskManager_Implementation,0x00000004d3a91eb46d4f405bf539eeae30a01782,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,ShareManager_Factory,0xfa6cd2822912f86f17429683334f2b79fb5cd7e7,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,SignatureDepositQueue_Implementation,0x00000008d840ca76629607583c697fedfa5fdd49,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,SignatureRedeemQueue_Implementation,0x00000002cb862cedd58b73b24996f54e43a3e00f,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,Subvault_Factory,0x5e11c97db901edd8932fdaa77b015da89f3f289e,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,Subvault_Implementation,0x000000019aea95f32accbd160b12dc39c3b6c0a7,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,TokenizedShareManager_Implementation,0x0000000f017d7077e34f4292e034478c371eb2c3,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,VaultConfigurator,0x0000000594e51babd99dae398e877c474201f1a5,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,Vault_Factory,0x04c0287dede16e0c04a1c2a52f31400a88f1df4c,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,Vault_Implementation,0x000000061cf24abc52e54ba275579e21e96e7716,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,Verifier_Factory,0x48766b2e6b321f6550988d1a2e09b42e91708759,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,Verifier_Implementation,0x00000001ea707ec337425aeb128d5c92ebac3da0,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Mellow Protocol,DeFi,Leveraged Farming,vshMON,0x982c66d60a18f05db7d1a8987189310062d2f818,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
+Fastlane,DeFi,Liquid Staking,Atlas,0x2da28fedc4643c787cb5c5e84fa6aadb596875e8,DeFi::Liquid Staking;DeFi::Staking;DeFi::MEV
+Fastlane,DeFi,Liquid Staking,ShMonad,0x1b68626dca36c7fe922fd2d55e4f631d962de19c,DeFi::Liquid Staking;DeFi::Staking;DeFi::MEV
+Magma,DeFi,Liquid Staking,gMON,0x8498312a6b3cbd158bf0c93abdcf29e6e4f55081,DeFi::Liquid Staking;DeFi::Staking;DeFi::MEV
 Puffer,DeFi,Liquid Staking,pufETH,0x37d6382b6889ccef8d6871a8b60e667115eddbcf,DeFi::Liquid Staking;DeFi::Staking
+aPriori,DeFi,Liquid Staking,ValidatorsRegistry,0x77f6e4103e32d6146e29cf9ed1645e170f90bc2b,DeFi::Liquid Staking;DeFi::MEV;DeFi::DEX Aggregator
+aPriori,DeFi,Liquid Staking,aprMON,0x0c65a0bc65a5d819235b71f554d210d3f80e0852,DeFi::Liquid Staking;DeFi::MEV;DeFi::DEX Aggregator
 ApeBond,DeFi,Other,ApeBond,0x1b7858f745211dba1387fe30124ebca2d706d7dd,DeFi::Other
 ApeBond,DeFi,Other,ApeBondFactory,0xd731d8103132275b21a27ea8c8428ac6b97c5d35,DeFi::Other
 ApeBond,DeFi,Other,BondNft,0xc765c358622cb346f236f8bfffe53036e421bb4e,DeFi::Other
 ApeBond,DeFi,Other,BondTreasury,0x1f226c1008f5de89614bb15d09745128cf2a4d62,DeFi::Other
+GoPlus SafeToken Locker,DeFi,Other,TokenLocker,0xf17a08a7d41f53b24ad07eb322cbbda2ebdec04b,DeFi::Other
+GoPlus SafeToken Locker,DeFi,Other,UniV3LPLocker,0x24a9eb23de8e6f59bdb981b03e847f0f3abbfa0d,DeFi::Other
+Sablier,DeFi,Other,FlowNFTDescriptor,0xf51bb8bd1cfc7c890db68c39dcca67cad7810ce4,DeFi::Other
+Sablier,DeFi,Other,Helpers,0xa0a1ac47260b95d334763473b868117ef7343aa0,DeFi::Other
+Sablier,DeFi,Other,LockupMath,0x1feb172238638897b13b69c65feb508a0a96b35d,DeFi::Other
+Sablier,DeFi,Other,LockupNFTDescriptor,0x619e7f9832522edebd883482cd3d84653a050725,DeFi::Other
+Sablier,DeFi,Other,SablierBatchLockup,0x4fcacf614e456728caea87f475bd78ec3550e20b,DeFi::Other
+Sablier,DeFi,Other,SablierFactoryMerkleInstant,0xab15e653cd3bbce7b7412f81056a450bc0f2e7b9,DeFi::Other
+Sablier,DeFi,Other,SablierFactoryMerkleLL,0x7dcab43465c1ebda92133c92262a6c55394dd69e,DeFi::Other
+Sablier,DeFi,Other,SablierFactoryMerkleLT,0xfa2bf3eddefe67631bffa5c53b621a9c6bebc9c3,DeFi::Other
+Sablier,DeFi,Other,SablierFactoryMerkleVCA,0xcdcc46a7759de01271e533bbc3b0f32899545a76,DeFi::Other
+Sablier,DeFi,Other,SablierFlow,0x0340a829b6dc3adf7710a5baf1970914af4977f5,DeFi::Other
+Sablier,DeFi,Other,SablierLockup,0x003f5393f4836f710d492ad98d89f5bfccf1c962,DeFi::Other
+LeverUp,DeFi,Perpetuals / Derivatives,LV,0x1001ff13bf368aa4fa85f21043648079f00e1001,DeFi::Perpetuals / Derivatives;DeFi::RWA;DeFi::Stablecoin
 LeverUp,DeFi,Perpetuals / Derivatives,LVMON,0x91b81bfbe3a747230f0529aa28d8b2bc898e6d56,DeFi::Perpetuals / Derivatives;DeFi::RWA;DeFi::Stablecoin
 LeverUp,DeFi,Perpetuals / Derivatives,LVMON_Issuer,0xbf52ced429c3901afa4bbf25849269ef7a4ad105,DeFi::Perpetuals / Derivatives;DeFi::RWA;DeFi::Stablecoin
 LeverUp,DeFi,Perpetuals / Derivatives,LVUSD,0xfd44b35139ae53fff7d8f2a9869c503d987f00d1,DeFi::Perpetuals / Derivatives;DeFi::RWA;DeFi::Stablecoin
@@ -358,6 +745,33 @@ Narwhal Finance,DeFi,Perpetuals / Derivatives,PairInfos,0x5c39f9739c123e64535f62
 Narwhal Finance,DeFi,Perpetuals / Derivatives,Trading,0x3556d16519e3407ad43d5d7b3011bb095553d77a,DeFi::Perpetuals / Derivatives
 Narwhal Finance,DeFi,Perpetuals / Derivatives,TradingStorage,0xfbc1cf329ad241352e777ab7bc17962452b87949,DeFi::Perpetuals / Derivatives
 Narwhal Finance,DeFi,Perpetuals / Derivatives,TradingVault,0xb412a5d72c203df308624e435659c9f70b6960aa,DeFi::Perpetuals / Derivatives
+Pingu Exchange,DeFi,Perpetuals / Derivatives,AssetStore,0x379a14208c15e99177b6a2003b77f38f80d66a2f,DeFi::Perpetuals / Derivatives
+Pingu Exchange,DeFi,Perpetuals / Derivatives,BuyBack,0xbfc60682970fd08e2e4eea96f8b7b6bfa25eab53,DeFi::Perpetuals / Derivatives
+Pingu Exchange,DeFi,Perpetuals / Derivatives,BuyBackStore,0x1b313e19df0b33880e99f38ac58e6bbdcc5b1810,DeFi::Perpetuals / Derivatives
+Pingu Exchange,DeFi,Perpetuals / Derivatives,DataStore,0x631c6e0d5ae2e1f6a39871a9be97f1d9d43d1c83,DeFi::Perpetuals / Derivatives
+Pingu Exchange,DeFi,Perpetuals / Derivatives,FundStore,0x576d51fb872065dc4af6f83902fd4078ebcc2f03,DeFi::Perpetuals / Derivatives
+Pingu Exchange,DeFi,Perpetuals / Derivatives,Funding,0xd7071c24f765ca1ad21ff8e9d89ad45845af64df,DeFi::Perpetuals / Derivatives
+Pingu Exchange,DeFi,Perpetuals / Derivatives,FundingStore,0xe0ffd61de51ce62d47845c5e6f10c35e8807224d,DeFi::Perpetuals / Derivatives
+Pingu Exchange,DeFi,Perpetuals / Derivatives,MarketStore,0xe5cdf1b3b36b9799b33e5c6f8c4c8b03848c6470,DeFi::Perpetuals / Derivatives
+Pingu Exchange,DeFi,Perpetuals / Derivatives,OrderStore,0xdd9bb855fcd8bc3f45b54b9c1f9de43dd2dff06b,DeFi::Perpetuals / Derivatives
+Pingu Exchange,DeFi,Perpetuals / Derivatives,Orders,0xee6a587c06e02f330c00ea3e7c102d9b1d8a52f3,DeFi::Perpetuals / Derivatives
+Pingu Exchange,DeFi,Perpetuals / Derivatives,PINGU,0xa2426cd97583939e79cfc12ac6e9121e37d0904d,DeFi::Perpetuals / Derivatives
+Pingu Exchange,DeFi,Perpetuals / Derivatives,Pool,0xb1744c2e2b9b34630551338568698368489aeb7f,DeFi::Perpetuals / Derivatives
+Pingu Exchange,DeFi,Perpetuals / Derivatives,PoolStore,0xcb30dff8515d4170bbf1fd0ff01cb21f9acc4caf,DeFi::Perpetuals / Derivatives
+Pingu Exchange,DeFi,Perpetuals / Derivatives,PositionStore,0x06fc8b836f78a2c95416d33028452f9c95aac6b4,DeFi::Perpetuals / Derivatives
+Pingu Exchange,DeFi,Perpetuals / Derivatives,Positions,0x3d7ec93875b6a6f0a5102fe29f887ee6e751b12f,DeFi::Perpetuals / Derivatives
+Pingu Exchange,DeFi,Perpetuals / Derivatives,Processor,0x75f2948bff7d6d6bb6133cc5fe3c710656c2a939,DeFi::Perpetuals / Derivatives
+Pingu Exchange,DeFi,Perpetuals / Derivatives,PythUpdater,0x605ad21a6a9328d74fa88aa80f23dbd4e746b2fd,DeFi::Perpetuals / Derivatives
+Pingu Exchange,DeFi,Perpetuals / Derivatives,Rebate,0x15e5e522a44b562f3c87da77c87ec858f62d221e,DeFi::Perpetuals / Derivatives
+Pingu Exchange,DeFi,Perpetuals / Derivatives,RebateStore,0xe199e871fc628488d6cd1b2d192ed51dc8f5b88f,DeFi::Perpetuals / Derivatives
+Pingu Exchange,DeFi,Perpetuals / Derivatives,Referral,0xdfd770c6ca5f690289ddf6a173025719c07996c4,DeFi::Perpetuals / Derivatives
+Pingu Exchange,DeFi,Perpetuals / Derivatives,ReferralStore,0xcf410b10c0f30948033e47b7209cc026054e9f18,DeFi::Perpetuals / Derivatives
+Pingu Exchange,DeFi,Perpetuals / Derivatives,RiskStore,0x66700b04bd1a912996fdb90f05c1b0965fef1b62,DeFi::Perpetuals / Derivatives
+Pingu Exchange,DeFi,Perpetuals / Derivatives,RoleStore,0x4f6e71a81a72fbd33c599596a7e3e28aa4b44ebb,DeFi::Perpetuals / Derivatives
+Pingu Exchange,DeFi,Perpetuals / Derivatives,Signable,0x99903470cc631d01f271340c94e224262168ed95,DeFi::Perpetuals / Derivatives
+Pingu Exchange,DeFi,Perpetuals / Derivatives,Staking,0xd53b51ae4216b80422216269edf064e9de89749b,DeFi::Perpetuals / Derivatives
+Pingu Exchange,DeFi,Perpetuals / Derivatives,StakingStore,0xd849497f08180d3f1a79397ef8ae4dbd05ec1a5c,DeFi::Perpetuals / Derivatives
+Pingu Exchange,DeFi,Perpetuals / Derivatives,Swapper,0x133f72734a185ff821705af80d57b8823ca8bc8e,DeFi::Perpetuals / Derivatives
 Mu Protocol,DeFi,RWA,AZND,0x4917a5ec9fcb5e10f47cbb197abe6ab63be81fe8,DeFi::RWA;DeFi::Yield
 Mu Protocol,DeFi,RWA,AZNDPriceFeed (Implementation),0x0b4c9dd5a3ecc14225d9b895716a65e4a7ad3fec,DeFi::RWA;DeFi::Yield
 Mu Protocol,DeFi,RWA,AZNDPriceFeed (Proxy),0x9d839e0a6a86b05643b4811de06ef09985ebbaef,DeFi::RWA;DeFi::Yield
@@ -383,12 +797,22 @@ Mu Protocol,DeFi,RWA,muBOND,0x336d414754967c6682b5a665c7daf6f1409e63e8,DeFi::RWA
 Circle USDC,DeFi,Stablecoin,USDC,0x754704bc059f8c67012fed69bc8a327a5aafb603,DeFi::Stablecoin
 Kintsu,DeFi,Staking,StakedMonad (Implementation),0xf16f96c342913575e46cff1bb827533c0b285138,DeFi::Staking;DeFi::Liquid Staking;DeFi::Yield;DeFi::Trading Interfaces
 Kintsu,DeFi,Staking,StakedMonad (Proxy),0xa3227c5969757783154c60bf0bc1944180ed81b9,DeFi::Staking;DeFi::Liquid Staking;DeFi::Yield;DeFi::Trading Interfaces
+SatLayer,DeFi,Staking,SatLayerPool,0x6caeaffc53b91094542b6cb9c51f448db74dfd8c,DeFi::Staking;DeFi::Liquid Staking
 Definitive Finance,DeFi,Trading Interfaces,VaultBeacon,0x000000005ae5f42270cdf0e41960840e7fb1b2dc,DeFi::Trading Interfaces
 Definitive Finance,DeFi,Trading Interfaces,VaultFactory,0xdef00000cc0a125ba7962e8113d3b69786851736,DeFi::Trading Interfaces
 Definitive Finance,DeFi,Trading Interfaces,VaultImplementation,0x0000000d1126e7651931461f31be87712cd9e05c,DeFi::Trading Interfaces
+Mevx,DeFi,Trading Interfaces,MevxSwapRouterCA01,0x0b167e4e6fd71f373deb34d1018a8dd335a52531,DeFi::Trading Interfaces
+Mevx,DeFi,Trading Interfaces,MevxSwapRouterDF01,0x090a4a3d8a265ab5b842697dba51173eb20f3dc5,DeFi::Trading Interfaces
+Mevx,DeFi,Trading Interfaces,MevxSwapRouterDSW02,0x39818b70d5525e28c9c19316e99e1e9b576dccc1,DeFi::Trading Interfaces
+Mevx,DeFi,Trading Interfaces,MevxSwapRouterFL01,0xb471bec8cf0d70f5eb5a892c7bba04ca80e6c291,DeFi::Trading Interfaces
+Mevx,DeFi,Trading Interfaces,MevxSwapRouterKR01,0x29e35a617ebdbe5c532aabcf2c277d1ae20dfa5d,DeFi::Trading Interfaces
 Mevx,DeFi,Trading Interfaces,MevxSwapRouterMT3,0xf867f2bfd6c1926770e6451a72b2899231678a56,DeFi::Trading Interfaces
+Mevx,DeFi,Trading Interfaces,MevxSwapRouterNF01,0x4b087c54da0a465e4b85f07efac5480bb018d6d3,DeFi::Trading Interfaces
+Mevx,DeFi,Trading Interfaces,MevxSwapRouterPTR01,0xac37c11ae6f984337da3f7e6a5631b365bbd308f,DeFi::Trading Interfaces
 Mevx,DeFi,Trading Interfaces,MevxSwapRouterPV2,0xc67134cc40765fc28e2d54f58cd93d382d9137d8,DeFi::Trading Interfaces
 Mevx,DeFi,Trading Interfaces,MevxSwapRouterPV3,0xa26326af694d03a12250df01733b173c05153a76,DeFi::Trading Interfaces
+Mevx,DeFi,Trading Interfaces,MevxSwapRouterST01,0x001359f88b63acf76468f6ed0781b4b26a8b33ed,DeFi::Trading Interfaces
+Mevx,DeFi,Trading Interfaces,MevxSwapRouterSW01,0x9b69c7bc2a3ded73cea62cf5310b68e790bbc580,DeFi::Trading Interfaces
 Mevx,DeFi,Trading Interfaces,MevxSwapRouterUV2,0x92ef088bc025ebaf7c9521dfa82130d33934eb30,DeFi::Trading Interfaces
 Mevx,DeFi,Trading Interfaces,MevxSwapRouterUV3,0xd1f47ef81354663f3786b62b5b95c1015da48ca4,DeFi::Trading Interfaces
 Mona Trading Bot,DeFi,Trading Interfaces,MonaV2Router01,0x27a6c2e8ae9e7f96040394a1f8fe2a202ce0e599,DeFi::Trading Interfaces
@@ -396,8 +820,18 @@ Mona Trading Bot,DeFi,Trading Interfaces,MonaV2Router02,0x95def69a01962f0cb24e2c
 Mona Trading Bot,DeFi,Trading Interfaces,MonaV3Router01,0x7e75d7eb235703d8acbd71382bf2f344fb23ab5b,DeFi::Trading Interfaces
 Mona Trading Bot,DeFi,Trading Interfaces,MonaV3Router02,0x50adc49f643f06888a8950dd172ae48221e49a38,DeFi::Trading Interfaces
 Mona Trading Bot,DeFi,Trading Interfaces,MonaV3Router03,0x09ec7d8d3065097d5859539ed4590dd76c0c77e0,DeFi::Trading Interfaces
+Syrax,DeFi,Trading Interfaces,Router,0x449134df9148d9a5cf12bc17f12dff602bd153a4,DeFi::Trading Interfaces
 Enjoyoors,DeFi,Yield,Vault,0x6b5e332387e8bec98c52f10a72952b17176b4f1b,DeFi::Yield
 Enjoyoors,DeFi,Yield,WithdrawalApprover,0x71f60773885011cc0a61613078733b4738b38f35,DeFi::Yield
+Lagoon,DeFi,Yield,ProtocolRegistry,0xbf994c358f939011595ab4216ac005147863f9d6,DeFi::Yield;DeFi::Asset Allocators
+Lagoon,DeFi,Yield,VaultFactory,0xccdc4d06ca12a29c47d5d105fed59a6d07e9cf70,DeFi::Yield;DeFi::Asset Allocators
+Sherpa,DeFi,Yield,CCIPPool,0xf9bc71bedeb6ba90de4cf79f09870d99b0ba2bf0,DeFi::Yield;DeFi::Trading Interfaces
+Sherpa,DeFi,Yield,ConfigManager,0xfa82b15cca7668f011171a026895dde0defcc46b,DeFi::Yield;DeFi::Trading Interfaces
+Sherpa,DeFi,Yield,SherpaRouter,0xf37dd3acbcb7b3be161f8f67d09273d5bc09bd85,DeFi::Yield;DeFi::Trading Interfaces
+Sherpa,DeFi,Yield,SherpaUSD,0x58fc8a79055519af779308a60a7f1315caa266af,DeFi::Yield;DeFi::Trading Interfaces
+Sherpa,DeFi,Yield,SherpaVault,0x96043804d00dcec238718eedad9ac10719778380,DeFi::Yield;DeFi::Trading Interfaces
+Sherpa,DeFi,Yield,SingleSigActionModule,0x352c308f0cb6f6b9443cbf38b89e62ca7808a61a,DeFi::Yield;DeFi::Trading Interfaces
+Sherpa,DeFi,Yield,TradingStrategyModule,0x35708afd736873c92134addbd2c76689993ab9c4,DeFi::Yield;DeFi::Trading Interfaces
 Accountable,DeFi,Yield Aggregator,AccountableFixedTerm,0xd0a53e724ea9cb041e30f0243e3c84bdea238dfa,DeFi::Yield Aggregator
 Accountable,DeFi,Yield Aggregator,AccountableOpenTerm,0x59b0b84371bb3261fad538c512efffc414cc1725,DeFi::Yield Aggregator
 Accountable,DeFi,Yield Aggregator,AsyncVaultFactory,0xee004aef79cb14bf31bfbfb14346e01fb7e5a2e8,DeFi::Yield Aggregator
@@ -406,6 +840,15 @@ Accountable,DeFi,Yield Aggregator,FixedTermFactory,0x8a5caf00c3eb20aec11fc35c153
 Accountable,DeFi,Yield Aggregator,GlobalRegistry,0xf786154e56e5c88ce984800dea71b48ea4ffabfe,DeFi::Yield Aggregator
 Accountable,DeFi,Yield Aggregator,OpenTermFactory,0x606556a6b544ecdcbf15af73a63b67516dc16ad7,DeFi::Yield Aggregator
 Accountable,DeFi,Yield Aggregator,RewardsFactory,0x1106a70223e98e2b1807bf3e12698afe2c5693e6,DeFi::Yield Aggregator
+aarna protocol,DeFi,Yield Aggregator,BaseVault,0x4c09558a0d000240726679fc3805c3918922d6c6,DeFi::Yield Aggregator
+aarna protocol,DeFi,Yield Aggregator,GearBoxAdapter,0xae68912a8b1b74cb65df892f2c8f42074f9640ba,DeFi::Yield Aggregator
+earnAUSD,DeFi,Yield Aggregator,assetsWhitelist,0xcea701f0ff0a2e8a51a5c5c1d2b6b69bfa849989,DeFi::Yield Aggregator
+earnAUSD,DeFi,Yield Aggregator,contract,0x36edbf0c834591bfdfcac0ef9605528c75c406aa,DeFi::Yield Aggregator
+earnAUSD,DeFi,Yield Aggregator,proxyAdmin,0x04ae5a71ea943f9fc4ecb3bd4118e381cd04067d,DeFi::Yield Aggregator
+earnAUSD,DeFi,Yield Aggregator,sendersWhitelist,0x0000000000000000000000000000000000000000,DeFi::Yield Aggregator
+earnAUSD,DeFi,Yield Aggregator,timeLockedCallsContract,0x95f3458cb7fe0fd8d22da406f688aa6ac74aea84,DeFi::Yield Aggregator
+earnAUSD,DeFi,Yield Aggregator,tokenProxy,0x103222f020e98bba0ad9809a011fdf8e6f067496,DeFi::Yield Aggregator
+earnAUSD,DeFi,Yield Aggregator,tokenProxyAdmin,0x942147e26b4f320b1f1d34895497ab59a56dceec,DeFi::Yield Aggregator
 Thevapelabs,DePIN,Data Collection,MIST,0xfa2f863eb512434e99e2365fa5f7ac7674dde000,DePIN::Data Collection;DePIN::Data Labelling;AI::Consumer AI
 Thevapelabs,DePIN,Data Collection,PointSyncer,0x925726a0aabb82464d21f6795a457fa9fe0a57c1,DePIN::Data Collection;DePIN::Data Labelling;AI::Consumer AI
 Thevapelabs,DePIN,Data Collection,Staking,0x51fff43eb9cc9ce9de491e86dcfbfbf0864cfeed,DePIN::Data Collection;DePIN::Data Labelling;AI::Consumer AI
@@ -417,9 +860,31 @@ ESP.Fun,Gaming,Games,PackSale,0x26448da45e80709b3e4adffa4a98c62925ea836f,Gaming:
 ESP.Fun,Gaming,Games,PackSaleReveal,0x7f51991a3c9c779a841caefeee4c0167bf6f871a,Gaming::Games;NFT::Collections;DeFi::DEX
 ESP.Fun,Gaming,Games,Player,0xc99a1d62a453481b24c5364403e61c4254218d28,Gaming::Games;NFT::Collections;DeFi::DEX
 ESP.Fun,Gaming,Games,PlayerPack,0x3c1bcd19455f3fa33234faf9c73f9e6ea055a899,Gaming::Games;NFT::Collections;DeFi::DEX
+Grimmy's,Gaming,Games,Flippy,0x3717f45e87744e48d954684f34f57902da1134da,Gaming::Games;Gaming::Mobile-First
+Grimmy's,Gaming,Games,Grimmy,0xdca99dcc29e19022012c5d755f1b12c61d127857,Gaming::Games;Gaming::Mobile-First
+Grimmy's,Gaming,Games,Stimmy,0x26018cb486254c9697ed654d023c5d737fdd31e4,Gaming::Games;Gaming::Mobile-First
+Levr Bet,Gaming,Games,VaultRush,0x8e334460192926576ccd04271190c9e9e5916560,Gaming::Games;DeFi::Perpetuals / Derivatives
 LumiterraGame,Gaming,Games,LumiterraGameInbox,0x4bd7ab4f4251f6a20e8c64d24f3a2f89f47d80b9,Gaming::Games
 LumiterraGame,Gaming,Games,LumiterraGameItemNFT,0x8f28e18039c37cdb4389e6dcb8703966fb9480a8,Gaming::Games
+LumiterraGame,Gaming,Games,LumiterraGameLumonad,0xda4b24b5e1547d04ab9e4910a747f2d7f893d5ab,Gaming::Games
+LumiterraGame,Gaming,Games,LumiterraGameMarketplace,0xef8bb725e1056317dbafd9b356e63c160e63dcdd,Gaming::Games
+LumiterraGame,Gaming,Games,LumiterraGamePuzzle,0xce57df2ac03874c8f0b3b229d97f91e05267f25c,Gaming::Games
+TeleMafia,Gaming,Games,FamilyRegistry,0xa5a6f68a3fce8d345be024d0e0bf4240bc620be4,Gaming::Games
+TeleMafia,Gaming,Games,TeleMafiaCheckIn,0xae2dfca11311e1652b9d3dc39527465435ea94ef,Gaming::Games
+TeleMafia,Gaming,Games,UpgradeableBeacon,0x5d1814d6981247bc796ca3f48d5cc382dd552552,Gaming::Games
+TeleMafia,Gaming,Games,VaultFactory,0x777acab541a663abbad28de92af6caefd67c72cd,Gaming::Games
+TeleMafia,Gaming,Games,VaultImplementation,0xcba51d62d0b240bb8f60eee98351464beaa5cc77,Gaming::Games
+Valley of Heroes,Gaming,Games,CursedValley,0x989b737562ac6ebe68c2acc5810c2f8fdb11bb1d,Gaming::Games
+Valley of Heroes,Gaming,Games,HONOR,0xd414088c42ac24b4905e0651973acc72ea0ac5b9,Gaming::Games
+Valley of Heroes,Gaming,Games,MysteryBox,0xd8789a9286336272ca5c23add2648827e3efc6ac,Gaming::Games
+Valley of Heroes,Gaming,Games,ValleyHeroes,0xcc09dd25a3953fc918a3b069d343ac566da58808,Gaming::Games
+LootGO,Gaming,Mobile-First,Compass,0xa3522ea57c0bc48e602e2fe9f3929309d9618d96,Gaming::Mobile-First;Gaming::Games;Consumer::Other
+LootGO,Gaming,Mobile-First,Countdown Celebration,0x7415085da3a7c3d9b41bc339a91132d08f964c6c,Gaming::Mobile-First;Gaming::Games;Consumer::Other
+LootGO,Gaming,Mobile-First,Holiday Cheer,0x342abe620ee4b02aeff85ded68105e2f6a0f06ab,Gaming::Mobile-First;Gaming::Games;Consumer::Other
 LootGO,Gaming,Mobile-First,LootDrop,0x3e1fc8371bf6dceffd829ae2134005a4ae890b71,Gaming::Mobile-First;Gaming::Games;Consumer::Other
+LootGO,Gaming,Mobile-First,Looties Logs,0xd2c7fd8e7ab1527a2cb5a7177d1a29393f416a6d,Gaming::Mobile-First;Gaming::Games;Consumer::Other
+LootGO,Gaming,Mobile-First,New Years Resolutions,0x37a8ec703d1d4cbccb90cf9141e9ce6611d87bf2,Gaming::Mobile-First;Gaming::Games;Consumer::Other
+Rug Rumble,Gaming,Mobile-First,RugRumble,0xa33fcf1f510ff1365a7667e3328d042b7d559b8a,Gaming::Mobile-First;Gaming::Games;Consumer::Other
 Nar.bet,Gaming,Other,Baccarat,0xbeaafcc7648354a0722350378bf2a295b9b946a8,Gaming::Other
 Nar.bet,Gaming,Other,Bankroll,0x71dc4a726c92e6bf506f2afc2cee8b63a89b29ec,Gaming::Other
 Nar.bet,Gaming,Other,CoinFlip,0xa7f902847a16f1cdbf043c0653865d40e6695de5,Gaming::Other
@@ -432,12 +897,20 @@ Nar.bet,Gaming,Other,RockPaperScissors,0xda18dc7bb27ca2056fa3ca3da3973218dc18f8e
 Nar.bet,Gaming,Other,Roulette,0x39aa4ecb48c52a018b2a1a700b89c4912fc39967,Gaming::Other
 Nar.bet,Gaming,Other,Slots,0xe3c0b41413bc9913e0ace43a64637ef6c4e39f97,Gaming::Other
 Nar.bet,Gaming,Other,VideoPoker,0x681d2c159ee77f660f5081a3c193fb9613b624c0,Gaming::Other
-Axelar,Infra,Interoperability,AxelarGasService,0xbe406f0189a0b4cf3a05c286473d23791dd44cc6,Infra::Interoperability
+TKGasStation,Infra,AA,TKGasDelegate,0x000066a00056cd44008768e2af00696e19a30084,Infra::AA
+TKGasStation,Infra,AA,TKGasStation,0x00000000008c57a1ce37836a5e9d36759d070d8c,Infra::AA
+Across,Infra,Interoperability,Helios,0x09aea4b2242abc8bb4bb78d537a67a245a7bec64,Infra::Interoperability
+Across,Infra,Interoperability,MulticallHandler,0xec41f75c686e376ab2a4f18bde263ab5822c4511,Infra::Interoperability
+Across,Infra,Interoperability,SpokePool,0xd2ecb3afe598b746f8123cae365a598da831a449,Infra::Interoperability
+Avail Nexus,Infra,Interoperability,Vault,0x00000000ac0ac9d69424fa5adc291d75ec4a0f11,Infra::Interoperability;DeFi::Cross Chain;DeFi::Intents
+Axelar,Infra,Interoperability,AxelarGasService,0x2d5d7d31f671f86c782533cc367f14109a082712,Infra::Interoperability
 Axelar,Infra,Interoperability,AxelarGateway,0xe432150cce91c13a887f7d836923d5597add8e31,Infra::Interoperability
 Axelar,Infra,Interoperability,ConstAddressDeployer,0x98b2920d53612483f91f12ed7754e51b4a77919e,Infra::Interoperability
 Axelar,Infra,Interoperability,Create3Deployer,0x6513aedb4d1593ba12e50644401d976aebdc90d8,Infra::Interoperability
+Axelar,Infra,Interoperability,InterchainTokenFactory,0x83a93500d23fbc3e82b410ad07a6a9f7a0670d66,Infra::Interoperability
+Axelar,Infra,Interoperability,InterchainTokenService,0xb5fb4be02232b1bba4dc8f81dc24c26980de9e3c,Infra::Interoperability
 Axelar,Infra,Interoperability,MonadAxelarTransceiver,0x50beabe4883981624aea01f737b040d1e3fe83fb,Infra::Interoperability
-Axelar,Infra,Interoperability,Operators,0x7f83f5ca2ae4206abff8a3c3668e88ce5f11c0b5,Infra::Interoperability
+Axelar,Infra,Interoperability,Operators,0x7ddb2d76b80b0aa19bdea48eb1301182f4ceefbc,Infra::Interoperability
 Chainlink CCIP,Infra,Interoperability,EthToMonadCommitStore,0xce78587feaddefc30e36520c09fc3a333dd6eef4,Infra::Interoperability
 Chainlink CCIP,Infra,Interoperability,EthToMonadOffRamp,0xbad8b04ed03a1ceac89e8328f4ea7148b2e6d642,Infra::Interoperability
 Chainlink CCIP,Infra,Interoperability,MonadToEthOnRamp,0xb39b7d0cdd79b94b08b334965c1720be51a31986,Infra::Interoperability
@@ -445,7 +918,6 @@ Chainlink CCIP,Infra,Interoperability,PriceRegistry,0xddbc012b8a5c317b9611ee593f
 Chainlink CCIP,Infra,Interoperability,RMN,0xf181489663b5b99af5c5a57310f1d66eeeec2160,Infra::Interoperability
 Chainlink CCIP,Infra,Interoperability,RMNProxy,0x99dfca5d88f4d9c023531f4403966b8d61562acd,Infra::Interoperability
 Chainlink CCIP,Infra,Interoperability,RegistryModuleOwnerCustom,0x4afc00570596d172595a4e38384289b880263006,Infra::Interoperability
-Chainlink CCIP,Infra,Interoperability,Router,0x33566fe5976aaa420f3d5c64996641fc3858cadb,Infra::Interoperability
 Chainlink CCIP,Infra,Interoperability,TokenAdminRegistry,0x11acd984dd680363117b310f6ebdf78fd6c0195f,Infra::Interoperability
 Chainlink CCIP,Infra,Interoperability,TokenPoolFactory,0x4c1d9f81d59270ddc1c0f1a4d7c39264d9ada379,Infra::Interoperability
 Circle CCTP,Infra,Interoperability,MessageTransmitterV2,0x81d40f21f12a8f0e3252bccb954d722d4c464b64,Infra::Interoperability
@@ -466,6 +938,7 @@ LayerZero,Infra,Interoperability,lzExecutor,0x41bdb4aa4a63a5b2efc531858d3118392b
 LayerZero,Infra,Interoperability,receiveUln302,0xe1844c5d63a9543023008d332bd3d2e6f1fe1043,Infra::Interoperability
 LayerZero,Infra,Interoperability,sendUln302,0xc39161c743d0307eb9bcc9fef03eeb9dc4802de7,Infra::Interoperability
 Li.Fi,Infra,Interoperability,Li.Fi,0x026f252016a7c47cdef1f05a3fc9e20c92a49c37,Infra::Interoperability
+Rango,Infra,Interoperability,RangoDiamond,0x69460570c93f9de5e2edbc3052bf10125f0ca22d,Infra::Interoperability;DeFi::DEX Aggregator;DeFi::Cross Chain
 Wormhole,Infra,Interoperability,CCTPv2ReceiveWithGasDropoff,0xd64341a38a5eafb9eb9bacf8a5c52fe858c4abe9,Infra::Interoperability
 Wormhole,Infra,Interoperability,CCTPv2WithExecutor,0xa4d775410fb35d8ce49ad98d3f483a55e532de73,Infra::Interoperability
 Wormhole,Infra,Interoperability,Core,0x194b123c5e96b9b2e49763619985790dc241cac0,Infra::Interoperability
@@ -483,6 +956,7 @@ Wormhole,Infra,Interoperability,TokenBridgeRelayer,0xf7e051f93948415952a22395828
 Wormhole,Infra,Interoperability,TokenBridgeRelayerWithReferrer,0x412f30e9f8b4a1e99eae90209a6b00f5c3cc8739,Infra::Interoperability
 Wormhole,Infra,Interoperability,TokenDeployment,0x0dab1c1733f1a9b84c90b08da78db014b3b13ab5,Infra::Interoperability
 Wormhole,Infra,Interoperability,VAAv1ReceiveWithGasDropoff,0x13b62003c8b126ec0748376e7ab22f79fb8bbdf2,Infra::Interoperability
+Band,Infra,Oracle,proxy,0x9c5490fc68005df8b2dc124309c2c036b93d785f,Infra::Oracle
 Blocksense,Infra,Oracle,AccessControl,0x5985f6247985e0cb7750893093214a77f0f9d3ce,Infra::Oracle
 Blocksense,Infra,Oracle,AggregatedDataFeedStore,0x9ca25f9149e5204cdd1c5b7717c08dff35a4efc3,Infra::Oracle
 Blocksense,Infra,Oracle,CLFeedRegistryAdapter,0x43662b6ed1edea444ed2ba4e1e008403c5f32bac,Infra::Oracle
@@ -525,6 +999,8 @@ Chainlink,Infra,Oracle,LINK_USD_Aggregator,0x44b9e53236b95ca6cfc1daed893c5b312e5
 Chainlink,Infra,Oracle,LINK_USD_Proxy,0x5c266b5c655664d6c99a13ff0d7f1f7eaf4ac9ba,Infra::Oracle
 Chainlink,Infra,Oracle,LTC_USD_Aggregator,0x24f29bb8ec47674f1a0a9011116c41f867a94337,Infra::Oracle
 Chainlink,Infra,Oracle,LTC_USD_Proxy,0xf29b907b292fb27e07f06331e4e92ea7288a6001,Infra::Oracle
+Chainlink,Infra,Oracle,MON_USD_Aggregator,0x2a347b30e1da22ec136142cda88bec59fdb6e9d3,Infra::Oracle
+Chainlink,Infra,Oracle,MON_USD_Proxy,0xbcd78f76005b7515837af6b50c7c52bcf73822fb,Infra::Oracle
 Chainlink,Infra,Oracle,NEAR_USD_Aggregator,0x5658ec04e7e6ef42b1c567aafc33cd92751e1730,Infra::Oracle
 Chainlink,Infra,Oracle,NEAR_USD_Proxy,0x921cb0e4f2397454240ccdb27596217ce4e65090,Infra::Oracle
 Chainlink,Infra,Oracle,OP_USD_Aggregator,0xb5be9cb264d299710f98c03f2604157e33e2c4cc,Infra::Oracle
@@ -611,8 +1087,36 @@ Chronicle,Infra,Oracle,Chronicle_WEETH_USD_1,0x847a305548462557945088c97074524d1
 Chronicle,Infra,Oracle,Chronicle_WETH_USD_1,0xd4920c3eba8c0e4824afe7b3737facd7c1022234,Infra::Oracle
 Chronicle,Infra,Oracle,Chronicle_WSTETH_USD_1,0x418541ffd62bdb3078fb669cb9c18d45942d9c3d,Infra::Oracle
 Orochi,Infra,Oracle,Orocle_v2,0x78291455bf33aa5437f9d69ff63e0b1c09833429,Infra::Oracle
+Pyth,Infra,Oracle,Entropy,0xd458261e832415cfd3bae5e416fdf3230ce6f134,Infra::Oracle
 Pyth,Infra,Oracle,PriceFeed,0x2880ab155794e7179c9ee2e38200202908c17b43,Infra::Oracle
+Redstone,Infra,Oracle,APR_USD,0xb144836c17c5d613aa471f0bb9b79b55288c2c03,Infra::Oracle
+Redstone,Infra,Oracle,AUSD_USD,0xffd1339908e0debe2416e03df0843b896b8944fe,Infra::Oracle
+Redstone,Infra,Oracle,AZND_USD_FUNDAMENTAL,0x63bb491346fcc8695244d811f0c3501e6c2e8d25,Infra::Oracle
+Redstone,Infra,Oracle,BTC_USD,0xed2b1ca5d7e246f615c2291de309643d41fec97e,Infra::Oracle
+Redstone,Infra,Oracle,DAI_USD,0x1b0fda12d125b864756bbf191ad20eab10915a6f,Infra::Oracle
+Redstone,Infra,Oracle,ETH_USD,0xc44be6d00307c3565fdf753e852fc003036cbc13,Infra::Oracle
+Redstone,Infra,Oracle,MON_USD,0x1c9582e87ed6e99bc23ec0e6eb52ee9d7c0d6bcd,Infra::Oracle
+Redstone,Infra,Oracle,SOL_USD,0x0be6929fd4ad87347e97a525db6ac8e884fcdcec,Infra::Oracle
+Redstone,Infra,Oracle,USDC_USD,0x7a9b672fc20b5c89d6774514052b3e0899e5e263,Infra::Oracle
+Redstone,Infra,Oracle,USDT_USD,0x90196f6d52fce394c79d1614265d36d3f0033ccf,Infra::Oracle
+Redstone,Infra,Oracle,WBTC_USD,0x98ece0d516f891a35278e3186772fb1545b274eb,Infra::Oracle
+Redstone,Infra,Oracle,adapterContract,0x368ee51e47a594fe1e9908b48228748a30bc7ca4,Infra::Oracle
+Redstone,Infra,Oracle,aprMON_MON_FUNDAMENTAL,0x096073133355f874a7d0a857ffac314dda4e0551,Infra::Oracle
+Redstone,Infra,Oracle,cbBTC_USD,0x7a532b1b204409472cb92cd07c8b0bb09dd2f520,Infra::Oracle
+Redstone,Infra,Oracle,earnAUSD_AUSD_FUNDAMENTAL,0xd1136a8c1e5a8ff204d6875b51158b5ef1858f60,Infra::Oracle
+Redstone,Infra,Oracle,ezETH_ETH_FUNDAMENTAL,0x6e7407fcd5021e3fe5f75959575b20c85231562d,Infra::Oracle
+Redstone,Infra,Oracle,gMON_MON_FUNDAMENTAL,0x8c9f39f0d08ee284a4fe0198524fe7c28630ceab,Infra::Oracle
+Redstone,Infra,Oracle,muBOND_USD_FUNDAMENTAL,0x61669df14b681010a5cfaefc4688cf9e079dde5d,Infra::Oracle
+Redstone,Infra,Oracle,priceFeeds,0x98dc6e90d4c2f212ed9d124ad2afba4833268633,Infra::Oracle
+Redstone,Infra,Oracle,sMON_MON_FUNDAMENTAL,0xe77456457619ad1948336fbabc3883cb965b50d1,Infra::Oracle
+Redstone,Infra,Oracle,shMON_MON_FUNDAMENTAL,0xad1a270a3f7ff685b90445d9da3ee7eb22f8a1ec,Infra::Oracle
+Redstone,Infra,Oracle,stETH_USD,0xd3a0c347b07fd45f41270d557089b389fa735c3d,Infra::Oracle
+Redstone,Infra,Oracle,syzUSD_USD_FUNDAMENTAL,0xa79f7363fca5118b4141eceff6dd2a83d5047344,Infra::Oracle
+Redstone,Infra,Oracle,weETH_ETH_FUNDAMENTAL,0xb3c5be567817f127412d1758048b376d4d35ec51,Infra::Oracle
+Redstone,Infra,Oracle,wstETH_USD_FUNDAMENTAL,0xc0fc9416b5c3737e13507f4bad58cfc016779c84,Infra::Oracle
+Redstone,Infra,Oracle,yzUSD_USD_FUNDAMENTAL,0x5577797e21fbbb7458f500fa80770d80aae39bca,Infra::Oracle
 Stork,Infra,Oracle,default,0xacc0a0cf13571d30b4b8637996f5d6d774d4fd62,Infra::Oracle
+Supra Oracles,Infra,Oracle,SupraOraclePull,0x16f70cad28dd621b0072b5a8a8c392970e87c3dd,Infra::Oracle
 Supra Oracles,Infra,Oracle,SupraSValueFeedStorage,0x58e158c74df7ad6396c0dcbadc4878fac9e93d57,Infra::Oracle
 Switchboard,Infra,Oracle,Oracle,0x33a5066f65f66161beb3f827a3e40fce7d7a2e6c,Infra::Oracle
 Canonical Contracts,Infra,Other,Create2Deployer,0x13b0d85ccb8bf860b6b79af3029fca081ae9bef2,Infra::Other
@@ -630,6 +1134,12 @@ Canonical Contracts,Infra,Other,SingletonFactory,0xce0042b868300000d44a59004da54
 Canonical Contracts,Infra,Other,VanityMarket,0x000000000000b361194cfe6312ee3210d53c15aa,Infra::Other
 Canonical Contracts,Infra,Other,WMON,0x3bd359c1119da7da1d913d1c4d2b7c461115433a,Infra::Other
 Canonical Contracts,Infra,Other,ZoltuDeterministicDeploymentProxy,0x7a0d94f55792c434d74a40883c6ed8545e406d12,Infra::Other
+Primus Token Distribution Platform,Infra,Privacy / Encryption,PrimusRedEnvelope,0x50bd377eb8d4236bb587ab3fb1eeafd888aeec58,Infra::Privacy / Encryption;Infra::ZK;Consumer::Social
+Primus Token Distribution Platform,Infra,Privacy / Encryption,PrimusTip,0xa2e0700a269be3158c81e4739518b324d4398588,Infra::Privacy / Encryption;Infra::ZK;Consumer::Social
+HaHa Wallet,Infra,Wallet,FeeManager,0x4631f923c3c470061a97e008ed9c33da4349612c,Infra::Wallet;Consumer::Other
+HaHa Wallet,Infra,Wallet,MerkleDistributor,0xa01a2488cbe09156da4a78fa46483556ce41710a,Infra::Wallet;Consumer::Other
+HaHa Wallet,Infra,Wallet,MetaAccount,0xbd2c0dc6521cd25a8bb3943f50b5eec7a9d9a8a2,Infra::Wallet;Consumer::Other
+HaHa Wallet,Infra,Wallet,NonceManager,0xfff4badfe0eb9731f5593fe7ced5b1209055e640,Infra::Wallet;Consumer::Other
 Safe,Infra,Wallet,CompatibilityFallbackHandler,0xf48f2b2d2a534e402487b3ee7c18c33aec0fe5e4,Infra::Wallet
 Safe,Infra,Wallet,CreateCall,0x7cbb62eaa69f79e6873cd1ecb2392971036cfaa4,Infra::Wallet
 Safe,Infra,Wallet,GnosisSafe,0xd9db270c1b5e3bd161e8c8503c55ceabee709552,Infra::Wallet
@@ -639,6 +1149,8 @@ Safe,Infra,Wallet,MultiSend,0xa238cbeb142c10ef7ad8442c6d1f9e89e07e7761,Infra::Wa
 Safe,Infra,Wallet,MultiSendCallOnly,0x40a2accbd92bca938b02010e17a5b8929b49130d,Infra::Wallet
 Safe,Infra,Wallet,SignMessageLib,0xa65387f16b013cf2af4605ad8aa5ec25a2cba3a2,Infra::Wallet
 Safe,Infra,Wallet,SimulateTxAccessor,0x59ad6735bcd8152b84860cb256dd9e96b85f69da,Infra::Wallet
+Mintpad,NFT,Marketplace,Factory,0xaaae0243007aa3000000d8e8beef0a944a0d3900,NFT::Marketplace
+NFTs2Me,NFT,Marketplace,Factory,0x00000000001594c61dd8a6804da9ab58ed2483ce,NFT::Marketplace
 Poply,NFT,Marketplace,NftDropFactory,0x35a9eaf67c2c6276c8edf083d5b42ec36214ebd3,NFT::Marketplace
 Poply,NFT,Marketplace,PoplyMarketplace (Proxy),0x81389aecadcff4b8ae1391d3dcec9a21de51694c,NFT::Marketplace
 Upfloor,NFT,Other,Upfloor,0xb16eaa34ca11291a70acfc16440f3aabaf89e332,NFT::Other

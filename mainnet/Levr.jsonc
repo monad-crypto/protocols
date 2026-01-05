@@ -1,0 +1,18 @@
+{
+    "name": "Levr Bet",
+    "description": "Decentralized Leveraged Sports Betting",
+    "live": true,
+    "categories": [
+        "Gaming::Games",
+        "DeFi::Perpetuals / Derivatives"
+    ],
+    "addresses": {
+        "VaultRush": "0x8e334460192926576ccD04271190c9E9e5916560"
+    },
+    "links": {
+        "project": "https://www.levr.bet/",
+        "twitter": "https://x.com/Levr_Bet",
+        "github": "https://github.com/LEVR-LABS"
+        //Docs coming soon
+    }
+}
