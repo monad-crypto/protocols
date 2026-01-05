@@ -4,8 +4,10 @@
     "live": true,
     "categories": ["DeFi::Cross Chain"],
     "addresses": {
-        "htlc_cbbtc": "0x8656d38352CD90ca55881eBd0AF6822839b435A8",
-        "htlc_usdc": "0x730Be401ef981D199a0560C87DfdDaFd3EC1C493"
+        "usdc_token": "0x6c8f9d333964328F7AE2f0ea35389730D88f3d29",
+        "usdc_htlc": "0x819Ca7042B3E59F613Dc67179B640c5B99a15c5B",
+        "cbbtc_token": "0x8cB57367532A5A967425Ace0E5eD4554BFE3d341",
+        "cbbtc_htlc": "0x5c9f75F5bbEFB2734034F8C833E79cFB7E9ED518"
     },
     "links": {
         "project": "https://garden.finance/",
