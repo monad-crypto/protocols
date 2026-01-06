@@ -717,6 +717,7 @@ Magma,DeFi,Liquid Staking,gMON,0x8498312a6b3cbd158bf0c93abdcf29e6e4f55081,DeFi::
 Puffer,DeFi,Liquid Staking,pufETH,0x37d6382b6889ccef8d6871a8b60e667115eddbcf,DeFi::Liquid Staking;DeFi::Staking
 aPriori,DeFi,Liquid Staking,ValidatorsRegistry,0x77f6e4103e32d6146e29cf9ed1645e170f90bc2b,DeFi::Liquid Staking;DeFi::MEV;DeFi::DEX Aggregator
 aPriori,DeFi,Liquid Staking,aprMON,0x0c65a0bc65a5d819235b71f554d210d3f80e0852,DeFi::Liquid Staking;DeFi::MEV;DeFi::DEX Aggregator
+aPriori,DeFi,Liquid Staking,swap,0x4f02a29df8510975d293aab0b32af7340f406fb4,DeFi::Liquid Staking;DeFi::MEV;DeFi::DEX Aggregator
 ApeBond,DeFi,Other,ApeBond,0x1b7858f745211dba1387fe30124ebca2d706d7dd,DeFi::Other
 ApeBond,DeFi,Other,ApeBondFactory,0xd731d8103132275b21a27ea8c8428ac6b97c5d35,DeFi::Other
 ApeBond,DeFi,Other,BondNft,0xc765c358622cb346f236f8bfffe53036e421bb4e,DeFi::Other
