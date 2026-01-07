@@ -1,0 +1,25 @@
+{
+    "name": "zkSwap",
+    "description": "zkSwap Finance is a decentralized exchange (DEX) on ZKsync, Monad, and Sonic, offering Swap2Earn rewards, real yields, and multichain support.",
+    "live": true,
+    "categories": ["DeFi::DEX"],
+    "addresses": {
+        "AggregatorSmart": "0x486d7c009b78310528aca11574ec816d2fdef71b",
+        "AggregatorSmartV2": "0x36d8cdcfc96f091ce6d733727baf5a74b0ead249",
+        "BulkSender": "0x0aa3e6692e4e8845e21867b520a2bb0377199350",
+        "MixedRouteQuoterV1": "0x734711633ef2c9a2386be0ea1c010b06fb3b94aa",
+        "Permit2": "0xcf7ff4717d5e1468c82aa69dba8dacb18ed5b585",
+        "QuoterV2": "0xc5ab2be64e27e43778c9aa692cf058ba043bc32a",
+        "SmartRouter": "0xc60cbc14d170a95938bb630ae78a8306dd7cf120",
+        "UniversalRouter": "0xf82343c8b777badb0921ee4c4f7581c968687b6b",
+        "ZFRouter": "0x68225b5ba7ce309fd0d3f0c9a74b947c7d7e03da",
+        "ZFV3Factory": "0xf5cf2b71b8b368c84c4c4903af453e790d392285",
+        "ZFV3PoolDeployer": "0xce98a0e578b639aa90ee96ed5ba8e5a4022de529",
+        "Zap": "0x45728a3d03ff67cc0c8546f4290affb7c94f877a"
+    },
+    "links": {
+        "project": "https://www.zkswap.finance/",
+        "twitter": "https://x.com/zkSwap_finance",
+        "docs": "https://docs.zkswap.finance/"
+    }
+}

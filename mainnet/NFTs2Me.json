@@ -4,7 +4,8 @@
     "live": true,
     "categories": ["NFT::Marketplace"],
     "addresses": {
-        "Factory": "0x00000000001594C61dD8a6804da9AB58eD2483ce"
+        "Factory": "0x00000000001594C61dD8a6804da9AB58eD2483ce",
+        "MintMaster": "0x00000000009a1e02f00e280dcfa4c81c55724212"
     },
     "links": {
         "project": "https://nfts2me.com/",

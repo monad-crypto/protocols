@@ -1,0 +1,23 @@
+{
+    "name": "Magic Eden",
+    "description": "Magic Eden is a leading NFT marketplace where users can buy, sell, mint, and trade NFTs across multiple blockchains like Solana, Bitcoin, Ethereum, and more.",
+    "live": true,
+    "categories": [
+      "NFT::Marketplace"
+    ],
+    "addresses": {
+        "ApprovalProxy": "0xfdf7a254075226621cb04b4722106c29b24acf3c",
+        "MagicDrop": "0x00000000bea935f8315156894aa4a45d3c7a0075",
+        "MagicEdenRouter": "0xca5c2a5688f6c824d029f3a23b75082c5f75b442",
+        "SeaportV16Module": "0xaf2108a064faf690371dde0212666f72bf82dbad",
+        "SignedZoneControllerV16": "0xa7df5f1e4c3998e1dd7789356f8366ad447bf3fa",
+        "SignedZoneControllerV16Royalty": "0xadbeb0a1d9b359b9c992c62d33d0a01b5d6e56ca",
+        "SignedZoneV16": "0x44bba8d8e0323d9238569eb7a3001a1d1333f7aa",
+        "SignedZoneV16Royalty": "0x4152727b8893a7a3057634b362256e71defae8b4"
+  },
+    "links": {
+      "project": "https://magiceden.io/",
+      "twitter": "https://x.com/MagicEden",
+      "docs": "https://help.magiceden.io/en/"
+    }
+}

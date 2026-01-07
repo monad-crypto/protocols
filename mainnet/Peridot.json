@@ -10,7 +10,9 @@
     "SimpleOracle": "0x42D5B37CD3682eDD0a3dBb242C579bDCB108f47C",
     "PeridottrollerG7Implementation": "0x81C0533c8132Bc20c3A53f599925AB01c7dA2B3A",
     "PeridottrollerG7Proxy": "0x6D208789f0a978aF789A3C8Ba515749598940716",
-    "JumpRateModelV2": "0x1FB287E1c4F7B4c6b511f4d190523814593Ad84e"
+    "JumpRateModelV2": "0x1FB287E1c4F7B4c6b511f4d190523814593Ad84e",
+    "HybridOracle": "0x5800b480382e23cbe3553590169b78a42809d22c",
+    "JumpRateModelBoosted": "0x5710017ecdf44f39b5ae885965140726b7d81099"
   },
   "links": {
     "project": "https://peridot.finance",

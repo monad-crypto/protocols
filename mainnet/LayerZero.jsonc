@@ -13,7 +13,8 @@
         "sendUln302": "0xC39161c743D0307EB9BCc9FEF03eeb9Dc4802de7",
         "receiveUln302": "0xe1844c5D63a9543023008D332Bd3d2e6f1FE1043",
         "lzExecutor": "0x41Bdb4aa4A63a5b2Efc531858d3118392B1A1C3d",
-        "blockedMessageLib": "0xc1ce56b2099ca68720592583c7984cab4b6d7e7a"
+        "blockedMessageLib": "0xc1ce56b2099ca68720592583c7984cab4b6d7e7a",
+        "lzEndpoint": "0x3c2269811836af69497e5f486a85d7316753cf62"
     },
     // the most up-to-date version is at 
     // https://metadata.layerzero-api.com/v1/metadata/dvns?chainNames=monad
