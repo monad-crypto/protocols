@@ -1,0 +1,14 @@
+{
+    "name": "KiFi",
+    "description": "KiFi is your on the go platform for Mobile Trading and Aggregated Alpha across the Monad Ecosystem.",
+    "categories": [
+        "DeFi::Trading Interfaces"
+    ],
+    "addresses": {
+        "KiFiSwapRouter": "0xd8Ebaa4B27e9D7fc3B01866F459903F9585f24EE"
+    },
+    "links": {
+        "project": "https://kifi.app/",
+        "twitter": "https://x.com/tradeKiFi"
+    }
+}
