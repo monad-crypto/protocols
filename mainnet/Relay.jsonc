@@ -1,0 +1,20 @@
+{
+    "name": "Relay",
+    "description": "Relay is a multichain payments network that makes cross-chain swapping, bridging, and onchain execution fast, cheap, and reliable—like a universal card reader for 85+ blockchains.",
+    "categories": [
+        "DeFi::Cross Chain"
+    ],
+    "addresses": {
+        "relayDepository": "0x4cd00e387622c35bddb9b4c962c136462338bc31",
+        "relayReceiver": "0xf17902d51fdff7bf50aacc78d6bb399baf88b479",
+        "v2.1RelayApprovalProxy": "0x58cc3e0aa6cd7bf795832a225179ec2d848ce3e7",
+        "v2.1RelayRouter": "0x3ec130b627944cad9b2750300ecb0a695da522b6",
+        "v3RelayApprovalProxy": "0xccc88a9d1b4ed6b0eaba998850414b24f1c315be",
+        "v3RelayRouter": "0xb92fe925dc43a0ecde6c8b1a2709c170ec4fff4f"
+    },
+    "links": {
+        "project": "https://relay.link/bridge",
+        "twitter": "https://x.com/relayprotocol",
+        "docs": "https://docs.relay.link/what-is-relay"
+    }
+}

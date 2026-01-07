@@ -5,7 +5,8 @@
         "Infra::Interoperability"
     ],
     "addresses": {
-        "Li.Fi": "0x026F252016A7C47CDEf1F05a3Fc9E20C92a49C37"
+        "Li.Fi": "0x026F252016A7C47CDEf1F05a3Fc9E20C92a49C37",
+        "Permit2Proxy": "0x3c6b2e0b7421254846c53c118e24c65d59eae75e"
     },
     "links": {
         "project": "https://li.fi/",

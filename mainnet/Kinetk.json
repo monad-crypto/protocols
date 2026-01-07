@@ -8,7 +8,8 @@
         "Infra::Other"
     ],
     "addresses": {
-        "KinetkIPCertificate": "0xD057B63f5E69CF1B929b356b579Cba08D7688048"
+        "KinetkIPCertificate": "0xD057B63f5E69CF1B929b356b579Cba08D7688048",
+        "KINETK IP Protection Network": "0x2ab50b521ca45452602877dede5d0d244a0e5c41"
     },
     "links": {
         "project": "https://www.kinetk.ai/",

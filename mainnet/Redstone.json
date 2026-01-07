@@ -29,7 +29,8 @@
         "earnAUSD_AUSD_FUNDAMENTAL": "0xD1136a8C1E5a8Ff204d6875b51158b5Ef1858f60",
         "gMON_MON_FUNDAMENTAL": "0x8C9f39f0D08EE284a4Fe0198524fE7C28630CEAb",
         "adapterContract": "0x368ee51e47a594fe1e9908b48228748a30bc7ca4",
-        "priceFeeds": "0x98dc6e90d4c2f212ed9d124ad2afba4833268633"
+        "priceFeeds": "0x98dc6e90d4c2f212ed9d124ad2afba4833268633",
+        "adapterContract2": "0xe333acaceb88b2995a06f8af689e8e17d6c1551a"
     },
     "links": {
         "project": "https://redstone.finance/",

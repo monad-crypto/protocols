@@ -11,7 +11,8 @@
   "addresses": {
     "BetMarketFactory": "0xeBfbE5f4EDB6378ade8A815Fc2DAf147C5b8Cb86",
     "BetCampaignBTC": "0x5A2693D05fb99bE88d7d9133Fc806FA713a7c55B",
-    "OracleVerifier": "0xC87fB6De3C266E84b8730dD5AbCD5DCD4eE6e34c"
+    "OracleVerifier": "0xC87fB6De3C266E84b8730dD5AbCD5DCD4eE6e34c",
+    "Monad Market": "0x82802aa45d19f9bc8fce35e398c8c02dfe2aabf9"
   },
 
   "links": {
