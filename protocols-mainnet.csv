@@ -374,6 +374,7 @@ zkSwap,DeFi,DEX,ZFV3PoolDeployer,0xce98a0e578b639aa90ee96ed5ba8e5a4022de529,DeFi
 zkSwap,DeFi,DEX,Zap,0x45728a3d03ff67cc0c8546f4290affb7c94f877a,DeFi::DEX
 Eisen,DeFi,DEX Aggregator,EisenDiamond,0x787c474b8a86354d0f5f19fb599a5fc7662a265f,DeFi::DEX Aggregator
 Eisen,DeFi,DEX Aggregator,Forwarder,0xece5e77f9a9846c4d69555eb44e0cff8b5f03f1e,DeFi::DEX Aggregator
+Fly Trade,DeFi,DEX Aggregator,MagpieRouterV3_1,0x956df8424b556f0076e8abf5481605f5a791cc7f,DeFi::DEX Aggregator
 Gmgn,DeFi,DEX Aggregator,Router,0xc9ca80b5ea956afa98627963d1880033545d108e,DeFi::DEX Aggregator
 Mace,DeFi,DEX Aggregator,APRMonAdapter,0xd74356eb3617d25e695d675a674eb90dbf073b74,DeFi::DEX Aggregator;DeFi::Trading Interfaces
 Mace,DeFi,DEX Aggregator,AlgebraAdapter,0x84bee47463ad63bebb96d066d548c042875bb6a0,DeFi::DEX Aggregator;DeFi::Trading Interfaces
