@@ -1,0 +1,15 @@
+{
+    "name": "Taya Finance",
+    "description": "Taya is a decentralized automated market maker (AMM) on Monad, offering customizable DeFi experiences and fast, secure asset trading.",
+    "categories": [
+        "DeFi::DEX"
+    ],
+    "addresses": {
+        "TayaSwapRouter": "0xcd4b41946c92c224d5fb934729225608255c280b",
+        "TayaSwapFactory": "0x6874896a6f61b0d8937dbb2546092cafab0e4b20"
+    },
+    "links": {
+        "project": "https://www.taya.fi/",
+        "twitter": "https://x.com/TayaFinance"
+    }
+}
