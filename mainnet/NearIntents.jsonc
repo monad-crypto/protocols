@@ -1,7 +1,7 @@
 {
     "name": "Near Intents",
     "description": "NEAR Intents is a multichain transaction protocol where users declare desired outcomes (“intents”) and competing third parties fulfill them, settled by a verifier smart contract on NEAR.",
-    "categories": ["Defi::Intents"],
+    "categories": ["DeFi::Intents"],
     "addresses": {
         "Treasury Address": "0x233c5370ccfb3cd7409d9a3fb98ab94de94cb4cd"
     },
