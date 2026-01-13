@@ -164,6 +164,7 @@ Curve Finance,DeFi,DEX,TwocryptoFactory,0xe7fbd704b938cb8fe26313c3464d4b7b7348c8
 Curve Finance,DeFi,DEX,TwocryptoHandler,0x7e595b3b77cc16680c30617b88e9b87f987ac934,DeFi::DEX;DeFi::Stableswap
 Curve Finance,DeFi,DEX,TwocryptoMath,0x95249dd40dda3c0cbb4a7dd7d287e04aa68a3d4b,DeFi::DEX;DeFi::Stableswap
 Curve Finance,DeFi,DEX,TwocryptoViews,0x17c67c3a38f68cbc4dec77fd7378978971b6c271,DeFi::DEX;DeFi::Stableswap
+DYORSwap,DeFi,DEX,Factory,0xc474aecca08e858313aaecb23f384ad0f5e553fa,DeFi::DEX
 DYORSwap,DeFi,DEX,Router,0x16581fcb162ecaae0c8658227d3028f035b4b7fc,DeFi::DEX
 DYORSwap,DeFi,DEX,RouterV2,0x26ceb692410c4b3c12d63e01cfc03eea103fc474,DeFi::DEX
 Dexalot,DeFi,DEX,BannedAccounts,0xa5c079c1986e2335d83fa2d7282e162958e515d5,DeFi::DEX;DeFi::Cross Chain;DeFi::Trading Interfaces
@@ -317,6 +318,8 @@ Swyrl,DeFi,DEX,SwyrlV3PoolDeployer,0x66ae3f94eb3ab532cc4f8fc8700f6d7488e40a4f,De
 Swyrl,DeFi,DEX,TickLens,0x95d4063ad9ceda0d83428986d23baa9ed5163f58,DeFi::DEX
 Swyrl,DeFi,DEX,UniswapInterfaceMulticall,0xb79ba9375fc66c4ddf236bed3d53ef6213aac7b6,DeFi::DEX
 Swyrl,DeFi,DEX,UniversalRouter,0x6b096391742baaed539ad25f44dc775065f73322,DeFi::DEX
+Taya Finance,DeFi,DEX,TayaSwapFactory,0x6874896a6f61b0d8937dbb2546092cafab0e4b20,DeFi::DEX
+Taya Finance,DeFi,DEX,TayaSwapRouter,0xcd4b41946c92c224d5fb934729225608255c280b,DeFi::DEX
 Uniswap,DeFi,DEX,FeeOnTransferDetector,0x5c834b6cac4173bfe288c5722a38e04b9e366e30,DeFi::DEX
 Uniswap,DeFi,DEX,NFTDescriptor,0x2e9d45bb7b30549f5216813ada9a6b7982c5b3ed,DeFi::DEX
 Uniswap,DeFi,DEX,NonfungiblePositionManager,0x7197e214c0b767cfb76fb734ab638e2c192f4e53,DeFi::DEX
@@ -368,6 +371,7 @@ zkSwap,DeFi,DEX,Permit2,0xcf7ff4717d5e1468c82aa69dba8dacb18ed5b585,DeFi::DEX
 zkSwap,DeFi,DEX,QuoterV2,0xc5ab2be64e27e43778c9aa692cf058ba043bc32a,DeFi::DEX
 zkSwap,DeFi,DEX,SmartRouter,0xc60cbc14d170a95938bb630ae78a8306dd7cf120,DeFi::DEX
 zkSwap,DeFi,DEX,UniversalRouter,0xf82343c8b777badb0921ee4c4f7581c968687b6b,DeFi::DEX
+zkSwap,DeFi,DEX,ZFFactory,0x0ff16867bcac3c5fdc2dc73558e3f8e2ed89eea2,DeFi::DEX
 zkSwap,DeFi,DEX,ZFRouter,0x68225b5ba7ce309fd0d3f0c9a74b947c7d7e03da,DeFi::DEX
 zkSwap,DeFi,DEX,ZFV3Factory,0xf5cf2b71b8b368c84c4c4903af453e790d392285,DeFi::DEX
 zkSwap,DeFi,DEX,ZFV3PoolDeployer,0xce98a0e578b639aa90ee96ed5ba8e5a4022de529,DeFi::DEX
@@ -398,9 +402,12 @@ Mace,DeFi,DEX Aggregator,UniswapV4Adapter,0x52dfbfa557516e1775b014ef01309ca8160b
 Mace,DeFi,DEX Aggregator,WethAdapter,0xc6b6b9e8eb8b3cf2cecd8ff536a9e1599d8ab426,DeFi::DEX Aggregator;DeFi::Trading Interfaces
 Madhouse,DeFi,DEX Aggregator,Aggregator,0x6017684bea9cb6e9874fc6dba4438271ebf9f5da,DeFi::DEX Aggregator
 Monorail,DeFi,DEX Aggregator,AggregationRouter,0xa68a7f0601effdc65c64d9c47ca1b18d96b4352c,DeFi::DEX Aggregator;DeFi::Trading Interfaces
+OKX Wallet,DeFi,DEX Aggregator,DexRouter,0x6088d94c5a40cecd3ae2d4e0710ca687b91c61d0,DeFi::DEX Aggregator
+OKX Wallet,DeFi,DEX Aggregator,Router,0xb1e4e25b1938c78ec0b21ccb2d6a0be60aa7e63f,DeFi::DEX Aggregator
 Rubic,DeFi,DEX Aggregator,ERC20Proxy,0x3335733c454805df6a77f825f266e136fb4a3333,DeFi::DEX Aggregator
 Velvet Capital,DeFi,DEX Aggregator,MetaAggregatorManager,0x995efd92cc2f70a2091ba9aae04cbb5fb24b7dd1,DeFi::DEX Aggregator
 Velvet Capital,DeFi,DEX Aggregator,MetaAggregatorSwapContract,0x6ddf98aece7d24fe37c70abc3f0f95acec66f32f,DeFi::DEX Aggregator
+Near Intents,DeFi,Intents,Treasury Address,0x233c5370ccfb3cd7409d9a3fb98ab94de94cb4cd,DeFi::Intents
 Clanker,DeFi,Launchpads,Clanker,0xf9a0c289eab6b571c6247094a853810987e5b26d,DeFi::Launchpads;AI::Other
 Clanker,DeFi,Launchpads,ClankerAirdropV2,0x654e7221fa51d4359ded21d524e3aff18e93a507,DeFi::Launchpads;AI::Other
 Clanker,DeFi,Launchpads,ClankerFeeLocker,0x46b77bacfd712d79131f1ad7611794869483c353,DeFi::Launchpads;AI::Other
@@ -521,10 +528,12 @@ Euler Finance,DeFi,Lending,eUSDAdminTimelockController,0x2341d79a51f153c8db23f6e
 Euler Finance,DeFi,Lending,eVaultFactory,0xba4dd672062de8feedb665dd4410658864483f1e,DeFi::Lending
 Euler Finance,DeFi,Lending,eVaultFactoryGovernor,0x515c9ff619b4618284832764e2cfc7d227514f0e,DeFi::Lending
 Euler Finance,DeFi,Lending,eVaultFactoryTimelockController,0x7fe335adfe4b89acdad28814cc7b89377fcee439,DeFi::Lending
+Euler Finance,DeFi,Lending,eVaultImplementation,0xef17750d3a162e28a302e266c474ff8989d60ecd,DeFi::Lending
 Euler Finance,DeFi,Lending,edgeFactory,0xdf07ac6f90312e501b67b4ff29c8782db959748e,DeFi::Lending
 Euler Finance,DeFi,Lending,edgeFactoryPerspective,0xcfcb87eb3e796b35c9678fed440b2a857af94ed9,DeFi::Lending
 Euler Finance,DeFi,Lending,escrowedCollateralPerspective,0xf3e1dd13c448a7e1a6e19ba8a7f29f45c1e93aab,DeFi::Lending
 Euler Finance,DeFi,Lending,eulOFTAdapter,0x831257bfa5478111d2327e08c4068ec37ac14b81,DeFi::Lending
+Euler Finance,DeFi,Lending,eulerEarnFactory,0xf463d4acb650cc6c4e1d6cd4d0d1b0cb224094cf,DeFi::Lending
 Euler Finance,DeFi,Lending,eulerEarnFactoryPerspective,0x0490013112b6beb8545e6776cc67d8a40023690a,DeFi::Lending
 Euler Finance,DeFi,Lending,eulerEarnGovernedPerspective,0xe4a695d715732db3d694e30ec57b1acc8cc4368b,DeFi::Lending
 Euler Finance,DeFi,Lending,eulerEarnPublicAllocator,0x65a66f24a25e8cf651c9e31d296623298c80f742,DeFi::Lending
@@ -1020,10 +1029,11 @@ TeleMafia,Gaming,Games,TeleMafiaCheckIn,0xae2dfca11311e1652b9d3dc39527465435ea94
 TeleMafia,Gaming,Games,UpgradeableBeacon,0x5d1814d6981247bc796ca3f48d5cc382dd552552,Gaming::Games
 TeleMafia,Gaming,Games,VaultFactory,0x777acab541a663abbad28de92af6caefd67c72cd,Gaming::Games
 TeleMafia,Gaming,Games,VaultImplementation,0xcba51d62d0b240bb8f60eee98351464beaa5cc77,Gaming::Games
-Valley of Heroes,Gaming,Games,CursedValley,0x989b737562ac6ebe68c2acc5810c2f8fdb11bb1d,Gaming::Games
+Valley of Heroes,Gaming,Games,CursedValley,0x1064b2e47fbe1b2fe8dbdb6f8daa5509de583905,Gaming::Games
 Valley of Heroes,Gaming,Games,HONOR,0xd414088c42ac24b4905e0651973acc72ea0ac5b9,Gaming::Games
+Valley of Heroes,Gaming,Games,HonorStaking,0x0860300298d74c582448a89236e2d1c95f9d4dfb,Gaming::Games
 Valley of Heroes,Gaming,Games,MysteryBox,0xd8789a9286336272ca5c23add2648827e3efc6ac,Gaming::Games
-Valley of Heroes,Gaming,Games,TitanCombat,0xea5f6f4818c80f4ff16cc5097a72450f15e4d3a3,Gaming::Games
+Valley of Heroes,Gaming,Games,TitanCombat,0x0ebb8ae64dadbada2025e9562ddc626e3071aa5c,Gaming::Games
 Valley of Heroes,Gaming,Games,ValleyHeroes,0xcc09dd25a3953fc918a3b069d343ac566da58808,Gaming::Games
 LootGO,Gaming,Mobile-First,Compass,0xa3522ea57c0bc48e602e2fe9f3929309d9618d96,Gaming::Mobile-First;Gaming::Games;Consumer::Other
 LootGO,Gaming,Mobile-First,Countdown Celebration,0x7415085da3a7c3d9b41bc339a91132d08f964c6c,Gaming::Mobile-First;Gaming::Games;Consumer::Other
