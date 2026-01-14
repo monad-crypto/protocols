@@ -1,0 +1,15 @@
+{
+    "name": "Gas.zip",
+    "description": "Instant liquidity bridging for over 350+ chains",
+    "live": true,
+    "categories": ["Infra::Interoperability"],
+    "addresses": {
+        "GasZip": "0x9E22ebeC84c7e4C4bD6D4aE7FF6f4D436D6D8390"
+    },
+    "links": {
+        "project": "https://gas.zip",
+        "twitter": "https://x.com/gasdotzip",
+        "github": "https://github.com/gasdotzip",
+        "docs": "https://dev.gas.zip/"
+    }
+}

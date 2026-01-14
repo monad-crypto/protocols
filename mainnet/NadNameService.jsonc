@@ -1,0 +1,16 @@
+{
+    "name": "Nad Name Service",
+    "description": "Nad Name Service (NNS) is a web3 name service on Monad, mapping readable names (like 'salmo.nad') to crypto addresses and metadata.",
+    "live": true,
+    "categories": [
+        "Infra::Identity"
+    ],
+    "addresses": {
+        "NadNameService": "0xcc7a1bff8845573dbf0b3b96e25b9b549d4a2ec7"
+    },
+    "links": {
+        "project": "https://app.nad.domains/",
+        "twitter": "https://x.com/NadDomains",
+        "docs": "https://docs.nad.domains/"
+    }
+}

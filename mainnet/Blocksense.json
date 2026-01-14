@@ -1,0 +1,18 @@
+{
+    "name": "Blocksense",
+    "description": "The universal verification layer for the autonomous economy",
+    "live": true,
+    "categories": ["Infra::Oracle"],
+    "addresses": {
+        "UpgradeableProxyADFS": "0xADF5aaa34D0A2FbAeE73353ab1622E47d0600249",
+        "AggregatedDataFeedStore": "0x9CA25F9149e5204CDD1C5b7717C08Dff35A4eFc3",
+        "AccessControl": "0x5985F6247985e0cB7750893093214A77F0F9D3cE",
+        "CLFeedRegistryAdapter": "0x43662b6eD1EDEA444Ed2bA4e1e008403C5F32bAc"
+    },
+    "links": {
+        "project": "https://blocksense.network",
+        "twitter": "https://x.com/blocksense_",
+        "github": "https://github.com/blocksense-network",
+        "docs": "https://docs.blocksense.network"
+    }
+}

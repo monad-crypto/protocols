@@ -1,0 +1,30 @@
+{
+  "name": "Nad.fun",
+  "description": "Launch, trade and predict on Monad",
+  "live": true,
+  "categories": ["DeFi::Launchpads"],
+  "addresses": {
+    "QUOTER_V3": "0xAd8887348E5d5d479156c851F4F4778e83a1DFE3",
+    "CREATOR_MANAGER": "0x65fDa572628c1D3F55B9e9E66e6e8a61c53cfF7c",
+    "TOKEN_REGISTRY": "0x3Be9198208c198e2a4dab9A575764C8468DC83c6",
+    "FOUNDATION_TREASURY": "0x4ac5Fd82B91A10de7f91343DDCca7a2541d3F509",
+    "COMMUNITY_TREASURY": "0x46895ee48Fb1D750A81562fd6019B37F21d7FD52",
+    "CREATOR_TREASURY": "0x42e75B4B96d7000E7Da1e0c729Cec8d2049B9731",
+    "TOKEN_TREASURY": "0xb0bAaCE23aC7cbd25211134a0B47ad70a9D42FA4",
+    "BONDING_CURVE_ROUTER": "0x6F6B8F1a20703309951a5127c45B49b1CD981A22",
+    "BONDING_CURVE": "0xA7283d07812a02AFB7C09B60f8896bCEA3F90aCE",
+    "LP_MANAGER": "0xAebe5522749b65eaE7b2A35c593145CC3128b515",
+    "UNISWAP_ACTOR": "0xCD68F7c0668B72Ab943E09Ff4Dbf53Da64b8a8c2",
+    "DEX_DEPLOYER": "0x095ACd3d26DD09c8E26Ab864c8717a39fE61F320",
+    "DEX_ROUTER": "0x0B79d71AE99528D1dB24A4148b5f4F865cc2b137",
+    "REWARD_POOL": "0xD5eE94894f3C86952AF792e1a03B1699c08b8c73",
+    "LENS": "0x7e78A8DE94f21804F7a17F4E8BF9EC2c872187ea",
+    "TOKEN_IMPLEMENT": "0x7f64ccFeb3E3Afd7691ea0ef404E947786cefae8"
+  },
+  "links": {
+    "project": "https://nad.fun",
+    "twitter": "https://x.com/naddotfun",
+    "discord": "https://discord.com/invite/naddotfun",
+    "docs": "https://nad-fun.gitbook.io/nad.fun"
+  }
+}

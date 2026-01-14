@@ -1,0 +1,31 @@
+{
+    "name": "Flap",
+    "description": "The premier memecoin launchpad for trench warriors on Monad.",
+    "live": true,
+    "categories": ["DeFi::Launchpads"],
+    "addresses": {
+        // Portal is the entry point of the Flap protocol
+        // Flap uses a pattern similar to diamond pattern to allow users to 
+        // interact with the protocol via a single contract address
+        "Portal": "0x30e8ee7b5881bf2E158A0514f2150aabe2c68b23", 
+        // Standard Token implementation 
+        // For each standard token created via Flap, a clone of this instance of this contract is deployed  
+        // We use clone pattern to save gas and reduce deployment costs for users creating new tokens 
+        "TokenV2Implementation": "0xB88189aA1162850D75A1c1e16F837b7979994184", 
+        // Tax Token Implementation 
+        // For each tax token created via Flap, a clone of this instance of this contract is deployed
+        "TaxTokenImplementation": "0x1C8847736521f5cD725dFB8f33c7c610826e7C42", 
+        // Tax Token splitter implementation 
+        // For tax token, tax will be process by the splitter contract 
+        // We use clone pattern to save gas and reduce deployment costs for users creating new tokens 
+        "TaxTokenSplitterImplementation": "0x57Fed6832F12150a77D5952b49190d9447aCB5ee"
+    },
+    "links": {
+        // This link will be available on Monad mainnet launch 
+        // Previsouly, this link was broken. Now, we have a placeholder page. 
+        "project": "https://flap.sh/monad",
+        "twitter": "https://x.com/flapdotsh",
+        "docs": "https://docs.flap.sh/flap/", 
+        "developer": "https://docs.flap.sh/flap/developers/quick-start"
+    }
+}

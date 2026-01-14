@@ -1,0 +1,15 @@
+{
+    "name": "Orochi",
+    "description": "Orochi Network is a Verifiable Data Infrastructure designed to ensure data integrity and privacy through advanced cryptographic techniques.",
+    "live": true,
+    "categories": ["Infra::Oracle"],
+    "addresses": {
+        "Orocle_v2": "0x78291455bf33aA5437f9D69Ff63E0B1C09833429"
+    },
+    "links": {
+        "project": "https://orochi.network/",
+        "twitter": "https://x.com/OrochiNetwork",
+        "github": "https://github.com/orochi-network",
+        "docs": "https://docs.orochi.network/"
+    }
+}

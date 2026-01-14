@@ -1,0 +1,51 @@
+{
+    "name": "Morpho",
+    "description": "The universal lending network",
+    "live": true,
+    "categories": [
+        "DeFi::Lending"
+    ],
+    "addresses": {
+       "Deployer1Deployer": "0xA16B49505e39C373A8f9e1b1540514BA64B3942a",
+        "Morpho": "0xD5D960E8C380B724a48AC59E2DfF1b2CB4a1eAee",
+        "AdaptiveCurveIrm": "0x09475a3D6eA8c314c592b1a3799bDE044E2F400F",
+        "Safe": "0xe27f43624FDb5325b853c4711BCF0fEBA754e558",
+        "PublicAllocator": "0xfd70575B732F9482F4197FE1075492e114E97302",
+        "Deployer1": "0x6C3A89e814A9D150cD763f443dceE5EBC5bF60b6",
+        "Deployer2Deployer": "0x907a393Ad715Ac63389EEc3236FaC74E7D68a4ee",
+        "MetaMorphoV1_1Factory": "0x33f20973275B2F574488b18929cd7DCBf1AbF275",
+        "MorphoChainlinkOracleV2Factory": "0xC8659Bcd5279DB664Be973aEFd752a5326653739",
+        "Deployer2": "0x0a3c9f732C7E987ddbBaac13309A8B552aa50872",
+        "Deployer3Deployer": "0x6F12916F559dC7f86a86cD3e33BFebE6348f979A",
+        "UrdFactory": "0xE8233125be3ecD274b8007618315Dd2f3361eced",
+        "MetaMorphoV1_1": "0x6D0090dB99919d1594B9b824D295E923266C9052",
+        "MorphoChainlinkOracleV2": "0x6A99Cc46825A724B41f8E5656935929FA0a2cB2C",
+        "UniversalRewardsDistributor": "0xA3E73eC1792bb127B0915dE9842eB999C12C0c34",
+        "Deployer3": "0xFf08983fAA3D689c8C8527Bd69f90Ea46d170db9",
+        "Deployer4Deployer": "0x03877DB7cAa28bC522DbB8c060eeAEB086020B83",
+        "PreLiquidationFactory": "0xB5b3e541abD19799E0c65905a5a42BD37d6c94c0",
+        "Bundler3": "0x82b684483e844422FD339df0b67b3B111F02c66E",
+        "GeneralAdapter1": "0x725AB8CAd931BCb80Fdbf10955a806765cCe00e5",
+        "PreLiquidation": "0x273dBC3f178D03fA9D385e61Ee1E11dCf563EE14",
+        "Deployer4": "0xF4c840eA6fdD0493F77Ef0141C5a5a09Cd384918",
+        "Deployer6Deployer": "0x22C3024C7E1e149d7E49766cd047a2da081E4EAF",
+        "VaultV2Factory": "0x8B2F922162FBb60A6a072cC784A2E4168fB0bb0c",
+        "MorphoMarketV1AdapterFactory": "0x8Da54fbF89B3D6fC6DCC92F31CF75a211ACF3d46",
+        "MorphoVaultV1AdapterFactory": "0x9f3c0999425656fD189C69a8aD68cB64986D644A",
+        "VaultV2": "0xc1108C5d98DC09BE44e656A9E34B04D37b90a50d",
+        "MorphoMarketV1Adapter": "0xD155AF55cF966886cc197F05399bE4a033af7090",
+        "MorphoVaultV1Adapter": "0x549bf7A3346eBEbe88BD3FcaD8Ab1f23De8Eb4e4",
+        "Deployer6": "0xa1a2ca8feB4d08a7123BFBB0A269501F885264DE",
+        "Deployer7Deployer": "0x71dd91258eca11fC045098774Ec2F331126A0b53",
+        "RegistryList": "0x6a42f8b46224baA4DbBBc2F860F4675eeA7bd52B",
+        "MorphoMarketV1Registry": "0xF5e6DD4b06874f55444936cF0026b785383A9849",
+        "MorphoVaultV1_1Registry": "0x1d721eddac84e1B9995Fc25ce3e57463688064a9",
+        "Deployer7": "0x3f12264881a118C2A74Ad10F9039694579bdCf54"
+    },
+    "links": {
+        "project": "https://morpho.org/",
+        "twitter": "https://x.com/Morpho",
+        "github": "https://github.com/morpho-org",
+        "docs": "https://docs.morpho.org/"
+    }
+}

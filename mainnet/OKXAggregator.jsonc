@@ -1,0 +1,13 @@
+{
+    "name": "OKX Wallet",
+    "description": "OKX Wallet is a self‑custody, multi‑chain Web3 wallet that lets users store, swap, analyze, stake, and connect to DApps with proactive security and audits.",
+    "categories": ["DeFi::DEX Aggregator"],
+    "addresses": {
+        "Router": "0xb1e4e25b1938c78ec0b21ccb2d6a0be60aa7e63f",
+        "DexRouter": "0x6088d94c5a40cecd3ae2d4e0710ca687b91c61d0"
+    },
+    "links": {
+        "project": "https://web3.okx.com/",
+        "twitter": "https://x.com/wallet"
+    }
+}

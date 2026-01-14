@@ -8,6 +8,7 @@
     },
     "links": {
         "project": "https://app.questn.com/",
-        "twitter": "https://x.com/QuestN_com"
+        "twitter": "https://x.com/QuestN_com",
+        "docs": "https://questn.gitbook.io/docs"
     }
 }

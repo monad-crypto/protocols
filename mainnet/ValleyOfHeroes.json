@@ -1,0 +1,21 @@
+{
+  "name": "Valley of Heroes",
+  "description": "World's First Real-Time Fully Onchain MMORPG on Monad. Phase 1 launches as a fully on-chain hero collector with every hero, battle, and reward living entirely on-chain.",
+  "categories": [
+    "Gaming::Games"
+  ],
+  "addresses": {
+    "ValleyHeroes": "0xCc09Dd25A3953fc918a3B069d343Ac566dA58808",
+    "HONOR": "0xD414088C42AC24B4905e0651973acC72ea0aC5b9",
+    "MysteryBox": "0xd8789A9286336272ca5C23add2648827e3eFc6ac",
+    "CursedValley": "0x1064b2e47fbe1b2fe8dbdb6f8daa5509de583905",
+    "TitanCombat": "0x0ebb8ae64dadbada2025e9562ddc626e3071aa5c",
+    "HonorStaking": "0x0860300298d74c582448a89236e2d1c95f9d4dfb"
+  },
+  "links": {
+    "project": "https://valleyofheroes.xyz",
+    "twitter": "https://x.com/ValleyOfHeroes_",
+    "docs": "https://docs.valleyofheroes.xyz"
+  }
+}
+

@@ -1,0 +1,17 @@
+{
+    "name": "Syrax",
+    "description": "The pinnacle of on-chain trading. Trade without compromise",
+    "categories": [
+        "DeFi::Trading Interfaces"
+    ],
+    "addresses": {
+        "Router": "0x449134df9148d9A5cf12bc17F12Dff602Bd153a4",
+        "V4 Transfer Wrapper": "0x660dd0b44c1f8ea5447a9204d13502ff9b736ec3"
+    },
+    "links": {
+        "project": "https://www.syrax.ai/",
+        "twitter": "https://x.com/SyraxAI",
+        "github": "https://github.com/Syrax-AI",
+        "docs": "https://docs.syrax.ai/"
+    }
+}

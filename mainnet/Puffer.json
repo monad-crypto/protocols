@@ -1,0 +1,15 @@
+{
+    "name": "Puffer",
+    "description": "Puffer is a decentralized native liquid restaking protocol (nLRP) built on Eigenlayer.",
+    "live": true,
+    "categories": ["DeFi::Liquid Staking", "DeFi::Staking"],
+    "addresses": {
+        "pufETH": "0x37D6382B6889cCeF8d6871A8b60E667115eDDBcF"
+    },
+    "links": {
+        "project": "https://www.puffer.fi/",
+        "twitter": "https://x.com/Puffer_Finance",
+        "github": "https://github.com/PufferFinance",
+        "docs": "https://docs.puffer.fi/"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Polymer",
+    "description": "Polymer is an interoperability protocol tailor made for multi-rollup applications.",
+    "live": true,
+    "categories": ["Infra::Interoperability"],
+    "addresses": {
+        "CrossL2Prover": "0xcDa03d74DEc5B24071D1799899B2e0653C24e5Fa"
+    },
+    "links": {
+        "project": "https://www.polymerlabs.org/",
+        "twitter": "https://x.com/polymerlabs",
+        "github": "https://github.com/polymerdao",
+        "docs": "https://docs.polymerlabs.org/"
+    }
+}

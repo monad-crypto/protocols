@@ -1,0 +1,18 @@
+{
+    "name": "Lagoon",
+    "description": "LAGOON provides open, general-purpose, secure vault infrastructure to build and scale on-chain yield products.",
+    "categories": [
+        "DeFi::Yield",
+        "DeFi::Asset Allocators"
+    ],
+    "addresses": {
+        "ProtocolRegistry": "0xBf994c358f939011595AB4216AC005147863f9D6",
+        "VaultFactory": "0xcCdC4d06cA12A29C47D5d105fED59a6D07E9cf70"
+    },
+    "links": {
+        "project": "https://www.lagoon.finance/",
+        "twitter": "https://x.com/lagoon_finance",
+        "github": "https://github.com/hopperlabsxyz",
+        "docs": "https://docs.lagoon.finance/"
+    }
+}

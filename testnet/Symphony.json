@@ -1,0 +1,32 @@
+{
+  "name": "Symphony",
+  "description": "Symphony is the missing infrastructure layer that connects AI to financial markets. We provide secure, autonomous execution rails so financial platforms can plug in and scale their AI products.",
+  "categories": [
+    "AI::Agent Launchpad",
+    "AI::Abstraction Infrastructure",
+    "AI::Infrastructure",
+    "DeFi::Intents",
+    "DeFi::Cross Chain",
+    "Infra::AA",
+    "Infra::Interoperability",
+    "Infra::Developer Tooling",
+    "CeFi::Institutional Trading"
+  ],
+  "addresses": {
+    "Create2Deployer": "0x0e2472E42aE6dF7674C6C4C807cD45F6d47A2A1b",
+    "Create3Deployer": "0xC4a15e24D5aa36c63941B1992A28661bF215e968",
+    "SymphonySmartAccount": "0x527849787Bb79CbEde5ebEd438E685C3B56abB98",
+    "Registry": "0xE1A5d791F293BA2A32613939D7012B509883EB5e",
+    "Factory": "0xB64e8Cd2633D4AF5A41a8FDF5e8002FD2f072A83",
+    "SolverRouter": "0x32aef4656e2cd5b41567225C2933EC72E956e5d0",
+    "CallbackAdapter": "0x6E5E5f7adbA00b2e3867DbF2e6E662Eb98208f75",
+    "SolverPaymaster": "0x24561A639089126AdDAe7C63c66df668404f94FA",
+    "Paymaster": "0xb1Ba36f63569E48E054Eb8BeC0b9A1C13fE2Ac8f"
+  },
+  "links": {
+    "project": "https://www.symphony.io/",
+    "twitter": "https://x.com/symphonyio",
+    "github": "https://github.com/CadenceProtocol",
+    "docs": "https://symphony-3.gitbook.io/symphony-docs"
+  }
+}

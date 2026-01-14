@@ -1,10 +1,10 @@
 {
     "name": "Madhouse",
-    "description": "Get the best token swap rates on Monad",
+    "description": "Experience lightning-fast 10,000 tps on Monad with Madhouse aggregator. Trade with speed, high liquidity, and madness.",
     "live": true,
-    "categories": ["DeFi::DEX"],
+    "categories": ["DeFi::DEX Aggregator"],
     "addresses": {
-        "Aggregator": "0x1e538356d3cfe7fa04696a92515add4a895ecb65",
+        "Aggregator": "0x9a5362f481A6c3e309f31b65f9F7Ad0d7e8A7B7D",
         "UniswapV2Adapter": "0xe5a44bc972134f6baa8168adce623f7a33bac4ab",
         "UniswapV3Adapter": "0xc19c9cf910ecf305c151ee5d569db1867ddf9d41",
         "PancakeSwapV2Adapter": "0x54f44e229a8d6fd2375f8bc3f59acc5a54a1d1d3",
@@ -13,7 +13,8 @@
     },
     "links": {
         "project": "https://madhouse.ag/",
-        "twitter": "https://x.com/madhousemonad",
+        "twitter": "https://x.com/usemadhouse",
+        "github": "https://github.com/usemadhouse",
         "docs": "https://docs.madhouse.ag/"
     }
 }

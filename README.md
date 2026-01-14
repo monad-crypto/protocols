@@ -1,23 +1,47 @@
 # Protocols
-This repository maintains details for each protocol on the Monad testnet (and later on mainnet), to make it easier to interpret ecosystem activities.
 
-Representatives of each protocol should add or adjust their corresponding metadata file as details change (for example, a 
-change or addition of contract addresses).
+This repository maintains contract addresses and links for each protocol on the Monad network to
+assist with ecosystem coordination.
 
-## Form of entries
-Each protocol has its own json file in `testnet/PROTOCOL.json`.
+Representatives of each protocol should open pull requests to add or adjust their corresponding
+metadata file as details change.
 
-The key fields are:
-- `name`: Name of protocol.
-- `description`: Description of protocol.
-- `categories`: Categorization of the protocol as list of category::sub-category pairs, in order of closest, most general, match to
-  furthest matching categories.
+## Contributing
+
+Please create a fork of this repository in your own github account (personal or company), push your changes to that fork, and then make a pull request from that fork which contributes back to monad-crypto/protocols:main.
+
+Please make best efforts to verify your contracts on https://monadvision.com/ where possible, and let us know if you are running into issues with contract verification.
+
+## Data
+
+For each network (`mainnet`, `testnet`), there is one json per protocol.
+
+Additionally, a summary csv is generated per network automatically.
+
+* Mainnet: [summary csv](https://raw.githubusercontent.com/monad-crypto/protocols/refs/heads/main/protocols-mainnet.csv) | [individual protocols](https://github.com/monad-crypto/protocols/tree/main/mainnet)
+* Testnet: [summary csv](https://raw.githubusercontent.com/monad-crypto/protocols/refs/heads/main/protocols-testnet.csv) | [individual protocols](https://github.com/monad-crypto/protocols/tree/main/testnet)
+
+For a list of infra providers supporting Monad, see [Docs -> Tooling and Infrastructure](https://docs.monad.xyz/tooling-and-infra/).
+
+## Protocol format
+
+Each protocol has its own json file in `{testnet,mainnet}/PROTOCOL.json`. Comments are allowed,
+following the [JSONC standard](https://jsonc.org/), in which case please create a `.jsonc` file instead of a `.json` file.
+
+The fields are:
+- `name`: Name of protocol (**required**)
+- `description`: Description of protocol (**required**)
+- `categories`: Categorization of the protocol as a list of category::sub-category pairs, in order
+  of closest to furthest matching categories (**required**)
   * see the categorization section below to see available categories.
-  * one category/sub-category pair is enough in most cases, however some protocols are associated with multiple categories.
-- `addresses`: A named mapping between contract concept and address.
-- `links`: Any links you are willing to provide (typically `project`, `twitter`, `github`, and `docs`).
+  * one category/sub-category pair is enough in most cases, however multiple are allowed
+- `addresses`: A mapping between contract names and addresses (**required**, but you may specify
+  an empty mapping to avoid triggering validation errors)
+- `links`: Any links you are willing to provide (typically `project`, `twitter`, `github`, and
+  `docs`) (**required**, but you may specify
+  an empty mapping to avoid triggering validation errors)
 
-Here is an example of a file describing a protocol:
+Here is an example of a file:
 ```json
 {
     "name": "Protocol Name",
@@ -27,10 +51,8 @@ Here is an example of a file describing a protocol:
         "Gaming::Mobile-First"
     ],
     "addresses": {
-        "Data": "0xd9f184B2086d508f94e1aefe11dFABbcD810aeF9",
-        "Avatar": "0x78925Ce372c918011Eb2966264b668B2F256224C",
-        "Prop": "0x138b7CEaBC3D37a317B837EcF74320432a3A47A2",
-        "Weapon": "0x865640F8e435D394519581afA81Ba7135DF668d2"
+        "CharacterFactory": "0xd9f184B2086d508f94e1aefe11dFABbcD810aeF9",
+        "AvatarFactory": "0x78925Ce372c918011Eb2966264b668B2F256224C"
     },
     "links": {
         "project": "https://www.foo.ai/",
@@ -39,23 +61,48 @@ Here is an example of a file describing a protocol:
         "docs": "https://docs.foo.ai/"
     }
 }
+```
+
+## Validation
+
+### Validating your entry
+
+Before submitting your entry, please run validation locally:
 
 ```
+# assuming your file was mainnet/PROTOCOL_NAME.{json,jsonc}
+python scripts/validate_protocol.py --network mainnet --protocol PROTOCOL_NAME
+```
+
+### Validating all jsons
+
+The following will be run on each commit:
+
+```
+python scripts/validate_protocol.py --network testnet
+python scripts/validate_protocol.py --network mainnet
+```
+
+
 ## How to submit a change
+
 Changes are done on branches and submitted as PRs. Here is a walkthrough of the process:
 
 ### Create and switch to a new branch
+
 ```
 git checkout -b your-protocol/your-branch-name
 ```
 
 ### Make changes and push
+
 Once you have made the desired changes, push to the repository:
 ```
 git push origin your-protocol/your-branch-name
 ```
 
 ### Create a pull request
+
 1. Navigate to your branch on GitHub
    * You'll usually see a banner suggesting to create a PR for your recently pushed branch
 2. Click "Compare & pull request" or go to the "Pull requests" tab and click "New pull request"
@@ -75,118 +122,160 @@ Please ensure your submission is passing before requesting a review.
 
 
 ## Categories
-The list of choices for the `category` field appears in `categories.json` and is also listed below. For mental clarity, categories are organized by top-level sectors.
 
-Generally protocols will choose one category, however more than one is permissible, in which case list the primary category first.
+The list of choices for the `category` field appears in [`categories.json`](categories.json) and
+is also listed below. For ease of understanding, categories are organized by top-level sectors.
 
-- AI
-  * AI::Agent Launchpad
-  * AI::Abstraction Infrastructure
-  * AI::Consumer AI
-  * AI::Data
-  * AI::Compute
-  * AI::Inference
-  * AI::Gaming
-  * AI::Infrastructure
-  * AI::Investing
-  * AI::Models
-  * AI::Trading Agent
-  * AI::Other
-- CeFi
-  * CeFi::CEX
-  * CeFi::Institutional Trading
-  * CeFi::Other
-- Consumer
-  * Consumer::Betting
-  * Consumer::E-commerce / Ticketing
-  * Consumer::Prediction Market
-  * Consumer::Social
-  * Consumer::Other
-- DeFi
-  * DeFi::Asset Allocators
-  * DeFi::Asset Issuers
-  * DeFi::CDP
-  * DeFi::Cross Chain
-  * DeFi::DEX
-  * DeFi::DEX Aggregator
-  * DeFi::Indexes
-  * DeFi::Insurance
-  * DeFi::Intents
-  * DeFi::Launchpads
-  * DeFi::Lending
-  * DeFi::Leveraged Farming
-  * DeFi::Liquid Staking
-  * DeFi::Memecoin
-  * DeFi::MEV
-  * DeFi::Options
-  * DeFi::Perpetuals / Derivatives
-  * DeFi::Prime Brokerage
-  * DeFi::Reserve Currency
-  * DeFi::RWA
-  * DeFi::Stablecoin
-  * DeFi::Stableswap
-  * DeFi::Staking
-  * DeFi::Synthetics
-  * DeFi::Trading Interfaces
-  * DeFi::Uncollateralized Lending
-  * DeFi::Yield
-  * DeFi::Yield Aggregator
-  * DeFi::Other
-- DePIN
-  * DePIN::Spatial Intelligence
-  * DePIN::CDN
-  * DePIN::Compute
-  * DePIN::Data Collection
-  * DePIN::Data Labelling
-  * DePIN::Mapping
-  * DePIN::Monitoring Networks
-  * DePIN::Storage
-  * DePIN::Wireless Network
-  * DePIN::Other
-- DeSci
-  * DeSci::Other
-- Gaming
-  * Gaming::Metaverse
-  * Gaming::Mobile-First
-  * Gaming::Games
-  * Gaming::Infrastructure
-  * Gaming::Other
-- Governance
-  * Governance::Delegation
-  * Governance::Risk Management
-  * Governance::Other
-- Infra
-  * Infra::AA
-  * Infra::Automation
-  * Infra::Analytics
-  * Infra::Developer Tooling
-  * Infra::Identity
-  * Infra::Indexing
-  * Infra::Interoperability
-  * Infra::Gaming
-  * Infra::Oracle
-  * Infra::Privacy / Encryption
-  * Infra::RaaS (Rollup as a Service)
-  * Infra::RPC
-  * Infra::WaaS
-  * Infra::Wallet
-  * Infra::ZK
-  * Infra::Other
-- NFT
-  * NFT::Collections
-  * NFT::Infrastructure
-  * NFT::Interoperability
-  * NFT::Marketplace
-  * NFT::NFTFi
-  * NFT::Other
-- Payments
-  * Payments::Credit Cards
-  * Payments::Onramp and Offramps
-  * Payments::Neobanks
-  * Payments::Orchestration
-  * Payments::Remittance
-  * Payments::Other
-  
-## Monad Foundation Reviewers
-1. `kkqzhou`
-2. `79jke`
+Generally protocols will be associated with a single category, however more than one is 
+permissible, in which case please put the primary category first.
+
+<details>
+<summary>AI</summary>
+
+- `AI::Agent Launchpad`
+- `AI::Abstraction Infrastructure`
+- `AI::Consumer AI`
+- `AI::Data`
+- `AI::Compute`
+- `AI::Inference`
+- `AI::Gaming`
+- `AI::Infrastructure`
+- `AI::Investing`
+- `AI::Models`
+- `AI::Trading Agent`
+- `AI::Other`
+</details>
+
+<details>
+<summary>CeFi</summary>
+
+- `CeFi::CEX`
+- `CeFi::Institutional Trading`
+- `CeFi::Other`
+</details>
+
+<details>
+<summary>Consumer</summary>
+
+- `Consumer::Betting`
+- `Consumer::E-commerce / Ticketing`
+- `Consumer::Prediction Market`
+- `Consumer::Social`
+- `Consumer::Other`
+</details>
+
+<details>
+<summary>DeFi</summary>
+
+- `DeFi::Asset Allocators`
+- `DeFi::Asset Issuers`
+- `DeFi::CDP`
+- `DeFi::Cross Chain`
+- `DeFi::DEX`
+- `DeFi::DEX Aggregator`
+- `DeFi::Indexes`
+- `DeFi::Insurance`
+- `DeFi::Intents`
+- `DeFi::Launchpads`
+- `DeFi::Lending`
+- `DeFi::Leveraged Farming`
+- `DeFi::Liquid Staking`
+- `DeFi::Memecoin`
+- `DeFi::MEV`
+- `DeFi::Options`
+- `DeFi::Perpetuals / Derivatives`
+- `DeFi::Prime Brokerage`
+- `DeFi::Reserve Currency`
+- `DeFi::RWA`
+- `DeFi::Stablecoin`
+- `DeFi::Stableswap`
+- `DeFi::Staking`
+- `DeFi::Synthetics`
+- `DeFi::Trading Interfaces`
+- `DeFi::Uncollateralized Lending`
+- `DeFi::Yield`
+- `DeFi::Yield Aggregator`
+- `DeFi::Other`
+</details>
+
+<details>
+<summary>DePIN</summary>
+
+- `DePIN::Spatial Intelligence`
+- `DePIN::CDN`
+- `DePIN::Compute`
+- `DePIN::Data Collection`
+- `DePIN::Data Labelling`
+- `DePIN::Mapping`
+- `DePIN::Monitoring Networks`
+- `DePIN::Storage`
+- `DePIN::Wireless Network`
+- `DePIN::Other`
+</details>
+
+<details>
+<summary>DeSci</summary>
+
+- `DeSci::Other`
+</details>
+
+<details>
+<summary>Gaming</summary>
+
+- `Gaming::Metaverse`
+- `Gaming::Mobile-First`
+- `Gaming::Games`
+- `Gaming::Infrastructure`
+- `Gaming::Other`
+</details>
+
+<details>
+<summary>Governance</summary>
+
+- `Governance::Delegation`
+- `Governance::Risk Management`
+- `Governance::Other`
+</details>
+
+<details>
+<summary>Infra</summary>
+
+- `Infra::AA`
+- `Infra::Automation`
+- `Infra::Analytics`
+- `Infra::Developer Tooling`
+- `Infra::Identity`
+- `Infra::Indexing`
+- `Infra::Interoperability`
+- `Infra::Gaming`
+- `Infra::Oracle`
+- `Infra::Privacy / Encryption`
+- `Infra::RaaS (Rollup as a Service)`
+- `Infra::RPC`
+- `Infra::WaaS`
+- `Infra::Wallet`
+- `Infra::ZK`
+- `Infra::Other`
+</details>
+
+<details>
+<summary>NFT</summary>
+
+- `NFT::Collections`
+- `NFT::Infrastructure`
+- `NFT::Interoperability`
+- `NFT::Marketplace`
+- `NFT::NFTFi`
+- `NFT::Other`
+</details>
+
+<details>
+<summary>Payments</summary>
+
+- `Payments::Credit Cards`
+- `Payments::Onramp and Offramps`
+- `Payments::Neobanks`
+- `Payments::Orchestration`
+- `Payments::Remittance`
+- `Payments::Other`
+</details>

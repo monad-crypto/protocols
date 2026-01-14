@@ -1,0 +1,15 @@
+{
+    "name": "Band",
+    "description": "Band is the data layer that trains AI engines and powers blockchain applications.",
+    "live": true,
+    "categories": ["Infra::Oracle"],
+    "addresses": {
+        "proxy": "0x8c064bCf7C0DA3B3b090BAbFE8f3323534D84d68"
+    },
+    "links": {
+        "project": "https://www.bandprotocol.com/",
+        "twitter": "https://x.com/BandProtocol",
+        "github": "https://github.com/bandprotocol/chain",
+        "docs": "https://docs.bandchain.org/"
+    }
+}

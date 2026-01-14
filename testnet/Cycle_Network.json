@@ -1,8 +1,8 @@
 {
     "name": "Cycle Network",
-    "description": "Cycle Network offers bridgeless liquidity abstraction through verifiable state aggregation, supporting all BTC and EVM networks",
+    "description": "Cycle Network is building a universal all-chain settlement layer and a bridgeless liquidity network for the entire blockchain ecosystem.",
     "live": false,
-    "categories": ["DeFi::Cross Chain"],
+    "categories": ["AI::Abstraction Infrastructure"],
     "addresses": {},
     "links": {
         "project": "https://www.cyclenetwork.io/",

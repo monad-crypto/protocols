@@ -1,14 +1,30 @@
 {
-    "name": "Nad.fun",
-    "description": "Nad.fun is a Social Memecoin Playground powered by Monad, enabling seamless token launches and trading.",
-    "live": true,
-    "categories": ["DeFi::Launchpads"],
-    "addresses": {
-        "default": "0x822EB1ADD41cf87C3F178100596cf24c9a6442f6"
-    },
-    "links": {
-        "project": "https://testnet.nad.fun",
-        "twitter": "https://x.com/naddotfun",
-        "github": "https://github.com/Naddotfun"
-    }
+  "name": "Nad.fun",
+  "description": "Launch, trade and predict on Monad",
+  "live": true,
+  "categories": ["DeFi::Launchpads"],
+  "addresses": {
+    "QUOTER_V3": "0xb9841fdAc1F0fD01C79095C3c97105D01273A192",
+    "CREATOR_MANAGER": "0x338394E774777e635841c45A222F1De09a6AD360",
+    "TOKEN_REGISTRY": "0x7f03e0b07f60b21a3E08205154D34fA2B83c655a",
+    "FOUNDATION_TREASURY": "0x8eb9B3b873b2260e95E9Be40594153A5f7B98628",
+    "COMMUNITY_TREASURY": "0x8C786190186518A3a95d86CeE8e972ce1C7Eda8b",
+    "CREATOR_TREASURY": "0x4312Ec1606F2977AfC9Be36C84E58b7087618818",
+    "TOKEN_TREASURY": "0xdEAc7461fdBf799Ad52E11413F267801AD544a11",
+    "BONDING_CURVE_ROUTER": "0xF57F14335e9670ed2C0CeF4A59fB707Cf2eB3FAC",
+    "BONDING_CURVE": "0xaD720f94689edB929D9be7613223320a0b2f260F",
+    "LP_MANAGER": "0x5Ab462177fE88A668e36eB0d36560A83036e0054",
+    "UNISWAP_ACTOR": "0x599F6c2307C4b90809F59275613Ab285D1B6bD80",
+    "DEX_DEPLOYER": "0x22CaB8b60EEfE9e0b7010C0B4c9C2822B32868c6",
+    "DEX_ROUTER": "0x34469738bbD2948F43E0e4B588BC5646BCf4a6bB",
+    "REWARD_POOL": "0xEbC10F2749Bf600e9F0b3D6eC7d762f8c9298Ba6",
+    "LENS": "0x1b2b500a6f6C8a25Ca0436d8183Ba25C9415e28E",
+    "TOKEN_IMPLEMENT": "0xEDc927B974F9964bba538bbD508F658d11917b43"
+  },
+  "links": {
+    "project": "https://nad.fun",
+    "twitter": "https://x.com/naddotfun",
+    "discord": "https://discord.com/invite/naddotfun",
+    "docs": "https://nad-fun.gitbook.io/nad.fun"
+  }
 }

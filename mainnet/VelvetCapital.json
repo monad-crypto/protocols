@@ -1,0 +1,19 @@
+{
+    "name": "Velvet Capital",
+    "description": "Velvet Capital is a DeFAI Trading & Portfolio Management Ecosystem powered by intents, offering a vertically integrated stack with a native user app, an agentic TG bot, APIs for easy integration and a DeFAI OS for agents.",
+    "live": true,
+    "categories": [
+        "DeFi::DEX Aggregator"
+    ],
+    "addresses": {
+        "MetaAggregatorManager": "0x995eFd92CC2F70a2091Ba9aae04cBb5fB24B7dd1",
+        "MetaAggregatorSwapContract": "0x6DdF98AeCE7d24fE37C70Abc3F0F95aCeC66f32f"
+    },
+    "links": {
+        "project": "https://velvet.capital",
+        "twitter": "https://x.com/Velvet_Capital",
+        "github": "https://github.com/Velvet-Capital",
+        "docs": "https://docs.velvet.capital/"
+    }
+}
+

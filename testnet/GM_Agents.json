@@ -1,0 +1,17 @@
+{
+    "name": "GM Agents",
+    "description": "GM Agents is building the on-chain memory protocol for AI. We turn your interactions and knowledge into digital memories you can own, share, and earn from. Your memory, your asset.",
+    "live": true,
+    "categories": [
+        "AI::Agent Launchpad",
+        "AI::Consumer AI",
+        "AI::Data"
+    ],
+    "addresses": {
+        "default": "0xbE1419d305d344E252c3AB9b688B664bfDa928cf"
+    },
+    "links": {
+        "project": "https://gmagents.ai/",
+        "twitter": "https://x.com/GMAgents_AI"
+    }
+}

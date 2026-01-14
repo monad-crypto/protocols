@@ -1,0 +1,19 @@
+{
+    "name": "DeBridge",
+    "description": "Trade any opportunity, ahead of the curve. For first-movers.",
+    "categories": [
+        "Infra::Interoperability"
+    ],
+    "addresses": {
+        "DeBridgeRouter": "0x663DC15D3C1aC63ff12E45Ab68FeA3F0a883C251",
+        "DebridgeGate": "0x43dE2d77BF8027e25dBD179B491e8d64f38398aA",
+        "DlnDest": "0xE7351Fd770A37282b91D153Ee690B63579D6dd7f",
+        "DlnSource": "0xeF4fB24aD0916217251F553c0596F8Edc630EB66"
+    },
+    "links": {
+        "project": "https://debridge.com/",
+        "twitter": "https://x.com/debridge",
+        "github": "https://github.com/debridge-finance",
+        "docs": "https://docs.debridge.com"
+    }
+}

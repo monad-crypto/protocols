@@ -14,8 +14,8 @@
         "unknown7": "0x2052f8A2Ff46283B30084e5d84c89A2fdBE7f74b"
     },
     "links": {
-        "project": "magiceden.io",
-        "twitter": "https://x.com/magiceden"
+        "project": "https://magiceden.io",
+        "twitter": "https://x.com/magiceden",
         "docs": "https://docs.magiceden.io/"
     }
 }

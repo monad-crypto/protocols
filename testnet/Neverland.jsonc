@@ -1,0 +1,127 @@
+{
+  "name": "Neverland",
+  "description": "Neverland is a Monad-native decentralized lending protocol built on the Aave V3 framework, reimagining DeFi incentives through self-repaying loans, flexible NFT-based veToken governance, and automated yield strategies. It redistributes 100% of protocol revenue back to the community through governance-directed rewards, liquidity incentives, and deflationary buybacks and burns.",
+  "live": true,
+  "categories": ["DeFi::Lending", "NFT::Other", "Governance::Other"],
+  "addresses": {
+    // --- Core Lending System ---
+    "ACLManager": "0xc363A56a66e912112d712A96Cf67AdeD43606420",
+    "Pool (Proxy)": "0x9861f6a26050e02Ff0C079657F5a3AFcD8D4af52",
+    "Pool (Impl.)": "0x6745D4B9Cf3bc935732DB4EC2A13aF01e988b675",
+    "PoolAddressesProvider": "0x0bAe833178A7Ef0C5b47ca10D844736F65CBd499",
+    "PoolAddressesProviderRegistry": "0x2F7ae2EebE5Dd10BfB13f3fB2956C7b7FFD60A5F",
+    "PoolDataProvider": "0xDbeeD68b6F2a955dc81ABaDE8Fab6539aB0f85a4",
+
+    // --- Configuration Contracts ---
+    "PoolConfigurator (Proxy)": "0x7dbfE45Df67B22Aa60EA4A58d2B9C59eF7762052",
+    "PoolConfigurator (Impl.)": "0x13c6612361C04cD033B7835d6d4639ec2F6F9B11",
+    "ReservesSetupHelper": "0x4D573882AfD207b4B38E70Dc2a7061A000Ae5cad",
+
+    // --- Logic Libraries (Aave V3 Core) ---
+    "BorrowLogic": "0x4D9B0c92466F399abEcA961B538ad058Cc1F06B9",
+    "BridgeLogic": "0xb35cE984b7EaC9DB6772bd13d0e590270b615456",
+    "ConfiguratorLogic": "0x277132810950695c5B625f7F7E1C7AeE66b3C59d",
+    "EModeLogic": "0xDC7d425fd1F012B6de08C639CAd47eF338f983D5",
+    "FlashLoanLogic": "0x477eb83E8B0A8818c8672BA5AfEB2CD34f190800",
+    "LiquidationLogic": "0x21cb627f771654f1D2784f80bd34692e4e84dD58",
+    "PoolLogic": "0xD0cc0850Cf3a3fb15F823DFE92Cf2407d9A168eB",
+    "SupplyLogic": "0x45b956bAe0C05Ec9Cc794aDb925bF9e7D3B221ff",
+
+    // --- Interest Rate Strategies ---
+    "StableOne": "0x68687f79B5422909569c7EF3BECD8FD38022d11D",
+    "StableTwo": "0x05B419391Ee8c801dF0Fb03BbAe567155e218492",
+    "VolatileOne": "0xCD8608F7526f29e0182D125a9b833e6875D3AC9e",
+
+    // --- Oracle ---
+    "AaveOracle": "0x58207F48394a02c933dec4Ee45feC8A55e9cdf38",
+
+    // --- Base Tokens ---
+    "AToken": "0x2ed958251971e4A08134774a1435592347D65BA8",
+    "DelegationAwareAToken": "0x5ABFDA171b3EFA66E4f3D2a616ff19000547FDdd",
+    "StableDebtToken": "0xE10c84210B3Dc7DED6649782Bc2cBc1e7564aBE6",
+    "VariableDebtToken": "0x5125c691a8a41281e24cd123E05331d4d547deA6",
+
+    // --- Reserves Wrappers ---
+    // WMON
+    "WMON_AToken": "0xc7fE001DD712beFb2de20abD34597CeF0250a6Ba",
+    "WMON_StableDebtToken": "0xCF5965F33dBdB9b7069Becc6C0B26c800ad722f1",
+    "WMON_VariableDebtToken": "0x6D918BFD4b978574b00cfe0f1872931203357d1E",
+    // USDC
+    "USDC_AToken": "0x18d5fb20B2D252EaE3C13B51Cb53745F5b7D01dc",
+    "USDC_StableDebtToken": "0xCb72554A672c67EE5d07F0b6df44CdBDD52Bd6E0",
+    "USDC_VariableDebtToken": "0xFcb0C1De6159E6CED54CBf1222BB0187EB81e59f",
+    // USDT
+    "USDT_AToken": "0xDD1124Cc06B2fEB6B03B94C0feD40b7352C07C24",
+    "USDT_StableDebtToken": "0x2274a0A678978d0B509e631f9cE33CF865d84A37",
+    "USDT_VariableDebtToken": "0x20838Ac96e96049C844f714B58aaa0cb84414d60",
+    // WBTC
+    "WBTC_AToken": "0x5e59DEBC244c947Cbc37763AB92E77A1acF24aF0",
+    "WBTC_StableDebtToken": "0xEc092B75e399cDf04e3E50A4fbE2f93d7dE3f99D",
+    "WBTC_VariableDebtToken": "0x0eEa99C3691348E937d33AebBF6aa0537fD0d500",
+    // WETH
+    "WETH_AToken": "0xFDC8BC830Fef4BD6885043A279A768720Ec091be",
+    "WETH_StableDebtToken": "0xbf6fb697053CbA19803735CB670ba17F537Ea964",
+    "WETH_VariableDebtToken": "0xB61fe1aF61D75F44450e3Fa84F2f2dd75059897C",
+    // shMON
+    "shMON_AToken": "0x81167bCBf086973018AeAb9F2598fC872EB3eE8E",
+    "shMON_StableDebtToken": "0x956CfAEc111576cbdecda79Af8F2EfD9A388c008",
+    "shMON_VariableDebtToken": "0x4fd95e1609220Bf078b465456ee7864b9A780830",
+    // gMON
+    "gMON_AToken": "0x4D0a2adDEf97F02b11D0fdA1b0099Ca6907e37fb",
+    "gMON_StableDebtToken": "0xbc479bdDF5C97F93732f73559647D5a44263757B",
+    "gMON_VariableDebtToken": "0xbB40488f28c78d2d5CD79d46F934908308FA2169",
+
+    // --- Lending Utilities ---
+    "WalletBalanceProvider": "0x2676Fbd55A095425B050CC70063de52aA91ff0a2",
+    "UiPoolDataProviderV3": "0x70690de9a88f7f5E79dde0F88C1c3B89223680B3",
+    "WrappedTokenGatewayV3": "0xCa203799274B20421bDa8fF98926e9b0e21E54Ff",
+
+    // --- Tokenomics ---
+    "Dust (Proxy)": "0x8c30De5c41528494DEC99f77a410FB63817dC7E2",
+    "Dust (Impl. V1)": "0x048AE2ceDb3579F79Fb8C4f4A2c82E7C5D950dFA",
+    "Dust (Impl. V2)": "0x5c6E25008bcbc6a056C54f1d9Dc3dd1e0FD4c59C",
+    "DustLock (Proxy)": "0x6bAf63f7959EA253006e7Af0BeFf29810CcbF661",
+    "DustLock (Impl.)": "0x01f842D0E4db22D7987E6611AD2Ced314cEB9f66",
+
+    // --- Incentives ---
+    "DustRewardsController (Proxy)": "0x7f60150CaF5AA98A99E6EcD2e34E1E8A18d99174",
+    "DustRewardsController (Impl.)": "0x798495BA821cD0D444A4ab4FA54bf989B80b62e1",
+    "DustLockTransferStrategy": "0x98A3C29416797Ee10b5714E2aFD07d18D7935864",
+
+    // --- Revenue Distribution ---
+    "RevenueReward (Proxy)": "0x498d3bCB37b004f40EbAAF19fec0E6b9e61786a4",
+    "RevenueReward (Impl.)": "0x27Ac5b54204cb505e3aF842CB14ad8FaF8069E22",
+
+    // --- Self-Repayment System ---
+    "UserVaultRegistry": "0x5A4be21F3e2fF5Aac9E9328965691F9776d9A9F3",
+    "UserVaultImplementation": "0x91412510b1B853005569998ed70D21b7A2de53c7",
+    "UserVaultBeacon": "0x64e169eB9ED9f1D29F576e521B5C3AF7d17ED261",
+    "UserVaultFactory (Proxy)": "0xa4620F718A2042fefaead2Bf1E72Fe1925BE6eCE",
+    "UserVaultFactory (Impl.)": "0x7ebc680C939Ef3A8A0430D3DA7Dcb3A4A58eDC47",
+
+    // --- Upgradeability ---
+    "ProxyAdmin": "0x723485842947E82783FC561720fB09B65F857ed5",
+
+    // --- Utilities ---
+    "NeverlandDustHelper": "0x611Db9cb04B5a8E0B275712F263552dc522a3DDa",
+    "NeverlandUiProvider": "0x733241d82C4410ec79C6ec9561440B463C0d6007",
+
+    // --- Oracle Aggregators ---
+    "ChronicleOracleAggregator_WMON/USD": "0xEdEff4EDbFF52B7957Dd3F80FbA4EA6E10A9d092",
+    "BlocksenseOracleAggregator_WMON/USD": "0x7038Ad59f21cEd8Ea5cE69e3fCeA1206b31d434e",
+    "RedstoneOracleAggregator_GMON/MON": "0x013bE8765E51289af14A3563d34ee91B6B59EB70",
+    "RedstoneRatioOracleAggregator_GMON/USD": "0xA44aC06FE484D7849Ef3244A57723A1A36d7f222",
+    "SharesOracleAggregator_SHMON/USD": "0x0c0F6056A0215B3b9828Ce6032419232DdC34928",
+
+    // --- Uniswap V3 TWAP Oracles ---
+    "UniV3TwapAggregator_WMON/USDC": "0x1F55Ad177c9E5aaFcAf270908926B371003BF0f1",
+    "UniV3TwapAggregator_GMON/USDC": "0xEbD7c848E75af58AFA0A6c4CfEe78F976f8Fa4C4",
+    "UniV3TwapAggregator_SHMON/USDC": "0x2399057a489937b624E7D1aD7536B86B993AF5B8"
+  },
+  "links": {
+    "project": "https://neverland.money",
+    "twitter": "https://x.com/Neverland_Money",
+    "github": "https://github.com/Neverland-Money",
+    "docs": "https://docs.neverland.money"
+  }
+}

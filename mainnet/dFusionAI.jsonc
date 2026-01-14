@@ -1,0 +1,15 @@
+{
+    "name": "dFusion AI",
+    "description": "dFusion AI builds a decentralized data economy: crowdsourced “truth,” user-owned social data, and modular AI filters on decentralized compute to create high-quality, verifiable AI assets and private subnets.",
+    "live": true,
+    "categories": ["AI::Data"],
+    "addresses": {
+        "dFusionAI": "0x9ed42ceba267c3f7728cc1f559cd7b545d7cd7d4"
+    },
+    "links": {
+        "project": "https://dfusion.ai",
+        "twitter": "https://x.com/dfusionai",
+        "github": "https://github.com/whetstoneresearch/doppler",
+        "docs": "https://docs.doppler.lol/"
+    }
+}

@@ -4,6 +4,7 @@
     "live": true,
     "categories": ["DeFi::DEX"],
     "addresses": {
+        "AggregatorSmart": "0xcF9FB929FA29eC1C1A216717200232c5B0C3d744",
         "UniversalRouter": "0x74a116B1Bb7894D3cFbC4B1a12F59ea95f3FFf81",
         "RouterV2": "0x3be99Db246c81df2Bd8Dc0d708E03F64e1A84917",
         "FactoryV2": "0x095f464B7A6A45b4f03abB32E7C42e05F0c58E9b",

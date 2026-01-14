@@ -1,0 +1,19 @@
+{
+    "name": "Definitive Finance",
+    "description": "Definitive Finance is a professional trading terminal delivering advanced on-chain execution and risk tooling for active traders on Monad.",
+    "categories": [
+        "DeFi::Trading Interfaces"
+    ],
+    "addresses": {
+        "VaultFactory": "0xdeF00000cc0a125ba7962e8113d3B69786851736",
+        "VaultImplementation": "0x0000000d1126e7651931461F31Be87712CD9E05C",
+        "VaultBeacon": "0x000000005aE5f42270cDf0E41960840e7FB1b2dc"
+    },
+    "links": {
+        "project": "https://definitive.fi",
+        "app": "https://app.definitive.fi",
+        "twitter": "https://x.com/DefinitiveFi",
+        "docs": "https://docs.definitive.fi/",
+        "discord": "https://discord.com/invite/definitive"
+    }
+}
