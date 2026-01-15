@@ -1,0 +1,18 @@
+{
+    "name": "SlabCash",
+    "description": "Level up your collection with physical backed, onchain authenticated trading cards.",
+    "categories": [
+        "Consumer::Other",
+        "NFT::Collections"
+    ],
+    "addresses": {
+        "RarityCalculator": "0x8a981C2cfdd7Fbc65395dD2c02ead94e9a2f65a7",
+        "Slab": "0xb85D2443aEfbCaf9f0b32EAde7D47BeBc5D00972",
+        "SlabMachine": "0xA1669a2B70bA2FF33C7bf59fb8a87C0fBf50774C"
+    },
+    "links": {
+        "project": "https://slab.cash/",
+        "twitter": "https://x.com/slab_cash",
+        "github": "https://github.com/slabcash"
+    }
+}

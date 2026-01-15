@@ -1,0 +1,16 @@
+{
+    "name": "SlabCash",
+    "description": "Level up your collection with physical backed, onchain authenticated trading cards.",
+    "categories": [
+        "Consumer::Other",
+        "NFT::Collections"
+    ],
+    "addresses": {
+
+    },
+    "links": {
+        "project": "https://slab.cash/",
+        "twitter": "https://x.com/slab_cash",
+        "github": "https://github.com/slabcash"
+    }
+}
