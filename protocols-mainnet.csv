@@ -1289,7 +1289,7 @@ Supra Oracles,Infra,Oracle,Deposit,0xe0d19f368f273e4f4b30490c804097ec6ec7cd4e,In
 Supra Oracles,Infra,Oracle,Router,0x8c009e02c1902126bb88901084b3f0714c6d4304,Infra::Oracle
 Supra Oracles,Infra,Oracle,SupraOraclePull,0x16f70cad28dd621b0072b5a8a8c392970e87c3dd,Infra::Oracle
 Supra Oracles,Infra,Oracle,SupraSValueFeedStorage,0x58e158c74df7ad6396c0dcbadc4878fac9e93d57,Infra::Oracle
-Switchboard,Infra,Oracle,Oracle,0x33a5066f65f66161beb3f827a3e40fce7d7a2e6c,Infra::Oracle
+Switchboard,Infra,Oracle,Oracle,0xb7f03eee7b9f56347e32cc71dad65b303d5a0e67,Infra::Oracle
 Canonical Contracts,Infra,Other,Create2Deployer,0x13b0d85ccb8bf860b6b79af3029fca081ae9bef2,Infra::Other
 Canonical Contracts,Infra,Other,CreateX,0xba5ed099633d3b313e4d5f7bdc1305d3c28ba5ed,Infra::Other
 Canonical Contracts,Infra,Other,EntryPoint_v0_6,0x5ff137d4b0fdcd49dca30c7cf57e578a026d2789,Infra::Other
