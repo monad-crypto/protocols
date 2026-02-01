@@ -1,0 +1,16 @@
+{
+    "name": "Monad Space",
+    "description": "A full-featured explorer and staking platform with built-in validator monitoring and analytics.",
+    "categories": [
+        "Infra::Analytics",
+        "Infra::Other",
+        "DeFi::Staking"
+    ],
+    "addresses": {
+        "StakingContract": "0x0000000000000000000000000000000000001000"
+    },
+    "links": {
+        "project": "https://testnet-monad-space.itrocket.net",
+        "twitter": "https://x.com/itrocket_team"
+    }
+}
