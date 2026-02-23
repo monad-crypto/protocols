@@ -7,7 +7,7 @@
         "DeFi::Staking"
     ],
     "addresses": {
-        "StakingContract": "0x0000000000000000000000000000000000001000"
+        "StakingContract": ""
     },
     "links": {
         "project": "https://monad-space.itrocket.net",
