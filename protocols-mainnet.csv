@@ -19,8 +19,6 @@ Kodeus,AI,Consumer AI,KodeusAgents,0x3d3c1db86989ed5196358ee03e2f1258ea183dcb,AI
 Kodeus,AI,Consumer AI,KodeusMetricsTrackerV6,0xa0371d51c086f846bd02c331dd31cc510645332e,AI::Consumer AI
 Sela Network,AI,Data,SelaPower,0x42ea86b7e84ea022aa902c6dc470758ba68a7506,AI::Data;AI::Infrastructure;DePIN::Data Collection;DePIN::Compute
 dFusion AI,AI,Data,dFusionAI,0x9ed42ceba267c3f7728cc1f559cd7b545d7cd7d4,AI::Data
-M0narch,Consumer,Betting,LuckyWheel,0x79575d8787b184841fd9eb28aaee2971646259ce,Consumer::Betting;Gaming::Games
-M0narch,Consumer,Betting,MonRoll,0xbb053a8ce778d8492db5079ac36ffa99bde92abc,Consumer::Betting;Gaming::Games
 RareBetSports,Consumer,Betting,Oracle,0x3987049dc3d79a9a43805e771b084a3da8d90ed4,Consumer::Betting;Consumer::Prediction Market
 RareBetSports,Consumer,Betting,SlipRepository,0x07133ff8291876c693117212de67f3c0b3d3a3fc,Consumer::Betting;Consumer::Prediction Market
 PlayKami,Consumer,E-commerce / Ticketing,DropCard,0xc2d57443f061b4490b1e588f3009d6357e6ad062,Consumer::E-commerce / Ticketing;Consumer::Other
