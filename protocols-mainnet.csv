@@ -1060,7 +1060,6 @@ Nar.bet,Gaming,Other,Slots,0xe3c0b41413bc9913e0ace43a64637ef6c4e39f97,Gaming::Ot
 Nar.bet,Gaming,Other,VideoPoker,0x681d2c159ee77f660f5081a3c193fb9613b624c0,Gaming::Other
 TKGasStation,Infra,AA,TKGasDelegate,0x000066a00056cd44008768e2af00696e19a30084,Infra::AA
 TKGasStation,Infra,AA,TKGasStation,0x00000000008c57a1ce37836a5e9d36759d070d8c,Infra::AA
-Monad Space,Infra,Analytics,StakingContract,,Infra::Analytics;Infra::Other;DeFi::Staking
 AllDomains,Infra,Identity,.chog,0x254151a07b6a3d3fd92ca9387a9e5ae1b5121cc3,Infra::Identity
 AllDomains,Infra,Identity,.mokadel,0xa08f199cbae717a9e8278f44d615eb536325f259,Infra::Identity
 AllDomains,Infra,Identity,.molandak,0xb1fd9ea7d3770af0f5cc2742ca29d5562898d3b4,Infra::Identity
