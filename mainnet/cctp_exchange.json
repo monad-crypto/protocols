@@ -1,0 +1,18 @@
+{
+    "name": "CCTP Exchange",
+    "description": "CCTP Exchange is a cross-chain USDC transfer platform built on top of Tachyon, the ultra-fast relayer and execution layer developed by Rath Finance, enabling users and applications to move native USDC across supported chains seamlessly.",
+    "live": true,
+    "categories": [
+        "DeFi::Cross Chain",
+        "Infra::Interoperability"
+    ],
+    "addresses": {
+        "RathCctpRouter": "0x9eBE71D432cf73F7BACA46E3a59080609375B844"
+    },
+    "links": {
+        "project": "https://cctp.exchange",
+        "twitter": "https://x.com/cctpexchange",
+        "github": "https://github.com/RathFinance/",
+        "docs": "https://docs.rath.fi/"
+    }
+}

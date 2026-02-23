@@ -1,0 +1,20 @@
+{
+    "name": "Magma",
+    "description": "Native liquid staking and MEV, powered by the fastest block engine in crypto.",
+    "live": true,
+    "categories": [
+      "DeFi::Liquid Staking",
+      "DeFi::Staking",
+      "DeFi::MEV"
+    ],
+    "addresses": {
+      "gMON": "0x8498312A6B3CbD158bf0c93AbdCF29E6e4F55081",
+      "Delegator": "0xb1d57de83d80a2abac91714744dfe97e71b73dc0"
+    },
+    "links": {
+      "project": "https://www.magmastaking.xyz/",
+      "twitter": "https://x.com/MagmaStaking",
+      "github": "https://github.com/MagmaStaking",
+      "docs": "https://docs.hydrogenlabs.xyz/magma"
+    }
+  }

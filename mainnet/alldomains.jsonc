@@ -1,0 +1,23 @@
+{
+    "name": "AllDomains",
+    "description": "All Domains: the web3 identity asset layer to create and trade web3 domains | Customizable for .everyone https://linktr.ee/AllDomains",
+    "live": true,
+    "categories": [
+        "Infra::Identity"
+    ],
+    "addresses": {
+        ".chog": "0x254151a07b6a3d3fd92ca9387a9e5ae1b5121cc3",
+        ".mokadel": "0xa08f199cbae717a9e8278f44d615eb536325f259",
+        ".molandak": "0xb1fd9ea7d3770af0f5cc2742ca29d5562898d3b4",
+        ".mon": "0x0cbf507971dc30338e7b0c4afdbb296956c998e0",
+        ".mouch": "0x04db16fdd29ecddd395388ac608293f42c7b0daf",
+        ".moyaki": "0x2240e5979b49e77dd1c0285f3159746da0911fbe",
+        ".nad": "0xe0044d60d4bc2dc9df1a00e9e1d82481e941c729",
+        ".salmonad": "0xe13b05cd8cfd5829f9be16e633174bcbe02e91fb"
+    },
+    "links": {
+        "project": "https://monad.alldomains.id/",
+        "twitter": "https://x.com/alldomains",
+        "docs": "https://docs.alldomains.id/protocol/"
+    }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Talentum",
+  "description": "An interactive SocialFi platform that blends quests, engagement, and digital collectibles. Earn rewards for meaningful activity, discover new ecosystems, and grow your reputation on-chain.",
+  "categories": [
+    "Consumer::Social",
+    "Consumer::Other",
+    "Gaming::Games",
+    "Gaming::Other",
+    "NFT::NFTFi"
+  ],
+  "addresses": {
+    "TalentumDaily": "0x4816287183534B5ced5Ee93f098962d7Db144845",
+    "TalentumMultiSend": "0x5768aF66FcFF11328FDe25398cC61BB201185697",
+    "TalentumBuyProduct": "0xe610baf2D321199be47ba943F2610Bc82bAB774B",
+    "TalentumNativeStaking": "0xf42d150e621b7bE050beb71C0f6E89A63BfaA95F",
+    "TalentumBuyBattlePass": "0xe3885a21005434c53d945c3A717Bcb23B49412E9",
+    "TalentumWithdrawManager": "0x429b401717130d24ED5c92805141442defB6cE1D",
+    "TalentumWheelSpin": "0x05F9DfEf3E95228695BF449d96181b785144b456",
+    "TalentumProof": "0x28849Cc5A79CE2f94958FF8f853140bce865DAfA"
+  },
+  "links": {
+    "project": "https://talentum.id/",
+    "twitter": "https://x.com/TalentumID",
+    "github": "https://github.com/Talentum-id",
+    "docs": "https://docs.talentum.id/"
+  }
+}

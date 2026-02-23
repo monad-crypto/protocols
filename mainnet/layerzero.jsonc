@@ -1,0 +1,78 @@
+{
+    "name": "LayerZero",
+    "description": "Powering the Chain-Agnostic Future",
+    "live": true,
+    "categories": ["Infra::Interoperability"],
+    "addresses": {
+        // see https://docs.layerzero.network/v2/deployments/deployed-contracts
+        // eid is 30390
+        "endpointV2": "0x6F475642a6e85809B1c36Fa62763669b1b48DD5B",
+        "endpointV2View": "0xAaB5A48CFC03Efa9cC34A2C1aAcCCB84b4b770e4",
+        "executor": "0x4208D6E27538189bB48E603D6123A94b8Abe0A0b",
+        "deadDVN": "0x6788f52439ACA6BFF597d3eeC2DC9a44B8FEE842",
+        "sendUln302": "0xC39161c743D0307EB9BCc9FEF03eeb9Dc4802de7",
+        "receiveUln302": "0xe1844c5D63a9543023008D332Bd3d2e6f1FE1043",
+        "lzExecutor": "0x41Bdb4aa4A63a5b2Efc531858d3118392B1A1C3d",
+        "blockedMessageLib": "0xc1ce56b2099ca68720592583c7984cab4b6d7e7a",
+        "lzEndpoint": "0x3c2269811836af69497e5f486a85d7316753cf62"
+    },
+    // the most up-to-date version is at 
+    // https://metadata.layerzero-api.com/v1/metadata/dvns?chainNames=monad
+    "dvns": {
+        "0xdcdd4628f858b45260c31d6ad076bd2c3d3c2f73": {
+            "version": 2,
+            "canonicalName": "Horizen",
+            "id": "horizen-labs"
+        },
+        "0x493626c5d852b9b187a9eb709d0b0978a3877238": {
+            "version": 2,
+            "canonicalName": "Canary",
+            "id": "canary"
+        },
+        "0xacde1f22eeab249d3ca6ba8805c8fee9f52a16e7": {
+            "version": 2,
+            "canonicalName": "Nethermind",
+            "id": "nethermind"
+        },
+        "0x2c7185f5b0976397d9eb5c19d639d4005e6708f0": {
+            "version": 2,
+            "canonicalName": "Deutsche Telekom",
+            "id": "deutsche-telekom"
+        },
+        "0x6398e91001cc1682bba103e6b2489fa5675a5a64": {
+            "version": 2,
+            "canonicalName": "WBTC Canary",
+            "id": "canary-wbtc"
+        },
+        "0xdd107f9b5209670840f9cd58e241f460651c16c4": {
+            "version": 2,
+            "canonicalName": "Bitgo",
+            "id": "bitgo"
+        },
+        "0x2dcbd79f38d6871232422db88ec29e8d97135ac7": {
+            "version": 2,
+            "canonicalName": "USDT0",
+            "id": "usdt0"
+        },
+        "0x282b3386571f7f794450d5789911a9804fa346b4": {
+            "version": 2,
+            "canonicalName": "LayerZero Labs",
+            "id": "layerzero-labs"
+        },
+        "0x6788f52439aca6bff597d3eec2dc9a44b8fee842": {
+            "version": 2,
+            "canonicalName": "LZDeadDVN",
+            "id": "lz-dead-dvn",
+            "deprecated": true
+        }
+    },
+    "info": {
+        "eid": "30390"
+    },
+    "links": {
+        "project": "https://layerzero.network",
+        "twitter": "https://x.com/LayerZero_Core",
+        "github": "https://github.com/layerzero-labs",
+        "docs": "https://docs.layerzero.network"
+    }
+}

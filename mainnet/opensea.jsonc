@@ -1,0 +1,18 @@
+{
+    "name": "OpenSea",
+    "description": "OpenSea is the world's first and largest web3 marketplace for NFTs and crypto collectibles. Browse, create, buy, sell, and auction NFTs using OpenSea today.",
+    "live": true,
+    "categories": [
+      "NFT::Marketplace"
+    ],
+    "addresses": {
+      "SeaDrop": "0x00005EA00Ac477B1030CE78506496e8C2dE24bf5",
+      "Marketplace": "0x0000000000000068F116a894984e2DB1123eB395"
+  },
+    "links": {
+      "project": "https://opensea.io/",
+      "twitter": "https://x.com/opensea",
+      "docs": "https://docs.opensea.io/"
+    }
+  }
+  

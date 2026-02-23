@@ -1,0 +1,32 @@
+{
+    "name": "Kuru",
+    "description": "Kuru is the all-in-one trading hub for Monad. Trade any spot asset with our smart aggregator and trading terminal. Deploy liquidity on our hybrid AMM-orderbook. Launch a new token in seconds.",
+    "live": true,
+    "categories": [
+        "DeFi::DEX",
+        "DeFi::DEX Aggregator",
+        "DeFi::Launchpads",
+        "DeFi::Memecoin",
+        "DeFi::Stableswap",
+        "DeFi::Trading Interfaces"
+    ],
+    "addresses": {
+        // Entry point of the Kuru Flow aggregator
+        "KuruFlowEntryPoint": "0xb3e6778480b2E488385E8205eA05E20060B813cb",
+        "KuruFlowRouter": "0x465D06d4521ae9Ce724E0c182Daad5D8a2Ff7040",
+        // Kuru DEX router and market factory
+        "Router": "0xd651346d7c789536ebf06dc72aE3C8502cd695CC",
+        // Margin account for all liquidity on Kuru
+        "MarginAccount": "0x2A68ba1833cDf93fa9Da1EEbd7F46242aD8E90c5",
+        "KuruForwarder": "0x974E61BBa9C4704E8Bcc1923fdC3527B41323FAA",
+        // One step token deployment and market bootstrapping contract
+        "MonadDeployer": "0xe29309e308af3EE3B1a414E97c37A58509f27D1E",
+        "Vault": "0x4869a4c7657cef5e5496c9ce56dde4cd593e4923",
+        "Vault2": "0xD6Eae39b96FbdB7daA2227829Be34b4e1BC9069a"
+    },
+    "links": {
+        "project": "https://kuru.io",
+        "twitter": "https://x.com/KuruExchange",
+        "github": "https://github.com/Kuru-Labs"
+    }
+}

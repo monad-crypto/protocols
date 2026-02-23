@@ -1,0 +1,15 @@
+{
+    "name": "Cycle Network",
+    "description": "Cycle Network is building a universal all-chain settlement layer and a bridgeless liquidity network for the entire blockchain ecosystem.",
+    "live": true,
+    "categories": ["AI::Abstraction Infrastructure"],
+    "addresses": {
+	    "ZkEVM" : "0x647E77A1AF7c87688B974F20DB75eA36C28D033E",
+	    "ZkEVMBridge" : "0xaD5cA27D8932114a9457d385FC0b88825c845960"
+    },
+    "links": {
+        "project": "https://www.cyclenetwork.io/",
+        "twitter": "https://x.com/cyclenetwork_GO",
+        "docs": "https://docs.cyclenetwork.io/developers/connect-to-cycle/connect-to-cycle-mainnet/cycle-frigate"
+    }
+}
