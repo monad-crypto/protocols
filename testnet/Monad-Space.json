@@ -6,9 +6,7 @@
         "Infra::Other",
         "DeFi::Staking"
     ],
-    "addresses": {
-        "StakingContract": ""
-    },
+    "addresses": {},
     "links": {
         "project": "https://testnet-monad-space.itrocket.net",
         "twitter": "https://x.com/itrocket_team"
