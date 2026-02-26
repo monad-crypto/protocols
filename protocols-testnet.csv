@@ -831,7 +831,6 @@ Gelato,Infra,AA,GelatoRelayERC2771,0x8ace64cea52b409f930f60b516f65197fad4b056,In
 Pimlico,Infra,AA,Paymaster06,0x0000000000000039cd5e8ae05257ce51c473ddd1,Infra::AA
 Pimlico,Infra,AA,Paymaster07,0x00000000000000fb866daaa79352cc568a005d96,Infra::AA
 Flipside Crypto,Infra,Analytics,default,0xf471cf4338d4ecda2b99afd0b891c393f785928d,Infra::Analytics
-Monad Space,Infra,Analytics,StakingContract,,Infra::Analytics;Infra::Other;DeFi::Staking
 Montools,Infra,Analytics,Bulk Transfer,0x73fc1b28f405df9b4b97960f1a0c64c656708524,Infra::Analytics;Infra::Developer Tooling;NFT::Infrastructure
 Montools,Infra,Analytics,Native MultiSend,0xb135ec2df1af065a38b901cbc818e0e462e8a1c6,Infra::Analytics;Infra::Developer Tooling;NFT::Infrastructure
 Tarobase,Infra,Developer Tooling,Deployer,0x4f939081f506333358cbba51cf2a823e6b33e60e,Infra::Developer Tooling
