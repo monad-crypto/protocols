@@ -1,0 +1,20 @@
+{
+    "name": "Balancer",
+    "description": "The ultimate platform for custom liquidity solutions. Balancer v3 perfectly balances simplicity and flexibility to reshape the future of AMMs.",
+    "live": true,
+    "categories": ["DeFi::DEX"],
+    "addresses": {
+        "Vault": "0xbA1333333333a1BA1108E8412f11850A5C319bA9",
+        "Router": "0x9dA18982a33FD0c7051B19F0d7C76F2d5E7e017c",
+        "BatchRouter": "0x85a80afee867aDf27B50BdB7b76DA70f1E853062",
+        "CompositeLiquidityRouter": "0x3f170631ed9821Ca51A59D996aB095162438DC10",
+        "WeightedPoolFactory": "0x76578ecf9a141296Ec657847fb45B0585bCDa3a6",
+        "StablePoolFactory": "0x81cFAE226343B24BA12EC6521Db2C79E7aeeb310",
+        "StableSurgePoolFactory": "0x6B5dA774890Db7B7b96C6f44e6a4b0F657399E2e"
+    },
+    "links": {
+        "project": "https://balancer.fi",
+        "twitter": "https://x.com/balancer",
+        "docs": "https://docs.balancer.fi/"
+    }
+}
