@@ -125,6 +125,13 @@ Atlantis,DeFi,DEX,QuoterV2,0xa77ad9f635a3fb3bccc5e6d1a87cb269746aba17,DeFi::DEX
 Atlantis,DeFi,DEX,SecurityRegistry,0x83d4a9ea77a4dba073cd90b30410ac9f95f93e7c,DeFi::DEX
 Atlantis,DeFi,DEX,SwapRouter,0x3012e9049d05b4b5369d690114d5a5861ebb85cb,DeFi::DEX
 Atlantis,DeFi,DEX,TickLens,0x13fce0acbe6fb11641ab753212550574cad31415,DeFi::DEX
+Balancer,DeFi,DEX,BatchRouter,0x85a80afee867adf27b50bdb7b76da70f1e853062,DeFi::DEX
+Balancer,DeFi,DEX,CompositeLiquidityRouter,0x3f170631ed9821ca51a59d996ab095162438dc10,DeFi::DEX
+Balancer,DeFi,DEX,Router,0x9da18982a33fd0c7051b19f0d7c76f2d5e7e017c,DeFi::DEX
+Balancer,DeFi,DEX,StablePoolFactory,0x81cfae226343b24ba12ec6521db2c79e7aeeb310,DeFi::DEX
+Balancer,DeFi,DEX,StableSurgePoolFactory,0x6b5da774890db7b7b96c6f44e6a4b0f657399e2e,DeFi::DEX
+Balancer,DeFi,DEX,Vault,0xba1333333333a1ba1108e8412f11850a5c319ba9,DeFi::DEX
+Balancer,DeFi,DEX,WeightedPoolFactory,0x76578ecf9a141296ec657847fb45b0585bcda3a6,DeFi::DEX
 Bean Exchange,DeFi,DEX,DLMM_Factory,0x8bb9727ca742c146563dccbafb9308a234e1d242,DeFi::DEX;DeFi::Perpetuals / Derivatives
 Bean Exchange,DeFi,DEX,DLMM_Quoter,0xa398af902950081f2fbe3e16e5e474c2c72ae27a,DeFi::DEX;DeFi::Perpetuals / Derivatives
 Bean Exchange,DeFi,DEX,DLMM_Router,0x721ac9e688e6b86f48b08db2ba2d4b7bbbd12665,DeFi::DEX;DeFi::Perpetuals / Derivatives
