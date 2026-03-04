@@ -956,7 +956,6 @@ Mu Protocol,DeFi,RWA,TreasuryManager (Proxy),0xf3cdc00cca19f336b1c1b4bd684a94912
 Mu Protocol,DeFi,RWA,loAZND (Implementation),0x00a927d9d8af27d06c4e2c3abb5b88b0e1766470,DeFi::RWA;DeFi::Yield
 Mu Protocol,DeFi,RWA,loAZND (Proxy),0x9c82eb49b51f7dc61e22ff347931ca32adc6cd90,DeFi::RWA;DeFi::Yield
 Mu Protocol,DeFi,RWA,muBOND,0x336d414754967c6682b5a665c7daf6f1409e63e8,DeFi::RWA;DeFi::Yield
-Circle USDC,DeFi,Stablecoin,USDC,0x754704bc059f8c67012fed69bc8a327a5aafb603,DeFi::Stablecoin
 Kintsu,DeFi,Staking,StakedMonad (Implementation),0xf16f96c342913575e46cff1bb827533c0b285138,DeFi::Staking;DeFi::Liquid Staking;DeFi::Yield;DeFi::Trading Interfaces
 Kintsu,DeFi,Staking,StakedMonad (Proxy),0xa3227c5969757783154c60bf0bc1944180ed81b9,DeFi::Staking;DeFi::Liquid Staking;DeFi::Yield;DeFi::Trading Interfaces
 SatLayer,DeFi,Staking,SatLayerPool,0x6caeaffc53b91094542b6cb9c51f448db74dfd8c,DeFi::Staking;DeFi::Liquid Staking
@@ -1088,15 +1087,6 @@ Axelar,Infra,Interoperability,InterchainTokenFactory,0x83a93500d23fbc3e82b410ad0
 Axelar,Infra,Interoperability,InterchainTokenService,0xb5fb4be02232b1bba4dc8f81dc24c26980de9e3c,Infra::Interoperability
 Axelar,Infra,Interoperability,MonadAxelarTransceiver,0x50beabe4883981624aea01f737b040d1e3fe83fb,Infra::Interoperability
 Axelar,Infra,Interoperability,Operators,0x7ddb2d76b80b0aa19bdea48eb1301182f4ceefbc,Infra::Interoperability
-Chainlink CCIP,Infra,Interoperability,EthToMonadCommitStore,0xce78587feaddefc30e36520c09fc3a333dd6eef4,Infra::Interoperability
-Chainlink CCIP,Infra,Interoperability,EthToMonadOffRamp,0xbad8b04ed03a1ceac89e8328f4ea7148b2e6d642,Infra::Interoperability
-Chainlink CCIP,Infra,Interoperability,MonadToEthOnRamp,0xb39b7d0cdd79b94b08b334965c1720be51a31986,Infra::Interoperability
-Chainlink CCIP,Infra,Interoperability,PriceRegistry,0xddbc012b8a5c317b9611ee593fa49de370bf950f,Infra::Interoperability
-Chainlink CCIP,Infra,Interoperability,RMN,0xf181489663b5b99af5c5a57310f1d66eeeec2160,Infra::Interoperability
-Chainlink CCIP,Infra,Interoperability,RMNProxy,0x99dfca5d88f4d9c023531f4403966b8d61562acd,Infra::Interoperability
-Chainlink CCIP,Infra,Interoperability,RegistryModuleOwnerCustom,0x4afc00570596d172595a4e38384289b880263006,Infra::Interoperability
-Chainlink CCIP,Infra,Interoperability,TokenAdminRegistry,0x11acd984dd680363117b310f6ebdf78fd6c0195f,Infra::Interoperability
-Chainlink CCIP,Infra,Interoperability,TokenPoolFactory,0x4c1d9f81d59270ddc1c0f1a4d7c39264d9ada379,Infra::Interoperability
 Circle CCTP,Infra,Interoperability,MessageTransmitterV2,0x81d40f21f12a8f0e3252bccb954d722d4c464b64,Infra::Interoperability
 Circle CCTP,Infra,Interoperability,MessageV2,0xec546b6b005471ecf012e5af77fbec07e0fd8f78,Infra::Interoperability
 Circle CCTP,Infra,Interoperability,TokenMessengerV2,0x28b5a0e9c621a5badaa536219b3a228c8168cf5d,Infra::Interoperability
@@ -1170,6 +1160,8 @@ Chainlink,Infra,Oracle,ETH_USD_Aggregator,0x3d21e2e680e2a60b440da427820aee239137
 Chainlink,Infra,Oracle,ETH_USD_Proxy,0x1b1414782b859871781ba3e4b0979b9ca57a0a04,Infra::Oracle
 Chainlink,Infra,Oracle,EZETH_USD_Aggregator,0x7d12a857fb76396b3ff8749f6f832908e2dc55f5,Infra::Oracle
 Chainlink,Infra,Oracle,EZETH_USD_Proxy,0xc38c1843751941019ede3b8e041ee1bd14575b44,Infra::Oracle
+Chainlink,Infra,Oracle,EthToMonadCommitStore,0xce78587feaddefc30e36520c09fc3a333dd6eef4,Infra::Oracle
+Chainlink,Infra,Oracle,EthToMonadOffRamp,0xbad8b04ed03a1ceac89e8328f4ea7148b2e6d642,Infra::Oracle
 Chainlink,Infra,Oracle,HYPE_USD_Aggregator,0x68ba3f3b52b17bfcc8cfb9cb97df14d6a0f96e5e,Infra::Oracle
 Chainlink,Infra,Oracle,HYPE_USD_Proxy,0xf62d24b17181305b22e520fb14384eb86b9c6944,Infra::Oracle
 Chainlink,Infra,Oracle,LBTC_USD_Aggregator,0xf73f65c2df4e1cb89f31dee710a00627e6b9bbbc,Infra::Oracle
@@ -1180,6 +1172,7 @@ Chainlink,Infra,Oracle,LTC_USD_Aggregator,0x24f29bb8ec47674f1a0a9011116c41f867a9
 Chainlink,Infra,Oracle,LTC_USD_Proxy,0xf29b907b292fb27e07f06331e4e92ea7288a6001,Infra::Oracle
 Chainlink,Infra,Oracle,MON_USD_Aggregator,0x2a347b30e1da22ec136142cda88bec59fdb6e9d3,Infra::Oracle
 Chainlink,Infra,Oracle,MON_USD_Proxy,0xbcd78f76005b7515837af6b50c7c52bcf73822fb,Infra::Oracle
+Chainlink,Infra,Oracle,MonadToEthOnRamp,0xb39b7d0cdd79b94b08b334965c1720be51a31986,Infra::Oracle
 Chainlink,Infra,Oracle,NEAR_USD_Aggregator,0x5658ec04e7e6ef42b1c567aafc33cd92751e1730,Infra::Oracle
 Chainlink,Infra,Oracle,NEAR_USD_Proxy,0x921cb0e4f2397454240ccdb27596217ce4e65090,Infra::Oracle
 Chainlink,Infra,Oracle,OP_USD_Aggregator,0xb5be9cb264d299710f98c03f2604157e33e2c4cc,Infra::Oracle
@@ -1188,8 +1181,12 @@ Chainlink,Infra,Oracle,POL_USD_Aggregator,0x23c377a8f4d153803a9d7869d56d0a4aefde
 Chainlink,Infra,Oracle,POL_USD_Proxy,0x519dc0fbb6f4fa37f59dc17cc60ef4d95cd8d001,Infra::Oracle
 Chainlink,Infra,Oracle,PYUSD_USD_Aggregator,0x638405174c766b9d1797860fdf696732921179f5,Infra::Oracle
 Chainlink,Infra,Oracle,PYUSD_USD_Proxy,0xb368d0cf937a6843fb68f1cd0056c835b4cf3f70,Infra::Oracle
+Chainlink,Infra,Oracle,PriceRegistry,0xddbc012b8a5c317b9611ee593fa49de370bf950f,Infra::Oracle
+Chainlink,Infra,Oracle,RMN,0xf181489663b5b99af5c5a57310f1d66eeeec2160,Infra::Oracle
+Chainlink,Infra,Oracle,RMNProxy,0x99dfca5d88f4d9c023531f4403966b8d61562acd,Infra::Oracle
 Chainlink,Infra,Oracle,RSETH_USD_Aggregator,0x19d7fd9167597e0338dece5f3de95f1be61fac40,Infra::Oracle
 Chainlink,Infra,Oracle,RSETH_USD_Proxy,0x7422d308f0aeb0c7816402ff4e68078c2549435b,Infra::Oracle
+Chainlink,Infra,Oracle,RegistryModuleOwnerCustom,0x4afc00570596d172595a4e38384289b880263006,Infra::Oracle
 Chainlink,Infra,Oracle,Router,0x33566fe5976aaa420f3d5c64996641fc3858cadb,Infra::Oracle
 Chainlink,Infra,Oracle,SEI_USD_Aggregator,0xb983b1b6f1fc04030f9d8935dbbfd2a1239d00d9,Infra::Oracle
 Chainlink,Infra,Oracle,SEI_USD_Proxy,0x251ed64bd39e8fceb708b483d18ee34bf4040ae8,Infra::Oracle
@@ -1209,6 +1206,8 @@ Chainlink,Infra,Oracle,S_USD_Aggregator,0xd3f27362d951cfb596242ffba9c71e6c7d5d09
 Chainlink,Infra,Oracle,S_USD_Proxy,0x1bd7cebaba5c2c40d44b83a08f42a3377447ddfe,Infra::Oracle
 Chainlink,Infra,Oracle,TIA_USD_Aggregator,0xc64012057a58b91bf42361c7d50ba36c0255cb73,Infra::Oracle
 Chainlink,Infra,Oracle,TIA_USD_Proxy,0x31938934512dfff3c410a6d07ceaf5f38b66bfee,Infra::Oracle
+Chainlink,Infra,Oracle,TokenAdminRegistry,0x11acd984dd680363117b310f6ebdf78fd6c0195f,Infra::Oracle
+Chainlink,Infra,Oracle,TokenPoolFactory,0x4c1d9f81d59270ddc1c0f1a4d7c39264d9ada379,Infra::Oracle
 Chainlink,Infra,Oracle,UNI_USD_Aggregator,0x5075ea68c3d769723bc9cc23120a60e4026dd70f,Infra::Oracle
 Chainlink,Infra,Oracle,UNI_USD_Proxy,0x8cc589634a0b5959fb29fc1111cff26356b11918,Infra::Oracle
 Chainlink,Infra,Oracle,USD1_USD_Aggregator,0xcc973daef0a2d92bc99c21561b3fea74da033796,Infra::Oracle
