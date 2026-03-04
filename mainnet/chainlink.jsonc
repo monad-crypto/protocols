@@ -104,7 +104,29 @@
         "XAU_USD_Proxy": "0x61dD33A34E47a181EE02e42eE0546a3DA808f1B4",
         "XAU_USD_Aggregator": "0xFeccbf9C82Ff5231073580334DC605740309ebCe",
         "XRP_USD_Proxy": "0x979211Dfbc0738559B778a6a58a5b1bbbBe720f9",
-        "XRP_USD_Aggregator": "0xfd03e1bd18b11fA56c55582a91e8fc0bB0A1c27E"
+        "XRP_USD_Aggregator": "0xfd03e1bd18b11fA56c55582a91e8fc0bB0A1c27E",
+
+        // CCIP:
+        "RegistryModuleOwnerCustom": "0x4AfC00570596d172595A4E38384289b880263006",
+        "RMNProxy": "0x99dFCa5d88f4D9C023531F4403966b8d61562AcD",
+        "RMN": "0xF181489663b5b99af5C5a57310F1d66eEEEC2160",
+        "PriceRegistry": "0xDdBC012B8a5C317b9611ee593fA49dE370BF950f",
+        "TokenAdminRegistry": "0x11ACd984DD680363117B310f6ebdf78fD6c0195f",
+        "TokenPoolFactory": "0x4c1D9f81D59270ddc1c0f1A4D7C39264D9ADa379",
+
+        // Monad -> Eth (addresses on Ethereum are noted but commented out)
+        "MonadToEthOnRamp": "0xb39B7D0cdd79B94B08b334965C1720be51A31986", // Monad->Eth Onramp (on Monad); contract is named EVM2EVMOnRamp
+        // "MonadToEthCommitStore": "0x1bddbA5DC2cd6ED3343A8E94D02023cC720533B9", // Monad->Eth Commit Store (on Eth)
+        // "MonadToEthOffRamp": "0xfC92C3b8a374F70cb46cf884D4f02bb120f0F0a3", // Monad->Eth Offramp (on Eth)
+
+        // Eth -> Monad (addresses on Ethereum are noted but commented out)
+        // "EthToMonadOnRamp": "0xffBD6B0146C9E16A9f9E77DC8898cbfF6E2AA389", // Eth->Monad Onramp (on Eth)
+        "EthToMonadCommitStore": "0xCE78587FEADDefC30e36520C09fc3a333dd6eEf4", // Eth->Monad Commit Store (on Monad); contract is named CommitStore
+        "EthToMonadOffRamp": "0xBad8b04ED03A1CEaC89e8328f4eA7148B2E6D642" // Eth->Monad Offramp (on Monad); contract is named EVM2EVMOffRamp
+    },
+    "info": {   
+        "selector": 8481857512324358265,
+        "name": "monad-mainnet"
     },
     "links": {
         "project": "https://chain.link/",
