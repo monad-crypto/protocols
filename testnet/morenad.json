@@ -1,0 +1,21 @@
+{
+    "name": "Morenad",
+    "description": "On-chain 5x5 grid mining game on Monad with commit-reveal randomness, MORE token staking, automated buyback-and-burn, and user automation",
+    "categories": [
+        "Consumer::Betting",
+        "Gaming::Games",
+        "DeFi::Staking"
+    ],
+    "addresses": {
+        "MoreToken": "0x35f3bd2a352c6ef34De17cb618aC871aCABC7Abd",
+        "MiningGame": "0x3A0544d3fB61B44eC44fAb1be1aaFE5AFa54fD41",
+        "MiningGameVault": "0x75168B1311570201DcA1F0c62d3DBb64e72197F6",
+        "TreasuryStaking": "0x4bB4eB9d0aAa49399417899C3AA2f1ade92CBBC3",
+        "TreasuryVault": "0xC04fe474cFd3a96E07afAa269D42554F867Ce7FE",
+        "AutomationManager": "0xa1714EC3a5c5FC8f2797c5f32d13c52e15D0BF86"
+    },
+    "links": {
+        "project": "https://testnet.morenad.xyz",
+        "twitter": "https://x.com/morenad_xyz"
+    }
+}
