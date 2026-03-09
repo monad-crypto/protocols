@@ -1,0 +1,17 @@
+{
+    "name": "Perpl",
+    "description": "Perpl is a decentralized perpetual futures exchange on Monad featuring an on-chain order book with off-chain matching. Supports isolated margin trading with delegated account operations.",
+    "live": true,
+    "categories": [
+        "DeFi::Perpetuals / Derivatives"
+    ],
+    "addresses": {
+        // Core exchange contract
+        "Exchange": "0x34B6552d57a35a1D042CcAe1951BD1C370112a6F"
+    },
+    "links": {
+        "project": "https://perpl.xyz",
+        "twitter": "https://x.com/peraborern",
+        "docs": "https://docs.perpl.xyz"
+    }
+}
