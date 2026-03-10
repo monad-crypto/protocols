@@ -43,6 +43,12 @@ M0narch,Consumer,Betting,PredictionSOL,0x5a68e6e6a7be049801e917dd7192237d81b5639
 M0narch,Consumer,Betting,RPSOld,0x21730db7ae00538a2ccff5afa602c37db1c0cc2f,Consumer::Betting;Consumer::Prediction Market
 M0narch,Consumer,Betting,RPSUpdated,0x77371f7452aff5fcaa3a3b59a11794db19af5981,Consumer::Betting;Consumer::Prediction Market
 M0narch,Consumer,Betting,Roulette,0x32abcb3ec874c934bfb81fc66bc7943bf3dacde7,Consumer::Betting;Consumer::Prediction Market
+Morenad,Consumer,Betting,AutomationManager,0xa1714ec3a5c5fc8f2797c5f32d13c52e15d0bf86,Consumer::Betting;Gaming::Games;DeFi::Staking
+Morenad,Consumer,Betting,MiningGame,0x3a0544d3fb61b44ec44fab1be1aafe5afa54fd41,Consumer::Betting;Gaming::Games;DeFi::Staking
+Morenad,Consumer,Betting,MiningGameVault,0x75168b1311570201dca1f0c62d3dbb64e72197f6,Consumer::Betting;Gaming::Games;DeFi::Staking
+Morenad,Consumer,Betting,MoreToken,0x35f3bd2a352c6ef34de17cb618ac871acabc7abd,Consumer::Betting;Gaming::Games;DeFi::Staking
+Morenad,Consumer,Betting,TreasuryStaking,0x4bb4eb9d0aaa49399417899c3aa2f1ade92cbbc3,Consumer::Betting;Gaming::Games;DeFi::Staking
+Morenad,Consumer,Betting,TreasuryVault,0xc04fe474cfd3a96e07afaa269d42554f867ce7fe,Consumer::Betting;Gaming::Games;DeFi::Staking
 RareBetSports,Consumer,Betting,Oracle,0xa2e3fbc6d97e75b178f6ef40b18709f5fe3d6a2c,Consumer::Betting
 RareBetSports,Consumer,Betting,SlipRepository,0x7d1db4e6cd071b12f3a4af6816ea0585b7b420bf,Consumer::Betting
 YieldKingZ,Consumer,Betting,ItemShop,0xc39f07c4605491294026fc33dfd1e5ffe17233b1,Consumer::Betting
