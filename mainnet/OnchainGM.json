@@ -1,0 +1,18 @@
+{
+  "name": "OnchainGM",
+  "description": "Your Daily Web3 Ritual.",
+  "live": true,
+  "categories": [
+    "Infra::Gaming"
+  ],
+  "addresses": {
+    "Onchaingm V2": "0x235e23954ACde3b6308A087Ee0C44a1a85F5D041",
+    "Onchaingm Deploy": "0x59c27c39A126a9B5eCADdd460C230C857e1Deb35"
+  },
+  "links": {
+    "project": "https://onchaingm.com",
+    "twitter": "https://x.com/OnChainGm",
+    "github": "https://github.com/OnChainGM",
+    "docs": "https://onchaingm.com/documentation.html"
+  }
+}
