@@ -1,0 +1,19 @@
+{
+  "name": "MemeTok",
+  "description": "The Home of Scroll-Trading: The mobile app where you scroll, discover and trade viral meme coins all in one feed. Spot the momentum, trade instantly, and never miss the move again.",
+  "categories": [
+    "DeFi::Trading Interfaces",
+    "Consumer::Social",
+    "DeFi::Launchpads"
+  ],
+  "addresses": {
+    "MemeTokRouter": "0xFf8C5cA7a30054dE0D4F4Da1452ee6FDa32e185E",
+    "MemeTokFactory": "0x4a979d79F1Bdc85fa71e5F85017d6A7a86220FB5"
+  },
+  "links": {
+    "project": "https://www.memetok.app",
+    "twitter": "https://x.com/memetok_app",
+    "github": "https://github.com/MemeTok",
+    "docs": "https://docs.memetok.app"
+  }
+}
