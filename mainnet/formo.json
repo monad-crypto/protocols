@@ -6,7 +6,7 @@
     "Infra::Analytics"
   ],
   "addresses": {
-    "Formo": "0x7E6CA77a7E044BA836a97beB796c124Ca3a6A255"
+    "default": "0x7E6CA77a7E044BA836a97beB796c124Ca3a6A255"
   },
   "links": {
     "project": "https://formo.so",
