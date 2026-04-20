@@ -1,0 +1,18 @@
+{
+  "name": "Formo",
+  "description": "Crypto-native analytics platform combining product analytics, wallet intelligence, and onchain attribution for DeFi apps.",
+  "live": true,
+  "categories": [
+    "Infra::Analytics"
+  ],
+  "addresses": {
+    "default": "0x7E6CA77a7E044BA836a97beB796c124Ca3a6A255"
+  },
+  "links": {
+    "project": "https://formo.so",
+    "twitter": "https://x.com/getformo",
+    "github": "https://github.com/getformo",
+    "docs": "https://docs.formo.so",
+    "linkedin": "https://www.linkedin.com/company/getformo"
+  }
+}
