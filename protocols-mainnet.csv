@@ -902,10 +902,18 @@ Sablier,DeFi,Other,SablierFactoryMerkleVCA,0xcdcc46a7759de01271e533bbc3b0f328995
 Sablier,DeFi,Other,SablierFlow,0x0340a829b6dc3adf7710a5baf1970914af4977f5,DeFi::Other
 Sablier,DeFi,Other,SablierLockup,0x003f5393f4836f710d492ad98d89f5bfccf1c962,DeFi::Other
 LeverUp,DeFi,Perpetuals / Derivatives,LV,0x1001ff13bf368aa4fa85f21043648079f00e1001,DeFi::Perpetuals / Derivatives;DeFi::RWA;DeFi::Stablecoin
+LeverUp,DeFi,Perpetuals / Derivatives,LV,0x1001ff13bf368aa4fa85f21043648079f00e1001,DeFi::Perpetuals / Derivatives;DeFi::RWA;DeFi::Stablecoin
 LeverUp,DeFi,Perpetuals / Derivatives,LVMON,0x91b81bfbe3a747230f0529aa28d8b2bc898e6d56,DeFi::Perpetuals / Derivatives;DeFi::RWA;DeFi::Stablecoin
+LeverUp,DeFi,Perpetuals / Derivatives,LVMON,0x91b81bfbe3a747230f0529aa28d8b2bc898e6d56,DeFi::Perpetuals / Derivatives;DeFi::RWA;DeFi::Stablecoin
+LeverUp,DeFi,Perpetuals / Derivatives,LVMON_Delegator_Vault,0xf71b390448df37c8379332f372f344a576574d4a,DeFi::Perpetuals / Derivatives;DeFi::RWA;DeFi::Stablecoin
+LeverUp,DeFi,Perpetuals / Derivatives,LVMON_Fast_Redeem_Vault,0x06058fe1fcfad19181438508600925106309e5fe,DeFi::Perpetuals / Derivatives;DeFi::RWA;DeFi::Stablecoin
+LeverUp,DeFi,Perpetuals / Derivatives,LVMON_Issuer,0xbf52ced429c3901afa4bbf25849269ef7a4ad105,DeFi::Perpetuals / Derivatives;DeFi::RWA;DeFi::Stablecoin
 LeverUp,DeFi,Perpetuals / Derivatives,LVMON_Issuer,0xbf52ced429c3901afa4bbf25849269ef7a4ad105,DeFi::Perpetuals / Derivatives;DeFi::RWA;DeFi::Stablecoin
 LeverUp,DeFi,Perpetuals / Derivatives,LVUSD,0xfd44b35139ae53fff7d8f2a9869c503d987f00d1,DeFi::Perpetuals / Derivatives;DeFi::RWA;DeFi::Stablecoin
+LeverUp,DeFi,Perpetuals / Derivatives,LVUSD,0xfd44b35139ae53fff7d8f2a9869c503d987f00d1,DeFi::Perpetuals / Derivatives;DeFi::RWA;DeFi::Stablecoin
 LeverUp,DeFi,Perpetuals / Derivatives,LVUSD_Issuer,0x135951057cfccca7e8ef87ee41318d670f723f68,DeFi::Perpetuals / Derivatives;DeFi::RWA;DeFi::Stablecoin
+LeverUp,DeFi,Perpetuals / Derivatives,LVUSD_Issuer,0x135951057cfccca7e8ef87ee41318d670f723f68,DeFi::Perpetuals / Derivatives;DeFi::RWA;DeFi::Stablecoin
+LeverUp,DeFi,Perpetuals / Derivatives,LeverUp,0xea1b8e4ab7f14f7dca68c5b214303b13078fc5ec,DeFi::Perpetuals / Derivatives;DeFi::RWA;DeFi::Stablecoin
 LeverUp,DeFi,Perpetuals / Derivatives,LeverUp,0xea1b8e4ab7f14f7dca68c5b214303b13078fc5ec,DeFi::Perpetuals / Derivatives;DeFi::RWA;DeFi::Stablecoin
 Narwhal Finance,DeFi,Perpetuals / Derivatives,FeeHelper ,0xe22fb1f1bb003759faced645458b8b8ee262828d,DeFi::Perpetuals / Derivatives
 Narwhal Finance,DeFi,Perpetuals / Derivatives,PairInfos,0x5c39f9739c123e64535f6250b256964bc20c52f1,DeFi::Perpetuals / Derivatives
