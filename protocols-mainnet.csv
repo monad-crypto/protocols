@@ -116,6 +116,9 @@ Atlantis,DeFi,DEX,AlgebraVaultFactoryStub,0x955b95b8532fe75ddcf2161f61127be74a76
 Atlantis,DeFi,DEX,EntryPoint,0x4a3bc48c156384f9564fd65a53a2f3d534d8f2b7,DeFi::DEX
 Atlantis,DeFi,DEX,FarmingCenter,0x658e287e9c820484f5808f687dc4863b552de37d,DeFi::DEX
 Atlantis,DeFi,DEX,LimitOrderManager,0x503d191cafab1d097b5f798d850e5897195c1d74,DeFi::DEX
+Atlantis,DeFi,DEX,LiquidityLocker,0x56a1dd4e07bd41804883ff51ba1458cb6cff8f1c,DeFi::DEX
+Atlantis,DeFi,DEX,Lottery,0x22b518ca06003ad3724e4504ae2349b000afe2dc,DeFi::DEX
+Atlantis,DeFi,DEX,LotteryTicketNFT,0xfe748af1e19cf28f19e12ea1d3b22e00a881caf2,DeFi::DEX
 Atlantis,DeFi,DEX,NonfungiblePositionManager,0x69d57b9d705ead73a5d2f2476c30c55bd755cc2f,DeFi::DEX
 Atlantis,DeFi,DEX,NonfungibleTokenPositionDescriptor,0xd637cbc214bc3dd354abb309f4fe717ffdd0b28c,DeFi::DEX
 Atlantis,DeFi,DEX,PluginFactory,0xfe3becd788320465ab649015f34f7771220a88b2,DeFi::DEX
@@ -123,8 +126,10 @@ Atlantis,DeFi,DEX,Proxy,0x6ad6a4f233f1e33613e996ccc17409b93ff8bf5f,DeFi::DEX
 Atlantis,DeFi,DEX,Quoter,0x03f8b4b140249dc7b2503c928e7258cce1d91f1a,DeFi::DEX
 Atlantis,DeFi,DEX,QuoterV2,0xa77ad9f635a3fb3bccc5e6d1a87cb269746aba17,DeFi::DEX
 Atlantis,DeFi,DEX,SecurityRegistry,0x83d4a9ea77a4dba073cd90b30410ac9f95f93e7c,DeFi::DEX
+Atlantis,DeFi,DEX,StrategyVaultGuard,0xb35599d7c1d0d223607f11415e98f31164a298eb,DeFi::DEX
 Atlantis,DeFi,DEX,SwapRouter,0x3012e9049d05b4b5369d690114d5a5861ebb85cb,DeFi::DEX
 Atlantis,DeFi,DEX,TickLens,0x13fce0acbe6fb11641ab753212550574cad31415,DeFi::DEX
+Atlantis,DeFi,DEX,TokenGenerator,0x902d6a6694032e64d4f630371a9a8b2635f8e1aa,DeFi::DEX
 Balancer,DeFi,DEX,BatchRouter,0x85a80afee867adf27b50bdb7b76da70f1e853062,DeFi::DEX
 Balancer,DeFi,DEX,CompositeLiquidityRouter,0x3f170631ed9821ca51a59d996ab095162438dc10,DeFi::DEX
 Balancer,DeFi,DEX,Router,0x9da18982a33fd0c7051b19f0d7c76f2d5e7e017c,DeFi::DEX
