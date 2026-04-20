@@ -24,7 +24,12 @@
         "FarmingCenter": "0x658E287E9C820484f5808f687dC4863B552de37D",
         "AlgebraDefaultPluginFactory": "0x38A5C36FA8c8c9E4649b51FCD61810B14e7ce047",
         "SecurityRegistry": "0x83D4a9Ea77a4dbA073cD90b30410Ac9F95F93E7C",
-        "LimitOrderManager": "0x503D191CaFaB1d097b5F798d850E5897195C1d74"
+        "LimitOrderManager": "0x503D191CaFaB1d097b5F798d850E5897195C1d74",
+        "TokenGenerator": "0x902d6a6694032e64d4f630371a9a8b2635f8e1aa",
+        "StrategyVaultGuard": "0xb35599d7c1d0d223607f11415e98f31164a298eb",
+        "LiquidityLocker": "0x56a1dd4e07bd41804883ff51ba1458cb6cff8f1c",
+        "LotteryTicketNFT": "0xFe748aF1e19cF28F19e12EA1D3B22e00a881CaF2",
+        "Lottery": "0x22B518cA06003ad3724e4504ae2349B000Afe2dC"
     },
     "links": {
         "project": "https://atlantisdex.xyz",
