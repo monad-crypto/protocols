@@ -42,7 +42,7 @@
     "RateStrategyStableEasyHigh": "0x3eDC7F33E5564848c6751A1D9192E0650bc7ECcE",
     "RateStrategyVolatileEasyHigh": "0xbDad50bda8F044569e076AEB2418c0910F10E726",
     "RateStrategyEarnAUSD": "0x21F3a41061BC0F527a71D5AD5Dc18d2594C14B43",
-    // -- Oracle Adapters & Aggregators ---
+    // --- Oracle Adapters & Aggregators ---
     "AaveOracle": "0x94bbA11004B9877d13bb5E1aE29319b6f7bDEdD4",
     "RatioOracleAggregatorSMON": "0xF285a4B6e38151E27bBb846197707C8B9BAf8D55",
     "RatioOracleAggregatorSHMON": "0x39B76F22dcf8A93b68C72Fe2e63B3530168D0579",
@@ -50,7 +50,7 @@
     "RatioOracleAggregatorEARNAUSD": "0xF25c84187a7608036b6660205B6068DBc9560dB6",
     "YieldBearingOracleAdapterLOAZND": "0x72e994F1EC71a0cdc74913534690510257e895F0",
     // --- Base Tokens ---
-    "AToken": "0x395118096F0Ef19D7958Ad8538ecee9685B94eb2",
+    "AToken": "0x8Ae83b5Bb6511e1060866E410a682de65480478E",
     "DelegationAwareAToken": "0xbeA2124aE6d8225c491A85db16c419dcDC62159d",
     "StableDebtToken": "0xA02c3E9d0b9deC0A7F53908742af141Af4EF45b5",
     "VariableDebtToken": "0x936C7E76905c83Edc12F8A5ca993a6609D8bBAA2",
