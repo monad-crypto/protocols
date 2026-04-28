@@ -1,0 +1,18 @@
+{
+  "name": "Planet Express Marketplace",
+  "description": "Decentralized file marketplace on Monad. Buy and sell encrypted files with secure escrow. Multi-chain payments via x402 protocol (MON, SOL, Base USDC).",
+  "live": true,
+  "categories": [
+    "NFT::Marketplace",
+    "DePIN::Storage",
+    "AI::Infrastructure",
+    "Infra::Privacy / Encryption"
+  ],
+  "addresses": {
+    "MarketplaceV2": "0xeFc5D4f6ee82849492b1F297134872dA2Abb260d"
+  },
+  "links": {
+    "project": "https://planetexpress.dropclaw.cloud",
+    "docs": "https://dropclaw.cloud/.well-known/x402"
+  }
+}
