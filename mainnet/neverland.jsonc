@@ -1,6 +1,6 @@
 {
   "name": "Neverland",
-  "description": "Neverland is a next-generation, Monad-native lending protocol fusing the most secure, battle-tested lending technology with proprietary veTokenomics that allow users to direct 100% of protocol revenue. Featuring self-repaying loans, flexible and tradable governance locks, and automated yield strategies, each designed to maximize capital efficiency and long-term alignment.",
+  "description": "Neverland is a Monad-native non-custodial lending protocol built on the Aave V3 framework, reimagining DeFi incentives through self-repaying loans, flexible NFT-based veToken governance, and automation. It redistributes 100% of protocol revenue back to the community through governance-directed rewards, liquidity incentives, and deflationary buybacks and burns.",
   "live": true,
   "categories": [
     "DeFi::Lending",
@@ -141,7 +141,7 @@
     "UserVaultFactory (Impl.)": "0x95AF995C9dcB1b6cFFEe6d81631dab5527884370",
     // --- Leaderboard System ---
     "EpochManager (Proxy)": "0xdA27A7745CBE958B0d00268cf63394A0d09c0216",
-    "EpochManager (Impl.)": "0xa69b61A3A6027975F8744F32524915681c3C1Bb4",
+    "EpochManager (Impl.)": "0x0E96e794F1e44Be76AdD3d089C90B1bBfA408dfE",
     "LeaderboardConfig (Proxy)": "0xDff18C7a928544449eF2Bb84c609f95427d7fcc8",
     "LeaderboardConfig (Impl.)": "0xb6f9F867E36c80aE77E9B415984A5529d9e62183",
     "LeaderboardKeeper (Proxy)": "0x550eAaD1Ddc5Fd13Bc9818D99f985E7367D5D2B9",
