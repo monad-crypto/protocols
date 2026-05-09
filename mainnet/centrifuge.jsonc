@@ -1,0 +1,62 @@
+{
+    "name": "Centrifuge",
+    "description": "Open infrastructure for onchain asset management and real-world asset tokenization",
+    "live": true,
+    "categories": ["DeFi::RWA"],
+    "addresses": {
+        // Source: https://docs.centrifuge.io/developer/protocol/deployments/ (v3.1.0)
+
+        // Core
+        "Hub": "0xA4A7Bb3831958463b3FE3E27A6a160F764341953",
+        "HubRegistry": "0x19f46D8130e610C6C0f0116EA40Fb781dEFaDE93",
+        "Accounting": "0x050206c38f06e4710C4a37D39F75Ddc5c16a7396",
+        "Holdings": "0x3f0c8D8d2637881c3f6d8531F51a47c2094C918d",
+        "ShareClassManager": "0xaFFC269c8fe18EE9C7DDb22301AC2c2507d69BEf",
+        "HubHandler": "0x0dEFb429B1663698da4bAe3278393F6844c3392C",
+
+        // Spoke
+        "Spoke": "0xEC3582fcDc34078a4B7a8c75a5a3AE46f48525aB",
+        "BalanceSheet": "0x12a110cE5f0FC871cC72Bc7ECaF35cf39DD0f43e",
+        "TokenFactory": "0xcE1616505F93215751FBb41Efac618b631997c38",
+        "VaultRegistry": "0xd9531AC47928c3386346f82d9A2478960bf2CA7B",
+
+        // Messaging & adapters
+        "Gateway": "0x19a524D03aA94ECEe41a80341537BCFCb47D3172",
+        "MultiAdapter": "0x35C837F0A54B715a23D193E1476BFC9BC30073BE",
+        "MessageProcessor": "0x97cc7e9Dafdd725Cc23B25eeBC93c4384B4Fe30A",
+        "MessageDispatcher": "0xf837a22883e004f705E0D7e1deE08e295Df30B27",
+        "LayerZeroAdapter": "0xD517BC7ba17271a8D87BE7355B2523bF5c750295",
+        "ChainlinkAdapter": "0x39CF679Eb0Ac9075CFb5f94930A367Ba1557D955",
+
+        // Managers, vaults, valuations
+        "NAVManager": "0x493b6C8ccC7BfD43c5a20C4F2C648701f74E9130",
+        "AsyncVaultFactory": "0x55cde53B7dbc24336E34FFE233AF8DF10f72F0Be",
+        "SyncDepositVaultFactory": "0xdb9C27762045Addd713182521C0580C68BDF700A",
+        "VaultRouter": "0xF684014771C01e50B8B526968B3a1e33acDA63f6",
+        "AsyncRequestManager": "0xF48256AbDDf96EcDDc4B3DbD23E8C1921f9761Ae",
+        "SyncManager": "0xFf8Ed1862f6aC3a8e89B81C75507c225E36e273D",
+        "IdentityValuation": "0x05e22C20B21c1314a0c93d34855358B9B96133CF",
+        "PoolEscrowFactory": "0x5187A505c485E22f0b8a5FBdF69eF1c29C478CE3",
+
+        // Hooks
+        "FreezeOnlyHook": "0xd5B243F05b2906F1f6C80c6096945faADa0731C1",
+        "RedemptionRestrictionsHook": "0xE5423eD8602Fa0F263e17b6212d88Efe42317f06",
+        "FullRestrictionsHook": "0x8E680873b4C77e6088b4Ba0aBD59d100c3D224a4",
+
+        // Tokens
+        "JTRSY": "0xc18e6f730896971a79d748e8dea61067a9bc6040",
+        "JAAA": "0xad48f183e586e92a591a610397ebf534609df797",
+        "ACRDX": "0x2fabf1c784b8583d63c00c5c9c0377d8cf1a3245",
+
+        // Vaults (USDC)
+        "JTRSY_USDC_Vault": "0x796ba8a2f2d80340ddb6ca8e43e7883812f13cd5",
+        "JAAA_USDC_Vault": "0x926030b9912bd42b092151cfb2396499b967df3a",
+        "ACRDX_USDC_Vault": "0x082c62088669facc1fa9f056c5efc8cbccda39b2"
+    },
+    "links": {
+        "project": "https://centrifuge.io",
+        "twitter": "https://x.com/centrifuge",
+        "github": "https://github.com/centrifuge",
+        "docs": "https://docs.centrifuge.io"
+    }
+}
