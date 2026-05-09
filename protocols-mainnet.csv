@@ -969,6 +969,39 @@ Pingu Exchange,DeFi,Perpetuals / Derivatives,Signable,0x99903470cc631d01f271340c
 Pingu Exchange,DeFi,Perpetuals / Derivatives,Staking,0xd53b51ae4216b80422216269edf064e9de89749b,DeFi::Perpetuals / Derivatives
 Pingu Exchange,DeFi,Perpetuals / Derivatives,StakingStore,0xd849497f08180d3f1a79397ef8ae4dbd05ec1a5c,DeFi::Perpetuals / Derivatives
 Pingu Exchange,DeFi,Perpetuals / Derivatives,Swapper,0x133f72734a185ff821705af80d57b8823ca8bc8e,DeFi::Perpetuals / Derivatives
+Centrifuge,DeFi,RWA,ACRDX,0x2fabf1c784b8583d63c00c5c9c0377d8cf1a3245,DeFi::RWA
+Centrifuge,DeFi,RWA,ACRDX_USDC_Vault,0x082c62088669facc1fa9f056c5efc8cbccda39b2,DeFi::RWA
+Centrifuge,DeFi,RWA,Accounting,0x050206c38f06e4710c4a37d39f75ddc5c16a7396,DeFi::RWA
+Centrifuge,DeFi,RWA,AsyncRequestManager,0xf48256abddf96ecddc4b3dbd23e8c1921f9761ae,DeFi::RWA
+Centrifuge,DeFi,RWA,AsyncVaultFactory,0x55cde53b7dbc24336e34ffe233af8df10f72f0be,DeFi::RWA
+Centrifuge,DeFi,RWA,BalanceSheet,0x12a110ce5f0fc871cc72bc7ecaf35cf39dd0f43e,DeFi::RWA
+Centrifuge,DeFi,RWA,ChainlinkAdapter,0x39cf679eb0ac9075cfb5f94930a367ba1557d955,DeFi::RWA
+Centrifuge,DeFi,RWA,FreezeOnlyHook,0xd5b243f05b2906f1f6c80c6096945faada0731c1,DeFi::RWA
+Centrifuge,DeFi,RWA,FullRestrictionsHook,0x8e680873b4c77e6088b4ba0abd59d100c3d224a4,DeFi::RWA
+Centrifuge,DeFi,RWA,Gateway,0x19a524d03aa94ecee41a80341537bcfcb47d3172,DeFi::RWA
+Centrifuge,DeFi,RWA,Holdings,0x3f0c8d8d2637881c3f6d8531f51a47c2094c918d,DeFi::RWA
+Centrifuge,DeFi,RWA,Hub,0xa4a7bb3831958463b3fe3e27a6a160f764341953,DeFi::RWA
+Centrifuge,DeFi,RWA,HubHandler,0x0defb429b1663698da4bae3278393f6844c3392c,DeFi::RWA
+Centrifuge,DeFi,RWA,HubRegistry,0x19f46d8130e610c6c0f0116ea40fb781defade93,DeFi::RWA
+Centrifuge,DeFi,RWA,IdentityValuation,0x05e22c20b21c1314a0c93d34855358b9b96133cf,DeFi::RWA
+Centrifuge,DeFi,RWA,JAAA,0xad48f183e586e92a591a610397ebf534609df797,DeFi::RWA
+Centrifuge,DeFi,RWA,JAAA_USDC_Vault,0x926030b9912bd42b092151cfb2396499b967df3a,DeFi::RWA
+Centrifuge,DeFi,RWA,JTRSY,0xc18e6f730896971a79d748e8dea61067a9bc6040,DeFi::RWA
+Centrifuge,DeFi,RWA,JTRSY_USDC_Vault,0x796ba8a2f2d80340ddb6ca8e43e7883812f13cd5,DeFi::RWA
+Centrifuge,DeFi,RWA,LayerZeroAdapter,0xd517bc7ba17271a8d87be7355b2523bf5c750295,DeFi::RWA
+Centrifuge,DeFi,RWA,MessageDispatcher,0xf837a22883e004f705e0d7e1dee08e295df30b27,DeFi::RWA
+Centrifuge,DeFi,RWA,MessageProcessor,0x97cc7e9dafdd725cc23b25eebc93c4384b4fe30a,DeFi::RWA
+Centrifuge,DeFi,RWA,MultiAdapter,0x35c837f0a54b715a23d193e1476bfc9bc30073be,DeFi::RWA
+Centrifuge,DeFi,RWA,NAVManager,0x493b6c8ccc7bfd43c5a20c4f2c648701f74e9130,DeFi::RWA
+Centrifuge,DeFi,RWA,PoolEscrowFactory,0x5187a505c485e22f0b8a5fbdf69ef1c29c478ce3,DeFi::RWA
+Centrifuge,DeFi,RWA,RedemptionRestrictionsHook,0xe5423ed8602fa0f263e17b6212d88efe42317f06,DeFi::RWA
+Centrifuge,DeFi,RWA,ShareClassManager,0xaffc269c8fe18ee9c7ddb22301ac2c2507d69bef,DeFi::RWA
+Centrifuge,DeFi,RWA,Spoke,0xec3582fcdc34078a4b7a8c75a5a3ae46f48525ab,DeFi::RWA
+Centrifuge,DeFi,RWA,SyncDepositVaultFactory,0xdb9c27762045addd713182521c0580c68bdf700a,DeFi::RWA
+Centrifuge,DeFi,RWA,SyncManager,0xff8ed1862f6ac3a8e89b81c75507c225e36e273d,DeFi::RWA
+Centrifuge,DeFi,RWA,TokenFactory,0xce1616505f93215751fbb41efac618b631997c38,DeFi::RWA
+Centrifuge,DeFi,RWA,VaultRegistry,0xd9531ac47928c3386346f82d9a2478960bf2ca7b,DeFi::RWA
+Centrifuge,DeFi,RWA,VaultRouter,0xf684014771c01e50b8b526968b3a1e33acda63f6,DeFi::RWA
 Mu Protocol,DeFi,RWA,AZND,0x4917a5ec9fcb5e10f47cbb197abe6ab63be81fe8,DeFi::RWA;DeFi::Yield
 Mu Protocol,DeFi,RWA,AZNDPriceFeed (Implementation),0x0b4c9dd5a3ecc14225d9b895716a65e4a7ad3fec,DeFi::RWA;DeFi::Yield
 Mu Protocol,DeFi,RWA,AZNDPriceFeed (Proxy),0x9d839e0a6a86b05643b4811de06ef09985ebbaef,DeFi::RWA;DeFi::Yield
