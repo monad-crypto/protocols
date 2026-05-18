@@ -3,8 +3,8 @@
     "description": "Axal puts your money to work. Build wealth with best in class yield on dollars, bitcoin, and gold.",
     "live": true,
     "categories": [
-        "DeFi::Yield",
-        "Consumer::Other"
+        "Consumer::Other",
+        "DeFi::Yield"
     ],
     // Axal has no contracts - interacts with existing contracts (can see more on https://docs.axal.com)
     "addresses": {},
