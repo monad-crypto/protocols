@@ -104,6 +104,8 @@ def verify_contract_on_blockvision(address: str, api_key: str) -> Tuple[bool, st
                 return True, "Verified"
             else:
                 return False, "Not verified"
+        elif code == 2:
+            return False, "Not verified"
         else:
             return False, f"API error (code: {code})"
     except requests.exceptions.Timeout:
