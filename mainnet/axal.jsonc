@@ -1,0 +1,21 @@
+{
+    "name": "Axal",
+    "description": "Axal puts your money to work. Build wealth with best in class yield on dollars, bitcoin, and gold.",
+    "live": true,
+    "categories": [
+        "Consumer::Other",
+        "DeFi::Yield"
+    ],
+    // Axal has no contracts - interacts with existing contracts (can see more on https://docs.axal.com)
+    "addresses": {},
+    "links": {
+        "project": "https://www.axal.com/",
+        "twitter": "https://x.com/getaxal/",
+        "github": "https://github.com/getaxal/",
+        "docs": "https://docs.axal.com/",
+        "instagram": "https://www.instagram.com/getaxal/",
+        "linkedin": "https://www.linkedin.com/company/getaxal/",
+        "appstore": "https://apps.apple.com/us/app/axal-high-yield-savings/id6752484843",
+        "playstore": "https://play.google.com/store/apps/details?id=com.axal.android"
+    }
+}
