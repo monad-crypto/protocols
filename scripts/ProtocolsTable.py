@@ -35,12 +35,12 @@ def parse_protocol_file(file_path: str) -> Tuple[List[Dict[str, str]], Dict[str,
         categories = data.get("categories", [])
         if not categories:
             print(f"⚠️  {name}: missing category – skipped")
-            return [], data
+            return [], {}
         first_category = categories[0]
         parts = first_category.split("::")
         if len(parts) != 2:
             print(f"⚠️  {name}: invalid category format '{first_category}' – skipped")
-            return [], data
+            return [], {}
 
         type, subtype = parts[0], parts[1]
 
