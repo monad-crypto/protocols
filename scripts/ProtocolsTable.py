@@ -3,22 +3,26 @@
 Protocols to CSV Converter
 
 This script collects all Protocol files in a directory and generates a CSV file
-for upload to a DB
+for upload to a DB, plus a JSON file keyed by protocol filename.
 """
 
 import argparse
 import csv
+import json
 import json5
 import os
 
 from pathlib import Path
-from typing import List, Dict
+from typing import Any, List, Dict, Tuple
 
 
 # Define a function to parse JSON protocol files
-def parse_protocol_file(file_path: str) -> List[Dict[str, str]]:
+def parse_protocol_file(file_path: str) -> Tuple[List[Dict[str, str]], Dict[str, Any]]:
     """
     Parse a single JSON file and extract the required fields.
+
+    Returns a tuple of (csv_rows, raw_data). raw_data is the full parsed
+    document so callers can also emit a JSON-keyed-by-filename output.
     """
     try:
         with open(file_path, "r", encoding="utf-8") as f:
@@ -31,12 +35,12 @@ def parse_protocol_file(file_path: str) -> List[Dict[str, str]]:
         categories = data.get("categories", [])
         if not categories:
             print(f"⚠️  {name}: missing category – skipped")
-            return []
+            return [], data
         first_category = categories[0]
         parts = first_category.split("::")
         if len(parts) != 2:
             print(f"⚠️  {name}: invalid category format '{first_category}' – skipped")
-            return []
+            return [], data
 
         type, subtype = parts[0], parts[1]
 
@@ -59,11 +63,11 @@ def parse_protocol_file(file_path: str) -> List[Dict[str, str]]:
             }
             rows.append(row)
 
-        return rows
+        return rows, data
 
     except (json5.JSONDecodeError, FileNotFoundError, KeyError) as e:
         print(f"Error processing {file_path}: {e}")
-        return []
+        return [], {}
 
 
 # Define a function to collect protocol files in a given directory
@@ -108,6 +112,22 @@ def write_csv(rows: List[Dict[str, str]], output_file: str) -> None:
     print(f"Successfully wrote {len(rows)} rows to {output_file}")
 
 
+def write_json(protocols: Dict[str, Any], output_file: str) -> None:
+    """
+    Write the parsed protocol documents keyed by filename to a JSON file.
+    """
+    if not protocols:
+        print("No data to write to JSON")
+        return
+
+    ordered = {k: protocols[k] for k in sorted(protocols)}
+    with open(output_file, "w", encoding="utf-8") as f:
+        json.dump(ordered, f, indent=2, ensure_ascii=False)
+        f.write("\n")
+
+    print(f"Successfully wrote {len(ordered)} protocols to {output_file}")
+
+
 # Define a function to collect protocol files in a given directory and then parse the JSON
 # protocol files, and write data to a CSV file
 def main():
@@ -133,25 +153,32 @@ def main():
 
     network = args.network
     if network == "testnet":
-        out_name = "protocols-testnet.csv"
+        csv_name = "protocols-testnet.csv"
+        json_name = "protocols-testnet.json"
     elif network == "mainnet":
-        out_name = "protocols-mainnet.csv"
+        csv_name = "protocols-mainnet.csv"
+        json_name = "protocols-mainnet.json"
     else:
         print(f"Invalid network: {network}")
         return
 
-    out = os.path.expanduser(out_name)
+    csv_out = os.path.expanduser(csv_name)
+    json_out = os.path.expanduser(json_name)
 
     protocol_files = collect_protocol_files(network)
     print(f"Found {len(protocol_files)} protocol files")
 
     # Process all JSON files
     all_rows = []
+    protocols: Dict[str, Any] = {}
     for file in protocol_files:
         print(f"Processing {file}...")
         try:
-            rows = parse_protocol_file(file)
+            rows, data = parse_protocol_file(file)
             all_rows.extend(rows)
+            if data:
+                key = Path(file).stem
+                protocols[key] = data
         except (FileNotFoundError, NotADirectoryError) as e:
             print(f"Error: {e}")
             return 1
@@ -159,8 +186,9 @@ def main():
             print(f"Unexpected error: {e}")
             return 1
 
-    # Write to CSV
-    write_csv(all_rows, out)
+    # Write CSV and JSON
+    write_csv(all_rows, csv_out)
+    write_json(protocols, json_out)
 
 
 if __name__ == "__main__":
