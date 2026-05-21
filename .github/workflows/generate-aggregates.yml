@@ -1,6 +1,6 @@
 # This workflow runs scripts/ProtocolsTable.py and commits protocols.csv to this branch
 
-name: Generate CSV
+name: Generate CSV and JSON files
 
 on:
   push:
@@ -17,15 +17,15 @@ jobs:
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v5
+        uses: actions/checkout@v6
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v6
         with:
-          python-version: '3.10'
+          python-version: '3.14'
 
       - name: Install uv
-        uses: astral-sh/setup-uv@v4
+        uses: astral-sh/setup-uv@v8.1.0
         with:
           enable-cache: true
 
@@ -43,8 +43,8 @@ jobs:
           python scripts/ProtocolsTable.py --network mainnet
 
       # Commit all changed files back to the repository
-      - uses: stefanzweifel/git-auto-commit-action@v5
+      - uses: stefanzweifel/git-auto-commit-action@v7
         with:
-          commit_message: "Update protocols CSV files"
-          file_pattern: "*.csv"
+          commit_message: "Update protocols CSV and JSON files"
+          file_pattern: "protocols-*.csv protocols-*.json"
           push_options: "--force"
