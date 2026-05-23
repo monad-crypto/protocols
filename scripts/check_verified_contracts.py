@@ -1,5 +1,5 @@
 """
-Verifies that protocol addresses are validated contracts using the BlockVision API.
+Verifies that protocol addresses are verified contracts using the BlockVision API.
 
 This script processes JSON/JSONC protocol files and checks if the addresses they contain
 are verified smart contracts on the Monad blockchain.
@@ -65,7 +65,7 @@ def get_all_protocol_files() -> List[str]:
 
 def verify_contract_on_blockvision(address: str, api_key: str) -> Tuple[bool, str]:
     """
-    Verify if an address is a validated contract using BlockVision API.
+    Verify if an address is a verified contract using BlockVision API.
 
     Args:
         address: Smart contract address to verify
@@ -247,7 +247,7 @@ def main():
     """Main entry point for the contract verification tool."""
 
     parser = argparse.ArgumentParser(
-        description="Verify that protocol addresses are validated smart contracts",
+        description="Verify that protocol addresses are verified smart contracts",
         formatter_class=argparse.RawDescriptionHelpFormatter,
     )
 
