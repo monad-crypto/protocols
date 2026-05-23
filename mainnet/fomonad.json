@@ -1,0 +1,21 @@
+{
+    "name": "FoMonad",
+    "description": "A consensual rugpull on Monad. Every round: a new Vibecoin, a price curve, a timer, a prize pool. The rug is the product.",
+    "categories": [
+        "Gaming::Games",
+        "DeFi::Memecoin",
+        "DeFi::Launchpads",
+        "DeFi::Yield"
+    ],
+    "addresses": {
+        "FoMonad": "0x9f4834920e7ad3275F3cf6587Ad9c9F7d387F1CF",
+        "FoMonadGame": "0xd2C45789A6A26Cbb961E7E1B65fA2B5BB3872639",
+        "VibecoinImpl": "0xad269FBeC6ebbAD424FCdC0f8e62F2056A72B403"
+    },
+    "links": {
+        "project": "https://www.fomonad.wtf/",
+        "twitter": "https://x.com/fomonad_wtf",
+        "github": "https://github.com/FoMonad/fomonad-contracts",
+        "docs": "https://www.fomonad.wtf/whitepaper.html"
+    }
+}
