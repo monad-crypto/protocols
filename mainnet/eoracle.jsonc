@@ -1,0 +1,27 @@
+{
+    "name": "eOracle",
+    "description": "Restaked Ethereum oracle network. Deployed on Monad mainnet but inactive since 2026-01-15 — no on-chain feed updates since then. See note below.",
+    // live=false because the EOFeedManager below stopped publishing on
+    // 2026-01-15. Cross-checked against the Monad data warehouse: zero
+    // RateUpdated(uint256,uint256,uint256) events on any address on Monad
+    // mainnet in the past 30 days (snapshot 2026-05-25), and no replacement
+    // EOFeedManager has been deployed elsewhere on Monad mainnet either.
+    // Switch back to live=true once on-chain publishing resumes.
+    "live": false,
+    "categories": ["Infra::Oracle"],
+    "addresses": {
+        // EOFeedManager — the singleton that receives feed updates from
+        // whitelisted publishers and stores them for consumers to read.
+        // First RateUpdated event:  2025-10-09 13:11 UTC
+        // Last  RateUpdated event:  2026-01-15 09:26 UTC  ← deployed but inactive since this date
+        // Total RateUpdated events: 4,553
+        // 9 distinct feed ids tracked (uint256 indices 1, 2, 17, 54, 56, 57, 86, 146, 147)
+        "EOFeedManager": "0x3e16A3B8d1c5E25EEE89B876BdE93285B07Ed55A"
+    },
+    "links": {
+        "project": "https://eo.app/",
+        "twitter": "https://x.com/eoracle_network",
+        "github": "https://github.com/Eoracle",
+        "docs": "https://docs.eo.app/docs"
+    }
+}
