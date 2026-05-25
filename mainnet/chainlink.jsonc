@@ -106,6 +106,9 @@
         "XRP_USD_Proxy": "0x979211Dfbc0738559B778a6a58a5b1bbbBe720f9",
         "XRP_USD_Aggregator": "0xfd03e1bd18b11fA56c55582a91e8fc0bB0A1c27E",
 
+        "AccessControlledOCR2Aggregator": "0xfeED8e42f0CdC789DfF245f27a892835E51E41F3",
+        "AuthorizedForwarder": "0x23A98bE6842eA37d03a8053B32B0919e64c73665",
+
         // CCIP:
         "RegistryModuleOwnerCustom": "0x4AfC00570596d172595A4E38384289b880263006",
         "RMNProxy": "0x99dFCa5d88f4D9C023531F4403966b8d61562AcD",
