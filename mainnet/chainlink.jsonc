@@ -209,7 +209,22 @@
         "SYZUSD_YZUSD_SVR_Aggregator": "0x18278EF950F120Cb89960C0C07e965BBaC389cFc",
 
         // Generic infra (used by all OCR3 feeds):
+        // `AuthorizedForwarder` is deployed by 0x9F5878fb572Fc05E17937b9Dd8a341Eb27Da1591.
+        // `AuthorizedForwarder_2`..`AuthorizedForwarder_10` are deployed by
+        // 0x66a1f4CC519ca0ea2a827d6e78749f343974e842 and each forwarder is driven by a distinct
+        // keeper EOA invoking fulfillOracleRequest2 (selector 0x6fadcf72). All 10 are verified
+        // as AuthorizedForwarder on Monadscan and each carries roughly 3.3K calls/day in
+        // the mainnet snapshot.
         "AuthorizedForwarder": "0x23A98bE6842eA37d03a8053B32B0919e64c73665",
+        "AuthorizedForwarder_2": "0xE5F5b3505e91D3282f51c0B265E0235dF477Bb10",
+        "AuthorizedForwarder_3": "0xC2Af3fddf9485C69c50153Fd1a35Df80b928C6a0",
+        "AuthorizedForwarder_4": "0xfE3d943A7de4f0ACB2FAAbA3aF8aC6469e6751f3",
+        "AuthorizedForwarder_5": "0x3F78BD4241226ac75E898a3EDF559034225550bb",
+        "AuthorizedForwarder_6": "0xDF5715F0f08695e177Dec59C4c65cC93BCCB879a",
+        "AuthorizedForwarder_7": "0xF8196Fc37720D39aBcD0157639C163483C5B983b",
+        "AuthorizedForwarder_8": "0x5447E0F54979Fa6888b37631B9Ce285cc4bc1A99",
+        "AuthorizedForwarder_9": "0x3e9B09f50309aEf5837b2CcFD85Ec7C4C9D98Bcb",
+        "AuthorizedForwarder_10": "0x011616AB4863109f38A74E1AA2c413cf220E8436",
 
         // CCIP:
         "RegistryModuleOwnerCustom": "0x4AfC00570596d172595A4E38384289b880263006",
