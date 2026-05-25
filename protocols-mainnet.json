@@ -1271,6 +1271,23 @@
       "docs": "https://docs.enjoyoors.xyz/"
     }
   },
+  "eoracle": {
+    "name": "eOracle",
+    "description": "Restaked Ethereum oracle network. Deployed on Monad mainnet but inactive since 2026-01-15 — no on-chain feed updates since then. See note below.",
+    "live": false,
+    "categories": [
+      "Infra::Oracle"
+    ],
+    "addresses": {
+      "EOFeedManager": "0x3e16A3B8d1c5E25EEE89B876BdE93285B07Ed55A"
+    },
+    "links": {
+      "project": "https://eo.app/",
+      "twitter": "https://x.com/eoracle_network",
+      "github": "https://github.com/Eoracle",
+      "docs": "https://docs.eo.app/docs"
+    }
+  },
   "esp_fun": {
     "name": "ESP.Fun",
     "description": "ESP.Fun is a fantasy esports gaming platform featuring player tokens, pack opening systems, and decentralized trading via automated market maker pools.",
