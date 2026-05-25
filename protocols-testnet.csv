@@ -595,6 +595,7 @@ StakeStone,DeFi,Liquid Staking,STONEToken,0x5a9125247d732d84240ff8ed48de69de7290
 Swing Monad,DeFi,Liquid Staking,Oracle,0x78ac1aa0452e293649fc1e0444da6250fff342c7,DeFi::Liquid Staking
 Swing Monad,DeFi,Liquid Staking,Staking pool,0xaf38734983a68edfa4c1d6db403dfa28bbf4009a,DeFi::Liquid Staking
 FastLane,DeFi,MEV,AddressHub,0xd72d821da82964c0546a5501347a3959808e072f,DeFi::MEV
+FastLane,DeFi,MEV,FastLaneAuctionHandler,0x11f34d16bb4b898c3a489b40cd1024d89a313b88,DeFi::MEV
 aPriori,DeFi,MEV,aprMON,0xb2f82d0f38dc453d596ad40a37799446cc89274a,DeFi::MEV
 Rug Rumble,DeFi,Memecoin,MemoryVault,0x61ed7ea592d724075ed6179eb8d9c8c7293152b3,DeFi::Memecoin;Consumer::Social
 Rug Rumble,DeFi,Memecoin,RugRumbleGame,0x262fd7a243e9335a733c00de471525d9fee8abdb,DeFi::Memecoin;Consumer::Social

@@ -904,6 +904,7 @@ Mellow Protocol,DeFi,Leveraged Farming,Verifier_Factory,0x48766b2e6b321f6550988d
 Mellow Protocol,DeFi,Leveraged Farming,Verifier_Implementation,0x00000001ea707ec337425aeb128d5c92ebac3da0,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
 Mellow Protocol,DeFi,Leveraged Farming,vshMON,0x982c66d60a18f05db7d1a8987189310062d2f818,DeFi::Leveraged Farming;DeFi::Yield;DeFi::Yield Aggregator
 Fastlane,DeFi,Liquid Staking,Atlas,0x2da28fedc4643c787cb5c5e84fa6aadb596875e8,DeFi::Liquid Staking;DeFi::Staking;DeFi::MEV
+Fastlane,DeFi,Liquid Staking,FastLaneAuctionHandler,0xd32edf6642d917dbbe7b8bf8e5d6f5df6a9fff58,DeFi::Liquid Staking;DeFi::Staking;DeFi::MEV
 Fastlane,DeFi,Liquid Staking,ShMonad,0x1b68626dca36c7fe922fd2d55e4f631d962de19c,DeFi::Liquid Staking;DeFi::Staking;DeFi::MEV
 Magma,DeFi,Liquid Staking,Delegator,0xb1d57de83d80a2abac91714744dfe97e71b73dc0,DeFi::Liquid Staking;DeFi::Staking;DeFi::MEV
 Magma,DeFi,Liquid Staking,gMON,0x8498312a6b3cbd158bf0c93abdcf29e6e4f55081,DeFi::Liquid Staking;DeFi::Staking;DeFi::MEV

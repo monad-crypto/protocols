@@ -1398,7 +1398,8 @@
     ],
     "addresses": {
       "ShMonad": "0x1B68626dCa36c7fE922fD2d55E4f631d962dE19c",
-      "Atlas": "0x2DA28fedc4643c787CB5c5e84fa6AaDb596875E8"
+      "Atlas": "0x2DA28fedc4643c787CB5c5e84fa6AaDb596875E8",
+      "FastLaneAuctionHandler": "0xD32EdF6642D917DbBE7B8BF8e5d6F5df6a9FFF58"
     },
     "links": {
       "project": "https://www.shmonad.xyz/",
