@@ -2396,7 +2396,8 @@
     ],
     "addresses": {
       "Bridge": "0xfb00d4ea6f3f0d0b4a57b32378075df408f2aaba",
-      "swaps": "0x962287c9d5b8a682389e61edae90ec882325d08b"
+      "swaps": "0x962287c9d5b8a682389e61edae90ec882325d08b",
+      "DelegationManager": "0xdb9B1e94B5b69Df7e401DDbedE43491141047dB3"
     },
     "links": {
       "project": "https://metamask.io/",

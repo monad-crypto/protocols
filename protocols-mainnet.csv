@@ -1476,6 +1476,7 @@ HaHa Wallet,Infra,Wallet,MerkleDistributor,0xa01a2488cbe09156da4a78fa46483556ce4
 HaHa Wallet,Infra,Wallet,MetaAccount,0xbd2c0dc6521cd25a8bb3943f50b5eec7a9d9a8a2,Infra::Wallet;Consumer::Other
 HaHa Wallet,Infra,Wallet,NonceManager,0xfff4badfe0eb9731f5593fe7ced5b1209055e640,Infra::Wallet;Consumer::Other
 Metamask,Infra,Wallet,Bridge,0xfb00d4ea6f3f0d0b4a57b32378075df408f2aaba,Infra::Wallet
+Metamask,Infra,Wallet,DelegationManager,0xdb9b1e94b5b69df7e401ddbede43491141047db3,Infra::Wallet
 Metamask,Infra,Wallet,swaps,0x962287c9d5b8a682389e61edae90ec882325d08b,Infra::Wallet
 Safe,Infra,Wallet,CompatibilityFallbackHandler,0xf48f2b2d2a534e402487b3ee7c18c33aec0fe5e4,Infra::Wallet
 Safe,Infra,Wallet,CompatibilityFallbackHandler_v1_3_0_eip_155,0x017062a1de2fe6b99be3d9d37841fed19f573804,Infra::Wallet
