@@ -4,7 +4,8 @@
     "live": true,
     "categories": ["DeFi::MEV"],
     "addresses": {
-        "AddressHub": "0xD72D821dA82964c0546a5501347a3959808E072f"
+        "AddressHub": "0xD72D821dA82964c0546a5501347a3959808E072f",
+        "FastLaneAuctionHandler": "0x11f34d16BB4B898c3a489B40cD1024d89A313b88"
     },
     "links": {
         "project": "https://www.shmonad.xyz/",
