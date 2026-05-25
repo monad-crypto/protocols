@@ -1875,7 +1875,10 @@
       "KuruForwarder": "0x974E61BBa9C4704E8Bcc1923fdC3527B41323FAA",
       "MonadDeployer": "0xe29309e308af3EE3B1a414E97c37A58509f27D1E",
       "Vault": "0x4869a4c7657cef5e5496c9ce56dde4cd593e4923",
-      "Vault2": "0xD6Eae39b96FbdB7daA2227829Be34b4e1BC9069a"
+      "Vault2": "0xD6Eae39b96FbdB7daA2227829Be34b4e1BC9069a",
+      "KuruFlowRouterV2": "0x0d3a1BE29E9dEd63c7a5678b31e847D68F71FFa2",
+      "Market-MON/USDC": "0x065C9d28E428A0db40191a54d33d5b7c71a9C394",
+      "Market-MON/AUSD": "0x131a2e70a5b31a517a74b8c567149bc294470da9"
     },
     "links": {
       "project": "https://kuru.io",
