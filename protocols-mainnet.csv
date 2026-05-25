@@ -357,6 +357,7 @@ Uniswap,DeFi,DEX,UniswapV2Factory,0x182a927119d56008d921126764bf884221b10f59,DeF
 Uniswap,DeFi,DEX,UniswapV2Router02,0x4b2ab38dbf28d31d467aa8993f6c2585981d6804,DeFi::DEX
 Uniswap,DeFi,DEX,UniswapV3Factory,0x204faca1764b154221e35c0d20abb3c525710498,DeFi::DEX
 Uniswap,DeFi,DEX,UniversalRouter,0x0d97dc33264bfc1c226207428a79b26757fb9dc3,DeFi::DEX
+Uniswap,DeFi,DEX,UniversalRouter2.1.1,0xfdf682f51fe81aa4898f0ae2163d8a55c127fbc7,DeFi::DEX
 Uniswap,DeFi,DEX,V3Migrator,0x7078c4537c04c2b2e52ddba06074dbdacf23ca15,DeFi::DEX
 Uniswap,DeFi,DEX,V4Quoter,0xa222dd357a9076d1091ed6aa2e16c9742dd26891,DeFi::DEX
 WooFi,DeFi,DEX,IntegrationHelper (token info),0xaee024faa57c4db20ac0666a1d5297d5f1c95afe,DeFi::DEX
