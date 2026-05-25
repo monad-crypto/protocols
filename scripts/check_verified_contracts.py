@@ -14,7 +14,6 @@ import argparse
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import glob
 import json
-from jsoncomment import JsonComment
 import os
 from pathlib import Path
 import requests
@@ -22,11 +21,11 @@ import sys
 import time
 from typing import Dict, List, Tuple
 
+import json5
+
 BLOCKVISION_API_BASE_URL = "https://api.blockvision.org/v2/monad/contract/source/code"
 REQUEST_DELAY = 0.2  # Delay between API requests (seconds)
 DEFAULT_WORKERS = 5  # Default number of parallel workers
-
-JSONC_PARSER = JsonComment(json)
 
 
 def parse_jsonc(file_path: str) -> dict:
@@ -40,8 +39,7 @@ def parse_jsonc(file_path: str) -> dict:
         Parsed JSON data as a dictionary
     """
     with open(file_path, "r", encoding="utf-8") as f:
-        content = f.read()
-        return JSONC_PARSER.loads(content)
+        return json5.load(f)
 
 
 def get_all_protocol_files() -> List[str]:
@@ -135,6 +133,15 @@ def process_file(file_path: str, blockvision_api_key: str) -> Dict:
     """
     try:
         data = parse_jsonc(file_path)
+    except ValueError as e:
+        return {
+            "file": file_path,
+            "status": "error",
+            "message": f"JSON parsing error: {str(e)}",
+            "results": {},
+        }
+
+    try:
         protocol_name = data.get("name", Path(file_path).stem)
         addresses = data.get("addresses", {})
 
@@ -163,13 +170,6 @@ def process_file(file_path: str, blockvision_api_key: str) -> Dict:
             "status": "success",
             "all_valid": all_valid,
             "results": results,
-        }
-    except json.JSONDecodeError as e:
-        return {
-            "file": file_path,
-            "status": "error",
-            "message": f"JSON parsing error: {str(e)}",
-            "results": {},
         }
     except Exception as e:
         return {
