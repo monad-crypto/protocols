@@ -23,6 +23,7 @@
         "StateView": "0x77395f3b2e73ae90843717371294fa97cc419d64",
         "Quoter": "0x2d01411773c8c24805306e89a41f7855c3c4fe65",
         "UniversalRouter": "0x0d97dc33264bfc1c226207428a79b26757fb9dc3",
+        "UniversalRouter2.1.1": "0xfdf682f51fe81aa4898f0ae2163d8a55c127fbc7",
         "FeeOnTransferDetector": "0x5c834b6cac4173bfe288c5722a38e04b9e366e30"
     },
     "links": {
