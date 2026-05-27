@@ -216,6 +216,7 @@ Kuru,DeFi,DEX,KuruForwarder,0x974e61bba9c4704e8bcc1923fdc3527b41323faa,DeFi::DEX
 Kuru,DeFi,DEX,MarginAccount,0x2a68ba1833cdf93fa9da1eebd7f46242ad8e90c5,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Launchpads;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces
 Kuru,DeFi,DEX,Market-MON/AUSD,0x131a2e70a5b31a517a74b8c567149bc294470da9,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Launchpads;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces
 Kuru,DeFi,DEX,Market-MON/USDC,0x065c9d28e428a0db40191a54d33d5b7c71a9c394,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Launchpads;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces
+Kuru,DeFi,DEX,Market-WETH/USDC,0xa6afd386135b7d41a6c40c525abc4a1019b0d132,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Launchpads;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces
 Kuru,DeFi,DEX,MonadDeployer,0xe29309e308af3ee3b1a414e97c37a58509f27d1e,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Launchpads;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces
 Kuru,DeFi,DEX,Router,0xd651346d7c789536ebf06dc72ae3c8502cd695cc,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Launchpads;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces
 Kuru,DeFi,DEX,Vault,0x4869a4c7657cef5e5496c9ce56dde4cd593e4923,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Launchpads;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces
