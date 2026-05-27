@@ -25,7 +25,8 @@
         "Vault2": "0xD6Eae39b96FbdB7daA2227829Be34b4e1BC9069a",
         "KuruFlowRouterV2": "0x0d3a1BE29E9dEd63c7a5678b31e847D68F71FFa2",
         "Market-MON/USDC": "0x065C9d28E428A0db40191a54d33d5b7c71a9C394",
-        "Market-MON/AUSD": "0x131a2e70a5b31a517a74b8c567149bc294470da9"
+        "Market-MON/AUSD": "0x131a2e70a5b31a517a74b8c567149bc294470da9",
+        "Market-WETH/USDC": "0xa6aFD386135B7D41A6C40C525abC4A1019b0D132"
     },
     "links": {
         "project": "https://kuru.io",
