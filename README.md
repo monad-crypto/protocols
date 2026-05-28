@@ -190,6 +190,7 @@ permissible, in which case please put the primary category first.
 - `DeFi::Stablecoin`
 - `DeFi::Stableswap`
 - `DeFi::Staking`
+- `DeFi::Structured Products`
 - `DeFi::Synthetics`
 - `DeFi::Trading Interfaces`
 - `DeFi::Uncollateralized Lending`
@@ -241,21 +242,21 @@ permissible, in which case please put the primary category first.
 <summary>Infra</summary>
 
 - `Infra::AA`
-- `Infra::Automation`
 - `Infra::Analytics`
+- `Infra::Automation`
 - `Infra::Developer Tooling`
+- `Infra::Gaming`
 - `Infra::Identity`
 - `Infra::Indexing`
 - `Infra::Interoperability`
-- `Infra::Gaming`
 - `Infra::Oracle`
 - `Infra::Privacy / Encryption`
-- `Infra::RaaS (Rollup as a Service)`
 - `Infra::RPC`
+- `Infra::Other`
+- `Infra::ZK`
+- `Infra::RaaS (Rollup as a Service)`
 - `Infra::WaaS`
 - `Infra::Wallet`
-- `Infra::ZK`
-- `Infra::Other`
 </details>
 
 <details>
