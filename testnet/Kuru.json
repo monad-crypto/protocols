@@ -4,12 +4,13 @@
     "live": true,
     "categories": ["DeFi::DEX"],
     "addresses": {
-        "Router": "0xc816865f172d640d93712C68a7E1F83F3fA63235",
-        "MarginAccount": "0x4B186949F31FCA0aD08497Df9169a6bEbF0e26ef",
-        "KuruForwarder": "0x350678D87BAa7f513B262B7273ad8Ccec6FF0f78",
-        "MONUSDC": "0xd8336cB07D4BE511cCaF06B799851E1A80F98c71",
-        "KuruDeployer": "0x67a4e43C7Ce69e24d495A39c43489BC7070f009B",
-        "KuruUtils": "0x0Ec4760f18c70BeACDCDB2a12edde02382CF1f66"
+        "KuruForwarder": "0x681bB1508E14433b148a2549ba2726454aDc9BB4",
+        "MarginAccount": "0xd029C2D98ff85D8F64799017fE00a59B1159CE02",
+        "MonadDeployer": "0xDacd06372cEb638640c9D8466A023b7362324e1A",
+        "OrderBookImpl": "0x72caE0a99C19B574e8a6De558F43fc1D019c9374",
+        "Router": "0x7EFbE105Ca7415dE98F96622173458ac1c054630",
+        "USDC": "0x3bA3d39AFcf8bb994f7964B3e0171Ea2Ba361570",
+        "Market-MON/USDC": "0xa241896A7Dbe8a550D2E5fF7A914bB1989ceD2D9"
     },
     "links": {
         "project": "https://kuru.io/",
