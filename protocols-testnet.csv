@@ -200,12 +200,13 @@ Doppler,DeFi,DEX,UniswapV3Factory,0xb4dee32eb70a5e55f3d2d861f49fb3d79f7a14d9,DeF
 Doppler,DeFi,DEX,UniswapV3Initializer,0x9916ec1c1e0462f6f8f7514e414f06bf001ac82a,DeFi::DEX
 Dyson Finance,DeFi,DEX,Router,0x9ff47db62b4a2f63974f5d98bf6ad15f3814e816,DeFi::DEX
 Gasp,DeFi,DEX,contract,0xfd6a45621ddfebf94c082e60e0de92aa305a97a1,DeFi::DEX
-Kuru,DeFi,DEX,KuruDeployer,0x67a4e43c7ce69e24d495a39c43489bc7070f009b,DeFi::DEX
-Kuru,DeFi,DEX,KuruForwarder,0x350678d87baa7f513b262b7273ad8ccec6ff0f78,DeFi::DEX
-Kuru,DeFi,DEX,KuruUtils,0x0ec4760f18c70beacdcdb2a12edde02382cf1f66,DeFi::DEX
-Kuru,DeFi,DEX,MONUSDC,0xd8336cb07d4be511ccaf06b799851e1a80f98c71,DeFi::DEX
-Kuru,DeFi,DEX,MarginAccount,0x4b186949f31fca0ad08497df9169a6bebf0e26ef,DeFi::DEX
-Kuru,DeFi,DEX,Router,0xc816865f172d640d93712c68a7e1f83f3fa63235,DeFi::DEX
+Kuru,DeFi,DEX,KuruForwarder,0x681bb1508e14433b148a2549ba2726454adc9bb4,DeFi::DEX
+Kuru,DeFi,DEX,MarginAccount,0xd029c2d98ff85d8f64799017fe00a59b1159ce02,DeFi::DEX
+Kuru,DeFi,DEX,Market-MON/USDC,0xa241896a7dbe8a550d2e5ff7a914bb1989ced2d9,DeFi::DEX
+Kuru,DeFi,DEX,MonadDeployer,0xdacd06372ceb638640c9d8466a023b7362324e1a,DeFi::DEX
+Kuru,DeFi,DEX,OrderBookImpl,0x72cae0a99c19b574e8a6de558f43fc1d019c9374,DeFi::DEX
+Kuru,DeFi,DEX,Router,0x7efbe105ca7415de98f96622173458ac1c054630,DeFi::DEX
+Kuru,DeFi,DEX,USDC,0x3ba3d39afcf8bb994f7964b3e0171ea2ba361570,DeFi::DEX
 LFJ,DeFi,DEX,Factory,0xb43120c4745967fa9b93e79c149e66b0f2d6fe0c,DeFi::DEX
 LFJ,DeFi,DEX,Router,0x18556da13313f3532c54711497a8fedac273220e,DeFi::DEX
 Mach Exchange,DeFi,DEX,contract,0x432b53c0595400f3ee94da737cfcca12c84fe299,DeFi::DEX
