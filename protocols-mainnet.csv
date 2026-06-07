@@ -1099,6 +1099,9 @@ ESP.Fun,Gaming,Games,PackSale,0x26448da45e80709b3e4adffa4a98c62925ea836f,Gaming:
 ESP.Fun,Gaming,Games,PackSaleReveal,0x7f51991a3c9c779a841caefeee4c0167bf6f871a,Gaming::Games;NFT::Collections;DeFi::DEX
 ESP.Fun,Gaming,Games,Player,0xc99a1d62a453481b24c5364403e61c4254218d28,Gaming::Games;NFT::Collections;DeFi::DEX
 ESP.Fun,Gaming,Games,PlayerPack,0x3c1bcd19455f3fa33234faf9c73f9e6ea055a899,Gaming::Games;NFT::Collections;DeFi::DEX
+FoMonad,Gaming,Games,FoMonad,0x9f4834920e7ad3275f3cf6587ad9c9f7d387f1cf,Gaming::Games;DeFi::Memecoin;DeFi::Launchpads;DeFi::Yield
+FoMonad,Gaming,Games,FoMonadGame,0xd2c45789a6a26cbb961e7e1b65fa2b5bb3872639,Gaming::Games;DeFi::Memecoin;DeFi::Launchpads;DeFi::Yield
+FoMonad,Gaming,Games,VibecoinImpl,0xad269fbec6ebbad424fcdc0f8e62f2056a72b403,Gaming::Games;DeFi::Memecoin;DeFi::Launchpads;DeFi::Yield
 Grimmy's,Gaming,Games,Flippy,0x3717f45e87744e48d954684f34f57902da1134da,Gaming::Games;Gaming::Mobile-First
 Grimmy's,Gaming,Games,Grimmy,0xdca99dcc29e19022012c5d755f1b12c61d127857,Gaming::Games;Gaming::Mobile-First
 Grimmy's,Gaming,Games,Stimmy,0x26018cb486254c9697ed654d023c5d737fdd31e4,Gaming::Games;Gaming::Mobile-First
