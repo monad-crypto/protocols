@@ -1,6 +1,6 @@
 // Assembles the publishable npm package under dist/.
 
-import { cpSync, mkdirSync, rmSync } from 'node:fs';
+import { cpSync, mkdirSync, readFileSync, rmSync, writeFileSync } from 'node:fs';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -22,11 +22,17 @@ for (const [src, dest] of Object.entries(aggregates)) {
 }
 
 // Files shipped under their existing names.
-for (const f of ['categories.json', 'index.js', 'index.d.ts', 'package.json', 'README.md']) {
+for (const f of ['categories.json', 'index.js', 'index.d.ts', 'README.md']) {
   cpSync(join(root, f), join(dist, f));
 }
 
-// Per-protocol directories, copied verbatim (casing preserved).
+// The published package is pre-built data: drop the scripts field so its
+// metadata doesn't reference build tooling that isn't shipped.
+const pkg = JSON.parse(readFileSync(join(root, 'package.json'), 'utf8'));
+delete pkg.scripts;
+writeFileSync(join(dist, 'package.json'), JSON.stringify(pkg, null, 2) + '\n');
+
+// Per-protocol directories, copied verbatim
 for (const dir of ['mainnet', 'testnet']) {
   cpSync(join(root, dir), join(dist, dir), { recursive: true });
 }

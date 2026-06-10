@@ -19,6 +19,10 @@ jobs:
   generate-and-publish:
     runs-on: ubuntu-latest
 
+    # Pushes made with the default GITHUB_TOKEN (like our auto-commit below)
+    # don't re-trigger workflows
+    if: github.event.head_commit.message != 'Update protocols CSV and JSON files'
+
     permissions:
       # Give the default GITHUB_TOKEN write permission to commit and push the
       # added or changed files to the repository.
@@ -54,12 +58,14 @@ jobs:
           source .venv/bin/activate
           python scripts/ProtocolsTable.py --network mainnet
 
-      # Commit all changed files back to the repository
+      # Commit all changed files back to the repository. The commit sits on
+      # top of the SHA that triggered this run, so a plain push fast-forwards;
+      # if main advanced mid-run the push fails instead of clobbering it, and
+      # the next push regenerates the aggregates anyway.
       - uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: "Update protocols CSV and JSON files"
           file_pattern: "protocols-*.csv protocols-*.json"
-          push_options: "--force"
 
       - name: Set up Node.js
         uses: actions/setup-node@v6
