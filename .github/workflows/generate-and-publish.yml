@@ -59,9 +59,7 @@ jobs:
           python scripts/ProtocolsTable.py --network mainnet
 
       # Commit all changed files back to the repository. The commit sits on
-      # top of the SHA that triggered this run, so a plain push fast-forwards;
-      # if main advanced mid-run the push fails instead of clobbering it, and
-      # the next push regenerates the aggregates anyway.
+      # top of the SHA that triggered this run
       - uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: "Update protocols CSV and JSON files"
