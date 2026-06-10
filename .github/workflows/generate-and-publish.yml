@@ -1,10 +1,8 @@
 # This workflow regenerates the protocol aggregates (protocols-*.csv/json),
 # commits them back to the branch, and then publishes the data as an npm package.
 #
-# Publishing uses npm Trusted Publishing (OIDC) — there is NO NPM_TOKEN secret.
-# A one-time setup is required on npmjs.com (package Settings -> Trusted
-# Publisher): org monad-crypto, repo protocols, workflow generate-and-publish.yml.
-# Renaming this workflow file breaks the trust relationship.
+# Publishing uses npm Trusted Publishing (OIDC), renaming this workflow file
+# breaks the trust relationship.
 
 name: generate and publish
 
