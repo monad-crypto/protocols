@@ -1,0 +1,18 @@
+{
+  "name": "AnomaPay",
+  "description": "AnomaPay is a private payments app built on Anoma that makes it easy to pay anyone confidentially with existing assets on public blockchains such as Monad.",
+  "live": true,
+  "categories": ["Infra::Privacy / Encryption", "Payments::Orchestration"],
+  "addresses": {
+    "ProtocolAdapter": "0x2D2Fa19aFdbb20DC73737ca5f075cfAE00Cd90C2",
+    "ERC20Forwarder": "0x23dc44E1a1c3d5432EeC8A1c027e22ccDC0A8F54",
+  },
+  "links": {
+    "project": "https://anomapay.app",
+    "twitter": "https://x.com/anomapay",
+    "github": "https://github.com/anoma",
+    "docs": "https://docs.anoma.net/anoma-pay-introduction",
+    "AnomaPay_ERC20_Forwarder": "https://github.com/anoma/anomapay-erc20-forwarder",
+    "AnomaPay_ERC20_Resource": "https://github.com/anoma/anomapay-erc20-resource",
+  },
+}
