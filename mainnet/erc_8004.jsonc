@@ -1,0 +1,19 @@
+{
+    "name": "ERC-8004 (Trustless Agents)",
+    "description": "Canonical multi-chain registries for the ERC-8004 Trustless Agents standard. Provides on-chain identity and reputation for AI agents.",
+    "live": true,
+    "categories": [
+        "AI::Infrastructure",
+        "Infra::Identity"
+    ],
+    "addresses": {
+        // https://github.com/erc-8004/erc-8004-contracts
+        "IdentityRegistry": "0x8004A169FB4a3325136EB29fA0ceB6D2e539a432",
+        "ReputationRegistry": "0x8004BAa17C55a88189AE136b182e5fdA19dE9b63"
+    },
+    "links": {
+        "project": "https://docs.monad.xyz/guides/erc-8004",
+        "github": "https://github.com/erc-8004/erc-8004-contracts",
+        "docs": "https://eips.ethereum.org/EIPS/eip-8004"
+    }
+}
