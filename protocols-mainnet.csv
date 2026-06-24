@@ -1068,6 +1068,16 @@ Enjoyoors,DeFi,Yield,WithdrawalApprover,0x71f60773885011cc0a61613078733b4738b38f
 Lagoon,DeFi,Yield,ProtocolRegistry,0xbf994c358f939011595ab4216ac005147863f9d6,DeFi::Yield;DeFi::Asset Allocators
 Lagoon,DeFi,Yield,VaultFactory,0xccdc4d06ca12a29c47d5d105fed59a6d07e9cf70,DeFi::Yield;DeFi::Asset Allocators
 Merkl,DeFi,Yield,Merkl,0x3ef3d8ba38ebe18db133cec108f4d14ce00dd9ae,DeFi::Yield
+Pendle,DeFi,Yield,GaugeController,0x7e500c6efbb00fd3227888256e477171a1304721,DeFi::Yield
+Pendle,DeFi,Yield,LimitRouter,0x000000000000c9b3e2c3ec88b1b4c0cd853f4321,DeFi::Yield
+Pendle,DeFi,Yield,MarketFactory,0xa3cb62a49b66eb2536cf6f3c7ac82293784888a3,DeFi::Yield
+Pendle,DeFi,Yield,PENDLE,0x5e49e1f85813f2b65858860a3fa231b4186f2e0e,DeFi::Yield
+Pendle,DeFi,Yield,PYLPOracle,0x5542be50420e88dd7d5b4a3d488fa6ed82f6dac2,DeFi::Yield
+Pendle,DeFi,Yield,PendleSwap,0xd4f480965d2347d421f1bec7f545682e5ec2151d,DeFi::Yield
+Pendle,DeFi,Yield,Router,0x888888888889758f76e7103c6cbf23abbf58f946,DeFi::Yield
+Pendle,DeFi,Yield,SYFactory,0x466ced3b33045ea986b2f306c8d0aa8067961cf8,DeFi::Yield
+Pendle,DeFi,Yield,SparkLinearDiscountOracleFactory,0x34c91651a070664279866e5f3d6b4d5f65cbbffb,DeFi::Yield
+Pendle,DeFi,Yield,YieldContractFactory,0x4fe1b23ab695d99394ab78c16a5be358f31847f4,DeFi::Yield
 Sherpa,DeFi,Yield,CCIPPool,0xf9bc71bedeb6ba90de4cf79f09870d99b0ba2bf0,DeFi::Yield;DeFi::Trading Interfaces
 Sherpa,DeFi,Yield,ConfigManager,0xfa82b15cca7668f011171a026895dde0defcc46b,DeFi::Yield;DeFi::Trading Interfaces
 Sherpa,DeFi,Yield,SherpaRouter,0xf37dd3acbcb7b3be161f8f67d09273d5bc09bd85,DeFi::Yield;DeFi::Trading Interfaces

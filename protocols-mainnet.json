@@ -3177,6 +3177,32 @@
       "docs": "https://developer.pancakeswap.finance/"
     }
   },
+  "pendle": {
+    "name": "Pendle",
+    "description": "Permissionless yield-trading protocol enabling users to tokenize and trade future yield via Principal Tokens (PT) and Yield Tokens (YT).",
+    "live": true,
+    "categories": [
+      "DeFi::Yield"
+    ],
+    "addresses": {
+      "PENDLE": "0x5E49E1f85813F2B65858860A3FA231b4186f2e0E",
+      "Router": "0x888888888889758F76e7103c6CbF23ABbF58F946",
+      "PendleSwap": "0xd4F480965D2347d421F1bEC7F545682E5Ec2151D",
+      "PYLPOracle": "0x5542be50420E88dd7D5B4a3D488FA6ED82F6DAc2",
+      "MarketFactory": "0xA3cb62a49b66eB2536cf6F3C7AC82293784888A3",
+      "YieldContractFactory": "0x4fe1B23ab695D99394Ab78c16A5bE358f31847F4",
+      "LimitRouter": "0x000000000000c9B3E2C3Ec88B1B4c0cD853f4321",
+      "GaugeController": "0x7e500c6efBb00FD3227888256E477171a1304721",
+      "SYFactory": "0x466CeD3b33045Ea986B2f306C8D0aA8067961CF8",
+      "SparkLinearDiscountOracleFactory": "0x34C91651A070664279866E5f3d6B4d5F65cbbFFb"
+    },
+    "links": {
+      "project": "https://pendle.finance/",
+      "twitter": "https://x.com/pendle_fi",
+      "github": "https://github.com/pendle-finance",
+      "docs": "https://docs.pendle.finance/"
+    }
+  },
   "peridot": {
     "name": "Peridot",
     "description": "Peridot allows users to earn interest on your crypto and borrow funds without selling, all with smart, fair rates across multiple blockchains.",
