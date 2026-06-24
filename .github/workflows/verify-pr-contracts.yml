@@ -113,9 +113,26 @@ jobs:
             <sub>Workflow run: [${context.workflow}](${context.payload.repository.html_url}/actions/runs/${context.runId})</sub>
             `;
 
-            await github.rest.issues.createComment({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              issue_number: context.issue.number,
-              body: comment
-            });
+            // Always surface the results in the job step summary so they're
+            // visible on the Actions run page even when we can't post a PR
+            // comment. Pull requests from forks run with a read-only
+            // GITHUB_TOKEN (and without repo secrets), so createComment 403s.
+            await core.summary.addRaw(comment).write();
+
+            // Posting the PR comment is best-effort: don't fail the job if the
+            // token isn't allowed to write (e.g. fork PRs). Warn instead.
+            try {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                body: comment
+              });
+            } catch (error) {
+              core.warning(
+                `Could not post the results as a PR comment ` +
+                `(${error.status ?? 'unknown'}: ${error.message}). ` +
+                `This is expected for pull requests from forks, which run with a ` +
+                `read-only token — see the job summary above for the results.`
+              );
+            }
