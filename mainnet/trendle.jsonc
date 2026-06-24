@@ -1,0 +1,21 @@
+{
+    "name": "Trendle",
+    "description": "Trendle is an AttentionFi protocol on Monad offering perpetual-style markets on social attention. Traders go long or short on an Attention Index that aggregates mindshare across X, Reddit, and YouTube, with leverage and a funding-rate mechanism. Built on Azuro with USDT collateral.",
+    "live": true,
+    "categories": [
+        "Consumer::Prediction Market"
+    ],
+    "addresses": {
+        // Trading contract: order placement, execution, funding rate updates
+        "Trading": "0xAE0830d7588aB44e5D4443168a8D666B54F385FE",
+        // Liquidity pool / collateral reserves
+        "Pool": "0xe0b5D2538038329Cd1Ab9D92273af7DB5EF29231"
+    },
+    "links": {
+        "project": "https://trendle.fi",
+        "app": "https://app.trendle.fi",
+        "twitter": "https://x.com/TrendleFi",
+        "docs": "https://docs.trendle.fi",
+        "discord": "https://discord.gg/trendle"
+    }
+}
