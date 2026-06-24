@@ -10,9 +10,7 @@
         // Trading contract: order placement, execution, funding rate updates
         "Trading": "0xAE0830d7588aB44e5D4443168a8D666B54F385FE",
         // Liquidity pool / collateral reserves
-        "Pool": "0xe0b5D2538038329Cd1Ab9D92273af7DB5EF29231",
-        // Airdrop distribution contract
-        "Airdrop": "0x6f92e4DfA2A87D263e624C5a4c50db103B877B16"
+        "Pool": "0xe0b5D2538038329Cd1Ab9D92273af7DB5EF29231"
     },
     "links": {
         "project": "https://trendle.fi",
