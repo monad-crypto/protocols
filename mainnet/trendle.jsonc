@@ -3,7 +3,6 @@
     "description": "Trendle is an AttentionFi protocol on Monad offering perpetual-style markets on social attention. Traders go long or short on an Attention Index that aggregates mindshare across X, Reddit, and YouTube, with leverage and a funding-rate mechanism. Built on Azuro with USDT collateral.",
     "live": true,
     "categories": [
-        "DeFi::Perpetuals / Derivatives",
         "Consumer::Prediction Market"
     ],
     "addresses": {
