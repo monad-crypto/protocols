@@ -1499,6 +1499,8 @@ Canonical Contracts,Infra,Other,SingletonFactory,0xce0042b868300000d44a59004da54
 Canonical Contracts,Infra,Other,VanityMarket,0x000000000000b361194cfe6312ee3210d53c15aa,Infra::Other
 Canonical Contracts,Infra,Other,WMON,0x3bd359c1119da7da1d913d1c4d2b7c461115433a,Infra::Other
 Canonical Contracts,Infra,Other,ZoltuDeterministicDeploymentProxy,0x7a0d94f55792c434d74a40883c6ed8545e406d12,Infra::Other
+AnomaPay,Infra,Privacy / Encryption,ERC20Forwarder,0x23dc44e1a1c3d5432eec8a1c027e22ccdc0a8f54,Infra::Privacy / Encryption;Payments::Orchestration
+AnomaPay,Infra,Privacy / Encryption,ProtocolAdapter,0x2d2fa19afdbb20dc73737ca5f075cfae00cd90c2,Infra::Privacy / Encryption;Payments::Orchestration
 Primus Token Distribution Platform,Infra,Privacy / Encryption,PrimusRedEnvelope,0x50bd377eb8d4236bb587ab3fb1eeafd888aeec58,Infra::Privacy / Encryption;Infra::ZK;Consumer::Social
 Primus Token Distribution Platform,Infra,Privacy / Encryption,PrimusTip,0xa2e0700a269be3158c81e4739518b324d4398588,Infra::Privacy / Encryption;Infra::ZK;Consumer::Social
 HaHa Wallet,Infra,Wallet,FeeManager,0x4631f923c3c470061a97e008ed9c33da4349612c,Infra::Wallet;Consumer::Other
