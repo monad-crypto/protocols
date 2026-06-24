@@ -36,6 +36,8 @@ Monadice,Consumer,Prediction Market,BetCampaignBTC,0x5a2693d05fb99be88d7d9133fc8
 Monadice,Consumer,Prediction Market,BetMarketFactory,0xebfbe5f4edb6378ade8a815fc2daf147c5b8cb86,Consumer::Prediction Market;AI::Infrastructure;AI::Consumer AI
 Monadice,Consumer,Prediction Market,Monad Market,0x82802aa45d19f9bc8fce35e398c8c02dfe2aabf9,Consumer::Prediction Market;AI::Infrastructure;AI::Consumer AI
 Monadice,Consumer,Prediction Market,OracleVerifier,0xc87fb6de3c266e84b8730dd5abcd5dcd4ee6e34c,Consumer::Prediction Market;AI::Infrastructure;AI::Consumer AI
+Trendle,Consumer,Prediction Market,Pool,0xe0b5d2538038329cd1ab9d92273af7db5ef29231,Consumer::Prediction Market
+Trendle,Consumer,Prediction Market,Trading,0xae0830d7588ab44e5d4443168a8d666b54f385fe,Consumer::Prediction Market
 Fluffle,Consumer,Social,FluffleDragons,0x2ed99dbe114249b7611478d67818b399865ffc89,Consumer::Social;NFT::Other;Gaming::Mobile-First
 Fluffle,Consumer,Social,FluffleFurniture,0x67f58f1faf78781b7eb90c457846e0f965bb1a2f,Consumer::Social;NFT::Other;Gaming::Mobile-First
 Fluffle,Consumer,Social,FluffleSolveil,0x8255dacd8a45f4abe6dc821e6f7f3c92a8e22fbb,Consumer::Social;NFT::Other;Gaming::Mobile-First
