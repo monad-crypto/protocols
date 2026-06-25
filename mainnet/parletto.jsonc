@@ -1,0 +1,19 @@
+{
+  "name": "Parletto",
+  "description": "AMM layer for parlays on prediction markets, enabling users to generate yield by providing liquidity.",
+  "live": true,
+  "categories": ["DeFi::Yield"],
+  "addresses": {
+    "ParlettoEscrow": "0x30038f7CFC1FC0D5F026F5093f239b367C12711D",
+    "ParlettoLiquidityBook": "0xc3A817b86eD003747253238787631eD98c2Ee4d3",
+    "ParlettoOutcomeAggregator": "0x6c5537a07aFDE461A1CA752D1374B2C41f35928B",
+    "ParlettoTreasury": "0xDcD80b8c59Fc08A5Cb9382179148a07aC1951b9e",
+    "ParlettoTimelock": "0x463e87E86B6b832435FC479344301031cB87365e",
+  },
+  "links": {
+    "project": "https://parletto.bet/",
+    "twitter": "https://x.com/parlettodotbet",
+    "github": "https://github.com/01node/parletto-contracts",
+    "docs": "https://parletto.bet/docs",
+  },
+}
