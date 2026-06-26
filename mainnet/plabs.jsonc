@@ -1,0 +1,14 @@
+  "name": "PLabs",
+  "description": "Onchian Privacy Hub.",
+  "live": true,
+  "categories": [
+    "Privacy infrastructure"
+  ],
+  "addresses": {
+  },
+  "links": {
+    "project": "https://app.plabs.online/",
+    "twitter": "https://x.com/_PLabs",
+    "github": "https://github.com/PLabs4",
+    "docs": "https://plabs.gitbook.io/plabs-docs"
+  }
