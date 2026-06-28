@@ -1068,6 +1068,11 @@ Enjoyoors,DeFi,Yield,WithdrawalApprover,0x71f60773885011cc0a61613078733b4738b38f
 Lagoon,DeFi,Yield,ProtocolRegistry,0xbf994c358f939011595ab4216ac005147863f9d6,DeFi::Yield;DeFi::Asset Allocators
 Lagoon,DeFi,Yield,VaultFactory,0xccdc4d06ca12a29c47d5d105fed59a6d07e9cf70,DeFi::Yield;DeFi::Asset Allocators
 Merkl,DeFi,Yield,Merkl,0x3ef3d8ba38ebe18db133cec108f4d14ce00dd9ae,DeFi::Yield
+Parletto,DeFi,Yield,ParlettoEscrow,0x30038f7cfc1fc0d5f026f5093f239b367c12711d,DeFi::Yield
+Parletto,DeFi,Yield,ParlettoLiquidityBook,0xc3a817b86ed003747253238787631ed98c2ee4d3,DeFi::Yield
+Parletto,DeFi,Yield,ParlettoOutcomeAggregator,0x6c5537a07afde461a1ca752d1374b2c41f35928b,DeFi::Yield
+Parletto,DeFi,Yield,ParlettoTimelock,0x463e87e86b6b832435fc479344301031cb87365e,DeFi::Yield
+Parletto,DeFi,Yield,ParlettoTreasury,0xdcd80b8c59fc08a5cb9382179148a07ac1951b9e,DeFi::Yield
 Pendle,DeFi,Yield,GaugeController,0x7e500c6efbb00fd3227888256e477171a1304721,DeFi::Yield
 Pendle,DeFi,Yield,LimitRouter,0x000000000000c9b3e2c3ec88b1b4c0cd853f4321,DeFi::Yield
 Pendle,DeFi,Yield,MarketFactory,0xa3cb62a49b66eb2536cf6f3c7ac82293784888a3,DeFi::Yield
