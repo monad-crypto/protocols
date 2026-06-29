@@ -8,6 +8,7 @@
     "Governance::Other"
   ],
   "addresses": {
+    // -=-=-=-=-=-=-=-=-=- CROSS POOL: main cross-collateral lending market -=-=-=-=-=-=-=-=-=-
     // --- Core Lending System ---
     "ACLManager": "0x73A78AFa04b629e22db3BEC357bfc4a8B4f149DF",
     "Pool (Proxy)": "0x80F00661b13CC5F6ccd3885bE7b4C9c67545D585",
@@ -120,11 +121,47 @@
     "UiIncentiveDataProviderV3": "0x81242ADa455D766b5032EB4abf9baEaA49077450",
     "UiPoolDataProviderV3": "0x0733e79171dd5A5E8aF41E387c6299bCfE6a7e55",
     "WrappedTokenGatewayV3": "0x800409dBd7157813BB76501c30e04596Cc478f25",
+    // -=-=-=-=-=-=-=-=-=- ISOLATED POOL: Pendle AUSD market -=-=-=-=-=-=-=-=-=-
+    // --- Core Lending System ---
+    "Isolated Pendle-AUSD ACLManager": "0x589Fa97F64C1241B846AA44A6fee479f975b17a8",
+    "Isolated Pendle-AUSD Pool (Proxy)": "0x690AD251a0D9c8A47cf1bC5e4C0dBd3131eE09D3",
+    "Isolated Pendle-AUSD Pool (Impl.)": "0x6d55185DAdb8B5b39BDBcbBd6deDa64495006257",
+    "Isolated Pendle-AUSD PoolAddressesProvider": "0xb80397A931FcFdA3aC999a3a5639C328Dc72A58F",
+    "Isolated Pendle-AUSD PoolDataProvider": "0xeEb78818C026A3c1b82804627d101e27Ce5E60CB",
+    // --- Configuration Contracts ---
+    "Isolated Pendle-AUSD PoolConfigurator (Proxy)": "0x281aC1f6Cbb640c24E5582f70FDA192Db397D191",
+    "Isolated Pendle-AUSD PoolConfigurator (Impl.)": "0xb8805363FA4858870Ea26584fE90221c1738b837",
+    "Isolated Pendle-AUSD ReservesSetupHelper": "0xAF1B0C0eD94eCD6e7998a8F0f36d414d9C0113EC",
+    // --- Interest Rate Strategies (In use) ---
+    "Isolated Pendle-AUSD RateStrategyPendleAUSD": "0xb60CBB281b753Cbf03bA77d8d8D023552EC07b66",
+    // --- Oracle Adapters & Aggregators ---
+    "Isolated Pendle-AUSD AaveOracle": "0x995E806f9f1434111a785C22a021D38456bB2798",
+    // PendlePtDiscountOracleAdapter for AUSD PT maturing 8 Oct 2026 (unix 1791417600)
+    "Isolated PendlePtDiscountOracleAdapter-AUSD-8OCT2026": "0x1Df73A14709FeEAc83386fd1b8099dEc4B00f789",
+    // --- Base Tokens ---
+    "Isolated Pendle-AUSD AToken": "0x81E1dd74ecB5Dd0E5E76918F9E1D7c120d08436A",
+    "Isolated Pendle-AUSD DelegationAwareAToken": "0x49f049DE66A8f7b2eF4FfC0A983d4Cf59255c8Ca",
+    "Isolated Pendle-AUSD StableDebtToken": "0x4dEb5CD7a845c3f185825CfD2e120d8f285C583e",
+    "Isolated Pendle-AUSD VariableDebtToken": "0x9d773b897d49378aB66a68d90d816980ad85400d",
+    // --- Reserves Wrappers ---
+    // AUSD
+    "Isolated Pendle-AUSD AUSD_AToken": "0xF58E7aDC6F4eC524C09B7b6f058d3aB48D7CD65e",
+    "Isolated Pendle-AUSD AUSD_StableDebtToken": "0x09cB300609F4BE1e7dEaa621Cc05613224CEC60E",
+    "Isolated Pendle-AUSD AUSD_VariableDebtToken": "0x9da2d91D0CcF2daaf16B8Bd2778593Af1C369657",
+    // AUSD 8 OCT 2026
+    "Isolated Pendle-AUSD AUSD_8OCT2026_AToken": "0xf5A4D774aFFD6f22B6fE76ce20BB9312F23C8784",
+    "Isolated Pendle-AUSD AUSD_8OCT2026_StableDebtToken": "0x72915B85d19c5189dED8A9C222b46A12f80Af86A",
+    "Isolated Pendle-AUSD AUSD_8OCT2026_VariableDebtToken": "0xED36e732EacfdCf1Cd0d17B99eCFd4A506b44264",
+    // --- Lending Utilities ---
+    "Isolated Pendle-AUSD UiPoolDataProviderV3": "0x632BE15BB64792fe708B7cFc5AfA81Ccae058434",
+    "Isolated Pendle-AUSD WalletBalanceProvider": "0x908F78c2ac49b07B99A80DA0999291d1aaba3714",
+    // ================= SHARED PROTOCOL CONTRACTS =================
     // --- Tokenomics ---
     "Dust (Proxy)": "0xAD96C3dffCD6374294e2573A7fBBA96097CC8d7c",
     "Dust (Impl.)": "0xF59df2e38e23406c80ac778CCAA4319BAbe0D0d3",
     "DustLock (Proxy)": "0xBB4738D05AD1b3Da57a4881baE62Ce9bb1eEeD6C",
-    "DustLock (Impl.)": "0x141a37d01547929C9F0AdD70123D69CACdfeaf90",
+    "DustLock (Impl.)": "0x1bEF87340a8068D4E91bC19B2e5ddfb66466e2D7",
+    "DustLockLegendaryLedger": "0x367973382fa8Fc9508B5C8f4B0F9EEd462aF3185",
     "BalanceLogicLibrary": "0xDb4C5406E178004FFe14D91eC7d536fF25396E98",
     // --- Incentives ---
     "DustRewardsController (Proxy)": "0x57ea245cCbFAb074baBb9d01d1F0c60525E52cec",
@@ -132,7 +169,7 @@
     "DustLockTransferStrategy": "0x958192C6208b3289951342eDDE1a051dE4E955bb",
     // --- Revenue Distribution ---
     "RevenueReward (Proxy)": "0xff20ac10eb808B1e31F5CfCa58D80eDE2Ba71c43",
-    "RevenueReward (Impl.)": "0x1df0F25344D29F541a53502a96DfeD3066D40b0A",
+    "RevenueReward (Impl.)": "0x6459AaB1C6Ca2EBA6c4d0CeFb00e469E48430b79",
     // --- Self-Repayment System ---
     "UserVaultRegistry": "0x794CCdb375Ab08C340528a71Ba433a9016c657A5",
     "UserVault (Beacon)": "0xc9Fe3Db9b14A538FaB2eeBa33a8FeaB6ED7DdCeb",
@@ -150,6 +187,9 @@
     "NFTPartnershipRegistry (Impl.)": "0x73921d9CD1397B8a81091d24227Ed587ef652dd0",
     "VotingPowerMultiplier (Proxy)": "0x9b203C61d03e64550BFbC17EF56438D1a67D80b7",
     "VotingPowerMultiplier (Impl.)": "0xaDDd72d36553B43E376a81e6a62dBA131b516dAb",
+    // --- Profile Items ---
+    "NeverlandProfileItemsSeller (Proxy)": "0xcEE8d6d42a37a9d721B41CeFa16DaB7F0d0a14EB",
+    "NeverlandProfileItemsSeller (Impl.)": "0x81882ce65044073F005cb6d3180A36fe1ef898F9",
     // --- Timelocks ---
     "GovernanceTimelock (24H)": "0x3e4749D9Df7EC5ecd9184c301592bAc058a6F82f",
     "RiskTimelock (1H)": "0x7fa9e0E4dA21d5e92c70815B1B25F39726fD963b",
@@ -159,7 +199,8 @@
     "ProxyAdmin (Leaderboard)": "0x400916532d9298acfFD49B826258738115CF23f1",
     // --- Utilities ---
     "NeverlandDustHelper": "0x4b80e62364Ee452e8C9d3ea342E445f515A2CD9b",
-    "NeverlandUiProvider": "0x1Aa6CECB9E2e62aBAfcc82Cf2F2f4b8793ABbC4c"
+    "NeverlandUiProvider": "0x13B0de0a5ff282143B8777F0426F1C549D1BfFa3",
+    "NeverlandUiEmissionLibrary": "0x8320dDcd559E5e9CA7438F11Ae8578ef99594819"
   },
   "links": {
     "project": "https://neverland.money",
