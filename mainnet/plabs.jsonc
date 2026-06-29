@@ -1,14 +1,14 @@
   "name": "PLabs",
-  "description": "Onchian Privacy Hub.",
+  "description": "PLabs is a R&D Labs which focus on build privacy infrastructure on EVM, such as Monad",
   "live": true,
-  "categories": [
-    "Privacy infrastructure"
-  ],
+  "categories": ["Infra::Privacy"],
   "addresses": {
+    "PERC20": "0xB2c7f3D290be8f00689dbd51519e6a85b4f5d7C7",
+    "Groth16_verifier": "0xC4c21ED7a75D53c0f25Fd8551EA3fCD225425a26",
   },
   "links": {
     "project": "https://app.plabs.online/",
     "twitter": "https://x.com/_PLabs",
     "github": "https://github.com/PLabs4",
-    "docs": "https://plabs.gitbook.io/plabs-docs"
-  }
+    "docs": "https://plabs.gitbook.io/plabs-docs",
+  },
