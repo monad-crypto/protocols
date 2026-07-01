@@ -1,0 +1,119 @@
+# This workflow regenerates the protocol aggregates (protocols-*.csv/json),
+# commits them back to the branch, and then publishes the data as an npm package.
+#
+# Publishing uses npm Trusted Publishing (OIDC), renaming this workflow file
+# breaks the trust relationship.
+
+name: generate and publish
+
+on:
+  push:
+    branches: [ main, master ]
+
+# Serialize runs so two pushes can't race on the registry
+concurrency:
+  group: generate-and-publish
+  cancel-in-progress: false
+
+jobs:
+  generate-and-publish:
+    runs-on: ubuntu-latest
+
+    # Pushes made with the default GITHUB_TOKEN (like our auto-commit below)
+    # don't re-trigger workflows
+    if: github.event.head_commit.message != 'Update protocols CSV and JSON files'
+
+    permissions:
+      # Give the default GITHUB_TOKEN write permission to commit and push the
+      # added or changed files to the repository.
+      contents: write
+      # Required for npm provenance: lets the job mint a short-lived OIDC token
+      # that Sigstore uses to sign the release.
+      id-token: write
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v6
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.14'
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v8.1.0
+        with:
+          enable-cache: true
+
+      - name: Install dependencies
+        run: uv sync
+
+      - name: Run script (testnet)
+        run: |
+          source .venv/bin/activate
+          python scripts/ProtocolsTable.py --network testnet
+
+      - name: Run script (mainnet)
+        run: |
+          source .venv/bin/activate
+          python scripts/ProtocolsTable.py --network mainnet
+
+      # Commit all changed files back to the repository. The commit sits on
+      # top of the SHA that triggered this run
+      - uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: "Update protocols CSV and JSON files"
+          file_pattern: "protocols-*.csv protocols-*.json"
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: 24
+          registry-url: 'https://registry.npmjs.org'
+
+      - name: Set version from run number
+        run: |
+          # Keep major.minor from package.json, use the run number as the patch
+          # so every push to main produces a unique, monotonic release.
+          BASE=$(node -p "require('./package.json').version.split('.').slice(0, 2).join('.')")
+          VERSION="${BASE}.${GITHUB_RUN_NUMBER}"
+          echo "Publishing version ${VERSION}"
+          npm version "${VERSION}" --no-git-tag-version --allow-same-version
+
+      - name: Build npm package
+        run: npm run build
+
+      - name: Verify bundled files and casing
+        working-directory: dist
+        run: |
+          npm pack --dry-run --json > pack.json
+          node -e '
+            const fs = require("fs"), path = require("path");
+            const packed = new Set(JSON.parse(fs.readFileSync("pack.json", "utf8"))[0].files.map(f => f.path));
+            const walk = d => fs.readdirSync(d, { withFileTypes: true })
+              .flatMap(e => e.isDirectory() ? walk(path.join(d, e.name)) : [path.join(d, e.name)]);
+            const expected = [
+              "mainnet.json", "testnet.json", "mainnet.csv", "testnet.csv", "categories.json",
+              ...walk("mainnet"), ...walk("testnet"),
+            ].filter(p => /\.(json|jsonc|csv)$/.test(p));
+            const missing = expected.filter(p => !packed.has(p));
+            if (missing.length) {
+              console.error("Files missing from the package (often a casing mismatch):\n  " + missing.join("\n  "));
+              process.exit(1);
+            }
+            // Guard against case-only collisions that break case-insensitive filesystems.
+            const seen = new Map();
+            for (const p of packed) {
+              const key = p.toLowerCase();
+              if (seen.has(key) && seen.get(key) !== p) {
+                console.error(`Case collision: "${seen.get(key)}" vs "${p}"`);
+                process.exit(1);
+              }
+              seen.set(key, p);
+            }
+            console.log(`Verified ${expected.length} data files bundled.`);
+          '
+
+      - name: Publish to npm
+        working-directory: dist
+        run: npm publish
