@@ -1,0 +1,18 @@
+{
+  "name": "Ample",
+  "description": "Ample is a prize-linked savings product where your deposit stays yours while generated yield funds weekly payouts.",
+  "categories": [
+    "DeFi::Yield"
+  ],
+  "addresses": {
+    "AmpleEarnFactory": "0x9881464ade08eaea838d1ba06073a0c8f972b185",
+    "AmplePerspective": "0x4b8057e5cdFAf53222580DFAc54f327fE11C2078",
+    "AmpleEarnCrossChainRouter": "0xc9086278b317d6316151945d720ce7b602fbe463",
+    "AmpleEarn": "0xE89d322b5822D828B8252D3087be8486cC2048Ef"
+  },
+  "links": {
+    "project": "https://ample.money",
+    "twitter": "https://x.com/AmpleHQ",
+    "docs": "https://ample.money/docs"
+  }
+}
