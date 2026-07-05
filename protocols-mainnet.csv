@@ -1178,6 +1178,10 @@ Mona Trading Bot,DeFi,Trading Interfaces,MonaV3Router02,0x50adc49f643f06888a8950
 Mona Trading Bot,DeFi,Trading Interfaces,MonaV3Router03,0x09ec7d8d3065097d5859539ed4590dd76c0c77e0,DeFi::Trading Interfaces
 Syrax,DeFi,Trading Interfaces,Router,0x449134df9148d9a5cf12bc17f12dff602bd153a4,DeFi::Trading Interfaces
 Syrax,DeFi,Trading Interfaces,V4 Transfer Wrapper,0x660dd0b44c1f8ea5447a9204d13502ff9b736ec3,DeFi::Trading Interfaces
+Ample,DeFi,Yield,AmpleEarn,0xe89d322b5822d828b8252d3087be8486cc2048ef,DeFi::Yield
+Ample,DeFi,Yield,AmpleEarnCrossChainRouter,0xc9086278b317d6316151945d720ce7b602fbe463,DeFi::Yield
+Ample,DeFi,Yield,AmpleEarnFactory,0x9881464ade08eaea838d1ba06073a0c8f972b185,DeFi::Yield
+Ample,DeFi,Yield,AmplePerspective,0x4b8057e5cdfaf53222580dfac54f327fe11c2078,DeFi::Yield
 Enjoyoors,DeFi,Yield,Vault,0x6b5e332387e8bec98c52f10a72952b17176b4f1b,DeFi::Yield
 Enjoyoors,DeFi,Yield,WithdrawalApprover,0x71f60773885011cc0a61613078733b4738b38f35,DeFi::Yield
 Lagoon,DeFi,Yield,ProtocolRegistry,0xbf994c358f939011595ab4216ac005147863f9d6,DeFi::Yield;DeFi::Asset Allocators
