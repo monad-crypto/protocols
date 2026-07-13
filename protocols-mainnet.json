@@ -238,6 +238,25 @@
       "docs": "https://docs.aethonswap.com/"
     }
   },
+  "agora": {
+    "name": "Agora",
+    "description": "Agora issues AUSD, a fully-reserved digital dollar stablecoin backed by cash and cash-equivalent reserves, deployed across chains through LayerZero's OFT interoperability standard.",
+    "live": true,
+    "categories": [
+      "DeFi::Stablecoin",
+      "DeFi::Asset Issuers"
+    ],
+    "addresses": {
+      "AUSD": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
+      "AUSDBridge": "0x9CaB7Ede13dc56652E44D2404E969C212f22689b"
+    },
+    "links": {
+      "project": "https://www.agora.finance",
+      "twitter": "https://x.com/withAUSD",
+      "github": "https://github.com/agora-finance",
+      "docs": "https://docs.agora.finance"
+    }
+  },
   "alldomains": {
     "name": "AllDomains",
     "description": "All Domains: the web3 identity asset layer to create and trade web3 domains | Customizable for .everyone https://linktr.ee/AllDomains",

@@ -1143,6 +1143,8 @@ Mu Protocol,DeFi,RWA,TreasuryManager (Proxy),0xf3cdc00cca19f336b1c1b4bd684a94912
 Mu Protocol,DeFi,RWA,loAZND (Implementation),0x00a927d9d8af27d06c4e2c3abb5b88b0e1766470,DeFi::RWA;DeFi::Yield
 Mu Protocol,DeFi,RWA,loAZND (Proxy),0x9c82eb49b51f7dc61e22ff347931ca32adc6cd90,DeFi::RWA;DeFi::Yield
 Mu Protocol,DeFi,RWA,muBOND,0x336d414754967c6682b5a665c7daf6f1409e63e8,DeFi::RWA;DeFi::Yield
+Agora,DeFi,Stablecoin,AUSD,0x00000000efe302beaa2b3e6e1b18d08d69a9012a,DeFi::Stablecoin;DeFi::Asset Issuers
+Agora,DeFi,Stablecoin,AUSDBridge,0x9cab7ede13dc56652e44d2404e969c212f22689b,DeFi::Stablecoin;DeFi::Asset Issuers
 Mento,DeFi,Stablecoin,BreakerBox,0x9fc1e0d10fb38954da385b8b25ab2bbaf3241722,DeFi::Stablecoin;DeFi::Stableswap;DeFi::DEX
 Mento,DeFi,Stablecoin,ChainlinkRelayerFactory,0x71c2333928af2db247d9c0aa380df1ccca53899a,DeFi::Stablecoin;DeFi::Stableswap;DeFi::DEX
 Mento,DeFi,Stablecoin,FPMMFactory,0xa849b475fe5a4b5c9c3280152c7a1945b907613b,DeFi::Stablecoin;DeFi::Stableswap;DeFi::DEX
