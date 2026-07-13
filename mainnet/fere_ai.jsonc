@@ -1,0 +1,17 @@
+{
+    "name": "Fere AI",
+    "description": "Fere AI is a wallet-native AI trading agent that researches, reasons, and executes crypto trades from natural-language instructions across major chains, usable in chat (ChatGPT, Claude), via MCP, or the web app.",
+    "categories": [
+        "AI::Trading Agent",
+        "AI::Investing"
+    ],
+    // Fere AI is a wallet-native agent (wallets powered by Coinbase CDP Server Wallets) and
+    // does not deploy its own contracts - it interacts with existing on-chain contracts.
+    "addresses": {},
+    "links": {
+        "project": "https://www.fereai.xyz/",
+        "twitter": "https://x.com/fere_ai",
+        "github": "https://github.com/fere-ai",
+        "docs": "https://docs.fereai.xyz/"
+    }
+}
