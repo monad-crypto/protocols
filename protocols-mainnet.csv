@@ -510,7 +510,6 @@ Aave V3,DeFi,Lending,ACL_ADMIN,0xa9d0eaff48ce1df468f9eaeb7e628c413343f6a2,DeFi::
 Aave V3,DeFi,Lending,ACL_MANAGER,0xa9fee192a76b8f5e5f3d310ab6c526cb11f3d95b,DeFi::Lending;DeFi::Stablecoin
 Aave V3,DeFi,Lending,ASSETS AUSD A_TOKEN,0xdebfedf35faed5d1664e553545e144c02227a2ec,DeFi::Lending;DeFi::Stablecoin
 Aave V3,DeFi,Lending,ASSETS AUSD ORACLE,0x6b7c151653c35845a5826b15435fc055a9db1d0c,DeFi::Lending;DeFi::Stablecoin
-Aave V3,DeFi,Lending,ASSETS AUSD UNDERLYING,0x00000000efe302beaa2b3e6e1b18d08d69a9012a,DeFi::Lending;DeFi::Stablecoin
 Aave V3,DeFi,Lending,ASSETS AUSD V_TOKEN,0x8f4c10b392ef10c811e4d4bafc74bfc1a2671c75,DeFi::Lending;DeFi::Stablecoin
 Aave V3,DeFi,Lending,ASSETS GHO A_TOKEN,0x4586face17b0e3d4d51ecabb4b4ebc2354b61b0d,DeFi::Lending;DeFi::Stablecoin
 Aave V3,DeFi,Lending,ASSETS GHO ORACLE,0x26cbccd96502d2efdb612737bd6aece19f65109c,DeFi::Lending;DeFi::Stablecoin
@@ -518,43 +517,33 @@ Aave V3,DeFi,Lending,ASSETS GHO V_TOKEN,0x1dd98ede37480c2e0827a107c68f442aa516e7
 Aave V3,DeFi,Lending,ASSETS INTEREST_RATE_STRATEGY,0x1f6f08bc1da8b311bf6d87b829ad2ffaa8fb8211,DeFi::Lending;DeFi::Stablecoin
 Aave V3,DeFi,Lending,ASSETS USDC A_TOKEN,0x35a73bacb179d3740395a3cecc87ff2e581d6042,DeFi::Lending;DeFi::Stablecoin
 Aave V3,DeFi,Lending,ASSETS USDC ORACLE,0x787962943811d279d01ec973bd3a15f1b3e1f0d9,DeFi::Lending;DeFi::Stablecoin
-Aave V3,DeFi,Lending,ASSETS USDC UNDERLYING,0x754704bc059f8c67012fed69bc8a327a5aafb603,DeFi::Lending;DeFi::Stablecoin
 Aave V3,DeFi,Lending,ASSETS USDC V_TOKEN,0x9f555ab84c4e0a531b50283f09dba7a97134c4e4,DeFi::Lending;DeFi::Stablecoin
 Aave V3,DeFi,Lending,ASSETS USDT0 A_TOKEN,0x9531e6bc99d7f7f0596ed7ba5b846ba9eb60468c,DeFi::Lending;DeFi::Stablecoin
 Aave V3,DeFi,Lending,ASSETS USDT0 ORACLE,0x3c187a25f0f05e009da794069682653e40062730,DeFi::Lending;DeFi::Stablecoin
-Aave V3,DeFi,Lending,ASSETS USDT0 UNDERLYING,0xe7cd86e13ac4309349f30b3435a9d337750fc82d,DeFi::Lending;DeFi::Stablecoin
 Aave V3,DeFi,Lending,ASSETS USDT0 V_TOKEN,0x85812c8eeeb8723e3c60d0dc78e697b4e7e5a35d,DeFi::Lending;DeFi::Stablecoin
 Aave V3,DeFi,Lending,ASSETS USDe A_TOKEN,0x37cabe3edd86165886877cc8b6be10269f21893d,DeFi::Lending;DeFi::Stablecoin
 Aave V3,DeFi,Lending,ASSETS USDe ORACLE,0x3aba25b23378a84fd7638e20f9af86a66000f090,DeFi::Lending;DeFi::Stablecoin
-Aave V3,DeFi,Lending,ASSETS USDe UNDERLYING,0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34,DeFi::Lending;DeFi::Stablecoin
 Aave V3,DeFi,Lending,ASSETS USDe V_TOKEN,0x3be6c069b81423bccf758eb95004e0324af2cdd8,DeFi::Lending;DeFi::Stablecoin
 Aave V3,DeFi,Lending,ASSETS WETH A_TOKEN,0x4377b53aaa8b8e3ff7aa2843832caf004f5cb8b6,DeFi::Lending;DeFi::Stablecoin
 Aave V3,DeFi,Lending,ASSETS WETH ORACLE,0x47f1d18329ae59341617b7a5be59605b63f0e373,DeFi::Lending;DeFi::Stablecoin
-Aave V3,DeFi,Lending,ASSETS WETH UNDERLYING,0xee8c0e9f1bffb4eb878d8f15f368a02a35481242,DeFi::Lending;DeFi::Stablecoin
 Aave V3,DeFi,Lending,ASSETS WETH V_TOKEN,0xd1f352c326731027f0d9a7f62a4742ebdf1efc8c,DeFi::Lending;DeFi::Stablecoin
 Aave V3,DeFi,Lending,ASSETS cbBTC A_TOKEN,0x1f5e388861a32226c716e922ce748a6fee5e8e57,DeFi::Lending;DeFi::Stablecoin
 Aave V3,DeFi,Lending,ASSETS cbBTC ORACLE,0x48692d15da2636e1b0335344104ce9d92f231dda,DeFi::Lending;DeFi::Stablecoin
-Aave V3,DeFi,Lending,ASSETS cbBTC UNDERLYING,0xd18b7ec58cdf4876f6afebd3ed1730e4ce10414b,DeFi::Lending;DeFi::Stablecoin
 Aave V3,DeFi,Lending,ASSETS cbBTC V_TOKEN,0x551a5fc4a05effc8f9a026f4dc28634d4693af1f,DeFi::Lending;DeFi::Stablecoin
 Aave V3,DeFi,Lending,ASSETS mUSD A_TOKEN,0xdbb2e1b6bc94328df2662a1796ab6a23fcde3199,DeFi::Lending;DeFi::Stablecoin
 Aave V3,DeFi,Lending,ASSETS mUSD ORACLE,0xbbb58aa3a251c9f19653771c44481c39500b71a3,DeFi::Lending;DeFi::Stablecoin
-Aave V3,DeFi,Lending,ASSETS mUSD UNDERLYING,0xaca92e438df0b2401ff60da7e4337b687a2435da,DeFi::Lending;DeFi::Stablecoin
 Aave V3,DeFi,Lending,ASSETS mUSD V_TOKEN,0x9837392b2b5b2ce7c39a357e0eb6e07d9ffb76cd,DeFi::Lending;DeFi::Stablecoin
 Aave V3,DeFi,Lending,ASSETS sUSDe A_TOKEN,0xcd11405d4a15a825b46254c42f5b5cd8c2edae09,DeFi::Lending;DeFi::Stablecoin
 Aave V3,DeFi,Lending,ASSETS sUSDe ORACLE,0x99946fe1a49d8650a31efe0fcfee0508892742f0,DeFi::Lending;DeFi::Stablecoin
-Aave V3,DeFi,Lending,ASSETS sUSDe UNDERLYING,0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2,DeFi::Lending;DeFi::Stablecoin
 Aave V3,DeFi,Lending,ASSETS sUSDe V_TOKEN,0x4cc35bfad4713705295fd71dae11cd57cc366ca8,DeFi::Lending;DeFi::Stablecoin
 Aave V3,DeFi,Lending,ASSETS syrupUSDC A_TOKEN,0xbc2a1fa0069e59e2552ab40889520c7b0d413d9b,DeFi::Lending;DeFi::Stablecoin
 Aave V3,DeFi,Lending,ASSETS syrupUSDC ORACLE,0xb1f36c815761a3f77ce26c013f646cdcdcd06384,DeFi::Lending;DeFi::Stablecoin
-Aave V3,DeFi,Lending,ASSETS syrupUSDC UNDERLYING,0xab6e5a0c3799d020c790d34f7b2c02639e238af7,DeFi::Lending;DeFi::Stablecoin
 Aave V3,DeFi,Lending,ASSETS syrupUSDC V_TOKEN,0xe84f9b29568747cb58b2969071e38093a384e26f,DeFi::Lending;DeFi::Stablecoin
 Aave V3,DeFi,Lending,ASSETS weETH A_TOKEN,0x4fae5e2d191e012f503de53023b0710f554fcff0,DeFi::Lending;DeFi::Stablecoin
 Aave V3,DeFi,Lending,ASSETS weETH ORACLE,0x53e2d62cd8c36104dec69ba0cb3bb599d6d42fe1,DeFi::Lending;DeFi::Stablecoin
-Aave V3,DeFi,Lending,ASSETS weETH UNDERLYING,0xa3d68b74bf0528fdd07263c60d6488749044914b,DeFi::Lending;DeFi::Stablecoin
 Aave V3,DeFi,Lending,ASSETS weETH V_TOKEN,0x78540ed62e3f6081c906f7841a7e1a6201cb898e,DeFi::Lending;DeFi::Stablecoin
 Aave V3,DeFi,Lending,ASSETS wstETH A_TOKEN,0xc31e3a273a93d238ce49b053f801e8f385375df7,DeFi::Lending;DeFi::Stablecoin
 Aave V3,DeFi,Lending,ASSETS wstETH ORACLE,0x7c1dbd7879c421ebd1a2de397ea6bedb5d3795a5,DeFi::Lending;DeFi::Stablecoin
-Aave V3,DeFi,Lending,ASSETS wstETH UNDERLYING,0x10aeaf63194db8d453d4d85a06e5efe1dd0b5417,DeFi::Lending;DeFi::Stablecoin
 Aave V3,DeFi,Lending,ASSETS wstETH V_TOKEN,0xc4b1064b7377ef541d59b7e21c0b3f812c50d4ec,DeFi::Lending;DeFi::Stablecoin
 Aave V3,DeFi,Lending,COLLECTOR,0x22a14267f9f8ba21d11898f0772e652b09e6a8a1,DeFi::Lending;DeFi::Stablecoin
 Aave V3,DeFi,Lending,CONFIG_ENGINE,0x25ca98ab620af65e8a9fb0f30989b9fffb8e3163,DeFi::Lending;DeFi::Stablecoin
