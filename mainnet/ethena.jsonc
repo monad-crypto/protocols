@@ -1,0 +1,26 @@
+{
+    "name": "Ethena",
+    "description": "Synthetic dollar protocol issuing USDe, a delta-neutral synthetic dollar backed by crypto collateral and hedged derivatives positions, and sUSDe, its yield-bearing savings asset.",
+    "live": true,
+    "categories": [
+        "DeFi::Synthetics",
+        "DeFi::Stablecoin",
+        "DeFi::Yield"
+    ],
+    "addresses": {
+        // Ethena's Monad tokens are canonical LayerZero OFT deployments (source-verified on-chain).
+        // Ethena's docs do not yet list a Monad section; addresses confirmed via Monad block data.
+        "ENA": "0x58538e6A46E07434d7E7375Bc268D3cb839C0133"
+
+        // USDe (0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34) and
+        // sUSDe (0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2) are both live on Monad but are
+        // already registered in mainnet/aave_v3.json (as Aave collateral underlyings), so they
+        // are intentionally omitted here to satisfy the repo's unique-address validation.
+    },
+    "links": {
+        "project": "https://ethena.fi/",
+        "twitter": "https://x.com/ethena",
+        "github": "https://github.com/ethena-labs",
+        "docs": "https://docs.ethena.fi/"
+    }
+}
