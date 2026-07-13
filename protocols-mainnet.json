@@ -530,6 +530,38 @@
       "docs": "https://docs.bean.exchange"
     }
   },
+  "beefy": {
+    "name": "Beefy",
+    "description": "Beefy is a decentralized, multichain yield optimizer. Its automated vaults auto-compound rewards from liquidity pools, AMMs, and other DeFi protocols, and its Cowcentrated Liquidity Manager (CLM) actively manages concentrated liquidity positions to maximize yield for depositors.",
+    "live": true,
+    "categories": [
+      "DeFi::Yield Aggregator",
+      "DeFi::Yield"
+    ],
+    "addresses": {
+      "VaultFactory": "0x9818dF1Bdce8D0E79B982e2C3a93ac821b3c17e0",
+      "StrategyFactory": "0xE6e5732245b3e886DD8897a93D21D29bb652d683",
+      "BeefyWrapperFactory": "0x3D498F3A444cE89086d37A5f803058E6E8b45FAD",
+      "CLMFactory": "0x03C2E2e84031d913d45B1F5b5dDC8E50Fcb28652",
+      "CLMStrategyFactory": "0xc26314091EB7a9c75E5536f7f54A8F63e829547D",
+      "CLMRewardPoolFactory": "0xaF0f1B33Ef5A61b88F84BA2Ed2388f2C69fEaB55",
+      "ZapRouter": "0x542Bf9f89c3Ba0edb7aE5EB4Cf582d349fCdC608",
+      "ZapTokenManager": "0xDBCE7119b8F1fCF8e5145087AB314A82Cb931e52",
+      "BeefySwapper": "0xBC4a342B0c057501E081484A2d24e576E854F823",
+      "BeefyOracle": "0x448a3539a591dE3Fb9D5AAE407471D21d40cD315",
+      "BeefyFeeConfig": "0x2b0C9702A4724f2BFe7922DB92c4082098533c62",
+      "BeefyFeeRecipient": "0x02Ae4716B9D5d48Db1445814b0eDE39f5c28264B",
+      "TreasuryMultisig": "0xA55e75C4815Ff39eFD76C257857441d9FD99b45b",
+      "DevMultisig": "0x000000a151650b85742d8c286E09ABa7bE9BDB82",
+      "Multicall": "0x3B60F7f25b09E71356cdFFC6475c222A466a2AC9"
+    },
+    "links": {
+      "project": "https://beefy.com",
+      "twitter": "https://x.com/beefyfinance",
+      "github": "https://github.com/beefyfinance",
+      "docs": "https://docs.beefy.finance"
+    }
+  },
   "bonad": {
     "name": "bonad.fun",
     "description": "Create, trade, and build your vision",

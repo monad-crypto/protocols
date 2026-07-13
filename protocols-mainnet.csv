@@ -1212,6 +1212,21 @@ Accountable,DeFi,Yield Aggregator,FixedTermFactory,0x8a5caf00c3eb20aec11fc35c153
 Accountable,DeFi,Yield Aggregator,GlobalRegistry,0xf786154e56e5c88ce984800dea71b48ea4ffabfe,DeFi::Yield Aggregator
 Accountable,DeFi,Yield Aggregator,OpenTermFactory,0x606556a6b544ecdcbf15af73a63b67516dc16ad7,DeFi::Yield Aggregator
 Accountable,DeFi,Yield Aggregator,RewardsFactory,0x1106a70223e98e2b1807bf3e12698afe2c5693e6,DeFi::Yield Aggregator
+Beefy,DeFi,Yield Aggregator,BeefyFeeConfig,0x2b0c9702a4724f2bfe7922db92c4082098533c62,DeFi::Yield Aggregator;DeFi::Yield
+Beefy,DeFi,Yield Aggregator,BeefyFeeRecipient,0x02ae4716b9d5d48db1445814b0ede39f5c28264b,DeFi::Yield Aggregator;DeFi::Yield
+Beefy,DeFi,Yield Aggregator,BeefyOracle,0x448a3539a591de3fb9d5aae407471d21d40cd315,DeFi::Yield Aggregator;DeFi::Yield
+Beefy,DeFi,Yield Aggregator,BeefySwapper,0xbc4a342b0c057501e081484a2d24e576e854f823,DeFi::Yield Aggregator;DeFi::Yield
+Beefy,DeFi,Yield Aggregator,BeefyWrapperFactory,0x3d498f3a444ce89086d37a5f803058e6e8b45fad,DeFi::Yield Aggregator;DeFi::Yield
+Beefy,DeFi,Yield Aggregator,CLMFactory,0x03c2e2e84031d913d45b1f5b5ddc8e50fcb28652,DeFi::Yield Aggregator;DeFi::Yield
+Beefy,DeFi,Yield Aggregator,CLMRewardPoolFactory,0xaf0f1b33ef5a61b88f84ba2ed2388f2c69feab55,DeFi::Yield Aggregator;DeFi::Yield
+Beefy,DeFi,Yield Aggregator,CLMStrategyFactory,0xc26314091eb7a9c75e5536f7f54a8f63e829547d,DeFi::Yield Aggregator;DeFi::Yield
+Beefy,DeFi,Yield Aggregator,DevMultisig,0x000000a151650b85742d8c286e09aba7be9bdb82,DeFi::Yield Aggregator;DeFi::Yield
+Beefy,DeFi,Yield Aggregator,Multicall,0x3b60f7f25b09e71356cdffc6475c222a466a2ac9,DeFi::Yield Aggregator;DeFi::Yield
+Beefy,DeFi,Yield Aggregator,StrategyFactory,0xe6e5732245b3e886dd8897a93d21d29bb652d683,DeFi::Yield Aggregator;DeFi::Yield
+Beefy,DeFi,Yield Aggregator,TreasuryMultisig,0xa55e75c4815ff39efd76c257857441d9fd99b45b,DeFi::Yield Aggregator;DeFi::Yield
+Beefy,DeFi,Yield Aggregator,VaultFactory,0x9818df1bdce8d0e79b982e2c3a93ac821b3c17e0,DeFi::Yield Aggregator;DeFi::Yield
+Beefy,DeFi,Yield Aggregator,ZapRouter,0x542bf9f89c3ba0edb7ae5eb4cf582d349fcdc608,DeFi::Yield Aggregator;DeFi::Yield
+Beefy,DeFi,Yield Aggregator,ZapTokenManager,0xdbce7119b8f1fcf8e5145087ab314a82cb931e52,DeFi::Yield Aggregator;DeFi::Yield
 aarna protocol,DeFi,Yield Aggregator,BaseVault,0x4c09558a0d000240726679fc3805c3918922d6c6,DeFi::Yield Aggregator
 aarna protocol,DeFi,Yield Aggregator,GearBoxAdapter,0xae68912a8b1b74cb65df892f2c8f42074f9640ba,DeFi::Yield Aggregator
 earnAUSD,DeFi,Yield Aggregator,assetsWhitelist,0xcea701f0ff0a2e8a51a5c5c1d2b6b69bfa849989,DeFi::Yield Aggregator
