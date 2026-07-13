@@ -1,0 +1,18 @@
+{
+    "name": "Drake",
+    "description": "Drake is a fully on-chain perpetual exchange on Monad that pairs a hybrid on-chain central limit order book with backstop AMM liquidity. It offers cross and isolated margin through a universal-asset collateral engine, up to 50x leverage, collateral swaps, and automated yield vaults (liquidity and funding-rate strategies), aiming to serve as Monad's perp clearinghouse.",
+    "categories": [
+        "DeFi::Perpetuals / Derivatives"
+    ],
+    "addresses": {
+        // No contract addresses are published in Drake's docs yet. Per
+        // docs.drake.exchange, the audit report and deployment addresses
+        // will be posted prior to the Monad mainnet launch.
+    },
+    "links": {
+        "project": "https://drake.exchange/",
+        "twitter": "https://x.com/DrakeExchange",
+        "github": "https://github.com/drxprotocol",
+        "docs": "https://docs.drake.exchange/"
+    }
+}
