@@ -448,6 +448,11 @@ Monorail,DeFi,DEX Aggregator,AggregationRouter,0xa68a7f0601effdc65c64d9c47ca1b18
 OKX Wallet,DeFi,DEX Aggregator,DexRouter,0x6088d94c5a40cecd3ae2d4e0710ca687b91c61d0,DeFi::DEX Aggregator
 OKX Wallet,DeFi,DEX Aggregator,Router,0xb1e4e25b1938c78ec0b21ccb2d6a0be60aa7e63f,DeFi::DEX Aggregator
 Rubic,DeFi,DEX Aggregator,ERC20Proxy,0x3335733c454805df6a77f825f266e136fb4a3333,DeFi::DEX Aggregator
+SushiSwap,DeFi,DEX Aggregator,OperationsMultisig,0xc4c2fc252f51b3fad6120963acf0d560526abb00,DeFi::DEX Aggregator;DeFi::DEX
+SushiSwap,DeFi,DEX Aggregator,ProtocolFeeCollector,0xdbeca8fb948c42634256609bce5a3768c9b3e9eb,DeFi::DEX Aggregator;DeFi::DEX
+SushiSwap,DeFi,DEX Aggregator,RedSnwapper,0xac4c6e212a361c968f1725b4d055b47e63f80b75,DeFi::DEX Aggregator;DeFi::DEX
+SushiSwap,DeFi,DEX Aggregator,SurplusFeeCollector,0x5c2e112783a6854653b4bc7dc22248d3e592559c,DeFi::DEX Aggregator;DeFi::DEX
+SushiSwap,DeFi,DEX Aggregator,UIFeeCollector,0xde7259893af7cdbc9fd806c6ba61d22d581d5667,DeFi::DEX Aggregator;DeFi::DEX
 Velvet Capital,DeFi,DEX Aggregator,MetaAggregatorManager,0x995efd92cc2f70a2091ba9aae04cbb5fb24b7dd1,DeFi::DEX Aggregator
 Velvet Capital,DeFi,DEX Aggregator,MetaAggregatorSwapContract,0x6ddf98aece7d24fe37c70abc3f0f95acec66f32f,DeFi::DEX Aggregator
 Near Intents,DeFi,Intents,Treasury Address,0x233c5370ccfb3cd7409d9a3fb98ab94de94cb4cd,DeFi::Intents

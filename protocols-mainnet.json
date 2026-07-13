@@ -4310,6 +4310,28 @@
       "docs": "https://docs.supra.com/oracles"
     }
   },
+  "sushiswap": {
+    "name": "SushiSwap",
+    "description": "Multichain DeFi exchange for token swaps across 40+ chains. On Monad, Sushi runs in aggregator mode (its own V2/V3 AMM is not deployed here), routing swaps across the chain's DEX liquidity via its RouteProcessor/RedSnwapper router.",
+    "live": true,
+    "categories": [
+      "DeFi::DEX Aggregator",
+      "DeFi::DEX"
+    ],
+    "addresses": {
+      "RedSnwapper": "0xac4c6e212a361c968f1725b4d055b47e63f80b75",
+      "UIFeeCollector": "0xde7259893af7cdbc9fd806c6ba61d22d581d5667",
+      "SurplusFeeCollector": "0x5c2e112783a6854653b4bc7dc22248d3e592559c",
+      "ProtocolFeeCollector": "0xdbeca8fb948c42634256609bce5a3768c9b3e9eb",
+      "OperationsMultisig": "0xc4c2fc252f51b3fad6120963acf0d560526abb00"
+    },
+    "links": {
+      "project": "https://www.sushi.com/monad/swap",
+      "twitter": "https://x.com/SushiSwap",
+      "github": "https://github.com/sushi-labs",
+      "docs": "https://docs.sushi.com/"
+    }
+  },
   "swaap": {
     "name": "Swaap",
     "description": "Swaap is the most efficient onchain liquidity source",
