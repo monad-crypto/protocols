@@ -1,0 +1,36 @@
+{
+    "name": "Hanji",
+    "description": "Hanji is a fully on-chain central limit order book (CLOB) DEX on Monad, offering fast spot trading with tight spreads and zero maker fees, alongside a smart order-routing aggregator across its markets.",
+    "live": true,
+    "categories": [
+        "DeFi::DEX"
+    ],
+    "addresses": {
+        // Aggregator markets: the per-pair router/wrapper contracts Hanji publishes
+        // in its docs (https://docs.hanji.io/for-developers/deployed-contracts).
+        // Integrators/aggregators route through these; each wraps the underlying
+        // orderbook core of the same pair listed below.
+        "MON/USDC Market": "0x1aed222dda944a87703c918745b11be13f8eef10",
+        "MON/WETH Market": "0xc4adcb94d0dce7fc84e180fae3621df13ad37e06",
+        "cbBTC/USDC Market": "0xc11805e92ca6a36ce9507902ab6bb5cd11e438bf",
+        "cbBTC/MON Market": "0x012e06b56eee881603e47748931dc38efabf54ef",
+        "cbBTC/WETH Market": "0x05e028d33fa727168bc9396bdac5cab387c8a196",
+        "WETH/USDC Market": "0x0acba24cecd750badb3179fb9ee3f2cd27431778",
+        // Orderbook (LOB) cores: the underlying per-pair order book contracts
+        // (shared implementation 0xCfDe4D548208f995413B087e5874dC048383e50f).
+        "MON/USDC Orderbook": "0xc35b1ca1a2c398a21df5783b3a5ea6a2d56f298f",
+        "MON/WETH Orderbook": "0xbe717aedc2cdc0a4d3903b7a6a70691942e72793",
+        "cbBTC/USDC Orderbook": "0xbc87c6e5a9788404c143d42474508956267b253d",
+        "cbBTC/MON Orderbook": "0x77ed4fcb978fa0ce78799064cb38d12fe7c3ce7d",
+        "cbBTC/WETH Orderbook": "0x8a89f08d3b5ab37f634f2b4dcf2db29ecf9938c7",
+        "WETH/USDC Orderbook": "0xac652e05ac4b2e9ecae5c65595e4e4e2734f61cc",
+        // Helper / quoter
+        "FastQuoterHelper": "0x237dB58fea34A35A8543b44C217d221606cE7788"
+    },
+    "links": {
+        "project": "https://hanji.io",
+        "app": "https://app.hanji.io",
+        "twitter": "https://x.com/HanjiProtocol",
+        "docs": "https://docs.hanji.io"
+    }
+}
