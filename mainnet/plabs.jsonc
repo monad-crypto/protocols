@@ -1,14 +1,16 @@
+{
   "name": "PLabs",
   "description": "PLabs is a R&D Labs which focus on build privacy infrastructure on EVM, such as Monad",
   "live": true,
   "categories": ["Infra::Privacy"],
   "addresses": {
     "PERC20": "0xB2c7f3D290be8f00689dbd51519e6a85b4f5d7C7",
-    "Groth16_verifier": "0x8a3f173f379263D663150bc1386b1b3b05181aB6",
+    "Groth16_verifier": "0x8a3f173f379263D663150bc1386b1b3b05181aB6"
   },
   "links": {
     "project": "https://app.plabs.online/",
     "twitter": "https://x.com/_PLabs",
     "github": "https://github.com/PLabs4",
-    "docs": "https://plabs.gitbook.io/plabs-docs",
-  },
+    "docs": "https://plabs.gitbook.io/plabs-docs"
+  }
+}
