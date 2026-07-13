@@ -1149,6 +1149,26 @@ Mu Protocol,DeFi,RWA,TreasuryManager (Proxy),0xf3cdc00cca19f336b1c1b4bd684a94912
 Mu Protocol,DeFi,RWA,loAZND (Implementation),0x00a927d9d8af27d06c4e2c3abb5b88b0e1766470,DeFi::RWA;DeFi::Yield
 Mu Protocol,DeFi,RWA,loAZND (Proxy),0x9c82eb49b51f7dc61e22ff347931ca32adc6cd90,DeFi::RWA;DeFi::Yield
 Mu Protocol,DeFi,RWA,muBOND,0x336d414754967c6682b5a665c7daf6f1409e63e8,DeFi::RWA;DeFi::Yield
+Mento,DeFi,Stablecoin,BreakerBox,0x9fc1e0d10fb38954da385b8b25ab2bbaf3241722,DeFi::Stablecoin;DeFi::Stableswap;DeFi::DEX
+Mento,DeFi,Stablecoin,ChainlinkRelayerFactory,0x71c2333928af2db247d9c0aa380df1ccca53899a,DeFi::Stablecoin;DeFi::Stableswap;DeFi::DEX
+Mento,DeFi,Stablecoin,FPMMFactory,0xa849b475fe5a4b5c9c3280152c7a1945b907613b,DeFi::Stablecoin;DeFi::Stableswap;DeFi::DEX
+Mento,DeFi,Stablecoin,FPMMImplementation,0x8cb0518a0510ab62450f79f3cd9ee0cbddb77f30,DeFi::Stablecoin;DeFi::Stableswap;DeFi::DEX
+Mento,DeFi,Stablecoin,FPMMPool_AUSD_USDm,0xb0a0264ce6847f101b76ba36a4a3083ba489f501,DeFi::Stablecoin;DeFi::Stableswap;DeFi::DEX
+Mento,DeFi,Stablecoin,FPMMPool_GBPm_USDm,0xd0e9c1a718d2a693d41eacd4b2696180403ce081,DeFi::Stablecoin;DeFi::Stableswap;DeFi::DEX
+Mento,DeFi,Stablecoin,FPMMPool_USDC_USDm,0x463c0d1f04bcd99a1efcf94ac2a75bc19ea4a7e5,DeFi::Stablecoin;DeFi::Stableswap;DeFi::DEX
+Mento,DeFi,Stablecoin,FactoryRegistry,0x7b2f7d11eabd576782f77bf2cca46a853410adf6,DeFi::Stablecoin;DeFi::Stableswap;DeFi::DEX
+Mento,DeFi,Stablecoin,GBPm,0x39bb4e0a204412bb98e821d25e7d955e69d40fd1,DeFi::Stablecoin;DeFi::Stableswap;DeFi::DEX
+Mento,DeFi,Stablecoin,MarketHoursBreaker,0x0a18b8e7338ef8d6025529257aa5ccd5a14e0daf,DeFi::Stablecoin;DeFi::Stableswap;DeFi::DEX
+Mento,DeFi,Stablecoin,MedianDeltaBreaker,0x3e4f2bca4f7192be4c3c5e5bd4840f2e90a8ba84,DeFi::Stablecoin;DeFi::Stableswap;DeFi::DEX
+Mento,DeFi,Stablecoin,OpenLiquidityStrategy,0x54e2ae8c8448912e17ce0b2453bafb7b0d80e40f,DeFi::Stablecoin;DeFi::Stableswap;DeFi::DEX
+Mento,DeFi,Stablecoin,OracleAdapter,0xa472fbbf4b890a54381977ac392bdf82eec4383a,DeFi::Stablecoin;DeFi::Stableswap;DeFi::DEX
+Mento,DeFi,Stablecoin,ReserveLiquidityStrategy,0xa0fb8b16ce6af3634ff9f3f4f40e49e1c1ae4f0b,DeFi::Stablecoin;DeFi::Stableswap;DeFi::DEX
+Mento,DeFi,Stablecoin,ReserveV2,0x4255cf38e51516766180b33122029a88cb853806,DeFi::Stablecoin;DeFi::Stableswap;DeFi::DEX
+Mento,DeFi,Stablecoin,Router,0x4861840c2efb2b98312b0ae34d86fd73e8f9b6f6,DeFi::Stablecoin;DeFi::Stableswap;DeFi::DEX
+Mento,DeFi,Stablecoin,SortedOracles,0x6f92c745346057a61b259579256159458a0a6a92,DeFi::Stablecoin;DeFi::Stableswap;DeFi::DEX
+Mento,DeFi,Stablecoin,StableTokenSpokeImplementation,0x6a8ff60a89f3f359fa16f45076d6dd1712b5e62e,DeFi::Stablecoin;DeFi::Stableswap;DeFi::DEX
+Mento,DeFi,Stablecoin,USDm,0xbc69212b8e4d445b2307c9d32dd68e2a4df00115,DeFi::Stablecoin;DeFi::Stableswap;DeFi::DEX
+Mento,DeFi,Stablecoin,ValueDeltaBreaker,0xca2e7563dfc30bc94687f3deacf682e1dbaffa13,DeFi::Stablecoin;DeFi::Stableswap;DeFi::DEX
 Kintsu,DeFi,Staking,StakedMonad (Implementation),0xf16f96c342913575e46cff1bb827533c0b285138,DeFi::Staking;DeFi::Liquid Staking;DeFi::Yield;DeFi::Trading Interfaces
 Kintsu,DeFi,Staking,StakedMonad (Proxy),0xa3227c5969757783154c60bf0bc1944180ed81b9,DeFi::Staking;DeFi::Liquid Staking;DeFi::Yield;DeFi::Trading Interfaces
 SatLayer,DeFi,Staking,SatLayerPool,0x6caeaffc53b91094542b6cb9c51f448db74dfd8c,DeFi::Staking;DeFi::Liquid Staking

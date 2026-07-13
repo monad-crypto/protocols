@@ -2646,6 +2646,44 @@
       "docs": "https://docs.memetok.app"
     }
   },
+  "mento": {
+    "name": "Mento",
+    "description": "Decentralized multi-currency stablecoin platform and onchain FX exchange. Uses Fixed-Price Market Makers (FPMMs) quoting oracle rates to enable swaps between stablecoins (e.g. USDm/GBPm) at real-world FX prices.",
+    "live": true,
+    "categories": [
+      "DeFi::Stablecoin",
+      "DeFi::Stableswap",
+      "DeFi::DEX"
+    ],
+    "addresses": {
+      "ChainlinkRelayerFactory": "0x71c2333928Af2dB247d9C0aa380DF1cCCa53899A",
+      "FPMMFactory": "0xa849b475FE5a4B5C9C3280152c7a1945b907613b",
+      "FactoryRegistry": "0x7b2f7d11eabD576782f77bF2CcA46a853410AdF6",
+      "OracleAdapter": "0xa472fBBF4b890A54381977ac392BdF82EeC4383a",
+      "Router": "0x4861840C2EfB2b98312B0aE34d86fD73E8f9B6f6",
+      "ReserveV2": "0x4255Cf38e51516766180b33122029A88Cb853806",
+      "ReserveLiquidityStrategy": "0xa0fB8b16ce6AF3634fF9F3f4F40E49E1C1ae4f0B",
+      "OpenLiquidityStrategy": "0x54e2Ae8c8448912E17cE0b2453bAFB7B0D80E40f",
+      "FPMMImplementation": "0x8cB0518a0510Ab62450F79f3cD9EE0cbdDB77F30",
+      "FPMMPool_GBPm_USDm": "0xD0E9c1a718D2a693d41eacd4B2696180403Ce081",
+      "FPMMPool_USDC_USDm": "0x463c0d1F04bcd99A1efCF94AC2a75bc19Ea4A7E5",
+      "FPMMPool_AUSD_USDm": "0xb0a0264Ce6847F101b76ba36A4a3083ba489F501",
+      "BreakerBox": "0x9fc1E0d10fb38954Da385B8B25aB2BbaF3241722",
+      "MarketHoursBreaker": "0x0A18B8e7338eF8d6025529257aA5CCd5A14e0DAF",
+      "MedianDeltaBreaker": "0x3E4F2Bca4f7192Be4C3c5E5bD4840F2E90a8Ba84",
+      "ValueDeltaBreaker": "0xca2e7563dfC30bc94687F3deAcF682E1dBAffA13",
+      "SortedOracles": "0x6f92C745346057a61b259579256159458a0a6A92",
+      "StableTokenSpokeImplementation": "0x6A8ff60A89F3f359Fa16F45076d6DD1712B5e62e",
+      "GBPm": "0x39bb4E0a204412bB98e821d25e7d955e69d40Fd1",
+      "USDm": "0xBC69212B8E4d445b2307C9D32dD68E2A4Df00115"
+    },
+    "links": {
+      "project": "https://www.mento.org/",
+      "twitter": "https://x.com/MentoLabs",
+      "github": "https://github.com/mento-protocol",
+      "docs": "https://docs.mento.org/mento"
+    }
+  },
   "merkl": {
     "name": "Merkl",
     "description": "Merkl is a DeFi incentive platform that lets protocols, wallets, chains, and DAOs launch and manage customized reward campaigns across many use cases (liquidity, lending, airdrops, points) with smart detection and analytics.",
