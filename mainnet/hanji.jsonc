@@ -3,8 +3,7 @@
     "description": "Hanji is a fully on-chain central limit order book (CLOB) DEX on Monad, offering fast spot trading with tight spreads and zero maker fees, alongside a smart order-routing aggregator across its markets.",
     "live": true,
     "categories": [
-        "DeFi::DEX",
-        "DeFi::DEX Aggregator"
+        "DeFi::DEX"
     ],
     "addresses": {
         // Aggregator markets: the per-pair router/wrapper contracts Hanji publishes
