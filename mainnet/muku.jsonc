@@ -1,0 +1,14 @@
+{
+    "name": "MUKU",
+    "description": "MUKU is a fan-powered, on-chain audition label where composers upload tracks, singers submit vocal performances, and fans help surface the strongest voices. It uses AI matching and blockchain-secured payouts to make talent discovery a transparent, decentralized process where creators, fans, and IP grow together.",
+    "categories": [
+        "Consumer::Social",
+        "AI::Consumer AI"
+    ],
+    "addresses": {},
+    "links": {
+        "project": "https://muku.xyz",
+        "twitter": "https://x.com/Mukusongs",
+        "docs": "https://docs.muku.xyz"
+    }
+}
