@@ -1,0 +1,14 @@
+{
+    "name": "Kizzy",
+    "description": "Kizzy is the world's first social media betting app, where users bet on how their favorite creators and celebrities perform on X and YouTube. Built natively on Monad.",
+    "categories": [
+        "Consumer::Betting",
+        "Consumer::Prediction Market"
+    ],
+    "addresses": {},
+    "links": {
+        "project": "https://kizzy.io/",
+        "twitter": "https://x.com/kizzymobile",
+        "docs": "https://docs.kizzy.io/"
+    }
+}
