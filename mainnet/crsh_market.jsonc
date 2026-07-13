@@ -1,0 +1,14 @@
+{
+  "name": "CRSH Market",
+  "description": "CRSH is a Monad-native livestream prediction market where viewers predict the outcome of live moments—esports, IRL streams, competitions, and dating shows—with markets settling in as little as 60 seconds.",
+  "live": true,
+  "categories": [
+    "Consumer::Prediction Market",
+    "Consumer::Social"
+  ],
+  "addresses": {},
+  "links": {
+    "project": "https://www.crshmarket.com/",
+    "twitter": "https://x.com/crshmarket"
+  }
+}
