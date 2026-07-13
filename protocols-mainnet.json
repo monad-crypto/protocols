@@ -3364,7 +3364,7 @@
     "description": "AMM layer for parlays on prediction markets, enabling users to generate yield by providing liquidity.",
     "live": true,
     "categories": [
-      "DeFi::Yield"
+      "Consumer::Prediction Market"
     ],
     "addresses": {
       "ParlettoEscrow": "0x30038f7CFC1FC0D5F026F5093f239b367C12711D",
