@@ -1,0 +1,21 @@
+{
+  "name": "Yuzu Money",
+  "description": "Yuzu Money is an institutional-grade yield protocol that packages risk-curated, on-chain strategies into structured yield products. Its Yuzu Alpha suite centers on yzUSD, an overcollateralized, yield-bearing stablecoin, with syzUSD (its staked, yield-accruing form) and yzPP (a higher-yield, first-loss protection-pool tranche); Yuzu Prime (yzPrime) provides tokenized institutional fixed-income exposure across T-bills, CLOs, and overcollateralized lending. Tokens are distributed across chains as LayerZero OFTs, backed by real-time proof-of-reserves via Accountable, MPC custody via Fordefi, and Hypernative threat monitoring.",
+  "categories": [
+    "DeFi::Yield",
+    "DeFi::Stablecoin",
+    "DeFi::Structured Products",
+    "DeFi::RWA"
+  ],
+  "addresses": {
+    "yzUSD": "0x9dcB0D17eDDE04D27F387c89fECb78654C373858",
+    "syzUSD": "0x484be0540aD49f351eaa04eeB35dF0f937D4E73f",
+    "yzPP": "0xb37476cB1F6111cC682b107B747b8652f90B0984",
+    "yzPrime": "0xc9ea90692757831d98Ac629F2A0140E02b80A7DA"
+  },
+  "links": {
+    "project": "https://yuzu.money/",
+    "twitter": "https://x.com/YuzuMoneyX",
+    "docs": "https://yuzu-money.gitbook.io/yuzu-money"
+  }
+}
