@@ -199,6 +199,19 @@ Dexalot,DeFi,DEX,ProxyAdmin,0x15764530c716cefad9cbd2310d722704d03de875,DeFi::DEX
 Dirol,DeFi,DEX,CoreAggregator,0x77e73c3fcd3fedba383025cde4a5b97733a34c2e,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Launchpads;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces
 Dirol,DeFi,DEX,LimitOrderModule,0xa82098c33c75a4a1e20e06f352732910c75c690d,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Launchpads;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces
 Fibrous,DeFi,DEX,FibrousSettler,0x274602a953847d807231d2370072f5f4e4594b44,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Trading Interfaces
+Hanji,DeFi,DEX,FastQuoterHelper,0x237db58fea34a35a8543b44c217d221606ce7788,DeFi::DEX
+Hanji,DeFi,DEX,MON/USDC Market,0x1aed222dda944a87703c918745b11be13f8eef10,DeFi::DEX
+Hanji,DeFi,DEX,MON/USDC Orderbook,0xc35b1ca1a2c398a21df5783b3a5ea6a2d56f298f,DeFi::DEX
+Hanji,DeFi,DEX,MON/WETH Market,0xc4adcb94d0dce7fc84e180fae3621df13ad37e06,DeFi::DEX
+Hanji,DeFi,DEX,MON/WETH Orderbook,0xbe717aedc2cdc0a4d3903b7a6a70691942e72793,DeFi::DEX
+Hanji,DeFi,DEX,WETH/USDC Market,0x0acba24cecd750badb3179fb9ee3f2cd27431778,DeFi::DEX
+Hanji,DeFi,DEX,WETH/USDC Orderbook,0xac652e05ac4b2e9ecae5c65595e4e4e2734f61cc,DeFi::DEX
+Hanji,DeFi,DEX,cbBTC/MON Market,0x012e06b56eee881603e47748931dc38efabf54ef,DeFi::DEX
+Hanji,DeFi,DEX,cbBTC/MON Orderbook,0x77ed4fcb978fa0ce78799064cb38d12fe7c3ce7d,DeFi::DEX
+Hanji,DeFi,DEX,cbBTC/USDC Market,0xc11805e92ca6a36ce9507902ab6bb5cd11e438bf,DeFi::DEX
+Hanji,DeFi,DEX,cbBTC/USDC Orderbook,0xbc87c6e5a9788404c143d42474508956267b253d,DeFi::DEX
+Hanji,DeFi,DEX,cbBTC/WETH Market,0x05e028d33fa727168bc9396bdac5cab387c8a196,DeFi::DEX
+Hanji,DeFi,DEX,cbBTC/WETH Orderbook,0x8a89f08d3b5ab37f634f2b4dcf2db29ecf9938c7,DeFi::DEX
 Kansei,DeFi,DEX,BDeployer,0x0493b0f962346aadcab77abc6d24a9c69a74962b,DeFi::DEX;DeFi::Liquid Staking;DeFi::Leveraged Farming;DeFi::Lending;DeFi::Stableswap;DeFi::Yield
 Kansei,DeFi,DEX,CDeployer,0x58ba4db931da0509b7f0b7477925de3e9a20ce1a,DeFi::DEX;DeFi::Liquid Staking;DeFi::Leveraged Farming;DeFi::Lending;DeFi::Stableswap;DeFi::Yield
 Kansei,DeFi,DEX,KanseiFarm,0xcb79e3edb6bf3d7e66e3f685cd9f2373f462f4f3,DeFi::DEX;DeFi::Liquid Staking;DeFi::Leveraged Farming;DeFi::Lending;DeFi::Stableswap;DeFi::Yield
