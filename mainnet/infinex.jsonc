@@ -1,0 +1,17 @@
+{
+    "name": "Infinex",
+    "description": "Infinex is a non-custodial crypto super app that combines a unified cross-chain portfolio with built-in multi-provider trading in a single, CEX-like interface. It is built on a smart account architecture with passkey-based authentication, letting users manage and trade assets without a seed phrase.",
+    "categories": [
+        "Infra::Wallet",
+        "DeFi::Trading Interfaces"
+    ],
+    // Infinex has not published verifiable Monad mainnet contract deployments yet
+    // (Monad is on the Infinex roadmap; no addresses are listed in infinex-xyz/infinex-deployments).
+    "addresses": {},
+    "links": {
+        "project": "https://infinex.xyz",
+        "twitter": "https://x.com/infinex",
+        "github": "https://github.com/infinex-xyz",
+        "docs": "https://docs.infinex.xyz"
+    }
+}
