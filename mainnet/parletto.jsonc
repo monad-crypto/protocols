@@ -2,7 +2,7 @@
   "name": "Parletto",
   "description": "AMM layer for parlays on prediction markets, enabling users to generate yield by providing liquidity.",
   "live": true,
-  "categories": ["DeFi::Yield"],
+  "categories": ["Consumer::Prediction Market"],
   "addresses": {
     "ParlettoEscrow": "0x30038f7CFC1FC0D5F026F5093f239b367C12711D",
     "ParlettoLiquidityBook": "0xc3A817b86eD003747253238787631eD98c2Ee4d3",
