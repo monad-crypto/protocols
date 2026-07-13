@@ -1,0 +1,15 @@
+{
+    "name": "Blinq",
+    "description": "The derivatives layer for prediction markets on Monad — leveraged, short-duration, USDC-settled positions on crypto price movements through Price Arena (up/down and momentum) and Candle Rush (candle direction), priced in real time by Pyth.",
+    "categories": [
+        "Consumer::Prediction Market",
+        "DeFi::Perpetuals / Derivatives"
+    ],
+    "live": true,
+    // Blinq has not yet published verified Monad contract addresses; to be added by the team.
+    "addresses": {},
+    "links": {
+        "project": "https://blinq.fi/",
+        "twitter": "https://x.com/blinqfi"
+    }
+}
