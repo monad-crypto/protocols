@@ -269,6 +269,13 @@ Matcha,DeFi,DEX,MonadBridgeSettler,0xb40e9939bb598c38665a5c99c68020eeb8cf49fb,De
 Matcha,DeFi,DEX,MonadSettler,0x478cf28fd1ba92a6afd04f44b05833f6df7f1486,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Stableswap;DeFi::Trading Interfaces;DeFi::Cross Chain
 Matcha,DeFi,DEX,MonadSettlerIntent,0xb2376d1183829f444e0ffe9ef1ffaf1b483b84f3,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Stableswap;DeFi::Trading Interfaces;DeFi::Cross Chain
 Matcha,DeFi,DEX,MonadSettlerMetaTxn,0xfb36b62145a4b272bc804e5e1b41ddbf4bff4cf4,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Stableswap;DeFi::Trading Interfaces;DeFi::Cross Chain
+Metric,DeFi,DEX,Factory,0xe22f9fc0f04486de25ed6cf1800a4a47afd82e0c,DeFi::DEX
+Metric,DeFi,DEX,Lens,0xe6b102a2aea65b9b59e4f8b86b38e221886675a8,DeFi::DEX
+Metric,DeFi,DEX,Pool-MON/USDC,0xfa32f9ec28787d1f9c5ba5c39e54e59984fef3f0,DeFi::DEX
+Metric,DeFi,DEX,Pool-WBTC/USDC,0x2d82ac42334b394a9a8d8f097d61dc1c6b065fd8,DeFi::DEX
+Metric,DeFi,DEX,Pool-WETH/USDC,0x354d92279ca0190ff275095fe6a2a6989baa66fb,DeFi::DEX
+Metric,DeFi,DEX,PoolDeployer,0x0f732971a3503afee276782173170d1f1154d4c1,DeFi::DEX
+Metric,DeFi,DEX,Router,0xaf9ada6b6ec7993ce146f6c0bf98f7211cdfd3e5,DeFi::DEX
 Monday Trade,DeFi,DEX,Aggregator,0xad8974d98f7fc386e396ffe826b886cf20afe232,DeFi::DEX;DeFi::Perpetuals / Derivatives
 Monday Trade,DeFi,DEX,Gate,0x2e32345bf0592bff19313831b99900c530d37d90,DeFi::DEX;DeFi::Perpetuals / Derivatives
 Monday Trade,DeFi,DEX,Instrument,0x73ada1ea346cc3908f41cf67a040f0acd7808be0,DeFi::DEX;DeFi::Perpetuals / Derivatives
