@@ -1,0 +1,18 @@
+{
+  "name": "LunarBase",
+  "description": "CEX-grade proprietary AMM (prop AMM) and liquidity infrastructure.",
+  "live": true,
+  "categories": [
+    "DeFi::DEX"
+  ],
+  "addresses": {
+    // MON/USDC pool — TransparentUpgradeableProxy (implementation
+    // 0x0EB0454c80a7927ea9Eb458C80884793DB8E5F60 at time of writing).
+    // Contract is currently unverified on the explorer.
+    "MON_USDC_Pool": "0x0000a8fd148694ae3e17c079ce4bbf8187758888"
+  },
+  "links": {
+    "project": "https://lunarbase.gg/",
+    "twitter": "https://x.com/LunarBaseX"
+  }
+}
