@@ -1076,6 +1076,16 @@ Sablier,DeFi,Other,SablierFactoryMerkleLT,0xfa2bf3eddefe67631bffa5c53b621a9c6beb
 Sablier,DeFi,Other,SablierFactoryMerkleVCA,0xcdcc46a7759de01271e533bbc3b0f32899545a76,DeFi::Other
 Sablier,DeFi,Other,SablierFlow,0x0340a829b6dc3adf7710a5baf1970914af4977f5,DeFi::Other
 Sablier,DeFi,Other,SablierLockup,0x003f5393f4836f710d492ad98d89f5bfccf1c962,DeFi::Other
+Drake Exchange,DeFi,Perpetuals / Derivatives,common_helper,0x4939aef78cd2dc2bae5bf9da51c61a113cae909a,DeFi::Perpetuals / Derivatives;DeFi::DEX
+Drake Exchange,DeFi,Perpetuals / Derivatives,dUSD_vault,0x8379c32a965a7bac7289893aa3861f01dd470049,DeFi::Perpetuals / Derivatives;DeFi::DEX
+Drake Exchange,DeFi,Perpetuals / Derivatives,oracle_router,0x40999c623202de3d3430b6a9506ee24098d23bb8,DeFi::Perpetuals / Derivatives;DeFi::DEX
+Drake Exchange,DeFi,Perpetuals / Derivatives,orderBook_factory,0x5a42b55732f6013e3d0f4aab876ae56331ead7d2,DeFi::Perpetuals / Derivatives;DeFi::DEX
+Drake Exchange,DeFi,Perpetuals / Derivatives,order_book,0xf36d98c22e8279cfc849a0ca197d0afd1b855654,DeFi::Perpetuals / Derivatives;DeFi::DEX
+Drake Exchange,DeFi,Perpetuals / Derivatives,order_router,0xb2e8cbe4e52168f3d5629f0327161a7fcbc71ac5,DeFi::Perpetuals / Derivatives;DeFi::DEX
+Drake Exchange,DeFi,Perpetuals / Derivatives,platform_manager,0x7940575377c3c2abda23813c123b4c880e217d6d,DeFi::Perpetuals / Derivatives;DeFi::DEX
+Drake Exchange,DeFi,Perpetuals / Derivatives,portfolio_factory,0x991d0f1e44e590fdbce15cff13aaa69c8287b7f3,DeFi::Perpetuals / Derivatives;DeFi::DEX
+Drake Exchange,DeFi,Perpetuals / Derivatives,portfolio_helper,0xcf1c680a9feb17e5400376927118806996cd5074,DeFi::Perpetuals / Derivatives;DeFi::DEX
+Drake Exchange,DeFi,Perpetuals / Derivatives,trading,0xe6dfd064f1cff4f62236fc862a2543ea98380f32,DeFi::Perpetuals / Derivatives;DeFi::DEX
 LeverUp,DeFi,Perpetuals / Derivatives,LV,0x1001ff13bf368aa4fa85f21043648079f00e1001,DeFi::Perpetuals / Derivatives;DeFi::RWA;DeFi::Stablecoin
 LeverUp,DeFi,Perpetuals / Derivatives,LVMON,0x91b81bfbe3a747230f0529aa28d8b2bc898e6d56,DeFi::Perpetuals / Derivatives;DeFi::RWA;DeFi::Stablecoin
 LeverUp,DeFi,Perpetuals / Derivatives,LVMON_Delegator_Vault,0xf71b390448df37c8379332f372f344a576574d4a,DeFi::Perpetuals / Derivatives;DeFi::RWA;DeFi::Stablecoin
