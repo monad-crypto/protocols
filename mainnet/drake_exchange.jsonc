@@ -1,0 +1,28 @@
+{
+    "name": "Drake Exchange",
+    "description": "Drake is a fully on-chain perpetual DEX on Monad, offering a CEX-style trading experience with an on-chain order book and cross-margin trading across multiple collateral types.",
+    "live": true,
+    "categories": [
+        "DeFi::Perpetuals / Derivatives",
+        "DeFi::DEX"
+    ],
+    "addresses": {
+        // Drake settles in AUSD (Agora's stablecoin), a shared vanity-address token
+        // registered under agora.jsonc: 0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a
+        "dUSD_vault": "0x8379c32A965a7Bac7289893AA3861f01dD470049",
+        "portfolio_helper": "0xcF1C680a9FEb17E5400376927118806996CD5074",
+        "common_helper": "0x4939AEf78CD2Dc2bAE5bf9DA51C61A113Cae909a",
+        "portfolio_factory": "0x991D0F1E44E590FDbCe15CfF13AAa69c8287B7f3",
+        "platform_manager": "0x7940575377C3c2ABdA23813c123b4C880E217d6d",
+        "oracle_router": "0x40999c623202de3D3430B6A9506Ee24098d23bb8",
+        "trading": "0xE6dfD064F1CFf4F62236fC862A2543EA98380F32",
+        "order_router": "0xb2e8cBE4E52168f3d5629f0327161a7FCBc71Ac5",
+        "orderBook_factory": "0x5A42b55732F6013e3d0F4AaB876Ae56331EAd7d2",
+        "order_book": "0xf36D98C22e8279cFC849A0Ca197D0afD1b855654"
+    },
+    "links": {
+        "project": "https://drake.exchange/",
+        "twitter": "https://x.com/DrakeExchange",
+        "docs": "https://docs.drake.exchange/"
+    }
+}
