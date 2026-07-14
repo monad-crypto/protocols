@@ -2431,6 +2431,21 @@
       "docs": "https://lumiterra.notion.site/Lumiterra-Multiverse-241211cc5a888022ac5aca4a04064a80"
     }
   },
+  "lunarbase": {
+    "name": "LunarBase",
+    "description": "CEX-grade proprietary AMM (prop AMM) and liquidity infrastructure.",
+    "live": true,
+    "categories": [
+      "DeFi::DEX"
+    ],
+    "addresses": {
+      "MON_USDC_Pool": "0x0000a8fd148694ae3e17c079ce4bbf8187758888"
+    },
+    "links": {
+      "project": "https://lunarbase.gg/",
+      "twitter": "https://x.com/LunarBaseX"
+    }
+  },
   "m0narch": {
     "name": "M0narch",
     "description": "M0narch is a fully on-chain gambling platform on the Monad blockchain, offering provably fair games with instant payouts and transparent smart contracts.",

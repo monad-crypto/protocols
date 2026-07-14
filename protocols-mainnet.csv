@@ -266,6 +266,7 @@ LFJ,DeFi,DEX,LBRouter,0x18556da13313f3532c54711497a8fedac273220e,DeFi::DEX;DeFi:
 LFJ,DeFi,DEX,LimitOrderV2,0xdbeeb3fb3e864e490e71b1d5c86c3de683ca4626,DeFi::DEX;DeFi::Memecoin
 LFJ,DeFi,DEX,LiquidityHelperContract,0xa5c68c9e55dde3505e60c4b5eae411e2977dfb35,DeFi::DEX;DeFi::Memecoin
 LFJ,DeFi,DEX,TMFactory,0xe70d21ad211db6dcd3f54b9804a1b64bb21b17b1,DeFi::DEX;DeFi::Memecoin
+LunarBase,DeFi,DEX,MON_USDC_Pool,0x0000a8fd148694ae3e17c079ce4bbf8187758888,DeFi::DEX
 Matcha,DeFi,DEX,0xSettlerDeployer,0x00000000000004533fe15556b1e086bb1a72ceae,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Stableswap;DeFi::Trading Interfaces;DeFi::Cross Chain
 Matcha,DeFi,DEX,AllowanceHolder,0x0000000000001ff3684f28c67538d4d072c22734,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Stableswap;DeFi::Trading Interfaces;DeFi::Cross Chain
 Matcha,DeFi,DEX,MonadBridgeSettler,0xb40e9939bb598c38665a5c99c68020eeb8cf49fb,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Stableswap;DeFi::Trading Interfaces;DeFi::Cross Chain
