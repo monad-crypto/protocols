@@ -94,6 +94,8 @@ Relay,DeFi,Cross Chain,v2.1RelayApprovalProxy,0x58cc3e0aa6cd7bf795832a225179ec2d
 Relay,DeFi,Cross Chain,v2.1RelayRouter,0x3ec130b627944cad9b2750300ecb0a695da522b6,DeFi::Cross Chain
 Relay,DeFi,Cross Chain,v3RelayApprovalProxy,0xccc88a9d1b4ed6b0eaba998850414b24f1c315be,DeFi::Cross Chain
 Relay,DeFi,Cross Chain,v3RelayRouter,0xb92fe925dc43a0ecde6c8b1a2709c170ec4fff4f,DeFi::Cross Chain
+Aegis,DeFi,DEX,Hook_v1.0,0xb4f4949e8d0a177bb6d2fea33e9516bb219610cc,DeFi::DEX
+Aegis,DeFi,DEX,Hook_v1.1,0xe449e013004db4a5681e9622ca10c5ba0ea610cc,DeFi::DEX
 AethonSwap,DeFi,DEX,AlgebraFactory,0x05aa1d36f78d1242c40b3680d38eb1fee7060c20,DeFi::DEX
 AethonSwap,DeFi,DEX,AlgebraInterfaceMulticall,0x90dd87c994959a36d725bb98f9008b0b3c3504a0,DeFi::DEX
 AethonSwap,DeFi,DEX,AlgebraPoolDeployer,0x6f85f158c2289579be8e79a31b78f7dcd4686857,DeFi::DEX
