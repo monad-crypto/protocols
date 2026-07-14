@@ -5,8 +5,9 @@
         "DeFi::DEX"
     ],
     "addresses": {
-        "RouterV2": "0xFaed28e0ffb1C07A2Aa7A41Ae03536dfC12B0db7",
-        "RouterV3": "0x43C08a1689e81EFF83bbAfA35617CcCf2EF463fD"
+        "RouterV2": "0xFaed28e0ffb1C07A2Aa7A41Ae03536dfC12B0db7"
+        // RouterV3 omitted until its source is verified:
+        // "RouterV3": "0x43C08a1689e81EFF83bbAfA35617CcCf2EF463fD"
     },
     "links": {
         "project": "https://brownfi.io",
