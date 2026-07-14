@@ -1,6 +1,6 @@
 {
     "name": "Drake Exchange",
-    "description": "Drake is a fully on-chain perpetual DEX on Monad that pairs a centralized-exchange trading experience with the transparency and composability of DeFi. It combines an on-chain central limit order book with a pricing, matching, and order-routing engine plus backstop AMM liquidity, and features an advanced cross-margin system with a Universal-Asset Collateral Engine that lets traders use a range of assets as collateral for leveraged positions.",
+    "description": "Drake is a fully on-chain perpetual DEX on Monad, offering a CEX-style trading experience with an on-chain order book and cross-margin trading across multiple collateral types.",
     "live": true,
     "categories": [
         "DeFi::Perpetuals / Derivatives",
