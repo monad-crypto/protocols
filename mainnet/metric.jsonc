@@ -1,0 +1,22 @@
+{
+    "name": "Metric",
+    "description": "Metric is a proprietary AMM (propAMM) DEX built around an oracle-anchored active pool standard. Instead of liquidity sitting at fixed prices like a passive AMM, each pool continuously reprices to the asset's real market price, concentrating capital where trades actually happen for tighter spreads and lower slippage. Pools are permissionlessly deployable and programmable, and inherit routing across major DEX aggregators.",
+    "live": true,
+    "categories": [
+        "DeFi::DEX"
+    ],
+    "addresses": {
+        // Core factory: creates and configures Metric pools (Ownable)
+        "Factory": "0xe22F9fc0f04486dE25ed6CF1800a4a47aFD82e0C",
+        // Deploys the individual pool contracts on behalf of the Factory
+        "PoolDeployer": "0x0f732971a3503afee276782173170D1F1154d4c1",
+        // Periphery swap router (wraps/unwraps native MON via WMON)
+        "Router": "0xaF9ADa6b6eC7993CE146f6c0bF98f7211CDfD3e5",
+        // Read-only lens for pool state and quotes
+        "Lens": "0xe6b102a2aea65b9b59e4F8B86B38E221886675A8"
+    },
+    "links": {
+        "project": "https://www.metric.xyz/",
+        "twitter": "https://x.com/metricxyz"
+    }
+}
