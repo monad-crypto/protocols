@@ -13,7 +13,12 @@
         // Periphery swap router (wraps/unwraps native MON via WMON)
         "Router": "0xaF9ADa6b6eC7993CE146f6c0bF98f7211CDfD3e5",
         // Read-only lens for pool state and quotes
-        "Lens": "0xe6b102a2aea65b9b59e4F8B86B38E221886675A8"
+        "Lens": "0xe6b102a2aea65b9b59e4F8B86B38E221886675A8",
+        // Active pools (most-liquid instance per pair; quote token is USDC 0x754704bc059f8c67012fed69bc8a327a5aafb603).
+        // Note: the BTC/USDC pool trades WBTC (0x0555e30da8f98308edb960aa94c0db47230d2b9c), not cbBTC.
+        "Pool-MON/USDC": "0xFA32f9ec28787d1F9C5BA5c39e54e59984FEF3f0",
+        "Pool-WBTC/USDC": "0x2D82AC42334b394A9a8d8f097d61DC1c6B065Fd8",
+        "Pool-WETH/USDC": "0x354D92279cA0190fF275095fE6A2a6989BAa66Fb"
     },
     "links": {
         "project": "https://www.metric.xyz/",
