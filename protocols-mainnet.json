@@ -627,6 +627,21 @@
       "docs": ""
     }
   },
+  "brownfi": {
+    "name": "BrownFi",
+    "description": "BrownFi is an oracle-based automated market maker (AMM) that uses Pyth price feeds to deliver concentrated-liquidity-level capital efficiency with simplified LP management and reduced impermanent loss compared to constant-product AMMs.",
+    "categories": [
+      "DeFi::DEX"
+    ],
+    "addresses": {
+      "RouterV2": "0xFaed28e0ffb1C07A2Aa7A41Ae03536dfC12B0db7"
+    },
+    "links": {
+      "project": "https://brownfi.io",
+      "twitter": "https://x.com/BrownFiAMM",
+      "docs": "https://brownfi.gitbook.io/brownfi-docs"
+    }
+  },
   "bungee": {
     "name": "Bungee.Exchange",
     "description": "Bungee provides seamless swaps between any blockchain. With over $24B in volume and trusted by major wallets and dApps, Bungee makes moving assets between networks efficient, secure, and accessible to everyone, powered by the SOCKET.",
