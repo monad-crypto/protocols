@@ -1,6 +1,6 @@
 {
   "name": "LunarBase",
-  "description": "CEX-grade proprietary AMM (prop AMM) and liquidity infrastructure. Backed by YZi Labs.",
+  "description": "CEX-grade proprietary AMM (prop AMM) and liquidity infrastructure.",
   "live": true,
   "categories": [
     "DeFi::DEX"
