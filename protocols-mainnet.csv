@@ -1732,6 +1732,7 @@ Safe,Infra,Wallet,SignMessageLib_v1_4_1,0xd53cd0ab83d845ac265be939c57f53ad838012
 Safe,Infra,Wallet,SimulateTxAccessor,0x59ad6735bcd8152b84860cb256dd9e96b85f69da,Infra::Wallet
 Safe,Infra,Wallet,SimulateTxAccessor_v1_3_0_eip_155,0x727a77a074d1e6c4530e814f89e618a3298fc044,Infra::Wallet
 Safe,Infra,Wallet,SimulateTxAccessor_v1_4_1,0x3d4ba2e0884aa488718476ca2fb8efc291a46199,Infra::Wallet
+Monad Cards,NFT,Collections,MonadCards,0x0000ca12d5c07085022ebc74867157449919fd67,NFT::Collections
 Magic Eden,NFT,Marketplace,ApprovalProxy,0xfdf7a254075226621cb04b4722106c29b24acf3c,NFT::Marketplace
 Magic Eden,NFT,Marketplace,MagicDrop,0x00000000bea935f8315156894aa4a45d3c7a0075,NFT::Marketplace
 Magic Eden,NFT,Marketplace,MagicEdenRouter,0xca5c2a5688f6c824d029f3a23b75082c5f75b442,NFT::Marketplace
