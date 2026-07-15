@@ -3416,6 +3416,28 @@
       "docs": "https://docs.nfts2me.com/"
     }
   },
+  "obsdn": {
+    "name": "OBSDN",
+    "description": "Obsidian is a perpetuals exchange on Monad for trading crypto, equity, and ETF perps with leverage.",
+    "live": true,
+    "categories": [
+      "DeFi::Perpetuals / Derivatives"
+    ],
+    "addresses": {
+      "Obsdn": "0x90c3747cd4E6bC6FbebB1b3C54D99737590eBE45",
+      "SpotLedger": "0x8d156514dE27823436212bFcA3064Ba1e5236723",
+      "PerpLedger": "0x336Ed437845b6Fae4Ad2d41969e43C470aCfC59C",
+      "Matching": "0x227adD7CDe4E7996D9f02975CC16212f19664C03",
+      "VaultManager": "0xedF8C3913CAcB04474e7df06F8c264C269C4591B",
+      "AccessControl": "0x8dbb546BaFDeac0a26095cF8C671D3C96a4DA77d",
+      "ContractAddressSigValidator": "0x823f7911676963207393C2A67F2b72AeB7888bba",
+      "DlnDepositAdapter": "0x871904e21Eb9B3d6E415f75EA388553c7e86Fab3"
+    },
+    "links": {
+      "project": "https://app.obsdn.trade",
+      "twitter": "https://x.com/obsdntrade"
+    }
+  },
   "octoswap": {
     "name": "OctoSwap",
     "description": " OctoSwap unites the strengths of both classic and concentrated AMMs with an advanced smart router, making it the premier liquidity hub on Monad for efficient liquidity and execution. ",

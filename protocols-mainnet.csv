@@ -1102,6 +1102,14 @@ Narwhal Finance,DeFi,Perpetuals / Derivatives,PairInfos,0x5c39f9739c123e64535f62
 Narwhal Finance,DeFi,Perpetuals / Derivatives,Trading,0x3556d16519e3407ad43d5d7b3011bb095553d77a,DeFi::Perpetuals / Derivatives
 Narwhal Finance,DeFi,Perpetuals / Derivatives,TradingStorage,0xfbc1cf329ad241352e777ab7bc17962452b87949,DeFi::Perpetuals / Derivatives
 Narwhal Finance,DeFi,Perpetuals / Derivatives,TradingVault,0xb412a5d72c203df308624e435659c9f70b6960aa,DeFi::Perpetuals / Derivatives
+OBSDN,DeFi,Perpetuals / Derivatives,AccessControl,0x8dbb546bafdeac0a26095cf8c671d3c96a4da77d,DeFi::Perpetuals / Derivatives
+OBSDN,DeFi,Perpetuals / Derivatives,ContractAddressSigValidator,0x823f7911676963207393c2a67f2b72aeb7888bba,DeFi::Perpetuals / Derivatives
+OBSDN,DeFi,Perpetuals / Derivatives,DlnDepositAdapter,0x871904e21eb9b3d6e415f75ea388553c7e86fab3,DeFi::Perpetuals / Derivatives
+OBSDN,DeFi,Perpetuals / Derivatives,Matching,0x227add7cde4e7996d9f02975cc16212f19664c03,DeFi::Perpetuals / Derivatives
+OBSDN,DeFi,Perpetuals / Derivatives,Obsdn,0x90c3747cd4e6bc6fbebb1b3c54d99737590ebe45,DeFi::Perpetuals / Derivatives
+OBSDN,DeFi,Perpetuals / Derivatives,PerpLedger,0x336ed437845b6fae4ad2d41969e43c470acfc59c,DeFi::Perpetuals / Derivatives
+OBSDN,DeFi,Perpetuals / Derivatives,SpotLedger,0x8d156514de27823436212bfca3064ba1e5236723,DeFi::Perpetuals / Derivatives
+OBSDN,DeFi,Perpetuals / Derivatives,VaultManager,0xedf8c3913cacb04474e7df06f8c264c269c4591b,DeFi::Perpetuals / Derivatives
 Perpl,DeFi,Perpetuals / Derivatives,Exchange,0x34b6552d57a35a1d042ccae1951bd1c370112a6f,DeFi::Perpetuals / Derivatives
 Pingu Exchange,DeFi,Perpetuals / Derivatives,AssetStore,0x379a14208c15e99177b6a2003b77f38f80d66a2f,DeFi::Perpetuals / Derivatives
 Pingu Exchange,DeFi,Perpetuals / Derivatives,BuyBack,0xbfc60682970fd08e2e4eea96f8b7b6bfa25eab53,DeFi::Perpetuals / Derivatives
