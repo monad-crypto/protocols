@@ -1,0 +1,11 @@
+{
+    "name": "Monad Cards",
+    "description": "Monad Cards is a collectible NFT — a token of appreciation for Crypto Twitter that eligible community members can claim and mint onchain.",
+    "categories": ["NFT::Collections"],
+    "addresses": {
+        "MonadCards": "0x0000CA12D5c07085022eBC74867157449919Fd67"
+    },
+    "links": {
+        "project": "https://cards.monad.xyz"
+    }
+}
