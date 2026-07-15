@@ -26,7 +26,10 @@
         "KuruFlowRouterV2": "0x0d3a1BE29E9dEd63c7a5678b31e847D68F71FFa2",
         "Market-MON/USDC": "0x065C9d28E428A0db40191a54d33d5b7c71a9C394",
         "Market-MON/AUSD": "0x131a2e70a5b31a517a74b8c567149bc294470da9",
-        "Market-WETH/USDC": "0xa6aFD386135B7D41A6C40C525abC4A1019b0D132"
+        "Market-WETH/USDC": "0xa6aFD386135B7D41A6C40C525abC4A1019b0D132",
+        "Market-cbBTC/USDC": "0x40c49f171202f91ff5d2fae34c22dd2bfdd22af0",
+        "Market-AUSD/USDC": "0x699abc15308156e9a3ab89ec7387e9cfe1c86a3b",
+        "Market-XAUt0/USDC": "0x851145eaefdc37956b08da829fa31722199f3f07"
     },
     "links": {
         "project": "https://kuru.io",
