@@ -4,8 +4,8 @@
   "live": true,
   "categories": ["Infra::Privacy / Encryption"],
   "addresses": {
-    "PERC20": "0xB2c7f3D290be8f00689dbd51519e6a85b4f5d7C7",
-    "Groth16_verifier": "0x8a3f173f379263D663150bc1386b1b3b05181aB6"
+    "PERC20": "0x38D743De0cb43744d5388F3A74f9dE5BE320D3F6",
+    "Groth16_verifier": "0x11B938A2C8b171bA61Ef2d4923951c528421696c"
   },
   "links": {
     "project": "https://app.plabs.online/",
