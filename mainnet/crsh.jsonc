@@ -1,0 +1,14 @@
+{
+  "name": "CRSH Market",
+  "description": "Monad-native livestream prediction market",
+  "categories": ["Consumer::Prediction Market"],
+  "live": true,
+  "addresses": {
+    "Escrow": "0x0a2fbf2dbe08880d8d0d7f2f34b4cc3761f729b1",
+    "Custody": "0xf70da97812cb96acdf810712aa562db8dfa3dbef"
+  },
+  "links": {
+    "project": "https://crshmarket.com",
+    "twitter": "https://x.com/crshmarket"
+  }
+}
