@@ -27,6 +27,8 @@ PlayKami,Consumer,E-commerce / Ticketing,DropCard,0xc2d57443f061b4490b1e588f3009
 PlayKami,Consumer,E-commerce / Ticketing,DropMarketplace,0xc1c59b10f896715a1a34085c96ef9309484a086b,Consumer::E-commerce / Ticketing;Consumer::Other
 PlayKami,Consumer,E-commerce / Ticketing,DropVendingMachine,0x7ef90ba0d6c3a46c813d8abe02ae5116b72309fe,Consumer::E-commerce / Ticketing;Consumer::Other
 PlayKami,Consumer,E-commerce / Ticketing,ReferrerRegistry,0xdfae9de709ce3513d8e84c704c2eed8d7cfbb3f0,Consumer::E-commerce / Ticketing;Consumer::Other
+CRSH Market,Consumer,Prediction Market,Custody,0xf70da97812cb96acdf810712aa562db8dfa3dbef,Consumer::Prediction Market
+CRSH Market,Consumer,Prediction Market,Escrow,0x0a2fbf2dbe08880d8d0d7f2f34b4cc3761f729b1,Consumer::Prediction Market
 Castora,Consumer,Prediction Market,Castora,0x9e1e6f277df3f2cd150ae1e08b05f45b3297be6d,Consumer::Prediction Market
 Castora,Consumer,Prediction Market,CastoraActivities,0x83d063acde4c3e799f0f0162d36d8b0605081b6e,Consumer::Prediction Market
 Castora,Consumer,Prediction Market,CastoraGetters,0xf08959e66614027ae76303f4c5359ebffd00bc30,Consumer::Prediction Market
