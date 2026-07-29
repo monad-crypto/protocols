@@ -1161,6 +1161,24 @@
       "docs": "https://ethresear.ch/t/enabling-on-chain-order-matching-for-order-book-dexs-revisited-segmented-segment-trees-and-octopus-heaps-explained/15180"
     }
   },
+  "collective_memory": {
+    "name": "Collective Memory",
+    "description": "A decentralized social network where users can invest in your content.",
+    "categories": [
+      "Consumer::Social"
+    ],
+    "addresses": {
+      "Paymaster": "0xd6c8e83ee7468Dc5b8ce8C911d69906FBB8CE7c6",
+      "Router": "0xF0a6164266d16DC5B7D26bb2e1Ea6AAed50a115B",
+      "AttentionToken": "0x564Bc0fFF5431311B47C682E67F75ff3EeC7f5Cc",
+      "VaultBeacon": "0x46459A0A40CD4Ab01e1C42D504db24aBD69F578a",
+      "VaultImplementation": "0x79E38dDFBe56EE1A93F4fABB3141BDeDe90f0805"
+    },
+    "links": {
+      "project": "https://www.collectivememory.ai/",
+      "twitter": "https://x.com/collective_memo"
+    }
+  },
   "covenant": {
     "name": "Covenant",
     "description": "Covenant is a fully on-chain credit marketplace that enables the creation and funding of leverage against any collateral asset",

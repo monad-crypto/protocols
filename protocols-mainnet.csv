@@ -46,6 +46,11 @@ Parletto,Consumer,Prediction Market,ParlettoTimelock,0x463e87e86b6b832435fc47934
 Parletto,Consumer,Prediction Market,ParlettoTreasury,0xdcd80b8c59fc08a5cb9382179148a07ac1951b9e,Consumer::Prediction Market
 Trendle,Consumer,Prediction Market,Pool,0xe0b5d2538038329cd1ab9d92273af7db5ef29231,Consumer::Prediction Market
 Trendle,Consumer,Prediction Market,Trading,0xae0830d7588ab44e5d4443168a8d666b54f385fe,Consumer::Prediction Market
+Collective Memory,Consumer,Social,AttentionToken,0x564bc0fff5431311b47c682e67f75ff3eec7f5cc,Consumer::Social
+Collective Memory,Consumer,Social,Paymaster,0xd6c8e83ee7468dc5b8ce8c911d69906fbb8ce7c6,Consumer::Social
+Collective Memory,Consumer,Social,Router,0xf0a6164266d16dc5b7d26bb2e1ea6aaed50a115b,Consumer::Social
+Collective Memory,Consumer,Social,VaultBeacon,0x46459a0a40cd4ab01e1c42d504db24abd69f578a,Consumer::Social
+Collective Memory,Consumer,Social,VaultImplementation,0x79e38ddfbe56ee1a93f4fabb3141bdede90f0805,Consumer::Social
 Fluffle,Consumer,Social,FluffleDragons,0x2ed99dbe114249b7611478d67818b399865ffc89,Consumer::Social;NFT::Other;Gaming::Mobile-First
 Fluffle,Consumer,Social,FluffleFurniture,0x67f58f1faf78781b7eb90c457846e0f965bb1a2f,Consumer::Social;NFT::Other;Gaming::Mobile-First
 Fluffle,Consumer,Social,FluffleSolveil,0x8255dacd8a45f4abe6dc821e6f7f3c92a8e22fbb,Consumer::Social;NFT::Other;Gaming::Mobile-First
