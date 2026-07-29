@@ -1,0 +1,14 @@
+{
+    "name": "Blinq",
+    "description": "Blinq is the derivatives layer for prediction markets on Monad, restructuring short-term price action into fixed-window, USDC-settled trading products. Price Arena offers Up/Down (direction) and Momentum (relative performance) predictions on BTC, ETH, and SOL, while Candle Rush lets users call whether the next 5M/15M/30M candle closes green or red. Pricing is powered by Pyth oracles with gasless smart-account execution.",
+    "categories": [
+        "Consumer::Prediction Market",
+        "DeFi::Perpetuals / Derivatives"
+    ],
+    "addresses": {},
+    "links": {
+        "project": "https://blinq.fi/",
+        "twitter": "https://x.com/blinqfi",
+        "discord": "https://discord.gg/blinq"
+    }
+}
