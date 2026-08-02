@@ -18,6 +18,48 @@
       "docs": "https://0x.org/docs"
     }
   },
+  "Axal": {
+    "name": "Axal",
+    "description": "Axal puts your money to work. Build wealth with best in class yield on dollars, bitcoin, and gold.",
+    "live": true,
+    "categories": [
+      "Consumer::Other",
+      "DeFi::Yield"
+    ],
+    "addresses": {},
+    "links": {
+      "project": "https://www.axal.com/",
+      "twitter": "https://x.com/getaxal/",
+      "github": "https://github.com/getaxal/",
+      "docs": "https://docs.axal.com/",
+      "instagram": "https://www.instagram.com/getaxal/",
+      "linkedin": "https://www.linkedin.com/company/getaxal/",
+      "appstore": "https://apps.apple.com/us/app/axal-high-yield-savings/id6752484843",
+      "playstore": "https://play.google.com/store/apps/details?id=com.axal.android"
+    }
+  },
+  "Axelar": {
+    "name": "Axelar",
+    "description": "Powering the Chain-Agnostic Future",
+    "live": true,
+    "categories": [
+      "Infra::Interoperability"
+    ],
+    "addresses": {
+      "AxelarGateway": "0xe432150cce91c13a887f7D836923d5597adD8E31",
+      "AxelarGasService": "0xbE406F0189A0B4cf3A05C286473D23791Dd44Cc6",
+      "MonadAxelarTransceiver": "0x50beAbe4883981624aEa01F737B040d1e3Fe83FB",
+      "Operators": "0x7F83F5cA2AE4206AbFf8a3C3668e88ce5F11C0B5",
+      "ConstAddressDeployer": "0x98B2920D53612483F91F12Ed7754E51b4A77919e",
+      "Create3Deployer": "0x6513Aedb4D1593BA12e50644401D976aebDc90d8"
+    },
+    "links": {
+      "project": "https://axelar.network",
+      "twitter": "https://x.com/axelar",
+      "github": "https://github.com/axelarnetwork",
+      "docs": "https://docs.axelar.dev"
+    }
+  },
   "CANONICAL": {
     "name": "Canonical Contracts",
     "description": "https://docs.monad.xyz/developer-essentials/network-information",
@@ -42,6 +84,201 @@
       "ZoltuDeterministicDeploymentProxy": "0x7A0D94F55792C434d74a40883C6ed8545E406D12"
     },
     "links": {}
+  },
+  "Chainlink_CCIP": {
+    "name": "Chainlink CCIP",
+    "description": "Chainlink is the standard for onchain finance, verifiable data, and cross-chain interoperability. Learn more by visiting chain.link.",
+    "live": true,
+    "categories": [
+      "Infra::Interoperability"
+    ],
+    "addresses": {},
+    "info": {
+      "note": "Supported lanes can be found at https://docs.chain.link/ccip/directory/testnet/chain/monad-testnet"
+    },
+    "links": {
+      "project": "https://chain.link/",
+      "twitter": "https://x.com/chainlink",
+      "github": "https://github.com/smartcontractkit/chainlink",
+      "docs": "https://docs.chain.link/"
+    }
+  },
+  "Dexalot": {
+    "name": "Dexalot",
+    "description": "Dexalot is a decentralized exchange (DEX) for spot trading, powered by a fully on-chain central limit order book (CLOB).  Competitive prices, zero to minimal slippage and no fees.",
+    "live": true,
+    "categories": [
+      "DeFi::DEX",
+      "DeFi::Cross Chain",
+      "DeFi::Trading Interfaces"
+    ],
+    "addresses": {
+      "Portfolio": "0x60D7D3394b96bAd07c99BD9fa86A6bF9414FF177",
+      "Exchange": "0xAf6cCd3E5780CB1d110C2009eC0a4D93C7e58654",
+      "DexalotRouter": "0xba6A764809d852306F0c19dD064279aEA30Bfeb2",
+      "MainnetRFQ": "0x77A547b5BE9346DdA5c9704FC148b61477A8326c",
+      "PortfolioBridge": "0x4Fd93FFC2Ae634B1EC487405F8f31792F120C875",
+      "LzV2App": "0x27236544ac6A580825Cf44Ce1248a7C4395EEc59",
+      "BannedAccounts": "0x0f52c1eB47e77B9C7AC4A6049c5E5AFD6eABeb54",
+      "Create3Factory": "0xeBf371993E47364A3926B977355CA60D79507406",
+      "ProxyAdmin": "0xEed3c159F3A96aB8d41c8B9cA49EE1e5071A7cdD"
+    },
+    "links": {
+      "project": "https://app.dexalot-test.com/",
+      "twitter": "https://x.com/dexalot",
+      "github": "https://github.com/dexalot",
+      "docs": "https://docs.dexalot.com/"
+    }
+  },
+  "Legends_of_Elysium": {
+    "name": "Legends of Elysium",
+    "description": "A fantasy strategy game that combines TCG and board game mechanics. Collect cards, build custom decks, and engage in tactical battles.",
+    "live": true,
+    "categories": [
+      "Gaming::Games"
+    ],
+    "addresses": {
+      "LoeHero": "0x480085BCa6b7F7145eA90Bb8e2D22d1E5b860E16",
+      "LoeCard": "0x4304f1D44F89308DFA8966739954280b410d390F",
+      "LoeBoard": "0x1ae743310ef0637eA01CE69014471F2E5b4A4945",
+      "LoeTicket": "0x85AB76f1ABcbBeaA76e02d1DC93e9Eb3E6Bb9256",
+      "LoePackage": "0x805E0773Eb684c284c1F5A5bB56Db805e1B10587",
+      "LoeMine": "0x8F84dF6D9448B7F8Fdeec11196028Fbb55442c05",
+      "LOE": "0x1A5272834bBD706F2906799f78de892224B14Eb3",
+      "CurrencyManager": "0x0537D8e26F4970190f7e39604263D084bfC0eD0e",
+      "ExecutionManager": "0x82CA411e1513821d11A4203589Df62Cbb26F2d35",
+      "StrategyStandardSaleForFixedPrice": "0x01FF04DE2ab194403b3E611f11421E3B493Fe574",
+      "StrategyPrivateSale": "0x0D8825F212B83C8C09BCe058d357d26E82bfFF4C",
+      "RoyaltyFeeRegistry": "0x0c92adFe0aC3B8B562256A60E08a33659571F368",
+      "RoyaltyFeeManager": "0x2A8CDaf77644Fa072B2B0E7a8406B4D3422a4c0b",
+      "TransferManagerERC721": "0x4838E4eBA9807e380dCA1c938fB5FfacC41f5FC9",
+      "TransferManagerERC1155": "0xfDf94C5561BF58e74EBcaEE7b5FCDb61e84F9256",
+      "TransferSelectorNFT": "0x558E219B52C7D3A8F867998d67Fea1B581468A0b",
+      "LooksRareExchange": "0xABB8AF5eEcA3B309cB4D1cA62328847AaE412354",
+      "StrategyPartialSaleForFixedPrice": "0x0eA15B3d68F6b71E73aD3e7b4688eAA7D9018A7c",
+      "VoucherPayments": "0x8d85b3517b28C7CeB3c012e7a8b334a7259ddcAa",
+      "LoeCardBack": "0xA893B47D646D3aA876DafE8020BB7c6C456b7003",
+      "LoeAvatar": "0x0401333CCf65f19869080b15B210b02b7A942101",
+      "AccountFactory": "0x709b46F8FFA35bD4D2c974416b5e59eB7F40C6B9",
+      "LoeTome": "0x330D2d580FD9A2797A8072d71d899237Bc6891f9",
+      "LoeExchange": "0x6D83f477F9D7A5464b5be46D6337976eFDFEC7b6"
+    },
+    "links": {
+      "project": "https://legendsofelysium.io/",
+      "twitter": "https://x.com/LegendsElysium",
+      "docs": "https://legendsofelysium.io/wiki/"
+    }
+  },
+  "Neverland": {
+    "name": "Neverland",
+    "description": "Neverland is a Monad-native decentralized lending protocol built on the Aave V3 framework, reimagining DeFi incentives through self-repaying loans, flexible NFT-based veToken governance, and automated yield strategies. It redistributes 100% of protocol revenue back to the community through governance-directed rewards, liquidity incentives, and deflationary buybacks and burns.",
+    "live": true,
+    "categories": [
+      "DeFi::Lending",
+      "NFT::Other",
+      "Governance::Other"
+    ],
+    "addresses": {
+      "ACLManager": "0xc363A56a66e912112d712A96Cf67AdeD43606420",
+      "Pool (Proxy)": "0x9861f6a26050e02Ff0C079657F5a3AFcD8D4af52",
+      "Pool (Impl.)": "0x6745D4B9Cf3bc935732DB4EC2A13aF01e988b675",
+      "PoolAddressesProvider": "0x0bAe833178A7Ef0C5b47ca10D844736F65CBd499",
+      "PoolAddressesProviderRegistry": "0x2F7ae2EebE5Dd10BfB13f3fB2956C7b7FFD60A5F",
+      "PoolDataProvider": "0xDbeeD68b6F2a955dc81ABaDE8Fab6539aB0f85a4",
+      "PoolConfigurator (Proxy)": "0x7dbfE45Df67B22Aa60EA4A58d2B9C59eF7762052",
+      "PoolConfigurator (Impl.)": "0x13c6612361C04cD033B7835d6d4639ec2F6F9B11",
+      "ReservesSetupHelper": "0x4D573882AfD207b4B38E70Dc2a7061A000Ae5cad",
+      "BorrowLogic": "0x4D9B0c92466F399abEcA961B538ad058Cc1F06B9",
+      "BridgeLogic": "0xb35cE984b7EaC9DB6772bd13d0e590270b615456",
+      "ConfiguratorLogic": "0x277132810950695c5B625f7F7E1C7AeE66b3C59d",
+      "EModeLogic": "0xDC7d425fd1F012B6de08C639CAd47eF338f983D5",
+      "FlashLoanLogic": "0x477eb83E8B0A8818c8672BA5AfEB2CD34f190800",
+      "LiquidationLogic": "0x21cb627f771654f1D2784f80bd34692e4e84dD58",
+      "PoolLogic": "0xD0cc0850Cf3a3fb15F823DFE92Cf2407d9A168eB",
+      "SupplyLogic": "0x45b956bAe0C05Ec9Cc794aDb925bF9e7D3B221ff",
+      "StableOne": "0x68687f79B5422909569c7EF3BECD8FD38022d11D",
+      "StableTwo": "0x05B419391Ee8c801dF0Fb03BbAe567155e218492",
+      "VolatileOne": "0xCD8608F7526f29e0182D125a9b833e6875D3AC9e",
+      "AaveOracle": "0x58207F48394a02c933dec4Ee45feC8A55e9cdf38",
+      "AToken": "0x2ed958251971e4A08134774a1435592347D65BA8",
+      "DelegationAwareAToken": "0x5ABFDA171b3EFA66E4f3D2a616ff19000547FDdd",
+      "StableDebtToken": "0xE10c84210B3Dc7DED6649782Bc2cBc1e7564aBE6",
+      "VariableDebtToken": "0x5125c691a8a41281e24cd123E05331d4d547deA6",
+      "WMON_AToken": "0xc7fE001DD712beFb2de20abD34597CeF0250a6Ba",
+      "WMON_StableDebtToken": "0xCF5965F33dBdB9b7069Becc6C0B26c800ad722f1",
+      "WMON_VariableDebtToken": "0x6D918BFD4b978574b00cfe0f1872931203357d1E",
+      "USDC_AToken": "0x18d5fb20B2D252EaE3C13B51Cb53745F5b7D01dc",
+      "USDC_StableDebtToken": "0xCb72554A672c67EE5d07F0b6df44CdBDD52Bd6E0",
+      "USDC_VariableDebtToken": "0xFcb0C1De6159E6CED54CBf1222BB0187EB81e59f",
+      "USDT_AToken": "0xDD1124Cc06B2fEB6B03B94C0feD40b7352C07C24",
+      "USDT_StableDebtToken": "0x2274a0A678978d0B509e631f9cE33CF865d84A37",
+      "USDT_VariableDebtToken": "0x20838Ac96e96049C844f714B58aaa0cb84414d60",
+      "WBTC_AToken": "0x5e59DEBC244c947Cbc37763AB92E77A1acF24aF0",
+      "WBTC_StableDebtToken": "0xEc092B75e399cDf04e3E50A4fbE2f93d7dE3f99D",
+      "WBTC_VariableDebtToken": "0x0eEa99C3691348E937d33AebBF6aa0537fD0d500",
+      "WETH_AToken": "0xFDC8BC830Fef4BD6885043A279A768720Ec091be",
+      "WETH_StableDebtToken": "0xbf6fb697053CbA19803735CB670ba17F537Ea964",
+      "WETH_VariableDebtToken": "0xB61fe1aF61D75F44450e3Fa84F2f2dd75059897C",
+      "shMON_AToken": "0x81167bCBf086973018AeAb9F2598fC872EB3eE8E",
+      "shMON_StableDebtToken": "0x956CfAEc111576cbdecda79Af8F2EfD9A388c008",
+      "shMON_VariableDebtToken": "0x4fd95e1609220Bf078b465456ee7864b9A780830",
+      "gMON_AToken": "0x4D0a2adDEf97F02b11D0fdA1b0099Ca6907e37fb",
+      "gMON_StableDebtToken": "0xbc479bdDF5C97F93732f73559647D5a44263757B",
+      "gMON_VariableDebtToken": "0xbB40488f28c78d2d5CD79d46F934908308FA2169",
+      "WalletBalanceProvider": "0x2676Fbd55A095425B050CC70063de52aA91ff0a2",
+      "UiPoolDataProviderV3": "0x70690de9a88f7f5E79dde0F88C1c3B89223680B3",
+      "WrappedTokenGatewayV3": "0xCa203799274B20421bDa8fF98926e9b0e21E54Ff",
+      "Dust (Proxy)": "0x8c30De5c41528494DEC99f77a410FB63817dC7E2",
+      "Dust (Impl. V1)": "0x048AE2ceDb3579F79Fb8C4f4A2c82E7C5D950dFA",
+      "Dust (Impl. V2)": "0x5c6E25008bcbc6a056C54f1d9Dc3dd1e0FD4c59C",
+      "DustLock (Proxy)": "0x6bAf63f7959EA253006e7Af0BeFf29810CcbF661",
+      "DustLock (Impl.)": "0x01f842D0E4db22D7987E6611AD2Ced314cEB9f66",
+      "DustRewardsController (Proxy)": "0x7f60150CaF5AA98A99E6EcD2e34E1E8A18d99174",
+      "DustRewardsController (Impl.)": "0x798495BA821cD0D444A4ab4FA54bf989B80b62e1",
+      "DustLockTransferStrategy": "0x98A3C29416797Ee10b5714E2aFD07d18D7935864",
+      "RevenueReward (Proxy)": "0x498d3bCB37b004f40EbAAF19fec0E6b9e61786a4",
+      "RevenueReward (Impl.)": "0x27Ac5b54204cb505e3aF842CB14ad8FaF8069E22",
+      "UserVaultRegistry": "0x5A4be21F3e2fF5Aac9E9328965691F9776d9A9F3",
+      "UserVaultImplementation": "0x91412510b1B853005569998ed70D21b7A2de53c7",
+      "UserVaultBeacon": "0x64e169eB9ED9f1D29F576e521B5C3AF7d17ED261",
+      "UserVaultFactory (Proxy)": "0xa4620F718A2042fefaead2Bf1E72Fe1925BE6eCE",
+      "UserVaultFactory (Impl.)": "0x7ebc680C939Ef3A8A0430D3DA7Dcb3A4A58eDC47",
+      "ProxyAdmin": "0x723485842947E82783FC561720fB09B65F857ed5",
+      "NeverlandDustHelper": "0x611Db9cb04B5a8E0B275712F263552dc522a3DDa",
+      "NeverlandUiProvider": "0x733241d82C4410ec79C6ec9561440B463C0d6007",
+      "ChronicleOracleAggregator_WMON/USD": "0xEdEff4EDbFF52B7957Dd3F80FbA4EA6E10A9d092",
+      "BlocksenseOracleAggregator_WMON/USD": "0x7038Ad59f21cEd8Ea5cE69e3fCeA1206b31d434e",
+      "RedstoneOracleAggregator_GMON/MON": "0x013bE8765E51289af14A3563d34ee91B6B59EB70",
+      "RedstoneRatioOracleAggregator_GMON/USD": "0xA44aC06FE484D7849Ef3244A57723A1A36d7f222",
+      "SharesOracleAggregator_SHMON/USD": "0x0c0F6056A0215B3b9828Ce6032419232DdC34928",
+      "UniV3TwapAggregator_WMON/USDC": "0x1F55Ad177c9E5aaFcAf270908926B371003BF0f1",
+      "UniV3TwapAggregator_GMON/USDC": "0xEbD7c848E75af58AFA0A6c4CfEe78F976f8Fa4C4",
+      "UniV3TwapAggregator_SHMON/USDC": "0x2399057a489937b624E7D1aD7536B86B993AF5B8"
+    },
+    "links": {
+      "project": "https://neverland.money",
+      "twitter": "https://x.com/Neverland_Money",
+      "github": "https://github.com/Neverland-Money",
+      "docs": "https://docs.neverland.money"
+    }
+  },
+  "Poply": {
+    "name": "Poply",
+    "description": "Community-based NFT Marketplace & Launchpad, built natively on Monad. Launch Freely, Trade Seamlessly.",
+    "live": true,
+    "categories": [
+      "NFT::Marketplace"
+    ],
+    "addresses": {
+      "PoplyMarketplace (Proxy)": "0xC521D847e0DcEafAc0F197b8dC762aC58c7503d4",
+      "NftDropFactory": "0x5CbD62edE258e9D0947582e70A2895ce3c3880D0"
+    },
+    "links": {
+      "project": "https://poply.xyz/",
+      "twitter": "https://x.com/poply_xyz",
+      "github": "https://github.com/0xpoply",
+      "docs": "https://docs.poply.xyz/"
+    }
   },
   "aarna": {
     "name": "Aarna",
@@ -373,48 +610,6 @@
       "project": "https://xxxigm-monad-game.netlify.app/",
       "twitter": "https://twitter.com/CanhCan15085519",
       "github": "https://github.com/xxxigm"
-    }
-  },
-  "axal": {
-    "name": "Axal",
-    "description": "Axal puts your money to work. Build wealth with best in class yield on dollars, bitcoin, and gold.",
-    "live": true,
-    "categories": [
-      "Consumer::Other",
-      "DeFi::Yield"
-    ],
-    "addresses": {},
-    "links": {
-      "project": "https://www.axal.com/",
-      "twitter": "https://x.com/getaxal/",
-      "github": "https://github.com/getaxal/",
-      "docs": "https://docs.axal.com/",
-      "instagram": "https://www.instagram.com/getaxal/",
-      "linkedin": "https://www.linkedin.com/company/getaxal/",
-      "appstore": "https://apps.apple.com/us/app/axal-high-yield-savings/id6752484843",
-      "playstore": "https://play.google.com/store/apps/details?id=com.axal.android"
-    }
-  },
-  "axelar": {
-    "name": "Axelar",
-    "description": "Powering the Chain-Agnostic Future",
-    "live": true,
-    "categories": [
-      "Infra::Interoperability"
-    ],
-    "addresses": {
-      "AxelarGateway": "0xe432150cce91c13a887f7D836923d5597adD8E31",
-      "AxelarGasService": "0xbE406F0189A0B4cf3A05C286473D23791Dd44Cc6",
-      "MonadAxelarTransceiver": "0x50beAbe4883981624aEa01F737B040d1e3Fe83FB",
-      "Operators": "0x7F83F5cA2AE4206AbFf8a3C3668e88ce5F11C0B5",
-      "ConstAddressDeployer": "0x98B2920D53612483F91F12Ed7754E51b4A77919e",
-      "Create3Deployer": "0x6513Aedb4D1593BA12e50644401D976aebDc90d8"
-    },
-    "links": {
-      "project": "https://axelar.network",
-      "twitter": "https://x.com/axelar",
-      "github": "https://github.com/axelarnetwork",
-      "docs": "https://docs.axelar.dev"
     }
   },
   "az_ex": {
@@ -762,24 +957,6 @@
       "RegistryModuleOwner": "0x4b90270eAca902fBb9B3bbFd185F82A137a29739",
       "FeeTokens": "0x6fE981Dbd557f81ff66836af0932cba535Cbc343",
       "VerifierProxyAddress": "0xC539169910DE08D237Df0d73BcDa9074c787A4a1"
-    },
-    "links": {
-      "project": "https://chain.link/",
-      "twitter": "https://x.com/chainlink",
-      "github": "https://github.com/smartcontractkit/chainlink",
-      "docs": "https://docs.chain.link/"
-    }
-  },
-  "chainlink_ccip": {
-    "name": "Chainlink CCIP",
-    "description": "Chainlink is the standard for onchain finance, verifiable data, and cross-chain interoperability. Learn more by visiting chain.link.",
-    "live": true,
-    "categories": [
-      "Infra::Interoperability"
-    ],
-    "addresses": {},
-    "info": {
-      "note": "Supported lanes can be found at https://docs.chain.link/ccip/directory/testnet/chain/monad-testnet"
     },
     "links": {
       "project": "https://chain.link/",
@@ -1153,33 +1330,6 @@
       "twitter": "https://x.com/demaskfinance",
       "github": "https://github.com/DeMaskFinance",
       "docs": "https://docs.demask.finance/"
-    }
-  },
-  "dexalot": {
-    "name": "Dexalot",
-    "description": "Dexalot is a decentralized exchange (DEX) for spot trading, powered by a fully on-chain central limit order book (CLOB).  Competitive prices, zero to minimal slippage and no fees.",
-    "live": true,
-    "categories": [
-      "DeFi::DEX",
-      "DeFi::Cross Chain",
-      "DeFi::Trading Interfaces"
-    ],
-    "addresses": {
-      "Portfolio": "0x60D7D3394b96bAd07c99BD9fa86A6bF9414FF177",
-      "Exchange": "0xAf6cCd3E5780CB1d110C2009eC0a4D93C7e58654",
-      "DexalotRouter": "0xba6A764809d852306F0c19dD064279aEA30Bfeb2",
-      "MainnetRFQ": "0x77A547b5BE9346DdA5c9704FC148b61477A8326c",
-      "PortfolioBridge": "0x4Fd93FFC2Ae634B1EC487405F8f31792F120C875",
-      "LzV2App": "0x27236544ac6A580825Cf44Ce1248a7C4395EEc59",
-      "BannedAccounts": "0x0f52c1eB47e77B9C7AC4A6049c5E5AFD6eABeb54",
-      "Create3Factory": "0xeBf371993E47364A3926B977355CA60D79507406",
-      "ProxyAdmin": "0xEed3c159F3A96aB8d41c8B9cA49EE1e5071A7cdD"
-    },
-    "links": {
-      "project": "https://app.dexalot-test.com/",
-      "twitter": "https://x.com/dexalot",
-      "github": "https://github.com/dexalot",
-      "docs": "https://docs.dexalot.com/"
     }
   },
   "diffuse": {
@@ -2239,45 +2389,6 @@
       "docs": "https://docs.layerzero.network/v2"
     }
   },
-  "legends_of_elysium": {
-    "name": "Legends of Elysium",
-    "description": "A fantasy strategy game that combines TCG and board game mechanics. Collect cards, build custom decks, and engage in tactical battles.",
-    "live": true,
-    "categories": [
-      "Gaming::Games"
-    ],
-    "addresses": {
-      "LoeHero": "0x480085BCa6b7F7145eA90Bb8e2D22d1E5b860E16",
-      "LoeCard": "0x4304f1D44F89308DFA8966739954280b410d390F",
-      "LoeBoard": "0x1ae743310ef0637eA01CE69014471F2E5b4A4945",
-      "LoeTicket": "0x85AB76f1ABcbBeaA76e02d1DC93e9Eb3E6Bb9256",
-      "LoePackage": "0x805E0773Eb684c284c1F5A5bB56Db805e1B10587",
-      "LoeMine": "0x8F84dF6D9448B7F8Fdeec11196028Fbb55442c05",
-      "LOE": "0x1A5272834bBD706F2906799f78de892224B14Eb3",
-      "CurrencyManager": "0x0537D8e26F4970190f7e39604263D084bfC0eD0e",
-      "ExecutionManager": "0x82CA411e1513821d11A4203589Df62Cbb26F2d35",
-      "StrategyStandardSaleForFixedPrice": "0x01FF04DE2ab194403b3E611f11421E3B493Fe574",
-      "StrategyPrivateSale": "0x0D8825F212B83C8C09BCe058d357d26E82bfFF4C",
-      "RoyaltyFeeRegistry": "0x0c92adFe0aC3B8B562256A60E08a33659571F368",
-      "RoyaltyFeeManager": "0x2A8CDaf77644Fa072B2B0E7a8406B4D3422a4c0b",
-      "TransferManagerERC721": "0x4838E4eBA9807e380dCA1c938fB5FfacC41f5FC9",
-      "TransferManagerERC1155": "0xfDf94C5561BF58e74EBcaEE7b5FCDb61e84F9256",
-      "TransferSelectorNFT": "0x558E219B52C7D3A8F867998d67Fea1B581468A0b",
-      "LooksRareExchange": "0xABB8AF5eEcA3B309cB4D1cA62328847AaE412354",
-      "StrategyPartialSaleForFixedPrice": "0x0eA15B3d68F6b71E73aD3e7b4688eAA7D9018A7c",
-      "VoucherPayments": "0x8d85b3517b28C7CeB3c012e7a8b334a7259ddcAa",
-      "LoeCardBack": "0xA893B47D646D3aA876DafE8020BB7c6C456b7003",
-      "LoeAvatar": "0x0401333CCf65f19869080b15B210b02b7A942101",
-      "AccountFactory": "0x709b46F8FFA35bD4D2c974416b5e59eB7F40C6B9",
-      "LoeTome": "0x330D2d580FD9A2797A8072d71d899237Bc6891f9",
-      "LoeExchange": "0x6D83f477F9D7A5464b5be46D6337976eFDFEC7b6"
-    },
-    "links": {
-      "project": "https://legendsofelysium.io/",
-      "twitter": "https://x.com/LegendsElysium",
-      "docs": "https://legendsofelysium.io/wiki/"
-    }
-  },
   "legends_of_hearts": {
     "name": "Legends of Hearts",
     "description": "Legends of Hearts (LOH) is a multi-player family-friendly Web3 game. Team up, convert emotions, & share NFT gifts with loved ones.",
@@ -3110,99 +3221,6 @@
       "docs": "https://docs.narwhal.finance/"
     }
   },
-  "neverland": {
-    "name": "Neverland",
-    "description": "Neverland is a Monad-native decentralized lending protocol built on the Aave V3 framework, reimagining DeFi incentives through self-repaying loans, flexible NFT-based veToken governance, and automated yield strategies. It redistributes 100% of protocol revenue back to the community through governance-directed rewards, liquidity incentives, and deflationary buybacks and burns.",
-    "live": true,
-    "categories": [
-      "DeFi::Lending",
-      "NFT::Other",
-      "Governance::Other"
-    ],
-    "addresses": {
-      "ACLManager": "0xc363A56a66e912112d712A96Cf67AdeD43606420",
-      "Pool (Proxy)": "0x9861f6a26050e02Ff0C079657F5a3AFcD8D4af52",
-      "Pool (Impl.)": "0x6745D4B9Cf3bc935732DB4EC2A13aF01e988b675",
-      "PoolAddressesProvider": "0x0bAe833178A7Ef0C5b47ca10D844736F65CBd499",
-      "PoolAddressesProviderRegistry": "0x2F7ae2EebE5Dd10BfB13f3fB2956C7b7FFD60A5F",
-      "PoolDataProvider": "0xDbeeD68b6F2a955dc81ABaDE8Fab6539aB0f85a4",
-      "PoolConfigurator (Proxy)": "0x7dbfE45Df67B22Aa60EA4A58d2B9C59eF7762052",
-      "PoolConfigurator (Impl.)": "0x13c6612361C04cD033B7835d6d4639ec2F6F9B11",
-      "ReservesSetupHelper": "0x4D573882AfD207b4B38E70Dc2a7061A000Ae5cad",
-      "BorrowLogic": "0x4D9B0c92466F399abEcA961B538ad058Cc1F06B9",
-      "BridgeLogic": "0xb35cE984b7EaC9DB6772bd13d0e590270b615456",
-      "ConfiguratorLogic": "0x277132810950695c5B625f7F7E1C7AeE66b3C59d",
-      "EModeLogic": "0xDC7d425fd1F012B6de08C639CAd47eF338f983D5",
-      "FlashLoanLogic": "0x477eb83E8B0A8818c8672BA5AfEB2CD34f190800",
-      "LiquidationLogic": "0x21cb627f771654f1D2784f80bd34692e4e84dD58",
-      "PoolLogic": "0xD0cc0850Cf3a3fb15F823DFE92Cf2407d9A168eB",
-      "SupplyLogic": "0x45b956bAe0C05Ec9Cc794aDb925bF9e7D3B221ff",
-      "StableOne": "0x68687f79B5422909569c7EF3BECD8FD38022d11D",
-      "StableTwo": "0x05B419391Ee8c801dF0Fb03BbAe567155e218492",
-      "VolatileOne": "0xCD8608F7526f29e0182D125a9b833e6875D3AC9e",
-      "AaveOracle": "0x58207F48394a02c933dec4Ee45feC8A55e9cdf38",
-      "AToken": "0x2ed958251971e4A08134774a1435592347D65BA8",
-      "DelegationAwareAToken": "0x5ABFDA171b3EFA66E4f3D2a616ff19000547FDdd",
-      "StableDebtToken": "0xE10c84210B3Dc7DED6649782Bc2cBc1e7564aBE6",
-      "VariableDebtToken": "0x5125c691a8a41281e24cd123E05331d4d547deA6",
-      "WMON_AToken": "0xc7fE001DD712beFb2de20abD34597CeF0250a6Ba",
-      "WMON_StableDebtToken": "0xCF5965F33dBdB9b7069Becc6C0B26c800ad722f1",
-      "WMON_VariableDebtToken": "0x6D918BFD4b978574b00cfe0f1872931203357d1E",
-      "USDC_AToken": "0x18d5fb20B2D252EaE3C13B51Cb53745F5b7D01dc",
-      "USDC_StableDebtToken": "0xCb72554A672c67EE5d07F0b6df44CdBDD52Bd6E0",
-      "USDC_VariableDebtToken": "0xFcb0C1De6159E6CED54CBf1222BB0187EB81e59f",
-      "USDT_AToken": "0xDD1124Cc06B2fEB6B03B94C0feD40b7352C07C24",
-      "USDT_StableDebtToken": "0x2274a0A678978d0B509e631f9cE33CF865d84A37",
-      "USDT_VariableDebtToken": "0x20838Ac96e96049C844f714B58aaa0cb84414d60",
-      "WBTC_AToken": "0x5e59DEBC244c947Cbc37763AB92E77A1acF24aF0",
-      "WBTC_StableDebtToken": "0xEc092B75e399cDf04e3E50A4fbE2f93d7dE3f99D",
-      "WBTC_VariableDebtToken": "0x0eEa99C3691348E937d33AebBF6aa0537fD0d500",
-      "WETH_AToken": "0xFDC8BC830Fef4BD6885043A279A768720Ec091be",
-      "WETH_StableDebtToken": "0xbf6fb697053CbA19803735CB670ba17F537Ea964",
-      "WETH_VariableDebtToken": "0xB61fe1aF61D75F44450e3Fa84F2f2dd75059897C",
-      "shMON_AToken": "0x81167bCBf086973018AeAb9F2598fC872EB3eE8E",
-      "shMON_StableDebtToken": "0x956CfAEc111576cbdecda79Af8F2EfD9A388c008",
-      "shMON_VariableDebtToken": "0x4fd95e1609220Bf078b465456ee7864b9A780830",
-      "gMON_AToken": "0x4D0a2adDEf97F02b11D0fdA1b0099Ca6907e37fb",
-      "gMON_StableDebtToken": "0xbc479bdDF5C97F93732f73559647D5a44263757B",
-      "gMON_VariableDebtToken": "0xbB40488f28c78d2d5CD79d46F934908308FA2169",
-      "WalletBalanceProvider": "0x2676Fbd55A095425B050CC70063de52aA91ff0a2",
-      "UiPoolDataProviderV3": "0x70690de9a88f7f5E79dde0F88C1c3B89223680B3",
-      "WrappedTokenGatewayV3": "0xCa203799274B20421bDa8fF98926e9b0e21E54Ff",
-      "Dust (Proxy)": "0x8c30De5c41528494DEC99f77a410FB63817dC7E2",
-      "Dust (Impl. V1)": "0x048AE2ceDb3579F79Fb8C4f4A2c82E7C5D950dFA",
-      "Dust (Impl. V2)": "0x5c6E25008bcbc6a056C54f1d9Dc3dd1e0FD4c59C",
-      "DustLock (Proxy)": "0x6bAf63f7959EA253006e7Af0BeFf29810CcbF661",
-      "DustLock (Impl.)": "0x01f842D0E4db22D7987E6611AD2Ced314cEB9f66",
-      "DustRewardsController (Proxy)": "0x7f60150CaF5AA98A99E6EcD2e34E1E8A18d99174",
-      "DustRewardsController (Impl.)": "0x798495BA821cD0D444A4ab4FA54bf989B80b62e1",
-      "DustLockTransferStrategy": "0x98A3C29416797Ee10b5714E2aFD07d18D7935864",
-      "RevenueReward (Proxy)": "0x498d3bCB37b004f40EbAAF19fec0E6b9e61786a4",
-      "RevenueReward (Impl.)": "0x27Ac5b54204cb505e3aF842CB14ad8FaF8069E22",
-      "UserVaultRegistry": "0x5A4be21F3e2fF5Aac9E9328965691F9776d9A9F3",
-      "UserVaultImplementation": "0x91412510b1B853005569998ed70D21b7A2de53c7",
-      "UserVaultBeacon": "0x64e169eB9ED9f1D29F576e521B5C3AF7d17ED261",
-      "UserVaultFactory (Proxy)": "0xa4620F718A2042fefaead2Bf1E72Fe1925BE6eCE",
-      "UserVaultFactory (Impl.)": "0x7ebc680C939Ef3A8A0430D3DA7Dcb3A4A58eDC47",
-      "ProxyAdmin": "0x723485842947E82783FC561720fB09B65F857ed5",
-      "NeverlandDustHelper": "0x611Db9cb04B5a8E0B275712F263552dc522a3DDa",
-      "NeverlandUiProvider": "0x733241d82C4410ec79C6ec9561440B463C0d6007",
-      "ChronicleOracleAggregator_WMON/USD": "0xEdEff4EDbFF52B7957Dd3F80FbA4EA6E10A9d092",
-      "BlocksenseOracleAggregator_WMON/USD": "0x7038Ad59f21cEd8Ea5cE69e3fCeA1206b31d434e",
-      "RedstoneOracleAggregator_GMON/MON": "0x013bE8765E51289af14A3563d34ee91B6B59EB70",
-      "RedstoneRatioOracleAggregator_GMON/USD": "0xA44aC06FE484D7849Ef3244A57723A1A36d7f222",
-      "SharesOracleAggregator_SHMON/USD": "0x0c0F6056A0215B3b9828Ce6032419232DdC34928",
-      "UniV3TwapAggregator_WMON/USDC": "0x1F55Ad177c9E5aaFcAf270908926B371003BF0f1",
-      "UniV3TwapAggregator_GMON/USDC": "0xEbD7c848E75af58AFA0A6c4CfEe78F976f8Fa4C4",
-      "UniV3TwapAggregator_SHMON/USDC": "0x2399057a489937b624E7D1aD7536B86B993AF5B8"
-    },
-    "links": {
-      "project": "https://neverland.money",
-      "twitter": "https://x.com/Neverland_Money",
-      "github": "https://github.com/Neverland-Money",
-      "docs": "https://docs.neverland.money"
-    }
-  },
   "nextmate_ai": {
     "name": "Nextmate.ai",
     "description": "Nextmate.ai – Decentralized, AI-Driven Prediction Markets with Memecoin Integration.",
@@ -3714,24 +3732,6 @@
       "twitter": "https://x.com/polymerlabs",
       "github": "https://github.com/polymerdao",
       "docs": "https://docs.polymerlabs.org/"
-    }
-  },
-  "poply": {
-    "name": "Poply",
-    "description": "Community-based NFT Marketplace & Launchpad, built natively on Monad. Launch Freely, Trade Seamlessly.",
-    "live": true,
-    "categories": [
-      "NFT::Marketplace"
-    ],
-    "addresses": {
-      "PoplyMarketplace (Proxy)": "0xC521D847e0DcEafAc0F197b8dC762aC58c7503d4",
-      "NftDropFactory": "0x5CbD62edE258e9D0947582e70A2895ce3c3880D0"
-    },
-    "links": {
-      "project": "https://poply.xyz/",
-      "twitter": "https://x.com/poply_xyz",
-      "github": "https://github.com/0xpoply",
-      "docs": "https://docs.poply.xyz/"
     }
   },
   "prediction3": {
