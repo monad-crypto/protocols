@@ -496,21 +496,6 @@
       "docs": "https://github.com/castora-xyz/castora?tab=readme-ov-file#castora"
     }
   },
-  "catton_ai": {
-    "name": "Catton AI",
-    "description": "Catton AI, backed by Forj & Ape Accelerator, leads AI NPC gaming on Telegram with 900K users and 300k holders.",
-    "live": true,
-    "categories": [
-      "Gaming::Games"
-    ],
-    "addresses": {
-      "contract": "0xd79662985f1ba7B5aEe59372c964feb95FcDC08A"
-    },
-    "links": {
-      "project": "https://catton.ai",
-      "twitter": "https://x.com/Cattontw"
-    }
-  },
   "chainlink": {
     "name": "Chainlink",
     "description": "Chainlink is the standard for onchain finance, verifiable data, and cross-chain interoperability. Learn more by visiting chain.link.",
@@ -871,21 +856,6 @@
       "docs": "https://docs.doppler.lol"
     }
   },
-  "drkvrs": {
-    "name": "DRKVRS",
-    "description": "DRKVRS is a Web3 Multiplayer Action RPG game with innovative mechanics, set in a dystopian and brutalist world.",
-    "live": true,
-    "categories": [
-      "Gaming::Games"
-    ],
-    "addresses": {
-      "protocol": "0x1D03198a0bBFf614865081A96b65C8a134a224d4"
-    },
-    "links": {
-      "project": "https://www.drkvrs.io",
-      "twitter": "https://x.com/drkvrs"
-    }
-  },
   "dyson_finance": {
     "name": "Dyson Finance",
     "description": "Dyson Finance makes DeFi more inclusive and profitable by combining dynamic AMM, Dual Investment, and a Membership Program.",
@@ -1240,23 +1210,6 @@
       "twitter": "https://x.com/gifteddotart"
     }
   },
-  "gm_agents": {
-    "name": "GM Agents",
-    "description": "GM Agents is building the on-chain memory protocol for AI. We turn your interactions and knowledge into digital memories you can own, share, and earn from. Your memory, your asset.",
-    "live": true,
-    "categories": [
-      "AI::Agent Launchpad",
-      "AI::Consumer AI",
-      "AI::Data"
-    ],
-    "addresses": {
-      "default": "0xbE1419d305d344E252c3AB9b688B664bfDa928cf"
-    },
-    "links": {
-      "project": "https://gmagents.ai/",
-      "twitter": "https://x.com/GMAgents_AI"
-    }
-  },
   "gmgn": {
     "name": "Gmgn",
     "description": "GMGN Follow the smart money and KOL, discover future hot assets, and let GMGN take you one step ahead! track unrealized/realized profit, discover Smart Traders, and monitor wallet movement in real-time.",
@@ -1286,42 +1239,6 @@
     "links": {
       "project": "https://t.me/griffybot_bot",
       "twitter": "https://x.com/GriffyCommunity"
-    }
-  },
-  "ha_ha": {
-    "name": "HaHa Wallet",
-    "description": "Native wallet with ultra-fast transactions, exclusive rewards, and discounts.",
-    "categories": [
-      "Infra::Wallet",
-      "Consumer::Other"
-    ],
-    "addresses": {
-      "MetaAccount": "0xbd2C0dc6521CD25A8bb3943f50B5Eec7A9d9a8a2",
-      "FeeManager": "0x4631F923C3c470061A97e008ED9c33DA4349612c",
-      "NonceManager": "0xfFf4baDfe0EB9731F5593fE7CEd5B1209055E640",
-      "MerkleDistributor": "0xA01A2488Cbe09156da4a78fA46483556CE41710a"
-    },
-    "links": {
-      "project": "https://www.haha.me/",
-      "twitter": "https://x.com/haha_app",
-      "github": "https://github.com/permutize",
-      "docs": "https://hahacrypto.notion.site/HaHa-Wallet-dApp-Integration-Guide-450e401310844f069d92ba82b4ddb68c/"
-    }
-  },
-  "haha_wallet": {
-    "name": "HaHa Wallet",
-    "description": "Native smart wallet with DeFi automations and a community rewards system.",
-    "live": true,
-    "categories": [
-      "Infra::Wallet"
-    ],
-    "addresses": {
-      "Bundler": "0x4337002C5702CE424Cb62A56CA038e31e1D4A93d"
-    },
-    "links": {
-      "project": "https://www.haha.me",
-      "twitter": "https://x.com/haha_app",
-      "docs": "https://hahacrypto.notion.site/HaHa-Wallet-dApp-Integration-Guide-450e401310844f069d92ba82b4ddb68c"
     }
   },
   "hashflow": {
@@ -1729,31 +1646,6 @@
       "twitter": "https://x.com/Lootify_xyz"
     }
   },
-  "m0narch": {
-    "name": "M0narch",
-    "description": "Provably fair iGaming platform on Monad - every wager, outcome, and payout is secured on-chain",
-    "categories": [
-      "Consumer::Betting",
-      "Consumer::Prediction Market"
-    ],
-    "addresses": {
-      "Roulette": "0x32abcb3ec874c934bfb81fc66bc7943bf3dacde7",
-      "ChestsUpdated": "0x80f9cefc95699b7941dFA1F52c9c75d7C5e361Bd",
-      "Plinko": "0xb320c0db0e7d2feeda4cf09dbd009450561c551e",
-      "RPSUpdated": "0x77371f7452AFF5FcaA3A3B59A11794dB19Af5981",
-      "MonRoll": "0xeb2A705CEA0Fa7C9C37511a6C09cdfCF2E0B1B95",
-      "RPSOld": "0x21730Db7aE00538A2ccfF5AFA602c37db1C0cC2f",
-      "ChestsOld": "0x801bab7088890ec76db4841822d9abc427a6aa8d",
-      "PredictionBTC": "0xdD5c3cc253749b51E9ACCFF0e964BC7629A639Fc",
-      "PredictionETH": "0xDA2fd442158C59f4535F174652c5415F7fBeBf3f",
-      "PredictionSOL": "0x5a68e6e6a7be049801e917dD7192237D81b56398"
-    },
-    "links": {
-      "project": "https://m0narch.xyz",
-      "twitter": "https://x.com/MonadM0narch",
-      "github": "https://github.com/m0narch-xyz"
-    }
-  },
   "mace": {
     "name": "Mace",
     "description": "Mace is a DEX aggregator on Monad that optimizes trades by routing through AMMs, orderbooks & RFQ market makers for best execution",
@@ -1848,22 +1740,6 @@
       "project": "https://www.magmastaking.xyz/",
       "twitter": "https://x.com/MagmaStaking",
       "docs": "https://docs.hydrogenlabs.xyz/magma"
-    }
-  },
-  "meme_ai_assistant": {
-    "name": "MemeAIAssistant",
-    "description": "A Farcaster MiniApp that allows users to generate, mint, and share meme images with just a text prompt.",
-    "categories": [
-      "AI::Other"
-    ],
-    "addresses": {
-      "Daily SignIn": "0x18f72532ec1511e3A5132d1f114d5FAC30ca9226",
-      "Meme NFT": "0x36a9305Eb14906A3676F772375d59b3495dA9c1E"
-    },
-    "links": {
-      "project": "https://meme-ai-assistant.archlab.space/landing",
-      "twitter": "https://x.com/archlab_space",
-      "farcaster": "https://farcaster.xyz/miniapps/bJ_dfhkjZK58/monad-meme-ai-assistant"
     }
   },
   "mentaport": {
@@ -2043,23 +1919,6 @@
     "links": {
       "project": "https://testnet.morenad.xyz",
       "twitter": "https://x.com/morenad_xyz"
-    }
-  },
-  "moseiki": {
-    "name": "Moseiki",
-    "description": "Moseiki is Web3 Social Networking Application that merges the familiar experience of Web2 with the financial power of blockchain.",
-    "live": true,
-    "categories": [
-      "Consumer::Social"
-    ],
-    "addresses": {
-      "Handle": "0x0d8C559e312DDF19e4F60A47Db0877Bbe30B6b30",
-      "PostMint": "0x4ddD439F6256E293e3814F820bbB1276DD5f4CaE"
-    },
-    "links": {
-      "project": "https://moseiki.app/",
-      "twitter": "https://x.com/MoseikiApp",
-      "docs": "https://docs.moseiki.app/help-center"
     }
   },
   "mu_digital": {
@@ -2403,22 +2262,6 @@
       "docs": "https://opals.gitbook.io/opals"
     }
   },
-  "open_pad_ai": {
-    "name": "OpenPad AI",
-    "description": "OpenPad AI is Leveraging Decentralized AI Analytics to Deliver Data-backed Investment Strategies #AI #Web3",
-    "live": true,
-    "categories": [
-      "AI::Data"
-    ],
-    "addresses": {
-      "contract": "0x179Fd30F3924bE36f6d61F750eE8054EFfab49C3"
-    },
-    "links": {
-      "project": "https://openpad.io/",
-      "twitter": "https://x.com/Openpad_io",
-      "docs": "https://docs.openpad.io/"
-    }
-  },
   "opinion_labs": {
     "name": "Opinion Labs",
     "description": "Next-gen Prediction Market for Everything",
@@ -2666,30 +2509,6 @@
       "twitter": "https://x.com/polymerlabs",
       "github": "https://github.com/polymerdao",
       "docs": "https://docs.polymerlabs.org/"
-    }
-  },
-  "primex_finance": {
-    "name": "Primex Finance",
-    "description": "Primex Finance is a leveraged farming & trading protocol offering top APYs & margin trading for unlimited tokens on DEXs.",
-    "live": true,
-    "categories": [
-      "DeFi::Prime Brokerage"
-    ],
-    "addresses": {
-      "PositionManager": "0x5C4874e36098A94004781241e78e34ba46210486",
-      "PositionManagerExtension": "0x425a8cbeFfEA4e172eA987BeB8A2FbAa80B8E33D",
-      "PositionManager_Implementation": "0x4c87FEF5bafc7771e2fa4B8a32E708eAEBd09D4d",
-      "LimitOrderLibrary": "0xFdB77cE2eFff6bb5ab6c7BAaF9Dd249363D1964D",
-      "LimitOrderManager": "0x8C83d00C109c7304015Adb1B50d7F26422F8732a",
-      "LimitOrderManager_Implementation": "0xeF0d1Db4D87a01Fa846e1Df712162c4A1a4b07dd",
-      "Primex Bucket USDC-PMock": "0xc362B995A609F4EA31726E47555beCf5f6909860",
-      "Primex Bucket USDC": "0x12D0A891C4298eC7B6F4Cdd846F6601c6DB015E0"
-    },
-    "links": {
-      "project": "https://primex.finance/",
-      "twitter": "https://x.com/primex_official",
-      "github": "https://github.com/primex-finance",
-      "docs": "https://docs.primex.finance/"
     }
   },
   "primus": {
@@ -3078,30 +2897,6 @@
       "twitter": "https://x.com/StorkOracle",
       "github": "https://github.com/Stork-Oracle",
       "docs": "https://docs.stork.network/"
-    }
-  },
-  "sumer_money": {
-    "name": "Sumer",
-    "description": "Sumer unifies correlated/non-correlated asset lending, CDP synthetics, and bridge liquidity into a capital-efficient DeFi pool",
-    "live": true,
-    "categories": [
-      "DeFi::Lending"
-    ],
-    "addresses": {
-      "ProxyAdmin": "0x91E61a73e021D701092Abf8f0C2036c4B9711AE7",
-      "Multicall2": "0xa52A889FCA8706EB91Df92421E4303550aDfb64D",
-      "CompoundLens": "0x092fa73f599f3CcEa2093d65c9fDcb4A49fa7924",
-      "FeedPriceOracle": "0x5F558f2aaE98D166537931F27bD8E0D149bBd700",
-      "CompLogic": "0xc53fCf3cE027ABbb7fAaAB77eFa464eD67EE1f6f",
-      "RedemptionManager": "0x9A00A29732DDC6EE4CE8Ca115e0ba155cD34Cb28",
-      "Timelock": "0x18438738298064D48666CF52Ad7A759d2d838f97",
-      "Comptroller": "0x32F1C06EB41BF76dfd4C3E4F73BEfeBCAEc60D13"
-    },
-    "links": {
-      "project": "https://sumer.money/",
-      "twitter": "https://x.com/sumermoney",
-      "github": "https://github.com/meterio/sumer-contracts",
-      "docs": "https://docs.sumer.money/"
     }
   },
   "swaap": {
