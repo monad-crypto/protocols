@@ -4,8 +4,6 @@ Blazpay,AI,Abstraction Infrastructure,EntryPass,0x0768bdd56a00fe7e18a91033d4b84d
 Blazpay,AI,Abstraction Infrastructure,GamesV2,0xaadecc979ac53fca7ee6b8f2a94a85f8f7f23729,AI::Abstraction Infrastructure
 Blazpay,AI,Abstraction Infrastructure,StakeStone,0xf38c90bbecee227a7ae153b1fa4c7216292c8b61,AI::Abstraction Infrastructure
 GM Agents,AI,Agent Launchpad,default,0xbe1419d305d344e252c3ab9b688b664bfda928cf,AI::Agent Launchpad;AI::Consumer AI;AI::Data
-Monad Baby,AI,Agent Launchpad,unknown0,0xeecd02c2e160516ad2bd0e089e7d6d83d558ca25,AI::Agent Launchpad
-Monad Baby,AI,Agent Launchpad,unknown1,0x39cc8293c8d08a57f97c7be82909ef2171588079,AI::Agent Launchpad
 Symphony,AI,Agent Launchpad,CallbackAdapter,0x6e5e5f7adba00b2e3867dbf2e6e662eb98208f75,AI::Agent Launchpad;AI::Abstraction Infrastructure;AI::Infrastructure;DeFi::Intents;DeFi::Cross Chain;Infra::AA;Infra::Interoperability;Infra::Developer Tooling;CeFi::Institutional Trading
 Symphony,AI,Agent Launchpad,Create2Deployer,0x0e2472e42ae6df7674c6c4c807cd45f6d47a2a1b,AI::Agent Launchpad;AI::Abstraction Infrastructure;AI::Infrastructure;DeFi::Intents;DeFi::Cross Chain;Infra::AA;Infra::Interoperability;Infra::Developer Tooling;CeFi::Institutional Trading
 Symphony,AI,Agent Launchpad,Create3Deployer,0xc4a15e24d5aa36c63941b1992a28661bf215e968,AI::Agent Launchpad;AI::Abstraction Infrastructure;AI::Infrastructure;DeFi::Intents;DeFi::Cross Chain;Infra::AA;Infra::Interoperability;Infra::Developer Tooling;CeFi::Institutional Trading
@@ -15,13 +13,10 @@ Symphony,AI,Agent Launchpad,Registry,0xe1a5d791f293ba2a32613939d7012b509883eb5e,
 Symphony,AI,Agent Launchpad,SolverPaymaster,0x24561a639089126addae7c63c66df668404f94fa,AI::Agent Launchpad;AI::Abstraction Infrastructure;AI::Infrastructure;DeFi::Intents;DeFi::Cross Chain;Infra::AA;Infra::Interoperability;Infra::Developer Tooling;CeFi::Institutional Trading
 Symphony,AI,Agent Launchpad,SolverRouter,0x32aef4656e2cd5b41567225c2933ec72e956e5d0,AI::Agent Launchpad;AI::Abstraction Infrastructure;AI::Infrastructure;DeFi::Intents;DeFi::Cross Chain;Infra::AA;Infra::Interoperability;Infra::Developer Tooling;CeFi::Institutional Trading
 Symphony,AI,Agent Launchpad,SymphonySmartAccount,0x527849787bb79cbede5ebed438e685c3b56abb98,AI::Agent Launchpad;AI::Abstraction Infrastructure;AI::Infrastructure;DeFi::Intents;DeFi::Cross Chain;Infra::AA;Infra::Interoperability;Infra::Developer Tooling;CeFi::Institutional Trading
-aiCraft.fun,AI,Agent Launchpad,default,0xd227d3bce59b91380b7bc4a61a045b528b509439,AI::Agent Launchpad
 KINETK,AI,Consumer AI,KinetkIPCertificate,0xd057b63f5e69cf1b929b356b579cba08d7688048,AI::Consumer AI;AI::Data;DeFi::RWA;Infra::Other
 Proof-of-Skill,AI,Consumer AI,protocol,0xca28b582af1e1701a1c91fb19f8633b79ad2e572,AI::Consumer AI
 Codatta,AI,Data,default,0x7ddd7de29a12c122ac6a97584aa734b5d096ef8f,AI::Data
-Monadata AI,AI,Data,default,0xa1848085c2a7804516c14faac35f1899ee74cb51,AI::Data;DePIN::Data Labelling
 OpenPad AI,AI,Data,contract,0x179fd30f3924be36f6d61f750ee8054effab49c3,AI::Data
-Sela Network,AI,Data,SelaPower,0xd43d1530ec32dc33c95eea1e5fd913412ede1561,AI::Data;AI::Infrastructure;DePIN::Data Collection;DePIN::Compute
 Fortytwo,AI,Inference,Core,0xdf26b347a02e74cd8bf6f562454826cd49cc6cb1,AI::Inference
 Fortytwo,AI,Inference,NodeRatings,0x66a49be7a0dc3150146d2db64f4aa46c3e1562a5,AI::Inference
 MemeAIAssistant,AI,Other,Daily SignIn,0x18f72532ec1511e3a5132d1f114d5fac30ca9226,AI::Other
@@ -29,9 +24,6 @@ MemeAIAssistant,AI,Other,Meme NFT,0x36a9305eb14906a3676f772375d59b3495da9c1e,AI:
 MonadAI,AI,Other,Bonding Curve,0xa6ec9703d00910a4958419e9b51b2644ccb47d8d,AI::Other
 MonadAI,AI,Other,MFactory,0x599de100b68c931f05f75f0df340529a8f040255,AI::Other
 MonadAI,AI,Other,MRouter,0xb5e91e0259e01bcc488c1bca4611cbe1b6c7e700,AI::Other
-Chaquen,Consumer,Betting,ChaquenPoints,0x69e7352d0c5f644caa65864198647f7fc420e4f2,Consumer::Betting
-Chaquen,Consumer,Betting,LeagueFactory,0x959713387eb8ce3ee98bd3f6f0ff622a8bb17e93,Consumer::Betting
-Chaquen,Consumer,Betting,PlayerNFT,0x5f505e4862b2e8b34ffffeeb2c397d211d644a5a,Consumer::Betting
 Griffy,Consumer,Betting,default,0x14d2d2c5caf9e5611f9633a7bf73efe75d6750ca,Consumer::Betting
 M0narch,Consumer,Betting,ChestsOld,0x801bab7088890ec76db4841822d9abc427a6aa8d,Consumer::Betting;Consumer::Prediction Market
 M0narch,Consumer,Betting,ChestsUpdated,0x80f9cefc95699b7941dfa1f52c9c75d7c5e361bd,Consumer::Betting;Consumer::Prediction Market
@@ -49,28 +41,14 @@ Morenad,Consumer,Betting,MiningGameVault,0x75168b1311570201dca1f0c62d3dbb64e7219
 Morenad,Consumer,Betting,MoreToken,0x35f3bd2a352c6ef34de17cb618ac871acabc7abd,Consumer::Betting;Gaming::Games;DeFi::Staking
 Morenad,Consumer,Betting,TreasuryStaking,0x4bb4eb9d0aaa49399417899c3aa2f1ade92cbbc3,Consumer::Betting;Gaming::Games;DeFi::Staking
 Morenad,Consumer,Betting,TreasuryVault,0xc04fe474cfd3a96e07afaa269d42554f867ce7fe,Consumer::Betting;Gaming::Games;DeFi::Staking
-RareBetSports,Consumer,Betting,Oracle,0xa2e3fbc6d97e75b178f6ef40b18709f5fe3d6a2c,Consumer::Betting
-RareBetSports,Consumer,Betting,SlipRepository,0x7d1db4e6cd071b12f3a4af6816ea0585b7b420bf,Consumer::Betting
-YieldKingZ,Consumer,Betting,ItemShop,0xc39f07c4605491294026fc33dfd1e5ffe17233b1,Consumer::Betting
-YieldKingZ,Consumer,Betting,NftControl,0xa14af14e75c85ca8413d25de3be702237bd3e303,Consumer::Betting
-YieldKingZ,Consumer,Betting,NftMarketPlace,0xeb8ae4e178bcc8366d1f0ce069875419212e7a8e,Consumer::Betting
-YieldKingZ,Consumer,Betting,Treasury,0xd22ea6e9d5d01bbfca62be7c1e549838178499c1,Consumer::Betting
-YieldKingZ,Consumer,Betting,YieldKingZNFT,0x60527b8bc20fd8bfdaf4988713ac9be145781aaf,Consumer::Betting
 Blocklive,Consumer,E-commerce / Ticketing,default,0x7af6ddb984bac7df0dbefa0aa37a7b3dfb5c4020,Consumer::E-commerce / Ticketing
 Fizen.io,Consumer,E-commerce / Ticketing,Distributor,0x985ddbb8dd2c6eba617fa059e75f61c329d7501d,Consumer::E-commerce / Ticketing
 LootGO,Consumer,Other,default,0x7aba1665355d1a23d2ce551d167a4fe709feb485,Consumer::Other
-Slogain,Consumer,Other,default,0x0ce15107f8e0df94015bb94ad699a4931bba3076,Consumer::Other
 Castora,Consumer,Prediction Market,default,0xa0742c672e713327b0d6a4bff34bbb4cbb319c53,Consumer::Prediction Market
 Opinion Labs,Consumer,Prediction Market,BatchAirdrop,0x9a6a6f5b54b304aef92960c631ad7d4be8d258f6,Consumer::Prediction Market
 Opinion Labs,Consumer,Prediction Market,ConditionalToken,0x9f2515fa41c85208bc51309693e768f577c4b924,Consumer::Prediction Market
 Opinion Labs,Consumer,Prediction Market,Exchange,0x1cc00c2669a9ee82ab1088e1b172f9da4bf4bfff,Consumer::Prediction Market
 Opinion Labs,Consumer,Prediction Market,GnosisSafeFactory,0xa6b71e26c5e0845f74c812102ca7114b6a896ab2,Consumer::Prediction Market
-Prediction3,Consumer,Prediction Market,PredictionFactory,0x0188b5b4d6869a706c153b89b7142dd4879b6ca1,Consumer::Prediction Market
-Dusted,Consumer,Social,default,0x18c9534dfe16a0314b66395f48549716fff9aa66,Consumer::Social
-Fantasy Top,Consumer,Social,market,0x04edb399cc24a95672bf9b880ee550de0b2d0b1e,Consumer::Social
-Fantasy Top,Consumer,Social,unknown1,0xfa4d5a9cea2822ba08d0266f121011ac527ced64,Consumer::Social
-Fantasy Top,Consumer,Social,unknown2,0xdcf3c00e9f8a2fdaaf19fe59050e80c433b509dc,Consumer::Social
-Fantasy Top,Consumer,Social,unknown3,0x89e4a70de5f2ae468b18b6b6300b249387f9adf0,Consumer::Social
 MUKU,Consumer,Social,ChallengeResultImpl,0x07055fd1c3e7d0a53f8f98e8885b55bae2a32533,Consumer::Social;AI::Consumer AI
 MUKU,Consumer,Social,ChallengeResultProxy,0x9090a0968165beb1169d8f2fceb86eca7645506a,Consumer::Social;AI::Consumer AI
 Moseiki,Consumer,Social,Handle,0x0d8c559e312ddf19e4f60a47db0877bbe30b6b30,Consumer::Social
@@ -80,7 +58,6 @@ Talentum,Consumer,Social,DailyActivities,0xcbe623d259261ffa0cfaff44484bff46c1b7d
 Talentum,Consumer,Social,PayRoll,0xd646ed71b83ae652e5c77b1a981fc1bcebcf1533,Consumer::Social
 Talentum,Consumer,Social,StakingMON,0xc803d3cbe1b4811442a4502153685a235ea90741,Consumer::Social
 Talentum,Consumer,Social,StakingTokens,0x9b26aa304e7a4b09e6cf5fd5681b19abda1355b6,Consumer::Social
-X-Mail,Consumer,Social,Main,0xf093c9066857bec2ea2e19d88ca5a117dbdeed8c,Consumer::Social
 sidekick,Consumer,Social,unknown0,0x6d9063949b39b95bf24953e22884deab92dfe196,Consumer::Social
 sidekick,Consumer,Social,unknown1,0xf84e39e7d27e446d31cb253d7d37940c61991819,Consumer::Social
 Bima,DeFi,Asset Issuers,BimaCore,0x3175c8e8c107c34d69d6884e1cc9c240b227db06,DeFi::Asset Issuers
@@ -122,9 +99,6 @@ Garden,DeFi,Cross Chain,cbbtc_htlc,0x5c9f75f5bbefb2734034f8c833e79cfb7e9ed518,De
 Garden,DeFi,Cross Chain,cbbtc_token,0x8cb57367532a5a967425ace0e5ed4554bfe3d341,DeFi::Cross Chain
 Garden,DeFi,Cross Chain,usdc_htlc,0x819ca7042b3e59f613dc67179b640c5b99a15c5b,DeFi::Cross Chain
 Garden,DeFi,Cross Chain,usdc_token,0x6c8f9d333964328f7ae2f0ea35389730d88f3d29,DeFi::Cross Chain
-Ambient,DeFi,DEX,Dex,0x88b96af200c8a9c35442c8ac6cd3d22695aae4f0,DeFi::DEX
-Ambient,DeFi,DEX,PriceImpactCalculator,0x70a6a0c905af5737ad73ceba4e6158e995031d4b,DeFi::DEX
-Ambient,DeFi,DEX,Query,0x1c74dd2df010657510715244da10ba19d1f3d2b7,DeFi::DEX
 Amertis,DeFi,DEX,router,0xa89aa6a1f0347f38d75918e07e8a321eb3c8fc09,DeFi::DEX
 Atlantis,DeFi,DEX,AlgebraCommunityVault,0x4439199c3743161ca22bb8f8b6dec5bf6ff65b04,DeFi::DEX
 Atlantis,DeFi,DEX,AlgebraEternalFarming,0x50fcbf85d23af7c91f94842fecd83d16665d27ba,DeFi::DEX
@@ -164,9 +138,6 @@ Balancer,DeFi,DEX,WeightedPoolFactory,0xf23b4db826dba14c0e857029dff076b1c0264843
 Bean Exchange,DeFi,DEX,PerpsRouter,0xdf0a565f332278ff2d0c50876da3a6701cbc6123,DeFi::DEX;DeFi::Perpetuals / Derivatives
 Bean Exchange,DeFi,DEX,SpotRouter,0xca810d095e90daae6e867c19df6d9a8c56db2c89,DeFi::DEX;DeFi::Perpetuals / Derivatives
 Bean Exchange,DeFi,DEX,StrategyVault,0x24f011a9da540dcc61c550ae62253dc36e834c49,DeFi::DEX;DeFi::Perpetuals / Derivatives
-Bubblefi,DeFi,DEX,FACTORY,0xd829c1d3649dbc3fd96d3d22500ef33a46daae46,DeFi::DEX
-Bubblefi,DeFi,DEX,RAFFLE,0x4a51b9c6f6368867d2dd9e1c398941a2ae9eb6c9,DeFi::DEX
-Bubblefi,DeFi,DEX,ROUTER,0x0f2d067f8438869da670efc855eacac71616ca31,DeFi::DEX
 Clober,DeFi,DEX,BookManager,0xaa9575d63dfc224b9583fc303db3188c08d5c85a,DeFi::DEX
 Clober,DeFi,DEX,BookViewer,0x3e22d091f90ae759733b7cb06a6f7b440d84a425,DeFi::DEX
 Clober,DeFi,DEX,Controller,0xe64ace1bf550e57461cd4e24706633d7fac9d7b0,DeFi::DEX
@@ -214,10 +185,6 @@ Madness,DeFi,DEX,ContractMAD,0xc8527e96c3cb9522f6e35e95c0a28feab8144f15,DeFi::DE
 Madness,DeFi,DEX,Factory,0x642871094fd976de43a21cb48aa20b4a8baaaa0d,DeFi::DEX
 Madness,DeFi,DEX,Multicall2,0x1a6720a763f8cbca3804b3ece26efe67b3a0c48e,DeFi::DEX
 Madness,DeFi,DEX,Router,0x64aff7245ebdaaecaf266852139c67e4d8dba4de,DeFi::DEX
-Monadex,DeFi,DEX,Factory,0xe857d3ef94f7dd1c710f2570541096454103da42,DeFi::DEX
-Monadex,DeFi,DEX,Multicall,0x0935b74023b140ea14d69df16121c174dae6b853,DeFi::DEX
-Monadex,DeFi,DEX,Raffle,0x3c977e357b24f0b1432a1b6ee1bd259bf2fb2a65,DeFi::DEX
-Monadex,DeFi,DEX,Router,0x0f5c0ac0d41fc9d5e1366b94934330b67de0193b,DeFi::DEX
 Monday Trade,DeFi,DEX,Aggregator,0xef8dd29d887ecd977064ce169366c95d53926b13,DeFi::DEX
 Monday Trade,DeFi,DEX,NFTPositionManager,0x92dc89ad1f6136a474f9e035ebc7db2009717cef,DeFi::DEX
 Monday Trade,DeFi,DEX,QuoterV2,0x9c6d653c95d3bbfceec215b5f4fb5297b80b47b4,DeFi::DEX
@@ -267,33 +234,13 @@ PancakeSwap,DeFi,DEX,SmartRouter,0xe27dc57fce896350a38d8d8adceefbfb5649d9de,DeFi
 PancakeSwap,DeFi,DEX,SwapRouter,0x46cf505b6ab4aea209480029c9492cb8014cc6a2,DeFi::DEX
 PancakeSwap,DeFi,DEX,TokenValidator,0x05311098a9352cccae561780b455a99fc4eb9d30,DeFi::DEX
 PancakeSwap,DeFi,DEX,UniversalRouter,0x94d220c58a23ae0c2ee29344b00a30d1c2d9f1bc,DeFi::DEX
-ReactorFi,DeFi,DEX,BribeFactory,0x30ad43c054ab83a3a553ba09b1eba6f24a6de7dc,DeFi::DEX
-ReactorFi,DeFi,DEX,GaugeFactory,0x76c01f657d3de43b38925299b7cff33a31a107fe,DeFi::DEX
-ReactorFi,DeFi,DEX,MinterUpgradeable,0x3dad509f4ea243d993b47104562f91d085d4abd4,DeFi::DEX
-ReactorFi,DeFi,DEX,Oracle,0xaa97c394c26c122f926feb015237c82a62a98d51,DeFi::DEX
-ReactorFi,DeFi,DEX,PairFactory,0x22595aa7f5298b49d62450da6300882fb3d98ebc,DeFi::DEX
-ReactorFi,DeFi,DEX,PairHelper,0xf5164104183fb402d8fdec6c7bf74c1d5ded2ddd,DeFi::DEX
-ReactorFi,DeFi,DEX,PermissionsRegistry,0x7ff2dc014305a0e0bb629b7c7ac96ba7ea5332b3,DeFi::DEX
-ReactorFi,DeFi,DEX,Reactor,0x02b8fcbe1d7ff6d6652c3a332b6a7b71392b6251,DeFi::DEX
-ReactorFi,DeFi,DEX,RewardHelper,0x17ec3da3c87497fc85e6f59d0a81151dd357aadd,DeFi::DEX
-ReactorFi,DeFi,DEX,RewardsDistributor,0x38fd3f88a46239d8cecb768f8e7620d861d2de13,DeFi::DEX
-ReactorFi,DeFi,DEX,Router,0xdea70f42a5d04bfde45f27db7c97563814dab15c,DeFi::DEX
-ReactorFi,DeFi,DEX,TradeHelper,0x10bdbe470af509ca514a88dec4911cc958052f1f,DeFi::DEX
-ReactorFi,DeFi,DEX,VeArtProxyUpgradeable,0x753e21e1b2fe6f9567f0ec8884100bd5c7003c59,DeFi::DEX
-ReactorFi,DeFi,DEX,Voter,0x8b72c1cebd63aea76b6c5b09217a8c8889a3f6ba,DeFi::DEX
-ReactorFi,DeFi,DEX,VotingEscrow,0xbe4e46fa5179672c0e606ee97bf02ad47e7e1910,DeFi::DEX
-ReactorFi,DeFi,DEX,veNFTHelper,0x37f979b20a59f3e2702cae86c5a8608ebb81776a,DeFi::DEX
-Standard Protocol,DeFi,DEX,MatchingEngine,0x6b5a13ca93871187330ae6d9e34cdad610aa54cd,DeFi::DEX
 Swaap,DeFi,DEX,SafeguardFactory,0xcc74bd5d8d2d333d14475e022325555eba3369b8,DeFi::DEX
 Swaap,DeFi,DEX,Vault,0xd315a9c38ec871068fec378e4ce78af528c76293,DeFi::DEX
-TAYA,DeFi,DEX,factory,0xf3fd5503fb2bb5f5a7ae713e621ac5c50f191fb3,DeFi::DEX;Consumer::Prediction Market
 Tadle,DeFi,DEX,unknown0,0x4a2c25b488fd174997dd08589b6db7ffc0a05ffb,DeFi::DEX
 Tadle,DeFi,DEX,unknown1,0xb876426c57420828ba02c17006bdea0f181b3ec5,DeFi::DEX
 Tadle,DeFi,DEX,unknown2,0x079f5217c6b8c765fd3b889e87f1a6aa79a6e537,DeFi::DEX
 Tadle,DeFi,DEX,unknown3,0xc026608987c0bfc3e7affb8b43c40c7572649e58,DeFi::DEX
 Tadle,DeFi,DEX,unknown4,0x0091e1b230bab4a7fd6b7bee8722e18fd7770cfb,DeFi::DEX
-Taya swap,DeFi,DEX,unknown0,0x29dc2751f9e51f9a446318c660a993833afaceac,DeFi::DEX
-Taya swap,DeFi,DEX,unknown1,0xf4a772216e9266d062cee940b13a709f3542247b,DeFi::DEX
 Uniswap,DeFi,DEX,UniswapV2Factory,0x733e88f248b742db6c14c0b1713af5ad7fdd59d0,DeFi::DEX
 Uniswap,DeFi,DEX,UniswapV2Router,0xfb8e1c3b833f9e67a71c859a132cf783b645e436,DeFi::DEX
 Uniswap,DeFi,DEX,UniswapV2SmartRouter,0x3ae6d8a282d67893e17aa70ebffb33ee5aa65893,DeFi::DEX
@@ -344,19 +291,12 @@ zkSwap Finance,DeFi,DEX,ZFV3PoolDeployer,0xbc7dcb8c29971bc0293d54db9d29738c7ae09
 0x,DeFi,DEX Aggregator,allowanceHolder,0x0000000000001ff3684f28c67538d4d072c22734,DeFi::DEX Aggregator
 0x,DeFi,DEX Aggregator,unknown0,0x07f37e56bc55b7f927807171647c2eee95c78f31,DeFi::DEX Aggregator
 0x,DeFi,DEX Aggregator,unknown1,0xee6107d6722d31bb10eba7936955477f3dee4de2,DeFi::DEX Aggregator
-Azaar,DeFi,DEX Aggregator,default,0xc746a3ff008b13d55701b4ea4a00f90c1f71a991,DeFi::DEX Aggregator
 Eisen,DeFi,DEX Aggregator,EisenDiamond,0x33631b7d2882a8c35d4c137c3b304a91f67b5007,DeFi::DEX Aggregator
 Eisen,DeFi,DEX Aggregator,Forwarder,0x0f3cfe8869d6ffda410ae6a7b78e7168780e22c3,DeFi::DEX Aggregator
 Gmgn,DeFi,DEX Aggregator,Router,0x5eb3c32432bd54904f2d3c50c4bace9c6690a2e6,DeFi::DEX Aggregator
 Mace,DeFi,DEX Aggregator,KuruAdapter,0x7c03da572a0180e77f544bd69134babf4a26cf63,DeFi::DEX Aggregator
 Mace,DeFi,DEX Aggregator,NitroAdapter,0x3e0dea0432bd7e63834627c1aafb20574e0fca6c,DeFi::DEX Aggregator
 Mace,DeFi,DEX Aggregator,Router,0x82193139cce644b32919d42abf84a15d57b8aff6,DeFi::DEX Aggregator
-Madhouse,DeFi,DEX Aggregator,Aggregator,0x9a5362f481a6c3e309f31b65f9f7ad0d7e8a7b7d,DeFi::DEX Aggregator
-Madhouse,DeFi,DEX Aggregator,PancakeSwapV2Adapter,0x54f44e229a8d6fd2375f8bc3f59acc5a54a1d1d3,DeFi::DEX Aggregator
-Madhouse,DeFi,DEX Aggregator,PancakeSwapV3Adapter,0x0b9c830db82fd61d00d7ef786c3d83d07fc7567b,DeFi::DEX Aggregator
-Madhouse,DeFi,DEX Aggregator,UniswapV2Adapter,0xe5a44bc972134f6baa8168adce623f7a33bac4ab,DeFi::DEX Aggregator
-Madhouse,DeFi,DEX Aggregator,UniswapV3Adapter,0xc19c9cf910ecf305c151ee5d569db1867ddf9d41,DeFi::DEX Aggregator
-Madhouse,DeFi,DEX Aggregator,WrappedNativeTokenAdapter,0x04a5199b1a67557ff065af6aa5bb74c17bc90e6c,DeFi::DEX Aggregator
 Monorail,DeFi,DEX Aggregator,Aggregator,0x8c15f4a2897dd89de74772cfa376190302801b52,DeFi::DEX Aggregator
 Monorail,DeFi,DEX Aggregator,Router,0x7b5df408da2356e9eecda0492104e758a2b6913d,DeFi::DEX Aggregator
 Rubic,DeFi,DEX Aggregator,AccessManagerFacet,0xc9fa6ca19d49ff5a677181369eb8a58688e74924,DeFi::DEX Aggregator
@@ -377,8 +317,6 @@ Hedgemony,DeFi,Intents,SwapRouter,0xe31371f8e2c7be43d35dd053b9fa4a613f167426,DeF
 Clanker,DeFi,Launchpads,Clanker,0xa0c65813dd1cde7092922a57548ec1ed25994318,DeFi::Launchpads;AI::Other
 Clanker,DeFi,Launchpads,ClankerVault,0x9505a57bf782058890f078be301575cd75045a9b,DeFi::Launchpads;AI::Other
 Clanker,DeFi,Launchpads,LpLockerV2,0xcd89c55d36097a64f777066a6cc8f2c31b7541f7,DeFi::Launchpads;AI::Other
-Flap,DeFi,Launchpads,latest,0xa5dcba6ffbfb043c96243b36a77c2ede2f1322ce,DeFi::Launchpads
-Flap,DeFi,Launchpads,legacy,0x4267f317adee7c6478a5ee92985c2bd5d855e274,DeFi::Launchpads
 Nad.fun,DeFi,Launchpads,BONDING_CURVE,0xad720f94689edb929d9be7613223320a0b2f260f,DeFi::Launchpads
 Nad.fun,DeFi,Launchpads,BONDING_CURVE_ROUTER,0xf57f14335e9670ed2c0cef4a59fb707cf2eb3fac,DeFi::Launchpads
 Nad.fun,DeFi,Launchpads,COMMUNITY_TREASURY,0x8c786190186518a3a95d86cee8e972ce1c7eda8b,DeFi::Launchpads
@@ -395,15 +333,6 @@ Nad.fun,DeFi,Launchpads,TOKEN_IMPLEMENT,0xedc927b974f9964bba538bbd508f658d11917b
 Nad.fun,DeFi,Launchpads,TOKEN_REGISTRY,0x7f03e0b07f60b21a3e08205154d34fa2b83c655a,DeFi::Launchpads
 Nad.fun,DeFi,Launchpads,TOKEN_TREASURY,0xdeac7461fdbf799ad52e11413f267801ad544a11,DeFi::Launchpads
 Nad.fun,DeFi,Launchpads,UNISWAP_ACTOR,0x599f6c2307c4b90809f59275613ab285d1b6bd80,DeFi::Launchpads
-Seed Circle,DeFi,Launchpads,DealSigner,0x2552b8725bb2b69530501d0f195568800c33f6f4,DeFi::Launchpads
-Seed Circle,DeFi,Launchpads,FundraisingController,0x18ed799b1f6ae61c3dccbc47cf6194722f1e4a50,DeFi::Launchpads
-Seed Circle,DeFi,Launchpads,FundraisingDepositNative,0xb81030f789aafe26f09e8aca2036296d1686b190,DeFi::Launchpads
-Seed Circle,DeFi,Launchpads,FundraisingReceiverLz,0x34b207921507fcc5083f312c419f68878cf1d777,DeFi::Launchpads
-Seed Circle,DeFi,Launchpads,InvestmentProof,0x2b54de87f53b1b9c94f84f610405b38775559353,DeFi::Launchpads
-Seed Circle,DeFi,Launchpads,KycProofReceiverLz,0x82d3e94b80a31e123075f4063104e0aa483f722d,DeFi::Launchpads
-Seed Circle,DeFi,Launchpads,KycProofVerificatorNative,0x9ef653d400fa676cb661a0f5de0c36fac1dd7c2a,DeFi::Launchpads
-Seed Circle,DeFi,Launchpads,KycStorage,0x1af30240c2e1634e2af9fe787952c062116b2d18,DeFi::Launchpads
-Seed Circle,DeFi,Launchpads,MockPriceFeed,0x9aff017c63080355744dd0e67159370dead6b89b,DeFi::Launchpads
 XL,DeFi,Launchpads,default,0x82053e9d87e06be2040bbb2ad3e32f1a9a41dace,DeFi::Launchpads;DeFi::Memecoin
 XL,DeFi,Launchpads,swap,0x64036b78cebf10b932ff3d0ffae6ce04a1a2490f,DeFi::Launchpads;DeFi::Memecoin
 Ammalgam,DeFi,Lending,AmmalgamFactory,0xab04bba82c01a6635ec373979b75817a47519af7,DeFi::Lending;DeFi::DEX
@@ -460,7 +389,6 @@ Folks Finance,DeFi,Lending,WormholeDataAdapter,0x0e78a4ee07e3f20ef7a21c0f61eb58f
 Kinza Finance,DeFi,Lending,Oracle,0xe1ddd3273a775e70eb532b311073defb79bc5d82,DeFi::Lending
 Kinza Finance,DeFi,Lending,lendingPoolImpl,0x29d924267ef89036d50c2008c810842a0e1091b5,DeFi::Lending
 Kinza Finance,DeFi,Lending,lendingPoolProxy,0x590b03d84441c1277f32784d1fbc22fe18b1eee0,DeFi::Lending
-Lendhub Protocol,DeFi,Lending,LendhubContract,0x2a0d4970cd6958dfb0d88f6536240277cc7c3a95,DeFi::Lending;NFT::NFTFi
 Neverland,DeFi,Lending,ACLManager,0xc363a56a66e912112d712a96cf67aded43606420,DeFi::Lending;NFT::Other;Governance::Other
 Neverland,DeFi,Lending,AToken,0x2ed958251971e4a08134774a1435592347d65ba8,DeFi::Lending;NFT::Other;Governance::Other
 Neverland,DeFi,Lending,AaveOracle,0x58207f48394a02c933dec4ee45fec8a55e9cdf38,DeFi::Lending;NFT::Other;Governance::Other
@@ -563,17 +491,6 @@ Peridot,DeFi,Lending,pWBTC_Delegator,0x8f11d42eeaa6b454a040c2390501afe16d150eb4,
 Peridot,DeFi,Lending,pWETH_Delegator,0xd3167fbadd8eac1b1b60a5adfcf504d15dc56005,DeFi::Lending
 Peridot,DeFi,Lending,pWMON_Delegator,0x8a1a797594997ae7f9972d5c5bd94f17c6a30282,DeFi::Lending
 Peridot,DeFi,Lending,rUSDC_Delegator,0xd2d72fdbcbd7c89a4dca2c9516e5cb54f76b808b,DeFi::Lending
-Pike,DeFi,Lending,OracleEngine1,0x5ea59495da9b648e61a81842214d950a0b36ee96,DeFi::Lending
-Pike,DeFi,Lending,OracleEngine2,0xe0985152f70accbccb76ed48df93d524dbc78e6d,DeFi::Lending
-Pike,DeFi,Lending,OracleEngineBeacon,0x1afe460cdef8ff250f846f7eaaafda7cb648c68e,DeFi::Lending
-Pike,DeFi,Lending,PikeFactory,0x0e2ef7aeeef695f9c8d463ce31561b43ec14e453,DeFi::Lending
-Pike,DeFi,Lending,RiskEngine1,0x2fd9753f0c4406536dbec4d307979ea4b5d8e016,DeFi::Lending
-Pike,DeFi,Lending,RiskEngine2,0x7c660d0ae0f8c96ea360e2e5a9ec41abba5483b5,DeFi::Lending
-Pike,DeFi,Lending,RiskEngineBeacon,0x5f45cbcdfd790e5f45d2b5b81e293aac2ef2b622,DeFi::Lending
-Pike,DeFi,Lending,Timelock1,0xae38efff9547046c963611bfb63f39f12d142825,DeFi::Lending
-Pike,DeFi,Lending,Timelock2,0xef5b85c819c274146de0e6e3f7dc975c7f2ab79b,DeFi::Lending
-Pike,DeFi,Lending,TimelockBeacon,0x52fda3547389c0141523a98be00d6437dfd22ad6,DeFi::Lending
-Pike,DeFi,Lending,pTokenBeacon,0x5b7a284d05076b1ec46c0f55424676be7d554b63,DeFi::Lending
 Spine Finance,DeFi,Lending,default,0x824ff330d2d3dbc6b363d8fec29e13bf69c31d71,DeFi::Lending
 Sumer,DeFi,Lending,CompLogic,0xc53fcf3ce027abbb7faaab77efa464ed67ee1f6f,DeFi::Lending
 Sumer,DeFi,Lending,CompoundLens,0x092fa73f599f3ccea2093d65c9fdcb4a49fa7924,DeFi::Lending
@@ -593,8 +510,6 @@ Magma,DeFi,Liquid Staking,RoleManager,0x2c59da213e35d92d2bdbd3e1a4e19c151350bdde
 Magma,DeFi,Liquid Staking,StakeManager,0x69d66356fcf62d8eab1fb2d86f3374508d611b3d,DeFi::Liquid Staking
 StakeStone,DeFi,Liquid Staking,STONE LayerZero Adapter,0x1da4df975fe40dde074cbf19783928da7246c515,DeFi::Liquid Staking
 StakeStone,DeFi,Liquid Staking,STONEToken,0x5a9125247d732d84240ff8ed48de69de7290a840,DeFi::Liquid Staking
-Swing Monad,DeFi,Liquid Staking,Oracle,0x78ac1aa0452e293649fc1e0444da6250fff342c7,DeFi::Liquid Staking
-Swing Monad,DeFi,Liquid Staking,Staking pool,0xaf38734983a68edfa4c1d6db403dfa28bbf4009a,DeFi::Liquid Staking
 FastLane,DeFi,MEV,AddressHub,0xd72d821da82964c0546a5501347a3959808e072f,DeFi::MEV
 FastLane,DeFi,MEV,FastLaneAuctionHandler,0x11f34d16bb4b898c3a489b40cd1024d89a313b88,DeFi::MEV
 aPriori,DeFi,MEV,aprMON,0xb2f82d0f38dc453d596ad40a37799446cc89274a,DeFi::MEV
@@ -607,13 +522,6 @@ FUKU,DeFi,Other,PrizePool0,0x0168c03df4c67e4ea8bb0bd1c5459a4b719be16a,DeFi::Othe
 FUKU,DeFi,Other,PrizePool1,0x28749f45a0951c18a89606687e3ad8204822a32c,DeFi::Other
 FUKU,DeFi,Other,PrizePool2,0xf274d009c51ea5a8b2b3df2c5074c46d05afdad9,DeFi::Other
 FUKU,DeFi,Other,PrizePoolManager,0x2e1fd6ec0923de849d6876599f214d2366d5e401,DeFi::Other
-Hive,DeFi,Other,Hive,0xf62f63169ca4085af82c3a147475efde3edd4b50,DeFi::Other
-Hive,DeFi,Other,HiveBox,0xdb9de8a49479ad37968190e4c5441c47ee2b4665,DeFi::Other
-Hive,DeFi,Other,USDC Market,0x618e659595155cfc35df07c89ec5f6a32ccc006a,DeFi::Other
-Hive,DeFi,Other,WMON Market,0xd63b0b2c1c5f53cacdf056524eb612fdbe6a3fb9,DeFi::Other
-Hive,DeFi,Other,aprMON Market,0x3d61de592269aeaf890b6da8b90bf48c2b10185e,DeFi::Other
-Hive,DeFi,Other,gMON Market,0x4f0648a96b61fbe5c70362220305773e8ab5b729,DeFi::Other
-Hive,DeFi,Other,sMON Market,0x27c7499b86d5ad7ee8481187bc19186d8d823af8,DeFi::Other
 Monucet,DeFi,Other,Faucet,0x22cca0357070b1d66b9e1566991836b2a205bef3,DeFi::Other
 SendMonad.com,DeFi,Other,Contract,0xd1513d1d9fca6e2495b62898194ae2303d1726a5,DeFi::Other
 KiloEx,DeFi,Perpetuals / Derivatives,affiliateRewardDistributorAddr,0xbdca8531cfe85a1db31532f8a568add8415f390c,DeFi::Perpetuals / Derivatives
@@ -644,17 +552,6 @@ KiloEx,DeFi,Perpetuals / Derivatives,tradeRewardDistributorAddr,0x61971904b1d5f2
 KiloEx,DeFi,Perpetuals / Derivatives,trustedForwarderAddr,0x7ee16553fe69a08b85a8f40ff97aed12b1a6fe9b,DeFi::Perpetuals / Derivatives
 KiloEx,DeFi,Perpetuals / Derivatives,vaultStakeRewardAddr,0x79d7a26c2ef01a42682fc1a2624cc1a0edaf6ec1,DeFi::Perpetuals / Derivatives
 KiloEx,DeFi,Perpetuals / Derivatives,vusdAddr,0x9ca551a40d652215b1bd280bb9e81edfef139555,DeFi::Perpetuals / Derivatives
-Narwhal Finance,DeFi,Perpetuals / Derivatives,DefaultProxyAdmin,0x319f35a71dfcf3843bda474c7884cefe1f2f308c,DeFi::Perpetuals / Derivatives
-Narwhal Finance,DeFi,Perpetuals / Derivatives,FeeHelper,0x2c71f06c207296b66894e5200f6a6e1ac08ed632,DeFi::Perpetuals / Derivatives
-Narwhal Finance,DeFi,Perpetuals / Derivatives,PairInfos,0xb88ea39a53eaff588daf34aaf48daaa6f7a26e89,DeFi::Perpetuals / Derivatives
-Narwhal Finance,DeFi,Perpetuals / Derivatives,PythOracle,0x96855958f2f8f751f64a2d141b5809162515f0a4,DeFi::Perpetuals / Derivatives
-Narwhal Finance,DeFi,Perpetuals / Derivatives,Referrals,0x5bbafd788b896e4bfb3cdef2a7671deb80a0620f,DeFi::Perpetuals / Derivatives
-Narwhal Finance,DeFi,Perpetuals / Derivatives,TinderTrading,0x59cf938d5e2af9e79685efaf02ad1a97669b7941,DeFi::Perpetuals / Derivatives
-Narwhal Finance,DeFi,Perpetuals / Derivatives,Trading,0x17642ce98f4abfabcbb5e1a5d5825902cc311ceb,DeFi::Perpetuals / Derivatives
-Narwhal Finance,DeFi,Perpetuals / Derivatives,TradingStorage,0x745182a566b6080d13c9dd5664f5f53ab4e98d19,DeFi::Perpetuals / Derivatives
-Narwhal Finance,DeFi,Perpetuals / Derivatives,TradingVault,0xa13eb47938f76010041e36090d47ed883a743833,DeFi::Perpetuals / Derivatives
-Narwhal Finance,DeFi,Perpetuals / Derivatives,deployer,0x202ecc12b8d4a2c2568ff0702212d00356c919fb,DeFi::Perpetuals / Derivatives
-Narwhal Finance,DeFi,Perpetuals / Derivatives,keeper,0x3eaf32781c9d6d9b39c14f2763fd99ba47164b57,DeFi::Perpetuals / Derivatives
 Pingu Exchange,DeFi,Perpetuals / Derivatives,AssetStore,0xd6cbc67c307257e62a2a64d0ea8891520805abd4,DeFi::Perpetuals / Derivatives
 Pingu Exchange,DeFi,Perpetuals / Derivatives,DataStore,0x65376254809890ef9335f6f92a032656a2a28ca4,DeFi::Perpetuals / Derivatives
 Pingu Exchange,DeFi,Perpetuals / Derivatives,FundStore,0x2c57d920961007ae56d3b93169e98a803b336ef1,DeFi::Perpetuals / Derivatives
@@ -675,9 +572,6 @@ Pingu Exchange,DeFi,Perpetuals / Derivatives,Staking,0xcf410b10c0f30948033e47b72
 Pingu Exchange,DeFi,Perpetuals / Derivatives,StakingStore,0x9cb06997ca7bd7ed945a8c3d3456d307c70f1672,DeFi::Perpetuals / Derivatives
 Purps,DeFi,Perpetuals / Derivatives,Factory,0xc921877becb785fdfbb96b6d8354bb443c015995,DeFi::Perpetuals / Derivatives
 Purps,DeFi,Perpetuals / Derivatives,Router,0xc80585f78a6e44fb46e1445006f820448840386e,DeFi::Perpetuals / Derivatives
-Zaros,DeFi,Perpetuals / Derivatives,MarketMakingEngine,0xe8d7e85e5a27b1c9c098ba8d0f1a153813172ecf,DeFi::Perpetuals / Derivatives
-Zaros,DeFi,Perpetuals / Derivatives,PerpsEngine,0x6d90b34da7e2adcb07fdf096242875ff7941ec74,DeFi::Perpetuals / Derivatives
-Zaros,DeFi,Perpetuals / Derivatives,TradingAccountToken,0x2ca7899519034d7039ffc8aee2de6a02662a7e5d,DeFi::Perpetuals / Derivatives
 Primex Finance,DeFi,Prime Brokerage,LimitOrderLibrary,0xfdb77ce2efff6bb5ab6c7baaf9dd249363d1964d,DeFi::Prime Brokerage
 Primex Finance,DeFi,Prime Brokerage,LimitOrderManager,0x8c83d00c109c7304015adb1b50d7f26422f8732a,DeFi::Prime Brokerage
 Primex Finance,DeFi,Prime Brokerage,LimitOrderManager_Implementation,0xef0d1db4d87a01fa846e1df712162c4a1a4b07dd,DeFi::Prime Brokerage
@@ -732,25 +626,10 @@ Rysk,DeFi,Yield,Controller,0x508613e7374ada69bc93f4514ad73c636dbbb2ca,DeFi::Yiel
 Rysk,DeFi,Yield,MarginPool,0xedb6ef7a8534fd9fe8a448a52f98c2fa62f4e9a1,DeFi::Yield
 Accountable,DeFi,Yield Aggregator,GameProxy,0x6f2f62c374f798eed3ad3278853910beb0dd983c,DeFi::Yield Aggregator
 Accountable,DeFi,Yield Aggregator,MonAnimalProxy,0xfa67a16ccc5d2c3d80e5daf692ddfbb53f8d7cfd,DeFi::Yield Aggregator
-Golden Goose,DeFi,Yield Aggregator,GooseUSDTVault,0x72ac80ae0a291bf57938c50ea73e1f3e8c89a912,DeFi::Yield Aggregator
 Acurast,DePIN,Compute,default,0xe775dfdfd35fb362ee0f98cdaf12843daffa4316,DePIN::Compute
-The Vape Labs,DePIN,Data Collection,default,0xbc24a9bcc76a2cd505fa99dea21d4509c9af3388,DePIN::Data Collection
-Anterris,Gaming,Games,TestCollection,0x897ac538fd8a2125572f76bd8b96a9bcf73bf60a,Gaming::Games
-AtDawn,Gaming,Games,AtDawnAvatar,0x78925ce372c918011eb2966264b668b2f256224c,Gaming::Games
-AtDawn,Gaming,Games,AtDawnAvatarAdmin,0x4714a55ab6ad1ba2d244c063720606edbe6d0492,Gaming::Games
-AtDawn,Gaming,Games,AtDawnBox,0x387cd1590d030a95a8e1a675225b9571524affe5,Gaming::Games
-AtDawn,Gaming,Games,AtDawnData,0xd9f184b2086d508f94e1aefe11dfabbcd810aef9,Gaming::Games
-AtDawn,Gaming,Games,AtDawnProp,0x138b7ceabc3d37a317b837ecf74320432a3a47a2,Gaming::Games
-AtDawn,Gaming,Games,AtDawnSettlement,0x47998e96199d675d752fc7de5f3c336efea8f9a8,Gaming::Games
-AtDawn,Gaming,Games,AtDawnWeapon,0x865640f8e435d394519581afa81ba7135df668d2,Gaming::Games
-Blast Commander,Gaming,Games,GameRecord,0xa61be32a68b95569750a343879eef58597923d9a,Gaming::Games
-Blast Commander,Gaming,Games,Item,0x679d0424363fd9c3831b11ef206e30ab6236fd16,Gaming::Games
-Blast Commander,Gaming,Games,MiniGame,0x7ef7a43eedab2854fd901d68aab6cb1dec769690,Gaming::Games
 Bro Fun,Gaming,Games,Brofun,0xfef724284aa158b62b9022cc5921b76eed6db91a,Gaming::Games;Gaming::Mobile-First
 Catton AI,Gaming,Games,contract,0xd79662985f1ba7b5aee59372c964feb95fcdc08a,Gaming::Games
 DRKVRS,Gaming,Games,protocol,0x1d03198a0bbff614865081a96b65c8a134a224d4,Gaming::Games
-Dark Forest Ares,Gaming,Games,default,0x9948167432e01efb2e8ffe3dd0737fbe064b29b5,Gaming::Games
-Gomoku3,Gaming,Games,default,0x3a14defa0e3e2b4eefc0897af41865e7b932d4bf,Gaming::Games
 Jarvis,Gaming,Games,contract,0x9a99dbba2b080954ffb4c4644909036e0747d61b,Gaming::Games
 Legends of Elysium,Gaming,Games,AccountFactory,0x709b46f8ffa35bd4d2c974416b5e59eb7f40c6b9,Gaming::Games
 Legends of Elysium,Gaming,Games,CurrencyManager,0x0537d8e26f4970190f7e39604263d084bfc0ed0e,Gaming::Games
@@ -778,11 +657,7 @@ Legends of Elysium,Gaming,Games,TransferSelectorNFT,0x558e219b52c7d3a8f867998d67
 Legends of Elysium,Gaming,Games,VoucherPayments,0x8d85b3517b28c7ceb3c012e7a8b334a7259ddcaa,Gaming::Games
 Monad 2048,Gaming,Games,Game,0xe0fa8195ae92b9c473c0c0c12c2d6bcbd245de47,Gaming::Games
 MonadTiles,Gaming,Games,default,0xb8dbee86a653a6100b1f62bd61493df730f74419,Gaming::Games
-Monflipcoin,Gaming,Games,CoinflipGame,0x664e248c39cd70fa333e9b2544beed6a7a2de09b,Gaming::Games;Consumer::Betting
-Monix,Gaming,Games,BoxNFT,0xef4fd52da1822bb346170f4916f5dbe2d51dbce5,Gaming::Games;Gaming::Metaverse;NFT::Collections
-Monix,Gaming,Games,GameManager,0xde237666bc7839e17d12f113e2c776a0b683ad9b,Gaming::Games;Gaming::Metaverse;NFT::Collections
 Nadflip,Gaming,Games,Coinflip,0x5e447c5588c551e9959cec493a40b52768b3d8ae,Gaming::Games;Consumer::Betting
-Outpost Surge,Gaming,Games,game,0x33f6fc28945d3fb5b5113056ad015588d56df5c7,Gaming::Games
 PLAY Network,Gaming,Games,default,0x20c577ee802f4a802c8631997981271f7636c42f,Gaming::Games
 Plato,Gaming,Games,StakingVault,0xd0d542b9a1e9944880faf93deaa432047ef58579,Gaming::Games
 Plato,Gaming,Games,unknown0,0x67f8ee23a61b6ad77b90672fec7ffd4771d12343,Gaming::Games
@@ -801,10 +676,8 @@ Showdown,Gaming,Games,ShowdownBatching,0xc8436a8634a5b4d2a9a7ae75dffcdcc1abb3c62
 Showdown,Gaming,Games,ShowdownPoints,0xe9d8ab94c4b4958cdcffeea96869478bcde76b41,Gaming::Games
 Showdown,Gaming,Games,ShowdownTournaments,0xe77ab7db5bba83b384ff5408282febf99b1cb457,Gaming::Games
 Showdown,Gaming,Games,StatsNFT,0xd190bf0cb9b82066a2f20a3ec238b0c27a65a83d,Gaming::Games
-Slay The Moloch,Gaming,Games,protocol,0x1ea31829218bb2ddcc0d405008804d753ff41283,Gaming::Games
 Tezza Poker,Gaming,Games,contract1,0x80fe1cf5f0861310b6634635c416d50b6bcc4915,Gaming::Games
 Tezza Poker,Gaming,Games,contract2,0xf25362515d7bc42bf846c2dd906853cef1518c8c,Gaming::Games
-The Aviator,Gaming,Games,Main,0x25a96f14b2b609b9d564fc251884734aa7bbbabd,Gaming::Games
 Treasure Dwarf Battles,Gaming,Games,Battles (core),0x5557b7736c9358e7d0092d06315c9c0cd4a1ad8f,Gaming::Games
 Treasure Dwarf Battles,Gaming,Games,Battles (results),0x997c3502d5425116ea267468f48265f37651efc5,Gaming::Games
 Treasure Dwarf Battles,Gaming,Games,Book NFT ERC721,0x6dbba42c239b1b81d807c388e4219d122f143d89,Gaming::Games
@@ -822,10 +695,7 @@ Valley of Heroes,Gaming,Games,HONOR,0xe00e6fa5fe9c6776cc9254c2ae886e023e33feb9,G
 Valley of Heroes,Gaming,Games,MysteryBox,0x757bf62752388c3f77469ace82144291cba7baf3,Gaming::Games
 Valley of Heroes,Gaming,Games,ValleyHeroes,0x5bfb2aa358849d75757c35af958f67be23dee0ae,Gaming::Games
 Valor Quest,Gaming,Games,contract,0xe13dc43663ec60f3014314f504a1ed9e9a0756e2,Gaming::Games
-Wenwin,Gaming,Games,GelatoRNSource,0x01164570c10ee6790a15e3bd65ec8c17c4170368,Gaming::Games
-Wenwin,Gaming,Games,Lottery,0x28a18a4823073f306564d1b3b18b6a0961dd89ff,Gaming::Games
 beatBRAWLS,Gaming,Games,contract,0x31aea45f79e0bdad742363bf78e653eb90c83191,Gaming::Games
-GameRelay,Gaming,Infrastructure,default,0x76d75055dfa30b10a199271d9336bfc58af5e9a9,Gaming::Infrastructure
 Yap on Chain,Gaming,Infrastructure,DeployContract,0x7b854f28ff59eb9f9fc6adc1eb63dc5c5e0e6943,Gaming::Infrastructure
 Yap on Chain,Gaming,Infrastructure,DeployToken,0x8af3100e41a97805cad8d619308e3bbf518f2dad,Gaming::Infrastructure
 Yap on Chain,Gaming,Infrastructure,GameContract,0x15ffed142cf749cf4fa7279be6576212152d4e1b,Gaming::Infrastructure
@@ -839,18 +709,13 @@ Gelato,Infra,AA,GelatoRelayERC2771,0x8ace64cea52b409f930f60b516f65197fad4b056,In
 Pimlico,Infra,AA,Paymaster06,0x0000000000000039cd5e8ae05257ce51c473ddd1,Infra::AA
 Pimlico,Infra,AA,Paymaster07,0x00000000000000fb866daaa79352cc568a005d96,Infra::AA
 Flipside Crypto,Infra,Analytics,default,0xf471cf4338d4ecda2b99afd0b891c393f785928d,Infra::Analytics
-Montools,Infra,Analytics,Bulk Transfer,0x73fc1b28f405df9b4b97960f1a0c64c656708524,Infra::Analytics;Infra::Developer Tooling;NFT::Infrastructure
-Montools,Infra,Analytics,Native MultiSend,0xb135ec2df1af065a38b901cbc818e0e462e8a1c6,Infra::Analytics;Infra::Developer Tooling;NFT::Infrastructure
 Tarobase,Infra,Developer Tooling,Deployer,0x4f939081f506333358cbba51cf2a823e6b33e60e,Infra::Developer Tooling
 Meta Leap,Infra,Gaming,CheckInSystem,0x2b1629f434b4f5157ccd85f6ffe7f56c724e066b,Infra::Gaming
 Meta Leap,Infra,Gaming,Leap,0x85f70cbc7b0ee53b6070e0a1b4471655f69ea13b,Infra::Gaming
 Meta Leap,Infra,Gaming,MineSystem,0x7c97dd4a6f6caa6668440e10d7caeebc704b8ada,Infra::Gaming
 Meta Leap,Infra,Gaming,SubscriptionSystem,0x6502cd6d0f3429d25d9bee3f26652d840e97d042,Infra::Gaming
 AllDomains,Infra,Identity,protocol,0xe6d461c863987f2a1096ea3476137f30f75b3d46,Infra::Identity
-Anima,Infra,Identity,unknown0,0xd5da7a12e2b9741b849b40158b548b2f233f18f5,Infra::Identity
-Anima,Infra,Identity,unknown1,0x1c3c151c2f92bc322fc0a3c66edec80bba475172,Infra::Identity
 Intract,Infra,Identity,default,0x3fe34645e8783beb0a7dd9291b01bc3ee8228439,Infra::Identity
-Mon Name Service,Infra,Identity,default,0x82b39e8e75e801b1aa2d7124c8ae90efb9053506,Infra::Identity
 Nad Name Service,Infra,Identity,default,0x3019bf1dfb84e5b46ca9d0eec37de08a59a41308,Infra::Identity
 Axelar,Infra,Interoperability,AxelarGasService,0xbe406f0189a0b4cf3a05c286473d23791dd44cc6,Infra::Interoperability
 Axelar,Infra,Interoperability,AxelarGateway,0xe432150cce91c13a887f7d836923d5597add8e31,Infra::Interoperability
@@ -862,7 +727,6 @@ Circle CCTP,Infra,Interoperability,MessageTransmitterV2,0xe737e5cebeeba77efe34d4
 Circle CCTP,Infra,Interoperability,MessageV2,0xbac0179bb358a8936169a63408c8481d582390c4,Infra::Interoperability
 Circle CCTP,Infra,Interoperability,TokenMessengerV2,0x8fe6b999dc680ccfdd5bf7eb0974218be2542daa,Infra::Interoperability
 Circle CCTP,Infra,Interoperability,TokenMinterV2,0xb43db544e2c27092c107639ad201b3defabcf192,Infra::Interoperability
-Fiamma,Infra,Interoperability,BridgeProxy,0xa93005d851949d695614c80b1c7e7dbf933f3042,Infra::Interoperability
 Hyperlane,Infra,Interoperability,ISMOperator,0x734628f55694d2a5f4de3e755ccb40ecd72b16d9,Infra::Interoperability
 LayerZero,Infra,Interoperability,BlockedMessageLib,0x926984a57b10a3a5c4cfdbac04daaa0309e78932,Infra::Interoperability
 LayerZero,Infra,Interoperability,EndpointV2,0x6c7ab2202c98c4227c5c46f1417d81144da716ff,Infra::Interoperability
@@ -925,15 +789,12 @@ HaHa Wallet,Infra,Wallet,FeeManager,0x4631f923c3c470061a97e008ed9c33da4349612c,I
 HaHa Wallet,Infra,Wallet,MerkleDistributor,0xa01a2488cbe09156da4a78fa46483556ce41710a,Infra::Wallet;Consumer::Other
 HaHa Wallet,Infra,Wallet,MetaAccount,0xbd2c0dc6521cd25a8bb3943f50b5eec7a9d9a8a2,Infra::Wallet;Consumer::Other
 HaHa Wallet,Infra,Wallet,NonceManager,0xfff4badfe0eb9731f5593fe7ced5b1209055e640,Infra::Wallet;Consumer::Other
-Nomas Wallet,Infra,Wallet,default,0xfb0e7922709381f50cb53f9c3fbbb4dd007a3e89,Infra::Wallet
 Primus,Infra,ZK,Logic,0x616bdf7e9041c6f76b0ff6de9af5da2c88a9ac98,Infra::ZK;Infra::Other
 Primus,Infra,ZK,zkTLS Proxy,0x3760ab354507a29a9f5c65a66c74353fd86393fa,Infra::ZK;Infra::Other
-ELEPHAPP,NFT,Collections,contract,0x6a00f5a7f2b5235c175e331a91b293865e8ac926,NFT::Collections
 EmelVerse,NFT,Collections,default,0xaff72db3fa597546517d172be9a530e99aedddfe,NFT::Collections
 Gifted.art,NFT,Collections,GiftedBox,0xcea698a0b7fbd845899c81e038b49733c80241e3,NFT::Collections
 LA MOUCH,NFT,Collections,default,0x800f8cacc990dda9f4b3f1386c84983ffb65ce94,NFT::Collections
 Monport,NFT,Collections,WelcomeMonad,0x40649af9dee8bdb94dc21ba2175ae8f5181f14ae,NFT::Collections;DeFi::DEX
-Motatoes,NFT,Collections,default,0xba0c419521c6ba15390c42e24a7332e90d8c1e4c,NFT::Collections
 Lootify,NFT,Infrastructure,default,0xe5d182811315fcb4f402fb5ae97b54a06877e4f1,NFT::Infrastructure
 Reservoir,NFT,Infrastructure,Approval Proxy,0x224ecb4eae96d31372d1090c3b0233c8310dbbab,NFT::Infrastructure
 Reservoir,NFT,Infrastructure,Reservoir Router,0x1aed60a97192157fda7fb26267a439d523d09c5e,NFT::Infrastructure
@@ -949,18 +810,6 @@ Magic Eden,NFT,Marketplace,unknown6,0xecee2f9a5d75e7ae667ba27b15ebdef71d0ebfb1,N
 Magic Eden,NFT,Marketplace,unknown7,0x2052f8a2ff46283b30084e5d84c89a2fdbe7f74b,NFT::Marketplace
 NFTs2Me,NFT,Marketplace,Factory,0x00000000001594c61dd8a6804da9ab58ed2483ce,NFT::Marketplace
 NFTs2Me,NFT,Marketplace,MintMaster,0x00000000009a1e02f00e280dcfa4c81c55724212,NFT::Marketplace
-Poply,NFT,Marketplace,NftDropFactory,0x5cbd62ede258e9d0947582e70a2895ce3c3880d0,NFT::Marketplace
-Poply,NFT,Marketplace,PoplyMarketplace (Proxy),0xc521d847e0dceafac0f197b8dc762ac58c7503d4,NFT::Marketplace
-Demask Financial,NFT,NFTFi,CreateFactoryERC1155,0x2acfd0011bfb63b4bd0c48e5fefb3d0d93fa8a1f,NFT::NFTFi
-Demask Financial,NFT,NFTFi,CreateFactoryERC721,0x896a6872a7fd593f03dc116083f5121d83452095,NFT::NFTFi
-Demask Financial,NFT,NFTFi,DemaskCollectionERC1155,0xb8eddd76e9f1c3fd4933781334080b3b26aac974,NFT::NFTFi
-Demask Financial,NFT,NFTFi,DemaskCollectionERC721,0xaed9f5ce40054fc133a2701f0a313bb981a8b083,NFT::NFTFi
-Demask Financial,NFT,NFTFi,Launchpad,0x2cdd146aa75ffa605ff7c5cc5f62d3b52c140f9c,NFT::NFTFi
-Demask Financial,NFT,NFTFi,MintPassCollection,0x89e415a518cd201f2c4f71b15ef5b6ed9d9ea9ed,NFT::NFTFi
-Demask Financial,NFT,NFTFi,RouterERC1155,0xd70160709b01d7e5e3cdefb80eb7807345bb51c2,NFT::NFTFi
-Demask Financial,NFT,NFTFi,RouterERC721,0x57e9be10cd225ecaaafb2128cd7dba22ea8eef3c,NFT::NFTFi
-Upfloor,NFT,Other,Upfloor,0xf0945db3648b01f423444980c0e9180a6cf13352,NFT::Other
 PingMe,Payments,Neobanks,CryptoDrop,0x3de0e31a0a9d885bf98ea1512188e06f70d507b2,Payments::Neobanks
 PingMe,Payments,Neobanks,Forwarder,0x2a217b43b138e36979f59999776585ed6bb27542,Payments::Neobanks
 PingMe,Payments,Neobanks,RecoveryVault,0x32f62bdc2be3e1b1c0265143831155253cd5a248,Payments::Neobanks
-DAU Cards,Payments,Onramp and Offramps,default,0x3214bf2e017f390f5593ea67cc816923b36996c0,Payments::Onramp and Offramps
