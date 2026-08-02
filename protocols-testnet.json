@@ -18,21 +18,32 @@
       "docs": "https://0x.org/docs"
     }
   },
-  "AZEx": {
-    "name": "AZEx",
-    "description": "Your A-Z DeFi Hub in One Click. Trade any asset as margin with 100x leverage. Multi-Chain Protocol. AI-Powered Copytrading.",
-    "live": false,
+  "CANONICAL": {
+    "name": "Canonical Contracts",
+    "description": "https://docs.monad.xyz/developer-essentials/network-information",
+    "live": true,
     "categories": [
-      "DeFi::Other"
+      "Infra::Other"
     ],
-    "addresses": {},
-    "links": {
-      "project": "https://azex.io/home",
-      "twitter": "https://x.com/azex_io",
-      "docs": "https://docs.azex.io/"
-    }
+    "addresses": {
+      "WMON": "0x760AfE86e5de5fa0Ee542fc7B7B713e1c5425701",
+      "Create2Deployer": "0x13b0D85CcB8bf860b6b79AF3029fCA081AE9beF2",
+      "CreateX": "0xba5Ed099633D3B313e4D5F7bdc1305d3c28ba5Ed",
+      "SingletonFactory": "0xce0042b868300000d44a59004da54a005ffdcf9f",
+      "EntryPoint_v0_6": "0x5FF137D4b0FDCD49DcA30c7CF57E578a026d2789",
+      "SenderCreator_v0_6": "0x7fc98430eAEdbb6070B35B39D798725049088348",
+      "EntryPoint_v0_7": "0x0000000071727De22E5E9d8BAf0edAc6f37da032",
+      "SenderCreator_v0_7": "0xEFC2c1444eBCC4Db75e7613d20C6a62fF67A167C",
+      "EntryPoint_v0_8": "0x4337084d9e255fF0702461CF8895cE9E3b5Ff108",
+      "SenderCreator_v0_8": "0x449ED7C3e6Fee6a97311d4b55475DF59C44AdD33",
+      "FoundryDeterministicDeployer": "0x4e59b44847b379578588920ca78fbf26c0b4956c",
+      "Multicall3": "0xcA11bde05977b3631167028862bE2a173976CA11",
+      "Permit2": "0x000000000022d473030f116ddee9f6b43ac78ba3",
+      "ZoltuDeterministicDeploymentProxy": "0x7A0D94F55792C434d74a40883C6ed8545E406D12"
+    },
+    "links": {}
   },
-  "Aarna": {
+  "aarna": {
     "name": "Aarna",
     "description": "next-generation DeFi asset management platform via crypto structured products, merging AI and tokenization",
     "live": true,
@@ -58,7 +69,7 @@
       "docs": "https://docs.aarna.ai/"
     }
   },
-  "Accountable": {
+  "accountable": {
     "name": "Accountable",
     "description": "Crypto-based yields done right. Total privacy, full transparency, maximizing your yield opportunities, worry-free.",
     "live": true,
@@ -75,7 +86,7 @@
       "docs": "https://docs.accountable.capital/"
     }
   },
-  "Acurast": {
+  "acurast": {
     "name": "Acurast",
     "description": "Acurast delivers confidential AI, hyper-personalized agents, and privacy-focused computation using thousands of smartphones worldwide.",
     "live": true,
@@ -92,7 +103,7 @@
       "docs": "https://docs.acurast.com"
     }
   },
-  "Agora": {
+  "agora": {
     "name": "Agora",
     "description": "Agora is a stablecoin issuer of AUSD, backed 1:1 by cash and cash equivalent reserves managed by VanEck and custodied by State Street.",
     "live": true,
@@ -109,7 +120,23 @@
       "docs": "https://developer.agora.finance"
     }
   },
-  "AllDomains": {
+  "ai_craft_fun": {
+    "name": "aiCraft.fun",
+    "description": "aiCraft.fun - The 1st Decentralized AI Agent Launchpad that turns your expertise into income.",
+    "live": true,
+    "categories": [
+      "AI::Agent Launchpad"
+    ],
+    "addresses": {
+      "default": "0xd227d3bce59b91380b7bc4a61a045b528b509439"
+    },
+    "links": {
+      "project": "https://aicraft.fun/",
+      "twitter": "https://x.com/aicraftfun",
+      "docs": "https://url.aicraft.fun/whitepaper"
+    }
+  },
+  "alldomains": {
     "name": "AllDomains",
     "description": "All Domains: the web3 identity asset layer to create and trade web3 domains | Customizable for everyone",
     "live": true,
@@ -126,7 +153,7 @@
       "docs": "https://docs.alldomains.id/protocol"
     }
   },
-  "Ambient": {
+  "ambient": {
     "name": "Ambient",
     "description": "Spot AMM with combining multiple liquidity types with modular hooks, dynamic fees and MEV protection",
     "live": true,
@@ -145,7 +172,7 @@
       "docs": "https://docs.ambient.finance"
     }
   },
-  "Ambire_Wallet": {
+  "ambire_wallet": {
     "name": "Ambire Wallet",
     "description": "Еasy and secure self-custody for smart accounts, EOAs, and hardware wallets. EIP-7702 ready wallet",
     "live": true,
@@ -164,7 +191,7 @@
       "docs": "https://github.com/AmbireTech"
     }
   },
-  "Amertis": {
+  "amertis": {
     "name": "Amertis",
     "description": "Fully on-chain aggregator connecting users to deep liquidity across sources, ensuring best rates and an optimised DeFi experience",
     "live": true,
@@ -180,7 +207,7 @@
       "github": "https://github.com/AetherForge-Labs"
     }
   },
-  "Ammalgam": {
+  "ammalgam": {
     "name": "Ammalgam",
     "description": "Ammalgam is a new primitive that combines lending and trading into one protocol called a Decentralized Lending Exchange.",
     "live": true,
@@ -198,7 +225,7 @@
       "docs": "https://docs.ammalgam.xyz/"
     }
   },
-  "Anima": {
+  "anima": {
     "name": "Anima",
     "description": "Anti-Sybil for fair crypto space. Prove you're Humans, earn SBT, engage genuinely, access auctions, and bid for value.",
     "live": true,
@@ -215,7 +242,7 @@
       "docs": "https://docs.pop.anima.io/reputation/legacy/integrate"
     }
   },
-  "Antarctic_Exchange": {
+  "antarctic_exchange": {
     "name": "Antarctic Exchange",
     "description": "Antarctic Exchange (AX) is a decentralized perpetual exchange (perp DEX) offering top-notch CEX-like trading experience.",
     "live": false,
@@ -229,7 +256,7 @@
       "docs": "https://antarctic.sg.larksuite.com/wiki/ELRcwmXBVia78VkwTmXl8FOwgLj"
     }
   },
-  "Anterris": {
+  "anterris": {
     "name": "Anterris",
     "description": "Collect and train powerful creatures, known as Antera, as you collect loot, evolve your squad, and defeat enemies!",
     "live": true,
@@ -244,7 +271,7 @@
       "twitter": "x.com/playAnterris"
     }
   },
-  "ApeBond": {
+  "apebond": {
     "name": "ApeBond",
     "description": "The #1 Bonding Protocol in DeFi, with $20M+ bonded and 80k+ bonds sold, transforming how projects raise funds and secure liquidity.",
     "live": true,
@@ -259,7 +286,24 @@
       "docs": "https://docs.ape.bond/apebond"
     }
   },
-  "AtDawn": {
+  "apriori": {
+    "name": "aPriori",
+    "description": "aPriori is an MEV infrastructure and liquid staking protocol, designed for the parallel execution era and natively built on Monad.",
+    "live": true,
+    "categories": [
+      "DeFi::MEV"
+    ],
+    "addresses": {
+      "aprMON": "0xb2f82D0f38dc453D596Ad40A37799446Cc89274A"
+    },
+    "links": {
+      "project": "testnet-staking.apr.io",
+      "twitter": "https://x.com/apr_labs",
+      "github": "https://github.com/apriori-network",
+      "docs": "https://www.apr.io/"
+    }
+  },
+  "at_dawn": {
     "name": "AtDawn",
     "description": "AtDawn is 3A, multi-chain interoperable, war-themed shooting game with realistic graphics.",
     "live": true,
@@ -282,7 +326,7 @@
       "docs": "https://docs.atdawn.io/"
     }
   },
-  "Atlantis": {
+  "atlantis": {
     "name": "Atlantis",
     "description": "Modular V4 DEX offering cross-chain swaps, DeFAI, a launchpad, farming, staking, fiat on-ramp, & more.",
     "live": true,
@@ -316,7 +360,7 @@
       "docs": "https://atlantis-dex.gitbook.io/whitepaper"
     }
   },
-  "Aviator": {
+  "aviator": {
     "name": "The Aviator",
     "description": "The Aviator is a fun and exciting game! 🕹️ Simply move your mouse to dodge obstacles and keep going. The more levels you conquer, the bigger your rewards! 🏆💰 Prove your skills and secure your spot on the Leaderboard! 🌟🚀",
     "categories": [
@@ -331,7 +375,7 @@
       "github": "https://github.com/xxxigm"
     }
   },
-  "Axal": {
+  "axal": {
     "name": "Axal",
     "description": "Axal puts your money to work. Build wealth with best in class yield on dollars, bitcoin, and gold.",
     "live": true,
@@ -351,7 +395,7 @@
       "playstore": "https://play.google.com/store/apps/details?id=com.axal.android"
     }
   },
-  "Axelar": {
+  "axelar": {
     "name": "Axelar",
     "description": "Powering the Chain-Agnostic Future",
     "live": true,
@@ -373,7 +417,21 @@
       "docs": "https://docs.axelar.dev"
     }
   },
-  "Azaar": {
+  "az_ex": {
+    "name": "AZEx",
+    "description": "Your A-Z DeFi Hub in One Click. Trade any asset as margin with 100x leverage. Multi-Chain Protocol. AI-Powered Copytrading.",
+    "live": false,
+    "categories": [
+      "DeFi::Other"
+    ],
+    "addresses": {},
+    "links": {
+      "project": "https://azex.io/home",
+      "twitter": "https://x.com/azex_io",
+      "docs": "https://docs.azex.io/"
+    }
+  },
+  "azaar": {
     "name": "Azaar",
     "description": "Azaar is a high-performance DEX aggregator and trading platform built for Monad.",
     "live": true,
@@ -390,7 +448,7 @@
       "docs": "https://azaarexchange.medium.com/"
     }
   },
-  "Balancer": {
+  "balancer": {
     "name": "Balancer",
     "description": "Balancer is a decentralized automated market maker (AMM) protocol built on Ethereum.",
     "live": true,
@@ -422,7 +480,7 @@
       "docs": "https://docs.balancer.fi/"
     }
   },
-  "Band": {
+  "band_protocol": {
     "name": "Band",
     "description": "Band is the data layer that trains AI engines and powers blockchain applications.",
     "live": true,
@@ -439,7 +497,7 @@
       "docs": "https://docs.bandchain.org/"
     }
   },
-  "Bean_Exchange": {
+  "bean_exchange": {
     "name": "Bean Exchange",
     "description": "Bean Exchange is a fully on-chain DeFi platform natively built on Monad that delivers CEX-grade performance across Perps, Turbo Vault, and soon DLMM Spot.",
     "live": true,
@@ -458,7 +516,22 @@
       "docs": "https://docs.bean.exchange/"
     }
   },
-  "Bebop": {
+  "beat_brawls": {
+    "name": "beatBRAWLS",
+    "description": "beatBRAWLS is a brand new blockchain game that combines the songs you love to hear with the card games you love to play.",
+    "live": true,
+    "categories": [
+      "Gaming::Games"
+    ],
+    "addresses": {
+      "contract": "0x31aEA45F79E0BdAD742363bf78E653eB90C83191"
+    },
+    "links": {
+      "project": "https://beatbrawls.com/",
+      "twitter": "https://x.com/beatbrawls"
+    }
+  },
+  "bebop": {
     "name": "Bebop",
     "description": "Seamless and efficient crypto trading for everyone. Web3 trading app and API that finds the best route for all your trades.",
     "live": true,
@@ -476,7 +549,7 @@
       "docs": "https://docs.bebop.xyz/"
     }
   },
-  "Bima": {
+  "bima": {
     "name": "Bima",
     "description": "BIMA is a DeFi platform that lets you earn yield on your BTC across multiple chains by using USBD, a Bitcoin-backed stablecoin.",
     "live": true,
@@ -516,7 +589,7 @@
       "docs": "https://docs.bima.money/"
     }
   },
-  "BlastCommander": {
+  "blast_commander": {
     "name": "Blast Commander",
     "description": "2D adventure game on Monad: Hunt vibrant butterflies across mystical lands! Engaging gameplay, stunning visuals, and endless exploration.",
     "live": true,
@@ -535,7 +608,7 @@
       "docs": "https://blast-commander.xyz/box"
     }
   },
-  "Blazpay": {
+  "blazpay": {
     "name": "Blazpay",
     "description": "Blazpay AI: Simplifying Crypto | 1.2M+ Users AI-Swap | Portfolio | Alerts | Cross-Chain Gamified Learning | Multi-Platform",
     "live": true,
@@ -554,7 +627,7 @@
       "github": "https://github.com/blazpay"
     }
   },
-  "Blocklive": {
+  "blocklive": {
     "name": "Blocklive",
     "description": "Blocklive is a platform for end-to-end onchain event management and ticketing, using proof of history to target and reward fans.",
     "live": true,
@@ -571,7 +644,7 @@
       "docs": "https://blocklive.gitbook.io/docs/"
     }
   },
-  "BrahmaFi": {
+  "brahma_fi": {
     "name": "BrahmaFi",
     "description": "Brahma evolves agents to Agentic Protocols—enabling automated workflows & cross-chain ops while users maintain control of assets",
     "live": true,
@@ -592,7 +665,7 @@
       "docs": "https://docs.brahma.fi/"
     }
   },
-  "Brofun": {
+  "bro_fun": {
     "name": "Bro Fun",
     "description": "Where fortune favors the bros. Sink cups, become a legend.",
     "live": true,
@@ -610,7 +683,7 @@
       "docs": ""
     }
   },
-  "Bubblefi": {
+  "bubblefi": {
     "name": "Bubblefi",
     "description": "The gamified and an MEV-resistant DEX on Monad",
     "live": true,
@@ -629,32 +702,7 @@
       "docs": "https://bubblefi.gitbook.io/bubblefi"
     }
   },
-  "CANONICAL": {
-    "name": "Canonical Contracts",
-    "description": "https://docs.monad.xyz/developer-essentials/network-information",
-    "live": true,
-    "categories": [
-      "Infra::Other"
-    ],
-    "addresses": {
-      "WMON": "0x760AfE86e5de5fa0Ee542fc7B7B713e1c5425701",
-      "Create2Deployer": "0x13b0D85CcB8bf860b6b79AF3029fCA081AE9beF2",
-      "CreateX": "0xba5Ed099633D3B313e4D5F7bdc1305d3c28ba5Ed",
-      "SingletonFactory": "0xce0042b868300000d44a59004da54a005ffdcf9f",
-      "EntryPoint_v0_6": "0x5FF137D4b0FDCD49DcA30c7CF57E578a026d2789",
-      "SenderCreator_v0_6": "0x7fc98430eAEdbb6070B35B39D798725049088348",
-      "EntryPoint_v0_7": "0x0000000071727De22E5E9d8BAf0edAc6f37da032",
-      "SenderCreator_v0_7": "0xEFC2c1444eBCC4Db75e7613d20C6a62fF67A167C",
-      "EntryPoint_v0_8": "0x4337084d9e255fF0702461CF8895cE9E3b5Ff108",
-      "SenderCreator_v0_8": "0x449ED7C3e6Fee6a97311d4b55475DF59C44AdD33",
-      "FoundryDeterministicDeployer": "0x4e59b44847b379578588920ca78fbf26c0b4956c",
-      "Multicall3": "0xcA11bde05977b3631167028862bE2a173976CA11",
-      "Permit2": "0x000000000022d473030f116ddee9f6b43ac78ba3",
-      "ZoltuDeterministicDeploymentProxy": "0x7A0D94F55792C434d74a40883C6ed8545E406D12"
-    },
-    "links": {}
-  },
-  "Caddy": {
+  "caddy": {
     "name": "Caddy",
     "description": "Caddy Finance is building the world’s first LSD Perpetual Options Protocol, hedge against volatility of the underlying asset. ",
     "live": false,
@@ -668,7 +716,7 @@
       "github": "https://github.com/caddyfinance"
     }
   },
-  "Castora": {
+  "castora": {
     "name": "Castora",
     "description": "Funfair price prediction markets on monad",
     "live": true,
@@ -685,7 +733,7 @@
       "docs": "https://github.com/castora-xyz/castora?tab=readme-ov-file#castora"
     }
   },
-  "Catton_AI": {
+  "catton_ai": {
     "name": "Catton AI",
     "description": "Catton AI, backed by Forj & Ape Accelerator, leads AI NPC gaming on Telegram with 900K users and 300k holders.",
     "live": true,
@@ -700,7 +748,7 @@
       "twitter": "https://x.com/Cattontw"
     }
   },
-  "Chainlink": {
+  "chainlink": {
     "name": "Chainlink",
     "description": "Chainlink is the standard for onchain finance, verifiable data, and cross-chain interoperability. Learn more by visiting chain.link.",
     "live": true,
@@ -722,7 +770,7 @@
       "docs": "https://docs.chain.link/"
     }
   },
-  "Chainlink_CCIP": {
+  "chainlink_ccip": {
     "name": "Chainlink CCIP",
     "description": "Chainlink is the standard for onchain finance, verifiable data, and cross-chain interoperability. Learn more by visiting chain.link.",
     "live": true,
@@ -740,7 +788,7 @@
       "docs": "https://docs.chain.link/"
     }
   },
-  "Chainsight": {
+  "chainsight": {
     "name": "Chainsight",
     "description": "Chainsight redefines oracles with no-code tools, lowering costs, reducing single-operator risks, and driving scalable, open innovation",
     "live": false,
@@ -755,7 +803,7 @@
       "docs": "https://docs.chainsight.network/"
     }
   },
-  "Chaquen": {
+  "chaquen": {
     "name": "Chaquen",
     "description": "Community-Owned Fantasy Sports on-chain",
     "live": true,
@@ -773,7 +821,7 @@
       "docs": "https://docs.chaquen.io/"
     }
   },
-  "Chronicle": {
+  "chronicle": {
     "name": "Chronicle",
     "description": "Decentralized, verifiable oracles. Chronicle connects product builders to realtime data & custom verification.",
     "live": true,
@@ -788,7 +836,7 @@
       "docs": "https://docs.chroniclelabs.org/"
     }
   },
-  "Circle_CCTP": {
+  "circle_cctp": {
     "name": "Circle CCTP",
     "description": "Building the Internet Financial Platform",
     "live": true,
@@ -811,7 +859,7 @@
       "docs": "https://developers.circle.com/"
     }
   },
-  "Circle_USDC": {
+  "circle_usdc": {
     "name": "Circle USDC",
     "description": "Building the Internet Financial Platform",
     "live": true,
@@ -828,7 +876,7 @@
       "docs": "https://developers.circle.com/"
     }
   },
-  "Clanker": {
+  "clanker_world": {
     "name": "Clanker",
     "description": "Clanker is an AI that launches crypto tokens for you. Give it a name and symbol, and it handles deployment, market creation, and fee sharing automatically.",
     "live": true,
@@ -849,7 +897,7 @@
       "docs": "https://clanker.gitbook.io"
     }
   },
-  "Clober": {
+  "clober": {
     "name": "Clober",
     "description": "Clober is a fully on-chain CLOB DEX protocol with a gas-efficient matching engine optimized for on-chain execution.",
     "live": true,
@@ -869,7 +917,23 @@
       "docs": "https://ethresear.ch/t/enabling-on-chain-order-matching-for-order-book-dexs-revisited-segmented-segment-trees-and-octopus-heaps-explained/15180"
     }
   },
-  "Codatta": {
+  "co_nft": {
+    "name": "coNFT",
+    "description": "coNFT.app-NFT aggregator where users can create/trade NFT and register web3 domains.",
+    "live": true,
+    "categories": [
+      "NFT::Infrastructure"
+    ],
+    "addresses": {
+      "default": "0xdd23adE69Fc2FE1934AA36C5aB12F6DC58a3446f"
+    },
+    "links": {
+      "project": "https://conft.app",
+      "twitter": "https://x.com/ConftApp",
+      "github": "https://github.com/Conft-dev"
+    }
+  },
+  "codatta": {
     "name": "Codatta",
     "description": "A permissionless marketplace connecting data creators with demanders to curate valuable data resources, fueling the future of AI and DeSci.",
     "live": true,
@@ -886,7 +950,7 @@
       "docs": "https://docs.codatta.io/codatta"
     }
   },
-  "Cordial_Systems": {
+  "cordial_systems": {
     "name": "Cordial Systems",
     "description": "Self hosted MPC wallet for institutions. Used by tradfi, crypto natives, and builders. ",
     "live": true,
@@ -901,7 +965,7 @@
       "twitter": "https://x.com/cordialsys/"
     }
   },
-  "Covenant": {
+  "covenant": {
     "name": "Covenant",
     "description": "Tradeable leverage and debt tokens backed by any asset.",
     "live": true,
@@ -920,7 +984,7 @@
       "docs": "docs.covenant.finance"
     }
   },
-  "Crust_Finance": {
+  "crust_finance": {
     "name": "Crust Finance",
     "description": "Crust Finance is a metadex with concentrated liquidity and native ALM support, built on Monad.",
     "live": true,
@@ -941,7 +1005,7 @@
       "docs": "https://docs.crust.finance/"
     }
   },
-  "Crystal": {
+  "crystal": {
     "name": "Crystal",
     "description": "Crystal is a fully on-chain CLOB exchange that brings CEX-grade performance to the EVM without compromising on security or composability.",
     "live": true,
@@ -961,7 +1025,7 @@
       "docs": "https://docs.crystal.exchange"
     }
   },
-  "Curvance": {
+  "curvance": {
     "name": "Curvance",
     "description": "Curvance is a multichain liquidity protocol that maximizes capital efficiency in DeFi.",
     "live": true,
@@ -1006,7 +1070,7 @@
       "docs": "https://docs.curvance.com/cve"
     }
   },
-  "Cycle_Network": {
+  "cycle_network": {
     "name": "Cycle Network",
     "description": "Cycle Network is building a universal all-chain settlement layer and a bridgeless liquidity network for the entire blockchain ecosystem.",
     "live": false,
@@ -1020,37 +1084,7 @@
       "docs": "https://cycle-network.gitbook.io/cycle-network-docs/welcome/genesis-of-cycle-network"
     }
   },
-  "DAU_Cards": {
-    "name": "DAU Cards",
-    "description": "DAU Cards bridges your crypto to everyday spending in seconds. Our interface-agnostic platform unlocks access to 40M+ global merchants.",
-    "live": true,
-    "categories": [
-      "Payments::Onramp and Offramps"
-    ],
-    "addresses": {
-      "default": "0x3214Bf2e017f390f5593ea67Cc816923B36996C0"
-    },
-    "links": {
-      "project": "https://gmonad.daucards.com/",
-      "twitter": "https://x.com/DAUCards"
-    }
-  },
-  "DRKVRS": {
-    "name": "DRKVRS",
-    "description": "DRKVRS is a Web3 Multiplayer Action RPG game with innovative mechanics, set in a dystopian and brutalist world.",
-    "live": true,
-    "categories": [
-      "Gaming::Games"
-    ],
-    "addresses": {
-      "protocol": "0x1D03198a0bBFf614865081A96b65C8a134a224d4"
-    },
-    "links": {
-      "project": "https://www.drkvrs.io",
-      "twitter": "https://x.com/drkvrs"
-    }
-  },
-  "Dark_Forest_Ares": {
+  "dark_forest_ares": {
     "name": "Dark Forest Ares",
     "description": "Dark Forest Ares (Monad Edition) is community-maintained version of Dark Forest. fully onchain MMORTS using zk-SNARKs",
     "live": true,
@@ -1066,7 +1100,22 @@
       "github": "https://github.com/dfarchon"
     }
   },
-  "Defx": {
+  "dau_cards": {
+    "name": "DAU Cards",
+    "description": "DAU Cards bridges your crypto to everyday spending in seconds. Our interface-agnostic platform unlocks access to 40M+ global merchants.",
+    "live": true,
+    "categories": [
+      "Payments::Onramp and Offramps"
+    ],
+    "addresses": {
+      "default": "0x3214Bf2e017f390f5593ea67Cc816923B36996C0"
+    },
+    "links": {
+      "project": "https://gmonad.daucards.com/",
+      "twitter": "https://x.com/DAUCards"
+    }
+  },
+  "defx": {
     "name": "Defx",
     "description": "Defx is an orderbook perps with a key differentiator: we support multiple collateral options: BTC, ETH, SOL, stables, LST, etc. natively.",
     "live": true,
@@ -1082,7 +1131,7 @@
       "docs": "https://docs.defx.com/"
     }
   },
-  "Demask_Financial": {
+  "demask_financial": {
     "name": "Demask Financial",
     "description": "Demask Finance is an on-chain AMM protocol that enables trading between NFT collectibles and native tokens.",
     "live": true,
@@ -1106,7 +1155,7 @@
       "docs": "https://docs.demask.finance/"
     }
   },
-  "Dexalot": {
+  "dexalot": {
     "name": "Dexalot",
     "description": "Dexalot is a decentralized exchange (DEX) for spot trading, powered by a fully on-chain central limit order book (CLOB).  Competitive prices, zero to minimal slippage and no fees.",
     "live": true,
@@ -1133,7 +1182,7 @@
       "docs": "https://docs.dexalot.com/"
     }
   },
-  "Diffuse": {
+  "diffuse": {
     "name": "Diffuse",
     "description": "Diffuse is a zk serverless protocol that delivers fast, cost-efficient, and verifiable both on/off-chain data any project needs. ",
     "live": true,
@@ -1153,7 +1202,7 @@
       "docs": "https://diffusefi.gitbook.io/docs"
     }
   },
-  "Dirol_Protocol": {
+  "dirol_protocol": {
     "name": "Dirol Protocol",
     "description": "Dirol is a native DeFi Hub on Monad with a full suite of DeFi features. You can do everything on Dirol.",
     "live": true,
@@ -1170,7 +1219,7 @@
       "docs": "https://dirolprotocols-organization.gitbook.io/dirolprotocol"
     }
   },
-  "DiscoCats": {
+  "disco_cats": {
     "name": "DiscoCats",
     "description": "We make locked assets liquid, offering multi-layer yield through Liquid NFTs and Bribe mechanisms with our four products.",
     "live": false,
@@ -1184,7 +1233,7 @@
       "docs": "https://docs.mydiscocats.com/"
     }
   },
-  "Doppler": {
+  "doppler": {
     "name": "Doppler",
     "description": "Doppler is an easy to integrate token creation protocol. It automates finding fair prices and getting AMMs like Uniswap bootstrapped.",
     "live": true,
@@ -1208,7 +1257,22 @@
       "docs": "https://docs.doppler.lol"
     }
   },
-  "Dusted": {
+  "drkvrs": {
+    "name": "DRKVRS",
+    "description": "DRKVRS is a Web3 Multiplayer Action RPG game with innovative mechanics, set in a dystopian and brutalist world.",
+    "live": true,
+    "categories": [
+      "Gaming::Games"
+    ],
+    "addresses": {
+      "protocol": "0x1D03198a0bBFf614865081A96b65C8a134a224d4"
+    },
+    "links": {
+      "project": "https://www.drkvrs.io",
+      "twitter": "https://x.com/drkvrs"
+    }
+  },
+  "dusted": {
     "name": "Dusted",
     "description": "Connect with every community member in token-specific chat rooms, earn Dusted points, and win prizes from other Monad projects.",
     "live": true,
@@ -1223,7 +1287,7 @@
       "twitter": "https://www.x.com/dusted_app"
     }
   },
-  "Dyson_Finance": {
+  "dyson_finance": {
     "name": "Dyson Finance",
     "description": "Dyson Finance makes DeFi more inclusive and profitable by combining dynamic AMM, Dual Investment, and a Membership Program.",
     "live": true,
@@ -1239,23 +1303,7 @@
       "docs": "https://docs.dyson.finance/"
     }
   },
-  "ELEPHAPP": {
-    "name": "ELEPHAPP",
-    "description": "ELEPHAPP — where elegant elephant figurines, smooth shapes, and soft colors bring purity, tranquility, and joy to every piece.",
-    "live": true,
-    "categories": [
-      "NFT::Collections"
-    ],
-    "addresses": {
-      "contract": "0x6A00f5A7F2b5235C175E331a91b293865E8AC926"
-    },
-    "links": {
-      "project": "https://elephapp.xyz/",
-      "twitter": "https://x.com/elephapp",
-      "github": "https://github.com/elephapp"
-    }
-  },
-  "Eisen": {
+  "eisen_finance": {
     "name": "Eisen",
     "description": "A multichain DEX & CEX aggregator—streamline every swap.",
     "live": true,
@@ -1273,7 +1321,23 @@
       "docs": "https://books.eisenfinance.com/eisen-finance"
     }
   },
-  "EmelVerse": {
+  "elephapp": {
+    "name": "ELEPHAPP",
+    "description": "ELEPHAPP — where elegant elephant figurines, smooth shapes, and soft colors bring purity, tranquility, and joy to every piece.",
+    "live": true,
+    "categories": [
+      "NFT::Collections"
+    ],
+    "addresses": {
+      "contract": "0x6A00f5A7F2b5235C175E331a91b293865E8AC926"
+    },
+    "links": {
+      "project": "https://elephapp.xyz/",
+      "twitter": "https://x.com/elephapp",
+      "github": "https://github.com/elephapp"
+    }
+  },
+  "emel_verse": {
     "name": "EmelVerse",
     "description": "EmelVerse empowers anyone to create collections and mint NFTs effortlessly, fostering creativity and inclusivity.",
     "live": true,
@@ -1289,7 +1353,7 @@
       "docs": "https://emelverse.gitbook.io/emelverse"
     }
   },
-  "Encifher": {
+  "encifher": {
     "name": "Encifher",
     "description": "Encifher a Compliant Privacy engine for crypto. Allowing dApps across Monad to incorporate privacy seamlessly without fragmenting liquidity.",
     "live": true,
@@ -1307,7 +1371,7 @@
       "docs": "https://docs.encifher.io/"
     }
   },
-  "Enjoyoors": {
+  "enjoyoors": {
     "name": "Enjoyoors",
     "description": "Enoyoors is a protocol that unlocks yield on any asset on any chain (starting with the Monad testnet)",
     "live": true,
@@ -1325,7 +1389,7 @@
       "docs": "https://docs.enjoyoors.xyz/"
     }
   },
-  "Entangle": {
+  "entangle": {
     "name": "Entangle",
     "description": "Blockchains are fragmented, blocking data, liquidity/tokens. Our interoperability stack unifies Web3.",
     "live": false,
@@ -1341,7 +1405,27 @@
       "docs": "https://docs.entangle.fi/"
     }
   },
-  "Euler": {
+  "eoracle": {
+    "name": "eOracle",
+    "description": "eOracle provides decentralized price feeds through a cryptoeconomically secure oracle network.",
+    "live": true,
+    "categories": [
+      "Infra::Oracle"
+    ],
+    "addresses": {
+      "BTCUSD": "0xad43317bCb093CFb9792e95c54459815da8C33c6",
+      "ETHUSD": "0x179ABDA20BE2f08478Ad1A48b793D3f07f995228",
+      "USDCUSD": "0xf568fdc0b5e148dE374DB28443409517f50c0695",
+      "USDTUSD": "0x5f1833C1415eaE12c135d2F3A8f21d542807d674"
+    },
+    "links": {
+      "project": "https://eo.app/",
+      "twitter": "https://x.com/eoracle_network",
+      "github": "https://github.com/eoracle",
+      "docs": "https://docs.eoracle.io/docs"
+    }
+  },
+  "euler": {
     "name": "Euler",
     "description": "Euler revolutionizes DeFi by letting any asset become collateral for a lending market.  ",
     "live": true,
@@ -1368,26 +1452,7 @@
       "docs": "https://docs.euler.finance/"
     }
   },
-  "FUKU": {
-    "name": "FUKU",
-    "description": "FUKU: A DefiSaving protocol on Monad, blending savings with the excitement of betting and winning prizes without risking your deposit.",
-    "live": true,
-    "categories": [
-      "DeFi::Other"
-    ],
-    "addresses": {
-      "PrizePoolManager": "0x2e1fd6ec0923de849D6876599f214D2366d5e401",
-      "PrizePool0": "0x0168c03df4c67e4ea8bb0bd1c5459a4b719be16a",
-      "PrizePool1": "0x28749f45a0951c18a89606687e3ad8204822a32c",
-      "PrizePool2": "0xf274d009c51ea5a8b2b3df2c5074c46d05afdad9"
-    },
-    "links": {
-      "project": "https://testnet.fukunad.xyz/",
-      "twitter": "https://x.com/Fuku_nad",
-      "docs": "https://fuku-1.gitbook.io/fuku-on-monad"
-    }
-  },
-  "Fantasy_Top": {
+  "fantasy_top": {
     "name": "Fantasy Top",
     "description": "Turns Crypto Twitter Into a Fantasy Sport",
     "live": true,
@@ -1405,7 +1470,7 @@
       "twitter": "https://x.com/fantasy_top_"
     }
   },
-  "FastLane": {
+  "fastlane": {
     "name": "FastLane",
     "description": "FastLane is an MEV protocol for validators + apps with an integrated 4337 bundler, an on-chain task scheduler, and the first holistic LST.",
     "live": true,
@@ -1423,7 +1488,7 @@
       "docs": "https://www.shmonad.xyz"
     }
   },
-  "Fiamma": {
+  "fiamma": {
     "name": "Fiamma",
     "description": "Unlocking Bitcoin’s real-world use, making it a dynamic asset & foundation of a decentralized internet & finance.",
     "live": true,
@@ -1440,7 +1505,7 @@
       "docs": "https://docs.fiammalabs.io/"
     }
   },
-  "Fizen.io": {
+  "fizen_io": {
     "name": "Fizen.io",
     "description": "Backed by Tether, Fizen.io provides a Wallet-based Crypto Super App Pay for everything with crypto",
     "live": true,
@@ -1456,7 +1521,7 @@
       "docs": "docs.fizen.io"
     }
   },
-  "Flap": {
+  "flap": {
     "name": "Flap",
     "description": "The premier memecoin launchpad for trench warriors on Monad.",
     "live": true,
@@ -1473,7 +1538,7 @@
       "docs": "https://docs.flap.sh"
     }
   },
-  "Flipside_Crypto": {
+  "flipside_crypto": {
     "name": "Flipside Crypto",
     "description": "Flipside orchestrates blockchain growth with data, science & community, turning onchain insights into measurable ecosystem value.",
     "live": true,
@@ -1490,7 +1555,7 @@
       "docs": "https://docs.flipsidecrypto.xyz/"
     }
   },
-  "Folks_Finance": {
+  "folks_finance": {
     "name": "Folks Finance",
     "description": "Folks Finance offers crosschain lending, borrowing, staking and trading, building the TradFi experience on a DeFi foundation.",
     "live": true,
@@ -1511,7 +1576,7 @@
       "docs": "https://docs.xapp.folks.finance/"
     }
   },
-  "Fortytwo": {
+  "fortytwo": {
     "name": "Fortytwo",
     "description": "A decentralized AI network growing smarter with each node where every computer contributes to planetary-scale limitless intelligence.",
     "live": true,
@@ -1529,7 +1594,7 @@
       "docs": "https://docs.fortytwo.network/"
     }
   },
-  "Fufuture": {
+  "fufuture": {
     "name": "Fufuture",
     "description": "Fufuture is a decentralized coin-based derivatives protocol, offering options with no forced liquidation, limited loss, and unlimited profit",
     "live": true,
@@ -1546,24 +1611,26 @@
       "docs": "https://fufuture.gitbook.io/"
     }
   },
-  "GM_Agents": {
-    "name": "GM Agents",
-    "description": "GM Agents is building the on-chain memory protocol for AI. We turn your interactions and knowledge into digital memories you can own, share, and earn from. Your memory, your asset.",
+  "fuku": {
+    "name": "FUKU",
+    "description": "FUKU: A DefiSaving protocol on Monad, blending savings with the excitement of betting and winning prizes without risking your deposit.",
     "live": true,
     "categories": [
-      "AI::Agent Launchpad",
-      "AI::Consumer AI",
-      "AI::Data"
+      "DeFi::Other"
     ],
     "addresses": {
-      "default": "0xbE1419d305d344E252c3AB9b688B664bfDa928cf"
+      "PrizePoolManager": "0x2e1fd6ec0923de849D6876599f214D2366d5e401",
+      "PrizePool0": "0x0168c03df4c67e4ea8bb0bd1c5459a4b719be16a",
+      "PrizePool1": "0x28749f45a0951c18a89606687e3ad8204822a32c",
+      "PrizePool2": "0xf274d009c51ea5a8b2b3df2c5074c46d05afdad9"
     },
     "links": {
-      "project": "https://gmagents.ai/",
-      "twitter": "https://x.com/GMAgents_AI"
+      "project": "https://testnet.fukunad.xyz/",
+      "twitter": "https://x.com/Fuku_nad",
+      "docs": "https://fuku-1.gitbook.io/fuku-on-monad"
     }
   },
-  "GameRelay": {
+  "game_relay": {
     "name": "GameRelay",
     "description": "Game Relay: builds Monad games without complex blockchain setups. It auto-handles transactions so you can focus on design & play.",
     "live": true,
@@ -1579,7 +1646,7 @@
       "github": "https://github.com/Veenoway/prebuilt-relayer"
     }
   },
-  "Gamma_Strategies": {
+  "gamma_strategies": {
     "name": "Gamma Strategies",
     "description": "Gamma is a protocol for active liquidity management and market making strategies",
     "live": true,
@@ -1598,7 +1665,7 @@
       "docs": "https://docs.gamma.xyz/gamma"
     }
   },
-  "Garden": {
+  "garden": {
     "name": "Garden",
     "description": "Garden is transforming Bitcoin interoperability with its next-gen bridge. It is built by the renBTC team using an intents based architecture with trustless settlement, enabling cross-chain Bitcoin swaps in as little as 30 seconds with zero custody risk.\n\nIn its first year, Garden processed over $1 billion in volume—proving the market’s demand for seamless, cost-effective Bitcoin bridging solutions.\n\nNow, Garden is unlocking a new era of interoperability—supporting non-likewise assets, external liquidity, and a wallet-friendly API—to onboard the next wave of partners and users.",
     "live": true,
@@ -1618,7 +1685,7 @@
       "docs": "https://docs.garden.finance/developers/overview"
     }
   },
-  "Gasp": {
+  "gasp": {
     "name": "Gasp",
     "description": "Gasp is a cross-chain DEX for exchanging crypto across blockchains like Ethereum L2s, Solana, Bitcoin, RWA, and much more.",
     "live": true,
@@ -1635,7 +1702,7 @@
       "docs": "https://docs.gasp.xyz/"
     }
   },
-  "Gelato": {
+  "gelato": {
     "name": "Gelato",
     "description": "Gelato Web3 Services bring enhanced UX to Monad's high-speed L1, enabling devs build automated apps with gasless transactions & VRF",
     "live": true,
@@ -1659,7 +1726,7 @@
       "docs": "https://docs.gelato.network/introduction/what-is-gelato"
     }
   },
-  "Gifted.art": {
+  "gifted_art": {
     "name": "Gifted.art",
     "description": "Gifted.art is a email delivery platform to send any onchain",
     "live": true,
@@ -1674,7 +1741,24 @@
       "twitter": "https://x.com/gifteddotart"
     }
   },
-  "Gmgn": {
+  "gm_agents": {
+    "name": "GM Agents",
+    "description": "GM Agents is building the on-chain memory protocol for AI. We turn your interactions and knowledge into digital memories you can own, share, and earn from. Your memory, your asset.",
+    "live": true,
+    "categories": [
+      "AI::Agent Launchpad",
+      "AI::Consumer AI",
+      "AI::Data"
+    ],
+    "addresses": {
+      "default": "0xbE1419d305d344E252c3AB9b688B664bfDa928cf"
+    },
+    "links": {
+      "project": "https://gmagents.ai/",
+      "twitter": "https://x.com/GMAgents_AI"
+    }
+  },
+  "gmgn": {
     "name": "Gmgn",
     "description": "GMGN Follow the smart money and KOL, discover future hot assets, and let GMGN take you one step ahead! track unrealized/realized profit, discover Smart Traders, and monitor wallet movement in real-time.",
     "live": true,
@@ -1690,7 +1774,7 @@
       "docs": "https://docs.gmgn.ai/"
     }
   },
-  "Golden_Goose": {
+  "golden_goose": {
     "name": "Golden Goose",
     "description": "Golden Goose is an yield-bearing game incubated by Cycle Network that combines blind boxes, nurturing gameplay and DeFi!",
     "live": true,
@@ -1706,7 +1790,7 @@
       "docs": "https://docs.goose.farm/treasure-goose/readme"
     }
   },
-  "Gomoku3": {
+  "gomoku3": {
     "name": "Gomoku3",
     "description": "Gomoku3 on the Monad testnet is a fully on-chain Gomoku game. Every move is recorded for transparency; each player gets an ERC-6551 wallet.",
     "live": true,
@@ -1722,7 +1806,7 @@
       "github": "https://github.com/LidamaoHub"
     }
   },
-  "Griffy": {
+  "griffy": {
     "name": "Griffy",
     "description": "Swipe to predict BTC, ETH & more! 10x your money with every swipe. A Tinder-style Telegram mini-app for binary options trading!",
     "live": true,
@@ -1737,7 +1821,7 @@
       "twitter": "https://x.com/GriffyCommunity"
     }
   },
-  "HaHa": {
+  "ha_ha": {
     "name": "HaHa Wallet",
     "description": "Native wallet with ultra-fast transactions, exclusive rewards, and discounts.",
     "categories": [
@@ -1757,7 +1841,7 @@
       "docs": "https://hahacrypto.notion.site/HaHa-Wallet-dApp-Integration-Guide-450e401310844f069d92ba82b4ddb68c/"
     }
   },
-  "HaHa_Wallet": {
+  "haha_wallet": {
     "name": "HaHa Wallet",
     "description": "Native smart wallet with DeFi automations and a community rewards system.",
     "live": true,
@@ -1773,7 +1857,7 @@
       "docs": "https://hahacrypto.notion.site/HaHa-Wallet-dApp-Integration-Guide-450e401310844f069d92ba82b4ddb68c"
     }
   },
-  "Hashflow": {
+  "hashflow": {
     "name": "Hashflow",
     "description": "Hashflow is the leading RFQ protocol that connects professional market makers and takers—powering $25B+ in volume across multiple chains.",
     "live": true,
@@ -1788,7 +1872,7 @@
       "twitter": "https://x.com/hashflow"
     }
   },
-  "Hawk_Terminal": {
+  "hawk_terminal": {
     "name": "Hawk Terminal",
     "description": "Launchpad for On-chain Builders Augmented by AI Agent.",
     "live": true,
@@ -1803,7 +1887,7 @@
       "twitter": "https://x.com/hawkterminal_HQ"
     }
   },
-  "Hedgemony": {
+  "hedgemony": {
     "name": "Hedgemony",
     "description": "On-chain automation made simple: Leverage AI to trade, earn, and dominate the DeFi landscape strategically.",
     "live": true,
@@ -1821,7 +1905,7 @@
       "docs": "docs.hedgemony.xyz"
     }
   },
-  "HeyElsa_AI": {
+  "hey_elsa_ai": {
     "name": "HeyElsa AI",
     "description": "HeyElsa AI: The 1inch of AI Agents—a composable layer powered by a proprietary LLM that aggregates real-time data from 8+ chains.",
     "live": false,
@@ -1836,7 +1920,7 @@
       "docs": "https://drive.google.com/file/d/1CbQOZarHh0h36DIf1AGMlyxJIwqj8peY/view?usp=sharing"
     }
   },
-  "Hive": {
+  "hive": {
     "name": "Hive",
     "description": "Hive is Monad's native stablecoin protocol unlocking real yield, liquidity, through native-chain collateral and active deployment",
     "live": true,
@@ -1858,7 +1942,7 @@
       "docs": "https://hive-8.gitbook.io/bhive"
     }
   },
-  "Hyperlane": {
+  "hyperlane_nexus": {
     "name": "Hyperlane",
     "description": "Hyperlane is a permissionless interoperability protocol for cross-chain message passing & asset transfers. It's fast, free, and open-source!",
     "live": true,
@@ -1875,7 +1959,37 @@
       "docs": "https://docs.hyperlane.xyz/"
     }
   },
-  "INFINIT": {
+  "i_zu_mi_finance": {
+    "name": "iZUMi Finance",
+    "description": "iZUMi Finance is a multi-chain DeFi protocol providing one-stop DEX-as-a-Service (DaaS)",
+    "live": true,
+    "categories": [
+      "DeFi::DEX"
+    ],
+    "addresses": {
+      "swapX2YModule": "0xED9b4E3ED8fe7e820B950F28f939AF848f98e995",
+      "swapY2XModule": "0x706A11AF5bb5C2a50aB9802503ddbfF69373D1bd",
+      "liquidityModule": "0x817EC83Fb6906ba0777E89110d5089313385F4A2",
+      "limitOrderModule": "0xAF931D7AaB9643d1E63Ed2E1fB17911c65e09678",
+      "flashModule": "0x29b66280F0Ea5F5DfbD7C94D560FC060575360cd",
+      "factory": "0x64c2F1306b4ED3183E7B345158fd01c19C0d8c5E",
+      "liquidityManager": "0x1eE5eDC5Fe498a2dD82862746D674DB2a5e7fef6",
+      "limitOrderManager": "0x77132b63429718Db2B6ad8D942eE13A198f6Ab49",
+      "limitorderwithswap": "0xa9754f0D9055d14EB0D2d196E4C51d8B2Ee6f4d3",
+      "swap": "0xF6FFe4f3FdC8BBb7F70FFD48e61f17D1e343dDfD",
+      "quoter": "0x95c5F14106ab4d1dc0cFC9326225287c18c2d247",
+      "quoterWithLimit": "0x4d140E612e476A6ba54EF1306b2bA398a5dEff09",
+      "tapProxy": "0xEB122DE19FeA9eD039E2d087113db26017f5F91a",
+      "locker": "0x551197e6350936976DfFB66B2c3bb15DDB723250"
+    },
+    "links": {
+      "project": "https://izumi.finance/home",
+      "twitter": "https://x.com/izumi_Finance",
+      "github": "https://docs.izumi.finance/",
+      "docs": "https://github.com/izumiFinance"
+    }
+  },
+  "infinit": {
     "name": "INFINIT",
     "description": "INFINIT is a DeFi abstraction layer for DeFAI, enabling permissionless creation of DeFi protocols and agents for autonomous DeFi. ",
     "live": false,
@@ -1890,7 +2004,7 @@
       "docs": "https://docs.infinit.tech/"
     }
   },
-  "Intract": {
+  "intract": {
     "name": "Intract",
     "description": "Intract powers AI, fraud prevention, and targeted quests, enabling apps to access verifiable user data while preserving privacy.",
     "live": true,
@@ -1905,7 +2019,7 @@
       "twitter": "https://x.com/Intract_HQ"
     }
   },
-  "Isle_Finance": {
+  "isle_finance": {
     "name": "Isle Finance",
     "description": "Isle Finance is a pioneering PayFi network linking Web3 liquidity with global supply chains via buyer revenue-backed on-chain credit lines.",
     "live": true,
@@ -1933,7 +2047,7 @@
       "docs": "https://docs.isle.finance/"
     }
   },
-  "Jarvis": {
+  "jarvis": {
     "name": "Jarvis",
     "description": "Unlock a World of Gaming Adventure",
     "live": true,
@@ -1948,7 +2062,7 @@
       "twitter": "https://x.com/aijarvis_xyz"
     }
   },
-  "KiloEx": {
+  "kilo_ex": {
     "name": "KiloEx",
     "description": "KiloEx is the next generation of user-friendly perpetual DEX, fully integration with LSTfi. Backed by BinanceLabs.",
     "live": true,
@@ -1992,7 +2106,7 @@
       "docs": "https://docs.kiloex.io/kiloex"
     }
   },
-  "Kinetk": {
+  "kinetk": {
     "name": "KINETK",
     "description": "KINETK is building the IP infrastructure layer for the next generation of digital creativity, unlocking attribution, protection, and capital for creators. Through the combination of proprietary invisible watermarking, agentic AI detection and tracking, and on-chain registration, KINETK is providing the tools that will underpin the future data models of the digital landscape.",
     "categories": [
@@ -2013,7 +2127,7 @@
       "discord": "https://discord.gg/5FWGX6JX"
     }
   },
-  "Kintsu": {
+  "kintsu": {
     "name": "Kintsu",
     "description": "Kintsu is setting a new paradigm in Liquid Staking, fully native to Monad with DAO curated Validator Registry weights",
     "live": false,
@@ -2029,7 +2143,7 @@
       "docs": "https://docs.kintsu.xyz/"
     }
   },
-  "Kinza_Finance": {
+  "kinza_finance": {
     "name": "Kinza Finance",
     "description": "Permissionless Lending",
     "live": true,
@@ -2048,7 +2162,7 @@
       "docs": "https://docs.kinza.finance/"
     }
   },
-  "Kizzy": {
+  "kizzy": {
     "name": "Kizzy",
     "description": "Kizzy is a social media betting app. Bet on how your favorite influencers and celebrities will perform on Twitter and YouTube.",
     "live": false,
@@ -2061,7 +2175,7 @@
       "twitter": "https://x.com/kizzymobile"
     }
   },
-  "Kuru": {
+  "kuru": {
     "name": "Kuru",
     "description": "Find and trade your coins on a fully on-chain CLOB. Built for traders, powered by Monad.",
     "live": true,
@@ -2084,7 +2198,7 @@
       "docs": "https://docs.kuru.io/"
     }
   },
-  "LA_MOUCH": {
+  "la_mouch": {
     "name": "LA MOUCH",
     "description": "La Mouch emerges as an unstoppable NFT pfp invasion on Monad, bringing the swarm to life with an inevitable, buzzing energy.",
     "live": true,
@@ -2099,39 +2213,7 @@
       "twitter": "https://x.com/LaMouchNFT"
     }
   },
-  "LEVR.bet": {
-    "name": "LEVR.bet",
-    "description": "Leverage Sports Betting with Fully Liquid Positions ",
-    "live": false,
-    "categories": [
-      "Consumer::Betting"
-    ],
-    "addresses": {},
-    "links": {
-      "project": "https://www.levr.bet",
-      "twitter": "https://x.com/LEVR_bet",
-      "docs": "https://www.levr.bet/whitepaper"
-    }
-  },
-  "LFJ": {
-    "name": "LFJ",
-    "description": "LFJ is a DEX agg & liquidity hub that invented Liquidity Book protocol and will debut an on-chain spot order book on Monad exclusively.",
-    "live": true,
-    "categories": [
-      "DeFi::DEX"
-    ],
-    "addresses": {
-      "Factory": "0xb43120c4745967fa9b93E79C149E66B0f2D6Fe0c",
-      "Router": "0x18556DA13313f3532c54711497A8FedAC273220E"
-    },
-    "links": {
-      "project": "https://lfj.gg/",
-      "twitter": "https://x.com/LFJ_gg",
-      "github": "https://github.com/traderjoe-xyz/joe-v2",
-      "docs": "https://docs.lfj.gg/"
-    }
-  },
-  "LayerZero": {
+  "layerzero": {
     "name": "LayerZero",
     "description": "LayerZero is an omnichain interoperability protocol that enables seamless communication between different blockchains.",
     "live": true,
@@ -2157,7 +2239,7 @@
       "docs": "https://docs.layerzero.network/v2"
     }
   },
-  "Legends_of_Elysium": {
+  "legends_of_elysium": {
     "name": "Legends of Elysium",
     "description": "A fantasy strategy game that combines TCG and board game mechanics. Collect cards, build custom decks, and engage in tactical battles.",
     "live": true,
@@ -2196,7 +2278,7 @@
       "docs": "https://legendsofelysium.io/wiki/"
     }
   },
-  "Legends_of_Hearts": {
+  "legends_of_hearts": {
     "name": "Legends of Hearts",
     "description": "Legends of Hearts (LOH) is a multi-player family-friendly Web3 game. Team up, convert emotions, & share NFT gifts with loved ones.",
     "live": false,
@@ -2209,7 +2291,7 @@
       "twitter": "https://x.com/LOH_Online"
     }
   },
-  "Lendhub": {
+  "lendhub": {
     "name": "Lendhub Protocol",
     "description": "Lendhub is a decentralized peer-2-peer NFT powered collateral lending protocol on Monad testnet.",
     "categories": [
@@ -2226,7 +2308,39 @@
       "docs": "https://docs.lendhub.site"
     }
   },
-  "Lombard": {
+  "levr_bet": {
+    "name": "LEVR.bet",
+    "description": "Leverage Sports Betting with Fully Liquid Positions ",
+    "live": false,
+    "categories": [
+      "Consumer::Betting"
+    ],
+    "addresses": {},
+    "links": {
+      "project": "https://www.levr.bet",
+      "twitter": "https://x.com/LEVR_bet",
+      "docs": "https://www.levr.bet/whitepaper"
+    }
+  },
+  "lfj": {
+    "name": "LFJ",
+    "description": "LFJ is a DEX agg & liquidity hub that invented Liquidity Book protocol and will debut an on-chain spot order book on Monad exclusively.",
+    "live": true,
+    "categories": [
+      "DeFi::DEX"
+    ],
+    "addresses": {
+      "Factory": "0xb43120c4745967fa9b93E79C149E66B0f2D6Fe0c",
+      "Router": "0x18556DA13313f3532c54711497A8FedAC273220E"
+    },
+    "links": {
+      "project": "https://lfj.gg/",
+      "twitter": "https://x.com/LFJ_gg",
+      "github": "https://github.com/traderjoe-xyz/joe-v2",
+      "docs": "https://docs.lfj.gg/"
+    }
+  },
+  "lombard": {
     "name": "Lombard",
     "description": "Lombard connects Bitcoin to every chain, defi protocol, and yield opportunity via LBTC. LBTC currently has $1.9B+ in deposits.",
     "live": false,
@@ -2241,7 +2355,7 @@
       "docs": "https://docs.lombard.finance/"
     }
   },
-  "LootGO": {
+  "lootgo": {
     "name": "LootGO",
     "description": "LootGO is a free walk-to-earn mobile app turning your daily life into a treasure hunt for next 100x memecoins.",
     "live": true,
@@ -2257,7 +2371,7 @@
       "docs": "https://lootgo.gitbook.io/lootgo"
     }
   },
-  "Lootify": {
+  "lootify": {
     "name": "Lootify",
     "description": "Lootify is a lootbox platform on Monad, offering NFTs, gaming assets, and tokenized trading cards as rewards",
     "live": true,
@@ -2272,7 +2386,7 @@
       "twitter": "https://x.com/Lootify_xyz"
     }
   },
-  "M0narch": {
+  "m0narch": {
     "name": "M0narch",
     "description": "Provably fair iGaming platform on Monad - every wager, outcome, and payout is secured on-chain",
     "categories": [
@@ -2297,20 +2411,7 @@
       "github": "https://github.com/m0narch-xyz"
     }
   },
-  "MERV": {
-    "name": "MERV",
-    "description": "IP creation platform powered by AI",
-    "live": false,
-    "categories": [
-      "AI::Other"
-    ],
-    "addresses": {},
-    "links": {
-      "project": "https://merv.wtf/",
-      "twitter": "https://x.com/merv_wtf"
-    }
-  },
-  "Mace": {
+  "mace": {
     "name": "Mace",
     "description": "Mace is a DEX aggregator on Monad that optimizes trades by routing through AMMs, orderbooks & RFQ market makers for best execution",
     "live": true,
@@ -2329,7 +2430,7 @@
       "docs": "docs.mace.ag"
     }
   },
-  "Mach_Exchange": {
+  "mach_exchange": {
     "name": "Mach Exchange",
     "description": "Mach Exchange is a one click onboarding tool, allowing any users to instantly and securely onboard from any crypto asset on any chain.",
     "live": true,
@@ -2346,7 +2447,7 @@
       "docs": "https://docs.mach.exchange/"
     }
   },
-  "Madhouse": {
+  "madhouse": {
     "name": "Madhouse",
     "description": "Experience lightning-fast 10,000 tps on Monad with Madhouse aggregator. Trade with speed, high liquidity, and madness.",
     "live": true,
@@ -2368,7 +2469,7 @@
       "docs": "https://docs.madhouse.ag/"
     }
   },
-  "Madness": {
+  "madness": {
     "name": "Madness",
     "description": "Madness – the native DEX on Monad, offering ultra-fast swaps, low fees, and deep liquidity",
     "live": true,
@@ -2387,7 +2488,7 @@
       "docs": "https://docs.madness.finance/"
     }
   },
-  "Magic_Eden": {
+  "magic_eden": {
     "name": "Magic Eden",
     "description": "Magic Eden is a NFT marketplace, bringing NFT trading across chain in one easy-to-use platform ",
     "live": true,
@@ -2410,7 +2511,7 @@
       "docs": "https://docs.magiceden.io/"
     }
   },
-  "Magma": {
+  "magma": {
     "name": "Magma",
     "description": "Magma is a Liquid Staking platform built on Monad",
     "live": true,
@@ -2428,7 +2529,7 @@
       "docs": "https://docs.hydrogenlabs.xyz/magma"
     }
   },
-  "Mahjong123": {
+  "mahjong123": {
     "name": "Mahjong123",
     "description": "Match tiles, progress through levels, boost your ranking, and get more airdrop rewards!",
     "live": false,
@@ -2441,7 +2542,7 @@
       "twitter": "https://x.com/0xMJM"
     }
   },
-  "MemeAIAssistant": {
+  "meme_ai_assistant": {
     "name": "MemeAIAssistant",
     "description": "A Farcaster MiniApp that allows users to generate, mint, and share meme images with just a text prompt.",
     "categories": [
@@ -2457,7 +2558,7 @@
       "farcaster": "https://farcaster.xyz/miniapps/bJ_dfhkjZK58/monad-meme-ai-assistant"
     }
   },
-  "Mentaport": {
+  "mentaport": {
     "name": "Mentaport",
     "description": "Keep your creative works safe from the internet troublemakers.",
     "live": true,
@@ -2476,7 +2577,20 @@
       "docs": "https://docs.mentaport.com"
     }
   },
-  "Meta_Leap": {
+  "merv": {
+    "name": "MERV",
+    "description": "IP creation platform powered by AI",
+    "live": false,
+    "categories": [
+      "AI::Other"
+    ],
+    "addresses": {},
+    "links": {
+      "project": "https://merv.wtf/",
+      "twitter": "https://x.com/merv_wtf"
+    }
+  },
+  "meta_leap": {
     "name": "Meta Leap",
     "description": "Meta Leap is a plug-and-play AI Gaming solution that empowers developers to seamlessly onboard their Web2 games onto Web3 within 30 minutes.",
     "live": true,
@@ -2496,7 +2610,7 @@
       "docs": "https://docs.metaleap.io/"
     }
   },
-  "Mintpad": {
+  "mintpad": {
     "name": "Mintpad",
     "description": "We make it easy to start an NFT collection. All you need is your artwork and a cryptocurrency wallet. Our platform takes care of the rest.",
     "live": false,
@@ -2509,7 +2623,7 @@
       "twitter": "https://x.com/mintpadco"
     }
   },
-  "Mon_Name_Service": {
+  "mon_name_service": {
     "name": "Mon Name Service",
     "description": "Mon Name Service secure and personalize your blockchain identity with our decentralized naming system.",
     "live": true,
@@ -2524,21 +2638,21 @@
       "twitter": "https://x.com/Novee_VeenoX"
     }
   },
-  "Monad-Space": {
-    "name": "Monad Space",
-    "description": "A full-featured explorer and staking platform with built-in validator monitoring and analytics.",
+  "monad_2048": {
+    "name": "Monad 2048",
+    "description": "Monad 2048 Puzzle / Game",
+    "live": true,
     "categories": [
-      "Infra::Analytics",
-      "Infra::Other",
-      "DeFi::Staking"
+      "Gaming::Games"
     ],
-    "addresses": {},
+    "addresses": {
+      "Game": "0xe0FA8195AE92b9C473c0c0c12c2D6bCbd245De47"
+    },
     "links": {
-      "project": "https://testnet-monad-space.itrocket.net",
-      "twitter": "https://x.com/itrocket_team"
+      "project": "https://2048.monad.xyz/"
     }
   },
-  "MonadAI": {
+  "monad_ai": {
     "name": "MonadAI",
     "description": "We are building a Monad native AI agent marketplace where people can deploy and tokenize their AI agents as well as an AI incubator.",
     "live": true,
@@ -2557,36 +2671,7 @@
       "docs": "https://monadai.gitbook.io/monadai"
     }
   },
-  "MonadTiles": {
-    "name": "MonadTiles",
-    "description": "Monad Tiles: a fast-paced rhythm game that stresses blockchain scalability by generating high transaction volumes",
-    "live": true,
-    "categories": [
-      "Gaming::Games"
-    ],
-    "addresses": {
-      "default": "0xB8DbEe86A653A6100B1f62Bd61493DF730f74419"
-    },
-    "links": {
-      "project": "https://monadtiles.xyz/",
-      "twitter": "https://x.com/Novee_VeenoX"
-    }
-  },
-  "Monad_2048": {
-    "name": "Monad 2048",
-    "description": "Monad 2048 Puzzle / Game",
-    "live": true,
-    "categories": [
-      "Gaming::Games"
-    ],
-    "addresses": {
-      "Game": "0xe0FA8195AE92b9C473c0c0c12c2D6bCbd245De47"
-    },
-    "links": {
-      "project": "https://2048.monad.xyz/"
-    }
-  },
-  "Monad_Baby": {
+  "monad_baby": {
     "name": "Monad Baby",
     "description": "Smart babes with AI Agent. Powered by Monad. Fair launch for your own babe.",
     "live": true,
@@ -2602,7 +2687,36 @@
       "twitter": "https://x.com/gmonadbaby"
     }
   },
-  "Monadata_AI": {
+  "monad_space": {
+    "name": "Monad Space",
+    "description": "A full-featured explorer and staking platform with built-in validator monitoring and analytics.",
+    "categories": [
+      "Infra::Analytics",
+      "Infra::Other",
+      "DeFi::Staking"
+    ],
+    "addresses": {},
+    "links": {
+      "project": "https://testnet-monad-space.itrocket.net",
+      "twitter": "https://x.com/itrocket_team"
+    }
+  },
+  "monad_tiles": {
+    "name": "MonadTiles",
+    "description": "Monad Tiles: a fast-paced rhythm game that stresses blockchain scalability by generating high transaction volumes",
+    "live": true,
+    "categories": [
+      "Gaming::Games"
+    ],
+    "addresses": {
+      "default": "0xB8DbEe86A653A6100B1f62Bd61493DF730f74419"
+    },
+    "links": {
+      "project": "https://monadtiles.xyz/",
+      "twitter": "https://x.com/Novee_VeenoX"
+    }
+  },
+  "monadata_ai": {
     "name": "Monadata AI",
     "description": "Monadata is an AI and Data Platform on Monad. Interact, Train, and Earn!",
     "live": true,
@@ -2618,7 +2732,7 @@
       "twitter": "https://x.com/monadata_ai"
     }
   },
-  "Monadex": {
+  "monadex": {
     "name": "Monadex",
     "description": "Monadex is the first gamified DEX protocol on Monad. Swap, play, and earn rewards—only on Monad!",
     "live": true,
@@ -2638,7 +2752,7 @@
       "docs": "https://docs.monadex.exchange/"
     }
   },
-  "Monday_Trade": {
+  "monday_trade": {
     "name": "Monday Trade",
     "description": "Monday Trade is Monad’s native spot DEX combining the precision of a fully on-chain order book with the simplicity of AMMs.",
     "live": true,
@@ -2659,7 +2773,23 @@
       "docs": "https://docs.monday.trade/"
     }
   },
-  "Monix": {
+  "monflipcoin": {
+    "name": "Monflipcoin",
+    "description": "Play MON Flipcoin on Monad Testnet, choose Head or Tail, and win MON with a fair and secure gaming experience.",
+    "categories": [
+      "Gaming::Games",
+      "Consumer::Betting"
+    ],
+    "addresses": {
+      "CoinflipGame": "0x664e248c39cd70Fa333E9b2544beEd6A7a2De09b"
+    },
+    "links": {
+      "project": "https://monflipcoin.vercel.app",
+      "twitter": "https://x.com/caridipesbuk",
+      "github": "https://github.com/Semutireng22/monflipcoin"
+    }
+  },
+  "monix": {
     "name": "Monix",
     "description": "Where your time is an investment, not a gamble. Experience fun, skill-based competition with rewards worthy of your effort. No pay-to-win, just play-to-master.",
     "live": true,
@@ -2679,7 +2809,7 @@
       "discord": "https://discord.gg/HsP25vZMKZ"
     }
   },
-  "Monorail": {
+  "monorail": {
     "name": "Monorail",
     "description": "Trade anything across Monad.  Monorail is the first aggregator to combine onchain orderbooks and AMMs to give you the best trade possible.",
     "live": true,
@@ -2697,7 +2827,23 @@
       "docs": "https://docs.monorail.xyz"
     }
   },
-  "Montools": {
+  "monport": {
+    "name": "Monport",
+    "description": "A Farcaster miniapp on Monad that allows users to mint a unique NFT collection called 'WelcomeMonad' and perform token swaps via integrated protocols like KuruSwap.",
+    "categories": [
+      "NFT::Collections",
+      "DeFi::DEX"
+    ],
+    "addresses": {
+      "WelcomeMonad": "0x40649af9dEE8bDB94Dc21BA2175AE8f5181f14AE"
+    },
+    "links": {
+      "project": "https://farcaster.xyz/miniapps/hmwIYVBTwm5z/monport",
+      "twitter": "https://x.com/Aren_ser",
+      "github": "https://github.com/Aren1414"
+    }
+  },
+  "montools": {
     "name": "Montools",
     "description": "Montools is a suite of tools for the Monad network.",
     "live": true,
@@ -2717,7 +2863,7 @@
       "docs": "https://montools.xyz/docs"
     }
   },
-  "Monucet": {
+  "monucet": {
     "name": "Monucet",
     "description": "Monucet is a Monad Testnet faucet with dynamic pay by Berzan.",
     "categories": [
@@ -2733,7 +2879,28 @@
       "docs": "https://github.com/berzanorg/monucet-xyz/blob/main/README.md"
     }
   },
-  "Moseiki": {
+  "morenad": {
+    "name": "Morenad",
+    "description": "On-chain 5x5 grid mining game on Monad with commit-reveal randomness, MORE token staking, automated buyback-and-burn, and user automation",
+    "categories": [
+      "Consumer::Betting",
+      "Gaming::Games",
+      "DeFi::Staking"
+    ],
+    "addresses": {
+      "MoreToken": "0x35f3bd2a352c6ef34De17cb618aC871aCABC7Abd",
+      "MiningGame": "0x3A0544d3fB61B44eC44fAb1be1aaFE5AFa54fD41",
+      "MiningGameVault": "0x75168B1311570201DcA1F0c62d3DBb64e72197F6",
+      "TreasuryStaking": "0x4bB4eB9d0aAa49399417899C3AA2f1ade92CBBC3",
+      "TreasuryVault": "0xC04fe474cFd3a96E07afAa269D42554F867Ce7FE",
+      "AutomationManager": "0xa1714EC3a5c5FC8f2797c5f32d13c52e15D0BF86"
+    },
+    "links": {
+      "project": "https://testnet.morenad.xyz",
+      "twitter": "https://x.com/morenad_xyz"
+    }
+  },
+  "moseiki": {
     "name": "Moseiki",
     "description": "Moseiki is Web3 Social Networking Application that merges the familiar experience of Web2 with the financial power of blockchain.",
     "live": true,
@@ -2750,7 +2917,7 @@
       "docs": "https://docs.moseiki.app/help-center"
     }
   },
-  "Motatoes": {
+  "motatoes": {
     "name": "Motatoes",
     "description": "A cute pixelated potato in a world full of humor, creativity, and community—mashing up fun, art, and a bit of chaos, one spud at a time.",
     "live": true,
@@ -2765,7 +2932,7 @@
       "twitter": "https://x.com/motatoes_?s=21"
     }
   },
-  "Mu_Digital": {
+  "mu_digital": {
     "name": "Mu Digital",
     "description": "RWA protocol bringing Asia's Best Yields Onchain",
     "live": true,
@@ -2782,7 +2949,7 @@
       "twitter": "https://x.com/MuDigitalHQ"
     }
   },
-  "Muku": {
+  "muku": {
     "name": "MUKU",
     "description": "MUKU is the Al + Web3 music platform where singers and composers collaborate, fans decide, and royalties settle transparently on-chain.",
     "categories": [
@@ -2802,7 +2969,7 @@
       "tiktok": "https://www.tiktok.com/@muku.mp3"
     }
   },
-  "Multipli.fi": {
+  "multipli_fi": {
     "name": "Multipli.fi",
     "description": "Multipli is a Zk based yield protocol specifically designed for making yield on traditionally non-yield bearing assets",
     "live": true,
@@ -2819,25 +2986,7 @@
       "docs": "https://docs.multipli.fi/"
     }
   },
-  "NFTs2Me": {
-    "name": "NFTs2Me",
-    "description": "NFTs2Me is a user-friendly comprehensive platform to create, deploy and manage your NFT collection on Monad, 100% free.",
-    "live": true,
-    "categories": [
-      "NFT::Marketplace"
-    ],
-    "addresses": {
-      "Factory": "0x00000000001594C61dD8a6804da9AB58eD2483ce",
-      "MintMaster": "0x00000000009a1E02f00E280dcfA4C81c55724212"
-    },
-    "links": {
-      "project": "https://nfts2me.com/",
-      "twitter": "https://x.com/NFTs2Me",
-      "github": "https://github.com/nfts2me",
-      "docs": "https://docs.nfts2me.com/"
-    }
-  },
-  "Nabla_Finance": {
+  "nabla_finance": {
     "name": "Nabla Finance",
     "description": "The Yield Protocol for the People. Nabla Finance is a yield protocol where the yield is generated by the hyper-efficient Nabla AMM.",
     "live": true,
@@ -2856,7 +3005,7 @@
       "docs": "https://docs.nabla.fi"
     }
   },
-  "Nad.fun": {
+  "nad_fun": {
     "name": "Nad.fun",
     "description": "Launch, trade and predict on Monad",
     "live": true,
@@ -2888,20 +3037,7 @@
       "docs": "https://nad-fun.gitbook.io/nad.fun"
     }
   },
-  "NadSmith": {
-    "name": "NadSmith",
-    "description": "AI Agent OS on Monad | Tokenizing Agents & Automating Markets - built exclusively on Monad",
-    "live": false,
-    "categories": [
-      "AI::Compute"
-    ],
-    "addresses": {},
-    "links": {
-      "project": "https://nadsmith.ai/",
-      "twitter": "https://x.com/NadSmith_"
-    }
-  },
-  "Nad_Name_Service": {
+  "nad_name_service": {
     "name": "Nad Name Service",
     "description": "Nad Name Service is the first web3 name service with .nad top-level domain build natively for Monad.",
     "live": true,
@@ -2918,7 +3054,20 @@
       "docs": "https://docs.nad.domains/developers/integrating-into-your-dapps"
     }
   },
-  "Nadflip": {
+  "nad_smith": {
+    "name": "NadSmith",
+    "description": "AI Agent OS on Monad | Tokenizing Agents & Automating Markets - built exclusively on Monad",
+    "live": false,
+    "categories": [
+      "AI::Compute"
+    ],
+    "addresses": {},
+    "links": {
+      "project": "https://nadsmith.ai/",
+      "twitter": "https://x.com/NadSmith_"
+    }
+  },
+  "nadflip": {
     "name": "Nadflip",
     "description": "Monad Testnet Coinflip with jackpot - Random numbers generated by Pyth Entropy",
     "categories": [
@@ -2935,7 +3084,7 @@
       "docs": "https://github.com/thexmikkel/nadflip-testnet/blob/main/README.md"
     }
   },
-  "Narwhal_Finance": {
+  "narwhal_finance": {
     "name": "Narwhal Finance",
     "description": "Narwhal Finance is an AI-driven decentralized perpetual trading platform exclusively on Monad. Backed by Jump Crypto and CMS Holdings",
     "live": true,
@@ -2961,7 +3110,7 @@
       "docs": "https://docs.narwhal.finance/"
     }
   },
-  "Neverland": {
+  "neverland": {
     "name": "Neverland",
     "description": "Neverland is a Monad-native decentralized lending protocol built on the Aave V3 framework, reimagining DeFi incentives through self-repaying loans, flexible NFT-based veToken governance, and automated yield strategies. It redistributes 100% of protocol revenue back to the community through governance-directed rewards, liquidity incentives, and deflationary buybacks and burns.",
     "live": true,
@@ -3054,7 +3203,7 @@
       "docs": "https://docs.neverland.money"
     }
   },
-  "Nextmate.ai": {
+  "nextmate_ai": {
     "name": "Nextmate.ai",
     "description": "Nextmate.ai – Decentralized, AI-Driven Prediction Markets with Memecoin Integration.",
     "live": false,
@@ -3068,7 +3217,25 @@
       "twitter": "https://x.com/nextmate_ai"
     }
   },
-  "NitroFinance": {
+  "nfts2me": {
+    "name": "NFTs2Me",
+    "description": "NFTs2Me is a user-friendly comprehensive platform to create, deploy and manage your NFT collection on Monad, 100% free.",
+    "live": true,
+    "categories": [
+      "NFT::Marketplace"
+    ],
+    "addresses": {
+      "Factory": "0x00000000001594C61dD8a6804da9AB58eD2483ce",
+      "MintMaster": "0x00000000009a1E02f00E280dcfA4C81c55724212"
+    },
+    "links": {
+      "project": "https://nfts2me.com/",
+      "twitter": "https://x.com/NFTs2Me",
+      "github": "https://github.com/nfts2me",
+      "docs": "https://docs.nfts2me.com/"
+    }
+  },
+  "nitro_finance": {
     "name": "NitroFinance",
     "description": "NitroFinance: An AMM on steroids—fusing DEX and Money Market into one pool to maximize efficiency and simplify liquidity management.",
     "live": true,
@@ -3091,7 +3258,7 @@
       "docs": "https://nitro-finance.gitbook.io/ftl"
     }
   },
-  "Nomas_Wallet": {
+  "nomas_wallet": {
     "name": "Nomas Wallet",
     "description": "Web3 Wallet Evolution Powered by AI.",
     "live": true,
@@ -3106,7 +3273,7 @@
       "twitter": "https://x.com/NomasWallet"
     }
   },
-  "Nostra": {
+  "nostra": {
     "name": "Nostra",
     "description": "Nostra is the crypto Super App where users can lend, borrow, swap and bridge cryptocurrencies.",
     "live": true,
@@ -3136,7 +3303,7 @@
       "docs": "https://docs.nostra.finance/"
     }
   },
-  "OctoSwap": {
+  "octoswap": {
     "name": "OctoSwap",
     "description": "OctoSwap offers lightning-fast token swaps and capital-efficient liquidity pools with a user friendly interface.",
     "live": true,
@@ -3157,7 +3324,7 @@
       "discord": "https://discord.gg/octoswapdex"
     }
   },
-  "Odyssey": {
+  "odyssey": {
     "name": "Odyssey",
     "description": "Odyssey is Gateway's privacy-focused app hub for Monad, creating experiences never seen before on-chain.",
     "live": false,
@@ -3170,7 +3337,7 @@
       "twitter": "https://x.com/Gateway_xyz"
     }
   },
-  "Opals": {
+  "opals": {
     "name": "Opals",
     "description": "Opals: Kickstarter meets NFTs for projects. Buy cards → auto-launch when funded → cards claim tokens + rewards. Discover gems on Opals.io",
     "live": true,
@@ -3187,7 +3354,7 @@
       "docs": "https://opals.gitbook.io/opals"
     }
   },
-  "OpenPad_AI": {
+  "open_pad_ai": {
     "name": "OpenPad AI",
     "description": "OpenPad AI is Leveraging Decentralized AI Analytics to Deliver Data-backed Investment Strategies #AI #Web3",
     "live": true,
@@ -3203,7 +3370,7 @@
       "docs": "https://docs.openpad.io/"
     }
   },
-  "Open_Ocean": {
+  "openocean": {
     "name": "Open Ocean",
     "description": "OpenOcean – a leading DEX aggregator on 30+ chains, with its swap API powering 180+ projects like MetaMask, Rabby, Li.Fi, and more.",
     "live": false,
@@ -3218,7 +3385,7 @@
       "docs": "https://apis.openocean.finance/"
     }
   },
-  "Open_Sea": {
+  "opensea": {
     "name": "Open Sea",
     "description": "The largest NFT marketplace. Buy, sell, & discover the internet of goods.",
     "live": false,
@@ -3232,7 +3399,7 @@
       "docs": "https://docs.opensea.io/"
     }
   },
-  "Opinion_Labs": {
+  "opinion_labs": {
     "name": "Opinion Labs",
     "description": "Next-gen Prediction Market for Everything",
     "live": true,
@@ -3252,7 +3419,7 @@
       "docs": "https://whitepaper.olab.xyz/opinion-labs-docs"
     }
   },
-  "Orochi_Network": {
+  "orochi_network": {
     "name": "Orochi Network",
     "description": "Orochi Network is the world’s first Verifiable Data Infrastructure, addressing scalability, privacy, and data integrity challenges.",
     "live": true,
@@ -3269,7 +3436,7 @@
       "docs": "https://docs.orochi.network/"
     }
   },
-  "Outpost_Surge": {
+  "outpost_surge": {
     "name": "Outpost Surge",
     "description": "A city-building society survival game on Mars. Manage resources, grow your outpost, and earn rewards.",
     "live": true,
@@ -3285,7 +3452,7 @@
       "docs": "https://docs.outpostsurge.com/"
     }
   },
-  "Owlto_Finance": {
+  "owlto_finance": {
     "name": "Owlto Finance",
     "description": "Owlto Finance is an intent-centric interoperability protocol, Bridge the World with AI Agent",
     "live": true,
@@ -3302,23 +3469,20 @@
       "docs": "https://docs.owlto.finance/"
     }
   },
-  "PLAY_Network": {
-    "name": "PLAY Network",
-    "description": "PLAY turbocharges games with crypto rails. Any game, any chain.",
+  "own_fun": {
+    "name": "own.fun",
+    "description": "The first AI-powered token discovery and social network platform, supercharged—with a swipe-based interface.",
     "live": true,
     "categories": [
-      "Gaming::Games"
+      "DeFi::Trading Interfaces"
     ],
-    "addresses": {
-      "default": "0x20C577EE802f4a802c8631997981271F7636c42f"
-    },
+    "addresses": {},
     "links": {
-      "project": "https://www.theplay.network/",
-      "twitter": "https://x.com/0xplay_network",
-      "docs": "https://playnetwork.gitbook.io/play-sdk-documentation"
+      "project": "https://monad.own.fun/",
+      "twitter": "https://x.com/OwnDotFun"
     }
   },
-  "PancakeSwap": {
+  "pancakeswap": {
     "name": "PancakeSwap",
     "description": "Trade and earn crypto on the all-in-one decentralized exchange. Enjoy low fees, high liquidity, and a user-friendly interface.",
     "live": true,
@@ -3348,7 +3512,7 @@
       "docs": "https://developer.pancakeswap.finance/"
     }
   },
-  "Peridot": {
+  "peridot": {
     "name": "Peridot",
     "description": "Peridot allows users to earn interest on your crypto and borrow funds without selling, all with smart, fair rates across multiple blockchains.",
     "live": true,
@@ -3392,7 +3556,7 @@
       "docs": "https://peridot-finance.gitbook.io/peridot-protocol"
     }
   },
-  "Pike": {
+  "pike": {
     "name": "Pike",
     "description": "Pike is a modularized lending protocol designed for the multichain world.",
     "live": true,
@@ -3418,7 +3582,7 @@
       "docs": "https://docs.pike.finance/"
     }
   },
-  "Pimlico": {
+  "pimlico": {
     "name": "Pimlico",
     "description": "Pimlico is the world's most advanced ERC-4337 account abstraction infrastructure platform. Pimlico provides a suite of tools and services to help you build, deploy, and manage smart accounts on Ethereum and other EVM-compatible chains.",
     "live": true,
@@ -3436,7 +3600,7 @@
       "docs": "https://docs.pimlico.io"
     }
   },
-  "PingMe": {
+  "pingme": {
     "name": "PingMe",
     "description": "Making stablecoin payment as simple as sending a message",
     "live": true,
@@ -3455,7 +3619,7 @@
       "docs": "https://www.pingme.xyz"
     }
   },
-  "Pingu_Exchange": {
+  "pingu_exchange": {
     "name": "Pingu Exchange",
     "description": "Pingu Exchange is a fully on-chain, coin-margined Perp DEX with top-tier performance for traders of all sizes to access global markets.",
     "live": true,
@@ -3489,7 +3653,7 @@
       "docs": "https://docs.pingu.exchange/"
     }
   },
-  "Plato": {
+  "plato": {
     "name": "Plato",
     "description": "Plato is first game for eating on Monad (Eat2Earn)",
     "live": true,
@@ -3506,7 +3670,23 @@
       "docs": "https://docs.platoprotocol.com/"
     }
   },
-  "Poink": {
+  "play_network": {
+    "name": "PLAY Network",
+    "description": "PLAY turbocharges games with crypto rails. Any game, any chain.",
+    "live": true,
+    "categories": [
+      "Gaming::Games"
+    ],
+    "addresses": {
+      "default": "0x20C577EE802f4a802c8631997981271F7636c42f"
+    },
+    "links": {
+      "project": "https://www.theplay.network/",
+      "twitter": "https://x.com/0xplay_network",
+      "docs": "https://playnetwork.gitbook.io/play-sdk-documentation"
+    }
+  },
+  "poink": {
     "name": "Poink",
     "description": "Poink lets users interact with Web3 directly on X (Twitter), helping dapps onboard users directly from X.",
     "live": false,
@@ -3519,7 +3699,7 @@
       "twitter": "https://x.com/poinkofficial"
     }
   },
-  "Polymer": {
+  "polymer": {
     "name": "Polymer",
     "description": "Polymer is an interoperability protocol tailor made for multi-rollup applications.",
     "live": true,
@@ -3536,7 +3716,7 @@
       "docs": "https://docs.polymerlabs.org/"
     }
   },
-  "Poply": {
+  "poply": {
     "name": "Poply",
     "description": "Community-based NFT Marketplace & Launchpad, built natively on Monad. Launch Freely, Trade Seamlessly.",
     "live": true,
@@ -3554,7 +3734,7 @@
       "docs": "https://docs.poply.xyz/"
     }
   },
-  "Prediction3": {
+  "prediction3": {
     "name": "Prediction3",
     "description": "Prediction3 is a socialized prediction market project ",
     "live": true,
@@ -3570,7 +3750,7 @@
       "github": "https://github.com/TiyoSheng/PredictionContract"
     }
   },
-  "Primex_Finance": {
+  "primex_finance": {
     "name": "Primex Finance",
     "description": "Primex Finance is a leveraged farming & trading protocol offering top APYs & margin trading for unlimited tokens on DEXs.",
     "live": true,
@@ -3594,7 +3774,7 @@
       "docs": "https://docs.primex.finance/"
     }
   },
-  "Primus": {
+  "primus": {
     "name": "Primus",
     "description": "Primus is a cryptographic infrastructure that enables any web data to be validated, and further to be encrypted and processed",
     "live": true,
@@ -3613,7 +3793,7 @@
       "docs": "https://docs.primuslabs.xyz/"
     }
   },
-  "Proof-of-Skill": {
+  "proof_of_skill": {
     "name": "Proof-of-Skill",
     "description": "A protocol to verify real-world skills along with ID & work history, enabling faster, smarter skill-based hiring",
     "live": true,
@@ -3629,7 +3809,7 @@
       "github": "https://github.com/proofofskillprotocol"
     }
   },
-  "Puffer_Finance": {
+  "puffer_finance": {
     "name": "Puffer Finance",
     "description": "Puffer Finance is a leading liquid staking protocol that lets users stake $ETH, receive $pufETH, and access DeFi opportunities.",
     "live": false,
@@ -3644,7 +3824,7 @@
       "docs": "https://docs.puffer.fi/"
     }
   },
-  "PumpBTC": {
+  "pump_btc": {
     "name": "PumpBTC",
     "description": "PumpBTC’s aim to allow Bitcoin holders to maximize their returns by participating in DeFi with security, scalability, and transparency.",
     "live": true,
@@ -3660,7 +3840,7 @@
       "docs": "https://pumpbtc.gitbook.io/pumpbtc"
     }
   },
-  "Purps": {
+  "purps_exchange": {
     "name": "Purps",
     "description": "Purps: A perpetual DEX and liquidity hub on Monad, offering deep liquidity, fast trading, and support for native projects.",
     "live": true,
@@ -3677,7 +3857,7 @@
       "docs": "https://purpsexchange.gitbook.io/docs"
     }
   },
-  "Pyth_Network": {
+  "pyth_network": {
     "name": "Pyth Network",
     "description": "The price layer of the global financial market.",
     "live": true,
@@ -3695,7 +3875,7 @@
       "docs": "docs.pyth.network"
     }
   },
-  "QuestN": {
+  "quest_n": {
     "name": "QuestN",
     "description": "QuestN is an AI-powered token distribution platform.",
     "live": true,
@@ -3711,7 +3891,7 @@
       "docs": "https://questn.gitbook.io/docs"
     }
   },
-  "Rabble": {
+  "rabble": {
     "name": "Rabble",
     "description": "Rabble is a multichain Tg client with a built-in wallet, Rabots, social questing & cross-chain support. 7K+ users, 10+ chains, 20+ agents.",
     "live": false,
@@ -3726,7 +3906,7 @@
       "docs": "https://www.rabble.pro/"
     }
   },
-  "RareBetSports": {
+  "rarebetsports": {
     "name": "RareBetSports",
     "description": "Building consumer sports applications powered by the RBS Oracle. Play RareLink and win up to 100x your crypto.",
     "live": true,
@@ -3743,7 +3923,7 @@
       "docs": "https://rarebetsports.gitbook.io/rarebetsports"
     }
   },
-  "ReactorFi": {
+  "reactor_fi": {
     "name": "ReactorFi",
     "description": "Reactor is a MetaDEX that belongs to a new class of a DEX that merge the best features of ve(3,3), Curve, Convex, and Uniswap.",
     "live": true,
@@ -3775,7 +3955,7 @@
       "docs": "https://reactors.gitbook.io/reactor"
     }
   },
-  "Redbrick": {
+  "redbrick": {
     "name": "Redbrick",
     "description": "Create. Play. Earn. Redbrick is a next-generation web3 gaming engine empowering creators to publish & monetize their games. Redbrick bridges the gap between Web2 & Web3, enabling users to play, earn, & create immersive experiences.",
     "live": true,
@@ -3792,7 +3972,7 @@
       "docs": "https://wiki.redbrick.land/en"
     }
   },
-  "Redstone": {
+  "redstone": {
     "name": "Redstone",
     "description": "RedStone is the fastest-growing Modular Oracle, specializing in yield-bearing collateral for lending markets, such as LSTs, LRTs and BTCFi.",
     "live": true,
@@ -3807,7 +3987,7 @@
       "docs": "https://docs.redstone.finance/docs/introduction"
     }
   },
-  "Renzo": {
+  "renzo": {
     "name": "Renzo",
     "description": "Renzo simplifies restaking with AVS strategies for LRTs, supporting $ezETH, $pzETH, and $ezSOL on Ethereum & Solana.",
     "live": true,
@@ -3824,7 +4004,7 @@
       "docs": "https://docs.renzoprotocol.com/docs"
     }
   },
-  "Reservoir": {
+  "reservoir": {
     "name": "Reservoir",
     "description": "Reservoir is a developer platform that lets you interact with the NFT market using a single toolkit.",
     "live": true,
@@ -3842,7 +4022,7 @@
       "docs": "https://docs.reservoir.tools/what-is-reservoir/"
     }
   },
-  "RgbClash": {
+  "rgb_clash": {
     "name": "RgbClash",
     "description": "Draw an nft,if players guess its name correctly it gets rewarded. Play in multiplayer lobbies and be the fastest to guess the nft names",
     "live": true,
@@ -3862,7 +4042,7 @@
       "docs": "https://docs.rgbclash.xyz/introduction/abstract"
     }
   },
-  "Rubic": {
+  "rubic": {
     "name": "Rubic",
     "description": "Rubic. Your Best Rate Finder across 90+ chains and 360+ DEXs and bridges. For users and dApps.",
     "live": true,
@@ -3889,7 +4069,7 @@
       "docs": "https://docs.rubic.finance/"
     }
   },
-  "Rug_Rumble": {
+  "rug_rumble": {
     "name": "Rug Rumble",
     "description": "Rug Rumble is a platform gamifying the speculative memecoin landscape. Wager your memecoins, defend your banner, and win outsized returns",
     "live": true,
@@ -3908,7 +4088,7 @@
       "docs": "https://rugrumble.gitbook.io/rug-rumble"
     }
   },
-  "Rysk": {
+  "rysk": {
     "name": "Rysk",
     "description": "Rysk is a new DeFi primitive to earn upfront yield on crypto assets",
     "live": true,
@@ -3926,7 +4106,7 @@
       "docs": "docs.rysk.finance"
     }
   },
-  "Seed_Circle": {
+  "seed_circle": {
     "name": "Seed Circle",
     "description": "The first inclusive decentralized fundraising platform, to offer access to seed and private sale investments in Monad early-stage projects.",
     "live": true,
@@ -3949,7 +4129,7 @@
       "twitter": "https://x.com/SeedCircle_"
     }
   },
-  "SelaNetwork": {
+  "sela_network": {
     "name": "Sela Network",
     "description": "Sela Network is a DePIN infrastructure that connects distributed nodes using daily devices, unlocking AI's potential through real-life data accessibility",
     "categories": [
@@ -3968,7 +4148,7 @@
       "docs": "https://docs.selanetwork.io/"
     }
   },
-  "SendMonad": {
+  "send_monad": {
     "name": "SendMonad.com",
     "description": "SendMonad.com is the first Monad Disperse utility that allows sending native MON tokens and ERC20 tokens to multiple addresses in one transaction. The protocol has enabled 25,000+ users to receive MON or ERC20 tokens on Monad testnet.",
     "categories": [
@@ -3981,7 +4161,7 @@
       "project": "https://www.sendmonad.com"
     }
   },
-  "Showdown": {
+  "showdown": {
     "name": "Showdown",
     "description": "Powering competitive gaming's future on Monad. Automated tournaments & skill-based wagering for all gamers on their favorite gaming titles!",
     "live": true,
@@ -4006,7 +4186,25 @@
       "docs": "https://medium.com/@ShowdownGaming"
     }
   },
-  "SkyTrade": {
+  "sidekick": {
+    "name": "sidekick",
+    "description": "Sidekick Protocol is a one-stop platform for asset distribution & trading. Launch, distribute, and trade assets via live streaming.",
+    "live": true,
+    "categories": [
+      "Consumer::Social"
+    ],
+    "addresses": {
+      "unknown0": "0x6d9063949B39b95bF24953e22884deAB92dFe196",
+      "unknown1": "0xf84E39e7D27E446D31Cb253d7D37940c61991819"
+    },
+    "links": {
+      "project": "https://sidekick.fans/",
+      "twitter": "https://x.com/Sidekick_Labs",
+      "github": "https://github.com/SidekickOfficial/SmartContracts",
+      "docs": "https://sidekick-protocol.gitbook.io/sidekick"
+    }
+  },
+  "sky_trade": {
     "name": "SkyTrade",
     "description": "SkyTrade lets you monetize your air rights, the legal right to use and control the space above buildings and land.",
     "live": true,
@@ -4025,7 +4223,7 @@
       "docs": "https://docs.sky.trade"
     }
   },
-  "Slay_The_Moloch": {
+  "slay_the_moloch": {
     "name": "Slay The Moloch",
     "description": "Fully onchain fantasy cypherpunk cookie clicker. Addictive, fast paced, avantgarde.",
     "live": true,
@@ -4040,7 +4238,7 @@
       "twitter": "https://x.com/MolochSlayerThe"
     }
   },
-  "Slogain": {
+  "slogain": {
     "name": "Slogain",
     "description": "Post and Bump. Content Rewards Made Easy. Everyone has a stake in the content ecosystem. Each click translates into tangible recognition.",
     "live": true,
@@ -4056,7 +4254,7 @@
       "docs": "https://docsend.com/view/4rs5iwif2zdqmnuh"
     }
   },
-  "Solv_Protocol": {
+  "solv_protocol": {
     "name": "Solv Protocol",
     "description": "Solv Protocol is the On-Chain Bitcoin Reserve, connecting TradFi, CeFi, and DeFi to unlock Bitcoin's $1T+ potential.",
     "live": true,
@@ -4080,7 +4278,7 @@
       "docs": "https://docs.solv.finance/"
     }
   },
-  "Spine_Finance": {
+  "spine_finance": {
     "name": "Spine Finance",
     "description": "Instant, Efficient, and Flexible Fixed-Rate Money Markets.",
     "live": true,
@@ -4096,7 +4294,7 @@
       "docs": "https://spine-protocol.gitbook.io/spine-finance"
     }
   },
-  "StakeStone": {
+  "stakestone": {
     "name": "StakeStone",
     "description": "Omnichain liquidity infrastructure for yield-bearing assets, redistributing liquidity across chains and protocols through Liquidity Pad.",
     "live": true,
@@ -4114,7 +4312,7 @@
       "docs": "https://docs.stakestone.io/stakestone"
     }
   },
-  "Standard_Protocol": {
+  "standard_protocol": {
     "name": "Standard Protocol",
     "description": "Standard is a self-custodial finance app with sustainable services, powered by $STND, backing a fully onchain CLOB exchange & futures.",
     "live": true,
@@ -4131,7 +4329,7 @@
       "docs": "https://learn.standardweb3.com"
     }
   },
-  "Stork": {
+  "stork": {
     "name": "Stork",
     "description": "Stork, the fastest-growing oracle, offers over 355 real-time feeds for dApps, helping developers build Web2-level speed and efficiency.",
     "live": true,
@@ -4148,7 +4346,7 @@
       "docs": "https://docs.stork.network/"
     }
   },
-  "Sumer": {
+  "sumer_money": {
     "name": "Sumer",
     "description": "Sumer unifies correlated/non-correlated asset lending, CDP synthetics, and bridge liquidity into a capital-efficient DeFi pool",
     "live": true,
@@ -4172,7 +4370,7 @@
       "docs": "https://docs.sumer.money/"
     }
   },
-  "Swaap": {
+  "swaap": {
     "name": "Swaap",
     "description": "Swaap is the most efficient onchain liquidity source",
     "live": true,
@@ -4190,7 +4388,7 @@
       "docs": "https://docs.swaap.finance/"
     }
   },
-  "Swing_Monad": {
+  "swing_monad": {
     "name": "Swing Monad",
     "description": "Swing Monad lets users stake $MON and receive swMON, a liquid token that represents staked assets.",
     "live": true,
@@ -4207,7 +4405,7 @@
       "docs": "https://docs.swmonad.xyz/"
     }
   },
-  "Switchboard": {
+  "switchboard": {
     "name": "Switchboard",
     "description": "Switchboard is the largest customizable oracle network and first oracle aggregator, helping secure nearly $1.5B in value across 10+ chains.",
     "live": true,
@@ -4224,7 +4422,7 @@
       "docs": "https://docs.switchboard.xyz"
     }
   },
-  "Symphony": {
+  "symphony": {
     "name": "Symphony",
     "description": "Symphony is the missing infrastructure layer that connects AI to financial markets. We provide secure, autonomous execution rails so financial platforms can plug in and scale their AI products.",
     "categories": [
@@ -4256,7 +4454,7 @@
       "docs": "https://symphony-3.gitbook.io/symphony-docs"
     }
   },
-  "SynFutures": {
+  "syn_futures": {
     "name": "SynFutures",
     "description": "SynFutures is a leading decentralized exchange (DEX) and full-stack financial infrastructure powering the future of trading.",
     "live": false,
@@ -4271,7 +4469,7 @@
       "docs": "https://docs.synfutures.com/"
     }
   },
-  "Synnax": {
+  "synnax": {
     "name": "Synnax",
     "description": "Over-collateralized stablecoin protocol powered by market-maker yield, delivering scalable stability and robust returns for DeFi users.",
     "live": false,
@@ -4286,25 +4484,24 @@
       "docs": "https://docs.synnax.fi"
     }
   },
-  "TAYA": {
-    "name": "TAYA",
-    "description": "Taya Finance is DeFi platform for Trade asset as (AMM) , Prediction Market and LaunchPad for Memecoins.",
+  "t3rn": {
+    "name": "t3rn",
+    "description": "t3rn executes cross-chain transactions at the protocol layer — no need for wrapping assets or trusting third-party relayers.",
     "live": true,
     "categories": [
-      "DeFi::DEX",
-      "Consumer::Prediction Market"
+      "Infra::Interoperability"
     ],
     "addresses": {
-      "factory": "0xf3fd5503fb2bb5f5a7ae713e621ac5c50f191fb3"
+      "contract": "0xA8BDa68F249FA96BEc91cF2C669Ec8CBDeF51d59"
     },
     "links": {
-      "project": "https://taya.fi",
-      "twitter": "https://x.com/TayaFinance",
-      "github": "https://github.com/sub-labs",
-      "docs": "https://docs.taya.fi"
+      "project": "https://t3rn.io/",
+      "twitter": "https://x.com/t3rn_io",
+      "github": "https://github.com/t3rn/",
+      "docs": "https://docs.t3rn.io/intro"
     }
   },
-  "Tadle": {
+  "tadle": {
     "name": "Tadle",
     "description": "Tadle is a full-stack platform offering Points trading, Missions, and Odds Marketplaces to boost engagement, liquidity, and growth.",
     "live": true,
@@ -4324,7 +4521,7 @@
       "docs": "https://tadle.gitbook.io/tadle"
     }
   },
-  "Talentum": {
+  "talentum": {
     "name": "Talentum",
     "description": "Talentum is a Web3 KOL & community management platform helping projects launch risk-free, data-driven marketing campaigns with real users",
     "live": true,
@@ -4344,7 +4541,7 @@
       "docs": "https://docs.talentum.id/"
     }
   },
-  "Tarobase": {
+  "tarobase": {
     "name": "Tarobase",
     "description": "Build on-chain apps with Tarobase—from Venmo & Pump.fun clones to endless possibilities—without writing smart contracts.",
     "live": true,
@@ -4360,7 +4557,25 @@
       "docs": "https://docs.tarobase.com"
     }
   },
-  "Taya_swap": {
+  "taya": {
+    "name": "TAYA",
+    "description": "Taya Finance is DeFi platform for Trade asset as (AMM) , Prediction Market and LaunchPad for Memecoins.",
+    "live": true,
+    "categories": [
+      "DeFi::DEX",
+      "Consumer::Prediction Market"
+    ],
+    "addresses": {
+      "factory": "0xf3fd5503fb2bb5f5a7ae713e621ac5c50f191fb3"
+    },
+    "links": {
+      "project": "https://taya.fi",
+      "twitter": "https://x.com/TayaFinance",
+      "github": "https://github.com/sub-labs",
+      "docs": "https://docs.taya.fi"
+    }
+  },
+  "taya_swap": {
     "name": "Taya swap",
     "description": "Taya is DeFi hub with market prediction , concentrated pools and real-time wallet insights on Monad",
     "live": true,
@@ -4378,7 +4593,7 @@
       "docs": "https://docs.taya.fi/"
     }
   },
-  "Tezza_Poker": {
+  "tezza_poker": {
     "name": "Tezza Poker",
     "description": "Play, win, mint. Tezza Poker lets you compete free, earn Points, and claim NFTs—pure skill, real rewards.",
     "live": true,
@@ -4394,7 +4609,7 @@
       "twitter": "x.com/tezzapoker"
     }
   },
-  "The_Vape_Labs": {
+  "thevapelabs": {
     "name": "The Vape Labs",
     "description": "The Vape Labs pioneers DePIN x Vape2Earn with AI-powered smart vapes, rewarding users and providing anonymized data for public health",
     "live": true,
@@ -4411,7 +4626,7 @@
       "docs": "https://thevapelabs.gitbook.io/docs"
     }
   },
-  "Timeswap": {
+  "timeswap": {
     "name": "Timeswap",
     "description": "\"Timeswap is the first oracleless lending/borrowing protocol — enabling the creation of money markets for ANY ERC20 tokens.\n\n\"",
     "live": true,
@@ -4429,7 +4644,25 @@
       "docs": "https://timeswap.gitbook.io/docs/introduction/what-is-timeswap"
     }
   },
-  "Treasure_Dwarf_Battles": {
+  "tread_fi": {
+    "name": "tread.fi",
+    "description": "Exchange aggregator and algorithmic trading platform, standardizing and elevating institutional and retail trading experiences.",
+    "live": true,
+    "categories": [
+      "DeFi::Lending"
+    ],
+    "addresses": {
+      "Attestations": "0x8aF5998A1A9aB881e26E878eAAD147862c39b9D5",
+      "VaultFactory": "0x568D845825183032F788d6172D2b6cAb206bCf4E"
+    },
+    "links": {
+      "project": "www.tread.fi",
+      "twitter": "https://x.com/tread_fi",
+      "github": "https://github.com/tread-labs-public/taas-api-client",
+      "docs": "https://tread-labs.gitbook.io/api-docs"
+    }
+  },
+  "treasure_dwarf_battles": {
     "name": "Treasure Dwarf Battles",
     "description": "Build your dwarf army, fight in PvP battles, and compete for treasure in Dwarf Battles a fast-paced, fantasy-inspired Risk-to-Earn game",
     "live": true,
@@ -4456,7 +4689,7 @@
       "docs": "https://treasure-dwarf-battles.gitbook.io/"
     }
   },
-  "Unipay": {
+  "unipay": {
     "name": "Unipay",
     "description": "Unipay is a decentralized, yield-bearing stablecoin on Solana, providing stability, passive yield, and optimized liquidity strategies.",
     "live": true,
@@ -4479,7 +4712,7 @@
       "docs": "https://docs.unipay.fi/"
     }
   },
-  "Uniswap": {
+  "uniswap": {
     "name": "Uniswap",
     "description": "The largest onchain marketplace. Buy and sell crypto on Ethereum and 11+ other chains.",
     "live": true,
@@ -4500,7 +4733,7 @@
       "docs": "https://docs.uniswap.org/"
     }
   },
-  "Uniswap_Wallet": {
+  "uniswap_wallet": {
     "name": "Uniswap Wallet",
     "description": "The Uniswap Wallet is self-custody crypto wallet built for swapping. It lets you buy crypto, browse NFTs, explore Web3 apps, and swap tokens",
     "live": false,
@@ -4513,7 +4746,7 @@
       "twitter": "https://x.com/Uniswap"
     }
   },
-  "Upfloor": {
+  "upfloor": {
     "name": "Upfloor",
     "description": "Transforms NFT collections into perpetual growth engines",
     "live": true,
@@ -4530,7 +4763,7 @@
       "docs": "https://introducing-upfloor-bydoonlabs.notion.site/UPFLOOR-2921352cbae2805c80a5e97197ec14a7"
     }
   },
-  "ValleyOfHeroes": {
+  "valley_of_heroes": {
     "name": "Valley of Heroes",
     "description": "World's First Real-Time Fully Onchain MMORPG on Monad. Phase 1 launches as a fully on-chain hero collector with every hero, battle, and reward living entirely on-chain.",
     "categories": [
@@ -4548,7 +4781,7 @@
       "docs": "https://docs.valleyofheroes.xyz"
     }
   },
-  "Valor_Quest": {
+  "valor_quest": {
     "name": "Valor Quest",
     "description": "The No.1 Mythic-themed AFK game on Telegram with NFTs, mining, and epic battles to earn airdrops!",
     "live": true,
@@ -4563,7 +4796,7 @@
       "twitter": "https://x.com/valorquestgame"
     }
   },
-  "Wenwin": {
+  "wenwin": {
     "name": "Wenwin",
     "description": "Wenwin is the world's largest decentralized lottery built on Monad",
     "live": true,
@@ -4580,7 +4813,7 @@
       "docs": "https://docs.wenwin.com/"
     }
   },
-  "Wormhole": {
+  "wormhole_portal": {
     "name": "Wormhole",
     "description": "Wormhole is a generic message-passing protocol designed to enable secure and efficient communication between different blockchains. ",
     "live": true,
@@ -4602,7 +4835,7 @@
       "docs": "https://wormhole.com/docs/"
     }
   },
-  "X-Mail": {
+  "x_mail": {
     "name": "X-Mail",
     "description": "I would like to introduce my DApp 📲 to everyone! It is designed for messaging and communication, allowing users to exchange messages seamlessly. The app provides essential features similar to Gmail ✉️, making it easy and secure to stay connected.",
     "categories": [
@@ -4617,7 +4850,7 @@
       "github": "https://github.com/eempirex"
     }
   },
-  "XL": {
+  "xl": {
     "name": "XL",
     "description": "XL is a memecoin launchpad enabling easy, low-cost token creation across various networks.",
     "live": true,
@@ -4634,7 +4867,7 @@
       "twitter": "https://x.com/XLmemeCom"
     }
   },
-  "Yamata": {
+  "yamata": {
     "name": "Yamata",
     "description": "Yamata empowers traders with blazing CLOBs, advanced order types, and a simple, self-custodial on-chain experience. Trade without trade-offs",
     "live": true,
@@ -4657,7 +4890,7 @@
       "docs": "https://docs.yamata.io"
     }
   },
-  "Yap_on_Chain": {
+  "yap_on_chain": {
     "name": "Yap on Chain",
     "description": "Yap on Chain is a hub for interaction with games, deploy of contracts and tokens. Soon, an NFT lending app will be added.",
     "live": true,
@@ -4675,7 +4908,7 @@
       "github": "https://github.com/yaponchain"
     }
   },
-  "YieldKingZ": {
+  "yield_king_z": {
     "name": "YieldKingZ",
     "description": "YieldKingZ: A Web3 Game-Fi casino featuring yield farming, sustainable tokenomics, and Club-Fi for community-driven finance.",
     "live": true,
@@ -4694,7 +4927,7 @@
       "twitter": "https://x.com/yieldkingz"
     }
   },
-  "Zapry": {
+  "zapry": {
     "name": "Zapry",
     "description": "Zapry is a one-stop web3 entrance that incubates viral trends and offers one-step crypto transfers.",
     "live": false,
@@ -4707,7 +4940,7 @@
       "twitter": "https://x.com/0xZapry"
     }
   },
-  "Zaros": {
+  "zaros": {
     "name": "Zaros",
     "description": "Trade, Earn, and Build Derivatives on Monad.",
     "live": true,
@@ -4726,258 +4959,7 @@
       "docs": "https://docs.zaros.fi"
     }
   },
-  "Zona": {
-    "name": "Zona",
-    "description": "Zona is building scalable infra for composable RWA tokens. We let users mint, speculate, and earn yield on real estate Index Tokens.",
-    "live": true,
-    "categories": [
-      "DeFi::RWA"
-    ],
-    "addresses": {
-      "Master": "0xCF91CD9f22889F1E8631a51B6115B46B51548202",
-      "ZonaOracle": "0x0Fed9873f364bD49cB4D7039567f69C59aE6Eb2B"
-    },
-    "links": {
-      "project": "https://www.zona.finance/",
-      "twitter": "https://x.com/zona_io",
-      "github": "https://github.com/zona-hk",
-      "docs": "https://zona.gitbook.io/zona-documentation"
-    }
-  },
-  "aPriori": {
-    "name": "aPriori",
-    "description": "aPriori is an MEV infrastructure and liquid staking protocol, designed for the parallel execution era and natively built on Monad.",
-    "live": true,
-    "categories": [
-      "DeFi::MEV"
-    ],
-    "addresses": {
-      "aprMON": "0xb2f82D0f38dc453D596Ad40A37799446Cc89274A"
-    },
-    "links": {
-      "project": "testnet-staking.apr.io",
-      "twitter": "https://x.com/apr_labs",
-      "github": "https://github.com/apriori-network",
-      "docs": "https://www.apr.io/"
-    }
-  },
-  "aiCraft.fun": {
-    "name": "aiCraft.fun",
-    "description": "aiCraft.fun - The 1st Decentralized AI Agent Launchpad that turns your expertise into income.",
-    "live": true,
-    "categories": [
-      "AI::Agent Launchpad"
-    ],
-    "addresses": {
-      "default": "0xd227d3bce59b91380b7bc4a61a045b528b509439"
-    },
-    "links": {
-      "project": "https://aicraft.fun/",
-      "twitter": "https://x.com/aicraftfun",
-      "docs": "https://url.aicraft.fun/whitepaper"
-    }
-  },
-  "beatBRAWLS": {
-    "name": "beatBRAWLS",
-    "description": "beatBRAWLS is a brand new blockchain game that combines the songs you love to hear with the card games you love to play.",
-    "live": true,
-    "categories": [
-      "Gaming::Games"
-    ],
-    "addresses": {
-      "contract": "0x31aEA45F79E0BdAD742363bf78E653eB90C83191"
-    },
-    "links": {
-      "project": "https://beatbrawls.com/",
-      "twitter": "https://x.com/beatbrawls"
-    }
-  },
-  "coNFT": {
-    "name": "coNFT",
-    "description": "coNFT.app-NFT aggregator where users can create/trade NFT and register web3 domains.",
-    "live": true,
-    "categories": [
-      "NFT::Infrastructure"
-    ],
-    "addresses": {
-      "default": "0xdd23adE69Fc2FE1934AA36C5aB12F6DC58a3446f"
-    },
-    "links": {
-      "project": "https://conft.app",
-      "twitter": "https://x.com/ConftApp",
-      "github": "https://github.com/Conft-dev"
-    }
-  },
-  "eOracle": {
-    "name": "eOracle",
-    "description": "eOracle provides decentralized price feeds through a cryptoeconomically secure oracle network.",
-    "live": true,
-    "categories": [
-      "Infra::Oracle"
-    ],
-    "addresses": {
-      "BTCUSD": "0xad43317bCb093CFb9792e95c54459815da8C33c6",
-      "ETHUSD": "0x179ABDA20BE2f08478Ad1A48b793D3f07f995228",
-      "USDCUSD": "0xf568fdc0b5e148dE374DB28443409517f50c0695",
-      "USDTUSD": "0x5f1833C1415eaE12c135d2F3A8f21d542807d674"
-    },
-    "links": {
-      "project": "https://eo.app/",
-      "twitter": "https://x.com/eoracle_network",
-      "github": "https://github.com/eoracle",
-      "docs": "https://docs.eoracle.io/docs"
-    }
-  },
-  "iZUMi_Finance": {
-    "name": "iZUMi Finance",
-    "description": "iZUMi Finance is a multi-chain DeFi protocol providing one-stop DEX-as-a-Service (DaaS)",
-    "live": true,
-    "categories": [
-      "DeFi::DEX"
-    ],
-    "addresses": {
-      "swapX2YModule": "0xED9b4E3ED8fe7e820B950F28f939AF848f98e995",
-      "swapY2XModule": "0x706A11AF5bb5C2a50aB9802503ddbfF69373D1bd",
-      "liquidityModule": "0x817EC83Fb6906ba0777E89110d5089313385F4A2",
-      "limitOrderModule": "0xAF931D7AaB9643d1E63Ed2E1fB17911c65e09678",
-      "flashModule": "0x29b66280F0Ea5F5DfbD7C94D560FC060575360cd",
-      "factory": "0x64c2F1306b4ED3183E7B345158fd01c19C0d8c5E",
-      "liquidityManager": "0x1eE5eDC5Fe498a2dD82862746D674DB2a5e7fef6",
-      "limitOrderManager": "0x77132b63429718Db2B6ad8D942eE13A198f6Ab49",
-      "limitorderwithswap": "0xa9754f0D9055d14EB0D2d196E4C51d8B2Ee6f4d3",
-      "swap": "0xF6FFe4f3FdC8BBb7F70FFD48e61f17D1e343dDfD",
-      "quoter": "0x95c5F14106ab4d1dc0cFC9326225287c18c2d247",
-      "quoterWithLimit": "0x4d140E612e476A6ba54EF1306b2bA398a5dEff09",
-      "tapProxy": "0xEB122DE19FeA9eD039E2d087113db26017f5F91a",
-      "locker": "0x551197e6350936976DfFB66B2c3bb15DDB723250"
-    },
-    "links": {
-      "project": "https://izumi.finance/home",
-      "twitter": "https://x.com/izumi_Finance",
-      "github": "https://docs.izumi.finance/",
-      "docs": "https://github.com/izumiFinance"
-    }
-  },
-  "monflipcoin": {
-    "name": "Monflipcoin",
-    "description": "Play MON Flipcoin on Monad Testnet, choose Head or Tail, and win MON with a fair and secure gaming experience.",
-    "categories": [
-      "Gaming::Games",
-      "Consumer::Betting"
-    ],
-    "addresses": {
-      "CoinflipGame": "0x664e248c39cd70Fa333E9b2544beEd6A7a2De09b"
-    },
-    "links": {
-      "project": "https://monflipcoin.vercel.app",
-      "twitter": "https://x.com/caridipesbuk",
-      "github": "https://github.com/Semutireng22/monflipcoin"
-    }
-  },
-  "monport": {
-    "name": "Monport",
-    "description": "A Farcaster miniapp on Monad that allows users to mint a unique NFT collection called 'WelcomeMonad' and perform token swaps via integrated protocols like KuruSwap.",
-    "categories": [
-      "NFT::Collections",
-      "DeFi::DEX"
-    ],
-    "addresses": {
-      "WelcomeMonad": "0x40649af9dEE8bDB94Dc21BA2175AE8f5181f14AE"
-    },
-    "links": {
-      "project": "https://farcaster.xyz/miniapps/hmwIYVBTwm5z/monport",
-      "twitter": "https://x.com/Aren_ser",
-      "github": "https://github.com/Aren1414"
-    }
-  },
-  "morenad": {
-    "name": "Morenad",
-    "description": "On-chain 5x5 grid mining game on Monad with commit-reveal randomness, MORE token staking, automated buyback-and-burn, and user automation",
-    "categories": [
-      "Consumer::Betting",
-      "Gaming::Games",
-      "DeFi::Staking"
-    ],
-    "addresses": {
-      "MoreToken": "0x35f3bd2a352c6ef34De17cb618aC871aCABC7Abd",
-      "MiningGame": "0x3A0544d3fB61B44eC44fAb1be1aaFE5AFa54fD41",
-      "MiningGameVault": "0x75168B1311570201DcA1F0c62d3DBb64e72197F6",
-      "TreasuryStaking": "0x4bB4eB9d0aAa49399417899C3AA2f1ade92CBBC3",
-      "TreasuryVault": "0xC04fe474cFd3a96E07afAa269D42554F867Ce7FE",
-      "AutomationManager": "0xa1714EC3a5c5FC8f2797c5f32d13c52e15D0BF86"
-    },
-    "links": {
-      "project": "https://testnet.morenad.xyz",
-      "twitter": "https://x.com/morenad_xyz"
-    }
-  },
-  "own.fun": {
-    "name": "own.fun",
-    "description": "The first AI-powered token discovery and social network platform, supercharged—with a swipe-based interface.",
-    "live": true,
-    "categories": [
-      "DeFi::Trading Interfaces"
-    ],
-    "addresses": {},
-    "links": {
-      "project": "https://monad.own.fun/",
-      "twitter": "https://x.com/OwnDotFun"
-    }
-  },
-  "sidekick": {
-    "name": "sidekick",
-    "description": "Sidekick Protocol is a one-stop platform for asset distribution & trading. Launch, distribute, and trade assets via live streaming.",
-    "live": true,
-    "categories": [
-      "Consumer::Social"
-    ],
-    "addresses": {
-      "unknown0": "0x6d9063949B39b95bF24953e22884deAB92dFe196",
-      "unknown1": "0xf84E39e7D27E446D31Cb253d7D37940c61991819"
-    },
-    "links": {
-      "project": "https://sidekick.fans/",
-      "twitter": "https://x.com/Sidekick_Labs",
-      "github": "https://github.com/SidekickOfficial/SmartContracts",
-      "docs": "https://sidekick-protocol.gitbook.io/sidekick"
-    }
-  },
-  "t3rn": {
-    "name": "t3rn",
-    "description": "t3rn executes cross-chain transactions at the protocol layer — no need for wrapping assets or trusting third-party relayers.",
-    "live": true,
-    "categories": [
-      "Infra::Interoperability"
-    ],
-    "addresses": {
-      "contract": "0xA8BDa68F249FA96BEc91cF2C669Ec8CBDeF51d59"
-    },
-    "links": {
-      "project": "https://t3rn.io/",
-      "twitter": "https://x.com/t3rn_io",
-      "github": "https://github.com/t3rn/",
-      "docs": "https://docs.t3rn.io/intro"
-    }
-  },
-  "tread.fi": {
-    "name": "tread.fi",
-    "description": "Exchange aggregator and algorithmic trading platform, standardizing and elevating institutional and retail trading experiences.",
-    "live": true,
-    "categories": [
-      "DeFi::Lending"
-    ],
-    "addresses": {
-      "Attestations": "0x8aF5998A1A9aB881e26E878eAAD147862c39b9D5",
-      "VaultFactory": "0x568D845825183032F788d6172D2b6cAb206bCf4E"
-    },
-    "links": {
-      "project": "www.tread.fi",
-      "twitter": "https://x.com/tread_fi",
-      "github": "https://github.com/tread-labs-public/taas-api-client",
-      "docs": "https://tread-labs.gitbook.io/api-docs"
-    }
-  },
-  "zkSwap": {
+  "zk_swap": {
     "name": "zkSwap Finance",
     "description": "The First Swap2Earn DeFi Platform",
     "live": true,
@@ -5012,6 +4994,24 @@
       "twitter": "https://x.com/zkSwap_finance",
       "github": "https://github.com/ZkSwapFinance",
       "docs": "https://docs.zkswap.finance/"
+    }
+  },
+  "zona": {
+    "name": "Zona",
+    "description": "Zona is building scalable infra for composable RWA tokens. We let users mint, speculate, and earn yield on real estate Index Tokens.",
+    "live": true,
+    "categories": [
+      "DeFi::RWA"
+    ],
+    "addresses": {
+      "Master": "0xCF91CD9f22889F1E8631a51B6115B46B51548202",
+      "ZonaOracle": "0x0Fed9873f364bD49cB4D7039567f69C59aE6Eb2B"
+    },
+    "links": {
+      "project": "https://www.zona.finance/",
+      "twitter": "https://x.com/zona_io",
+      "github": "https://github.com/zona-hk",
+      "docs": "https://zona.gitbook.io/zona-documentation"
     }
   }
 }
