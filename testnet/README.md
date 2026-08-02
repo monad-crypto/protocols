@@ -1,1 +1,0 @@
-This directory contains a JSON description for each protocol on testnet
