@@ -1218,26 +1218,6 @@
       "twitter": "https://x.com/crshmarket"
     }
   },
-  "cult_trade": {
-    "name": "Cult",
-    "description": "Launch reputation based coins on Monad",
-    "live": true,
-    "categories": [
-      "DeFi::Launchpads"
-    ],
-    "addresses": {
-      "CultRewards": "0x440a157243D7820c2077D1BE931Fc6bB52716F31",
-      "CultFeeHook": "0x7A2524cE937F206844b9508EEc8f6486800a40CC",
-      "CultImplementation": "0x69C382Cf1A36f2665d449C0e6c446927D3904d35",
-      "CultFactoryImplementation": "0x951A3a01122511f01AbFfFF1ACEfbab2C5C9fF17",
-      "CultFactoryProxy": "0xCE6fc8Af085BCD42FA5338f739D1A2cdDa2c19fe"
-    },
-    "links": {
-      "project": "https://www.cult.trade/",
-      "twitter": "https://x.com/cultdottrade",
-      "docs": "https://cultdottrade.gitbook.io/cult-dot-trade"
-    }
-  },
   "curvance": {
     "name": "Curvance",
     "description": "Click Less, Earn More. Powered by @wormhole.",
@@ -1993,26 +1973,6 @@
       "docs": "https://docs.grimmy.fun"
     }
   },
-  "haha_wallet": {
-    "name": "HaHa Wallet",
-    "description": "Native wallet with ultra-fast transactions, exclusive rewards, and discounts.",
-    "categories": [
-      "Infra::Wallet",
-      "Consumer::Other"
-    ],
-    "addresses": {
-      "MetaAccount": "0xbd2C0dc6521CD25A8bb3943f50B5Eec7A9d9a8a2",
-      "FeeManager": "0x4631F923C3c470061A97e008ED9c33DA4349612c",
-      "NonceManager": "0xfFf4baDfe0EB9731F5593fE7CEd5B1209055E640",
-      "MerkleDistributor": "0xA01A2488Cbe09156da4a78fA46483556CE41710a"
-    },
-    "links": {
-      "project": "https://www.haha.me/",
-      "twitter": "https://x.com/haha_app",
-      "github": "https://github.com/permutize",
-      "docs": "https://hahacrypto.notion.site/HaHa-Wallet-dApp-Integration-Guide-450e401310844f069d92ba82b4ddb68c/"
-    }
-  },
   "hanji": {
     "name": "Hanji",
     "description": "Hanji is a fully on-chain central limit order book (CLOB) DEX on Monad, offering fast spot trading with tight spreads and zero maker fees, alongside a smart order-routing aggregator across its markets.",
@@ -2577,46 +2537,6 @@
       "docs": "https://docs.mace.ag/"
     }
   },
-  "madhouse": {
-    "name": "Madhouse",
-    "description": "Experience lightning-fast 10,000 tps on Monad with Madhouse aggregator. Trade with speed, high liquidity, and madness.",
-    "live": true,
-    "categories": [
-      "DeFi::DEX Aggregator"
-    ],
-    "addresses": {
-      "Aggregator": "0x6017684Bea9Cb6e9874fC6DBA4438271eBF9F5DA"
-    },
-    "links": {
-      "project": "https://madhouse.ag/",
-      "twitter": "https://x.com/usemadhouse",
-      "github": "https://github.com/usemadhouse",
-      "docs": "https://docs.madhouse.ag/"
-    }
-  },
-  "magic_eden": {
-    "name": "Magic Eden",
-    "description": "Magic Eden is a leading NFT marketplace where users can buy, sell, mint, and trade NFTs across multiple blockchains like Solana, Bitcoin, Ethereum, and more.",
-    "live": true,
-    "categories": [
-      "NFT::Marketplace"
-    ],
-    "addresses": {
-      "ApprovalProxy": "0xfdf7a254075226621cb04b4722106c29b24acf3c",
-      "MagicDrop": "0x00000000bea935f8315156894aa4a45d3c7a0075",
-      "MagicEdenRouter": "0xca5c2a5688f6c824d029f3a23b75082c5f75b442",
-      "SeaportV16Module": "0xaf2108a064faf690371dde0212666f72bf82dbad",
-      "SignedZoneControllerV16": "0xa7df5f1e4c3998e1dd7789356f8366ad447bf3fa",
-      "SignedZoneControllerV16Royalty": "0xadbeb0a1d9b359b9c992c62d33d0a01b5d6e56ca",
-      "SignedZoneV16": "0x44bba8d8e0323d9238569eb7a3001a1d1333f7aa",
-      "SignedZoneV16Royalty": "0x4152727b8893a7a3057634b362256e71defae8b4"
-    },
-    "links": {
-      "project": "https://magiceden.io/",
-      "twitter": "https://x.com/MagicEden",
-      "docs": "https://help.magiceden.io/en/"
-    }
-  },
   "magma": {
     "name": "Magma",
     "description": "Native liquid staking and MEV, powered by the fastest block engine in crypto.",
@@ -2975,27 +2895,6 @@
     "links": {
       "project": "https://monad-space.itrocket.net",
       "twitter": "https://x.com/itrocket_team"
-    }
-  },
-  "monadice": {
-    "name": "Monadice",
-    "description": "Monadice is a crypto-native, zero-noise prediction market where users trade beliefs on-chain across crypto, sports, politics, and global events. Markets are validated and filtered through an AI-powered verification layer that ensures measurability, reduces noise, and guarantees clean structured outcomes.",
-    "categories": [
-      "Consumer::Prediction Market",
-      "AI::Infrastructure",
-      "AI::Consumer AI"
-    ],
-    "addresses": {
-      "BetMarketFactory": "0xeBfbE5f4EDB6378ade8A815Fc2DAf147C5b8Cb86",
-      "BetCampaignBTC": "0x5A2693D05fb99bE88d7d9133Fc806FA713a7c55B",
-      "OracleVerifier": "0xC87fB6De3C266E84b8730dD5AbCD5DCD4eE6e34c",
-      "Monad Market": "0x82802aa45d19f9bc8fce35e398c8c02dfe2aabf9"
-    },
-    "links": {
-      "project": "https://www.monadice.xyz/",
-      "app": "https://app.monadice.xyz/",
-      "twitter": "https://x.com/monadice_",
-      "github": "https://github.com/apeingteam-eng/monadice-front"
     }
   },
   "monday_trade": {
@@ -3785,44 +3684,6 @@
       "docs": "https://docs.pingu.exchange/"
     }
   },
-  "pinot_finance": {
-    "name": "PinotFinance",
-    "description": "Advanced liquidity and trading hub for Monad powered by real-time voting system.",
-    "live": true,
-    "categories": [
-      "DeFi::DEX"
-    ],
-    "addresses": {
-      "Emission": "0x0D96571886FE0CbcaFef3109e8B569c7498Ed3fc",
-      "GovernanceToken": "0x89975e0FA4e663BB3D52cE699bDC792aD24C7273",
-      "Ballot": "0x3cBe70c025F045ACACFBeC5119D70b6ebD076b9a",
-      "UniversalRouter": "0x7F00f30D518737A6De6E2A4c9Da39D356ca3a737",
-      "PersonalAssetManagerFactory": "0xA217276C368C9f548F9838863904bE3f9f0D9844",
-      "AssetHelper": "0x14B8190E024F10A4F0ac0d118aF3F5807FA3fe12",
-      "UniswapV3Factory": "0x7716F310d62Aee3d009fd94067c627fe7E2f2aA9",
-      "NonfungiblePositionManager": "0xb8058cDbC6CdC4b0aA0Aa00A7Ecf7CAAF1441392",
-      "SwapRouter": "0x252b9C1A6C9867a514ea70fe9bBB23621ACc1a50",
-      "Quoter": "0x22e3d8acB2b32F138018732B6f034e05A46E42f8",
-      "QuoterV2": "0xfb72484A019F2458B8B609D9230f320f5371A3E3",
-      "TickLens": "0xbC3e14cdbFDd8bb58D1B9A7AA20C316E6b32643D",
-      "UniswapInterfaceMulticall": "0xA8f00b0Df5D4aDa95Fc89E8c389819594Ef45720",
-      "UniswapV2Factory": "0x82A70cAbe732542996A57455AFfec578b4061322",
-      "UniswapV2Router": "0x452146eb925F089A5999976674f40692aD44549C",
-      "UniswapV2GaugeFactory": "0x0a99443B8D303D443BD86186c68C78f3A55c5487",
-      "SegmentedElectorFactory(V3)": "0xCae374853E8D37C2C8FC6FeA770629054c391756",
-      "SegmentedElectorFactory(v2)": "0xd7f63BBb5F866258Eb9b9112b6A940D35dbaeb4f"
-    },
-    "initCodeHashes": {
-      "v2InitCodeHash": "0x986d5bc7d1ebad7b6aa48b90d79ba2498e5e223dad50971c48f147ab6395bdd2",
-      "v3InitCodeHash": "0xf54c8516b0255aaf493382e8534bab492d4325d4c84374ac39f7fa643a5cfbcd"
-    },
-    "links": {
-      "project": "https://pinot.finance",
-      "twitter": "https://x.com/pinotfinance",
-      "github": "https://github.com/pinotfinance",
-      "docs": "https://docs.pinot.finance"
-    }
-  },
   "playkami": {
     "name": "PlayKami",
     "description": "PlayKami is a gamified marketplace where users can collect and redeem real-world collectibles, backed by transparent odds and verified inventory",
@@ -3843,24 +3704,6 @@
       "docs": "https://docs.playkami.io/",
       "github": "https://github.com/PlayKami/getdrops-contract-audit",
       "linktree": "https://linktr.ee/playkamiapp"
-    }
-  },
-  "poply": {
-    "name": "Poply",
-    "description": "Community-based NFT Marketplace & Launchpad, built natively on Monad. Launch Freely, Trade Seamlessly.",
-    "live": true,
-    "categories": [
-      "NFT::Marketplace"
-    ],
-    "addresses": {
-      "PoplyMarketplace (Proxy)": "0x81389AEcADcff4b8ae1391d3DceC9a21dE51694C",
-      "NftDropFactory": "0x35a9EaF67C2C6276c8Edf083D5b42eC36214eBd3"
-    },
-    "links": {
-      "project": "https://poply.xyz/",
-      "twitter": "https://x.com/poply_xyz",
-      "github": "https://github.com/0xpoply",
-      "docs": "https://docs.poply.xyz/"
     }
   },
   "primus": {
@@ -4036,24 +3879,6 @@
       "twitter": "https://x.com/RangoExchange",
       "github": "https://github.com/rango-exchange",
       "docs": "https://docs.rango.exchange/"
-    }
-  },
-  "rarebetsports": {
-    "name": "RareBetSports",
-    "description": "Daily Fantasy built for Web3",
-    "categories": [
-      "Consumer::Betting",
-      "Consumer::Prediction Market"
-    ],
-    "addresses": {
-      "Oracle": "0x3987049dC3D79a9a43805e771B084A3da8D90ed4",
-      "SlipRepository": "0x07133fF8291876c693117212dE67F3c0B3d3a3Fc"
-    },
-    "links": {
-      "project": "https://www.rarebetsports.io",
-      "twitter": "https://x.com/RareBetSports",
-      "github": "https://github.com/RareBetSports",
-      "docs": "https://rarebetsports.gitbook.io/rarebetsports/"
     }
   },
   "redstone": {
@@ -4242,25 +4067,6 @@
       "twitter": "https://x.com/SatLayer",
       "github": "https://github.com/SatLayer",
       "docs": "https://docs.satlayer.xyz/"
-    }
-  },
-  "sela_network": {
-    "name": "Sela Network",
-    "description": "Sela Network is a DePIN infrastructure that connects distributed nodes using daily devices, unlocking AI's potential through real-life data accessibility",
-    "categories": [
-      "AI::Data",
-      "AI::Infrastructure",
-      "DePIN::Data Collection",
-      "DePIN::Compute"
-    ],
-    "addresses": {
-      "SelaPower": "0x42eA86B7E84ea022aa902C6dC470758BA68A7506"
-    },
-    "links": {
-      "project": "https://www.selanetwork.io/",
-      "twitter": "https://x.com/selaNetwork",
-      "github": "https://github.com/sela-network",
-      "docs": "https://docs.selanetwork.io/"
     }
   },
   "sherpa": {
@@ -4574,37 +4380,6 @@
       "docs": "https://docs.switchboard.xyz"
     }
   },
-  "swyrl_finance": {
-    "name": "Swyrl",
-    "description": "Swyrl is a Monad-native DEX with dual AMMs and liquid staking, aligning users and protocols via ve(3,3)-driven governance.",
-    "live": true,
-    "categories": [
-      "DeFi::DEX"
-    ],
-    "addresses": {
-      "SwyrlV2Router": "0x020e762D529628aDd359a9f4D2f63A3BCFe373Bd",
-      "SwyrlV2Factory": "0xD158CDfeC90E9429A290c3144Afeb72E8C23603a",
-      "NonfungiblePositionManager": "0xa6931259B8921F2ED1E7B6c2E657e82873C195ed",
-      "NonfungibleTokenPositionDescriptor": "0x10974f1aEE2983b052cD0EF2321Fa7d3edf2B426",
-      "SwyrlV3Factory": "0x02a898F85a6984213Ac6d2577ff3406394172abf",
-      "SwyrlV3PoolDeployer": "0x66ae3f94EB3Ab532cC4F8fC8700f6d7488E40A4f",
-      "UniversalRouter": "0x6B096391742bAaEd539Ad25F44dC775065f73322",
-      "UniswapInterfaceMulticall": "0xb79bA9375Fc66C4ddF236BeD3D53ef6213aac7B6",
-      "MixedRouteQuoterV1": "0xE6c40D7cDc1F1622Ddf2af41ae8c4230A587D133",
-      "Quoter": "0xfDD71E68FE7C3565C5fEaE6Bf3057F9841Fe1F8D",
-      "QuoterV2": "0x65552047E14028B6c20EB58f305F7663d87013A1",
-      "SwapRouter": "0xA1164853b6Ad6EfC8B28dEcA0aE5CCbf5CE88328",
-      "SwapRouter02": "0xd8De315eE724CEfD5a4f215daE3d6729e5150a90",
-      "TickLens": "0x95d4063ad9cEDA0d83428986d23BaA9eD5163F58",
-      "Swyrl": "0x32D14d57c60A4A213EB4cF76Cb805776D869Bffb"
-    },
-    "links": {
-      "project": "https://swyrl.finance/",
-      "twitter": "https://x.com/SwyrlFi",
-      "github": "https://github.com/SwyrlFi",
-      "docs": "https://docs.swyrl.finance/"
-    }
-  },
   "symphony": {
     "name": "Symphony",
     "description": "Symphony is the missing infrastructure layer that connects AI to financial markets. We provide secure, autonomous execution rails so financial platforms can plug in and scale their AI products.",
@@ -4635,23 +4410,6 @@
       "twitter": "https://x.com/symphonyio",
       "github": "https://github.com/CadenceProtocol",
       "docs": "https://symphony-3.gitbook.io/symphony-docs"
-    }
-  },
-  "syrax": {
-    "name": "Syrax",
-    "description": "The pinnacle of on-chain trading. Trade without compromise",
-    "categories": [
-      "DeFi::Trading Interfaces"
-    ],
-    "addresses": {
-      "Router": "0x449134df9148d9A5cf12bc17F12Dff602Bd153a4",
-      "V4 Transfer Wrapper": "0x660dd0b44c1f8ea5447a9204d13502ff9b736ec3"
-    },
-    "links": {
-      "project": "https://www.syrax.ai/",
-      "twitter": "https://x.com/SyraxAI",
-      "github": "https://github.com/Syrax-AI",
-      "docs": "https://docs.syrax.ai/"
     }
   },
   "tadle": {
@@ -4704,62 +4462,6 @@
       "twitter": "https://x.com/TalentumID",
       "github": "https://github.com/Talentum-id",
       "docs": "https://docs.talentum.id/"
-    }
-  },
-  "taya_finance": {
-    "name": "Taya Finance",
-    "description": "Taya is a decentralized automated market maker (AMM) on Monad, offering customizable DeFi experiences and fast, secure asset trading.",
-    "categories": [
-      "DeFi::DEX"
-    ],
-    "addresses": {
-      "TayaSwapRouter": "0xcd4b41946c92c224d5fb934729225608255c280b",
-      "TayaSwapFactory": "0x6874896a6f61b0d8937dbb2546092cafab0e4b20"
-    },
-    "links": {
-      "project": "https://www.taya.fi/",
-      "twitter": "https://x.com/TayaFinance"
-    }
-  },
-  "telemafia": {
-    "name": "TeleMafia",
-    "description": "TeleMafia is a Telegram-native social mafia RPG where Families compete, earn Respect, and grow shared on-chain Treasuries powered by Monad.",
-    "categories": [
-      "Gaming::Games"
-    ],
-    "addresses": {
-      "FamilyRegistry": "0xA5A6F68A3fcE8D345Be024d0E0Bf4240Bc620Be4",
-      "VaultFactory": "0x777AcAb541A663ABbad28de92Af6caeFD67c72CD",
-      "TeleMafiaCheckIn": "0xaE2DfCa11311e1652B9d3dC39527465435eA94ef",
-      "UpgradeableBeacon": "0x5d1814D6981247bc796CA3F48d5Cc382dd552552",
-      "VaultImplementation": "0xCbA51d62D0B240Bb8f60eee98351464beaa5Cc77"
-    },
-    "links": {
-      "project": "https://mafia.family/",
-      "twitter": "https://x.com/TeleMafia",
-      "docs": "https://docs.sonz.ai/ecosystem/telemafia"
-    }
-  },
-  "thevapelabs": {
-    "name": "Thevapelabs",
-    "description": "TheVapeLabs is the world’s first AI-powered smart vape brand, built on Monad. We help people cut down and quit nicotine with real-time tracking, personalized AI tips and incentives. Users can even flex their NFTs right on the device, bringing on-chain culture into real life.",
-    "live": true,
-    "categories": [
-      "DePIN::Data Collection",
-      "DePIN::Data Labelling",
-      "AI::Consumer AI"
-    ],
-    "addresses": {
-      "MIST": "0xfA2F863Eb512434E99E2365Fa5f7AC7674DDe000",
-      "Staking": "0x51FFf43eb9Cc9cE9de491E86dcfBFbf0864cfEED",
-      "PointSyncer": "0x925726a0AAbB82464d21F6795A457fA9Fe0a57c1"
-    },
-    "links": {
-      "project": "http://thevapelabs.io",
-      "twitter": "https://x.com/thevapelabs",
-      "github": "https://github.com/thevapelabs-io",
-      "docs": "https://thevapelabs.gitbook.io/docs",
-      "discord": "https://discord.com/invite/PkR24GRSYe"
     }
   },
   "timeswap": {
@@ -4914,23 +4616,6 @@
       "docs": "https://docs.uniswap.org/"
     }
   },
-  "upfloor": {
-    "name": "Upfloor",
-    "description": "Transforms NFT collections into perpetual growth engines",
-    "live": true,
-    "categories": [
-      "NFT::Other"
-    ],
-    "addresses": {
-      "Upfloor": "0xB16EAa34cA11291a70Acfc16440F3aABAf89E332"
-    },
-    "links": {
-      "project": "https://upfloor.co/",
-      "twitter": "https://x.com/upfloorco",
-      "github": "",
-      "docs": "https://introducing-upfloor-bydoonlabs.notion.site/UPFLOOR-2921352cbae2805c80a5e97197ec14a7"
-    }
-  },
   "upshift": {
     "name": "earnAUSD",
     "description": "The primary liquid yield token on Monad, systematically allocating AUSD across top DeFi opportunities",
@@ -4944,11 +4629,10 @@
       "tokenProxy": "0x103222f020e98Bba0AD9809A011FDF8e6F067496",
       "tokenProxyAdmin": "0x942147E26B4F320b1f1D34895497aB59a56DceeC",
       "timeLockedCallsContract": "0x95f3458Cb7FE0fd8D22DA406F688aa6Ac74AEa84",
-      "assetsWhitelist": "0xceA701f0Ff0a2e8A51a5C5c1D2B6b69BFA849989",
-      "sendersWhitelist": "0x0000000000000000000000000000000000000000"
+      "assetsWhitelist": "0xceA701f0Ff0a2e8A51a5C5c1D2B6b69BFA849989"
     },
     "links": {
-      "website": "https://upshift.finance",
+      "project": "https://upshift.finance",
       "twitter": "https://x.com/upshift_fi"
     }
   },
