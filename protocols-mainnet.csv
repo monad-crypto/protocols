@@ -1654,6 +1654,7 @@ Primus Token Distribution Platform,Infra,Privacy / Encryption,PrimusRedEnvelope,
 Primus Token Distribution Platform,Infra,Privacy / Encryption,PrimusTip,0xa2e0700a269be3158c81e4739518b324d4398588,Infra::Privacy / Encryption;Infra::ZK;Consumer::Social
 Metamask,Infra,Wallet,Bridge,0xfb00d4ea6f3f0d0b4a57b32378075df408f2aaba,Infra::Wallet
 Metamask,Infra,Wallet,DelegationManager,0xdb9b1e94b5b69df7e401ddbede43491141047db3,Infra::Wallet
+Metamask,Infra,Wallet,MoneyAccountVault,0x1c8a336051d2024e318a229d01f9f6cf96efd316,Infra::Wallet
 Metamask,Infra,Wallet,swaps,0x962287c9d5b8a682389e61edae90ec882325d08b,Infra::Wallet
 Safe,Infra,Wallet,CompatibilityFallbackHandler,0xf48f2b2d2a534e402487b3ee7c18c33aec0fe5e4,Infra::Wallet
 Safe,Infra,Wallet,CompatibilityFallbackHandler_v1_3_0_eip_155,0x017062a1de2fe6b99be3d9d37841fed19f573804,Infra::Wallet
