@@ -2188,11 +2188,7 @@
     "live": true,
     "categories": [
       "DeFi::DEX",
-      "DeFi::DEX Aggregator",
-      "DeFi::Launchpads",
-      "DeFi::Memecoin",
-      "DeFi::Stableswap",
-      "DeFi::Trading Interfaces"
+      "DeFi::DEX Aggregator"
     ],
     "addresses": {
       "KuruFlowEntryPoint": "0xb3e6778480b2E488385E8205eA05E20060B813cb",
