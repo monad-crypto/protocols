@@ -4,11 +4,7 @@
     "live": true,
     "categories": [
         "DeFi::DEX",
-        "DeFi::DEX Aggregator",
-        "DeFi::Launchpads",
-        "DeFi::Memecoin",
-        "DeFi::Stableswap",
-        "DeFi::Trading Interfaces"
+        "DeFi::DEX Aggregator"
     ],
     "addresses": {
         // Entry point of the Kuru Flow aggregator
