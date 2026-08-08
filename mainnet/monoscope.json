@@ -1,0 +1,14 @@
+{
+  "name": "Monoscope",
+  "description": "Graph-powered fraud detection and on-chain intelligence platform for Monad. Detects wash trading, sybil clusters, fund cycling, and other fraud patterns using Neo4j graph analytics. Features AI-powered search, interactive graph explorer, and per-wallet risk scoring. Free and open-source.",
+  "categories": [
+    "Infra::Analytics"
+  ],
+  "addresses": {},
+  "links": {
+    "project": "https://monoscope-seven.vercel.app",
+    "twitter": "",
+    "github": "https://github.com/zhongjie526/monoscope",
+    "docs": "https://github.com/zhongjie526/monoscope#readme"
+  }
+}
