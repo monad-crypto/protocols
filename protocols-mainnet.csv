@@ -260,6 +260,7 @@ Kuru,DeFi,DEX,MonadDeployer,0xe29309e308af3ee3b1a414e97c37a58509f27d1e,DeFi::DEX
 Kuru,DeFi,DEX,Router,0xd651346d7c789536ebf06dc72ae3c8502cd695cc,DeFi::DEX;DeFi::DEX Aggregator
 Kuru,DeFi,DEX,Vault,0x4869a4c7657cef5e5496c9ce56dde4cd593e4923,DeFi::DEX;DeFi::DEX Aggregator
 Kuru,DeFi,DEX,Vault2,0xd6eae39b96fbdb7daa2227829be34b4e1bc9069a,DeFi::DEX;DeFi::DEX Aggregator
+LFJ,DeFi,DEX,ClapOracle,0x33176be288e54c440941d407df33456a23ede078,DeFi::DEX;DeFi::Memecoin
 LFJ,DeFi,DEX,DexLens,0x7ac3dd4b5a3f7013116d8a28f0579a678282ea5c,DeFi::DEX;DeFi::Memecoin
 LFJ,DeFi,DEX,Joe,0x371c7ec6d8039ff7933a2aa28eb827ffe1f52f07,DeFi::DEX;DeFi::Memecoin
 LFJ,DeFi,DEX,JoeAggregatorRouter,0x45a62b090df48243f12a21897e7ed91863e2c86b,DeFi::DEX;DeFi::Memecoin
@@ -275,6 +276,15 @@ LFJ,DeFi,DEX,LBQuoter,0x9a550a522bbadfb69019b0432800ed17855a51c3,DeFi::DEX;DeFi:
 LFJ,DeFi,DEX,LBRouter,0x18556da13313f3532c54711497a8fedac273220e,DeFi::DEX;DeFi::Memecoin
 LFJ,DeFi,DEX,LimitOrderV2,0xdbeeb3fb3e864e490e71b1d5c86c3de683ca4626,DeFi::DEX;DeFi::Memecoin
 LFJ,DeFi,DEX,LiquidityHelperContract,0xa5c68c9e55dde3505e60c4b5eae411e2977dfb35,DeFi::DEX;DeFi::Memecoin
+LFJ,DeFi,DEX,POEExtraRewarderImplementation,0x4202a91769810fa6ff8fc7fcc0724d657ddcfdb3,DeFi::DEX;DeFi::Memecoin
+LFJ,DeFi,DEX,POEFactory,0x78120f2c0ebf0cc8b7e7749e62d36e6523dd711d,DeFi::DEX;DeFi::Memecoin
+LFJ,DeFi,DEX,POEFeeRewarderAUSDUSDC,0x38b8b663346f1b6f3290717756733bd234e0c331,DeFi::DEX;DeFi::Memecoin
+LFJ,DeFi,DEX,POEFeeRewarderImplementation,0x94d2761151f81b096b27d422ef371a36d3f63044,DeFi::DEX;DeFi::Memecoin
+LFJ,DeFi,DEX,POEFeeRewarderWMONUSDC,0xc4990eebd3d0ee22a384f99dfef5a1909eeec923,DeFi::DEX;DeFi::Memecoin
+LFJ,DeFi,DEX,POEOraclePoolImplementation,0xc83a1f88b4a9a71806c52fa00669f2735a9d359b,DeFi::DEX;DeFi::Memecoin
+LFJ,DeFi,DEX,POEPoolAUSDUSDC,0x06c526964bfb06c6baac17ff91a36ec671382171,DeFi::DEX;DeFi::Memecoin
+LFJ,DeFi,DEX,POEPoolWMONUSDC,0x02a8a16613a421eabad6861ff6d8159f6d5edb8f,DeFi::DEX;DeFi::Memecoin
+LFJ,DeFi,DEX,POERouter,0x5a2d87017465c7e91adb87bc2181394c612fa1bd,DeFi::DEX;DeFi::Memecoin
 LFJ,DeFi,DEX,TMFactory,0xe70d21ad211db6dcd3f54b9804a1b64bb21b17b1,DeFi::DEX;DeFi::Memecoin
 LunarBase,DeFi,DEX,MON_USDC_Pool,0x0000a8fd148694ae3e17c079ce4bbf8187758888,DeFi::DEX
 Metric,DeFi,DEX,Factory,0xe22f9fc0f04486de25ed6cf1800a4a47afd82e0c,DeFi::DEX
