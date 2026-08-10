@@ -1049,14 +1049,14 @@ Drake Exchange,DeFi,Perpetuals / Derivatives,platform_manager,0x7940575377c3c2ab
 Drake Exchange,DeFi,Perpetuals / Derivatives,portfolio_factory,0x991d0f1e44e590fdbce15cff13aaa69c8287b7f3,DeFi::Perpetuals / Derivatives;DeFi::DEX
 Drake Exchange,DeFi,Perpetuals / Derivatives,portfolio_helper,0xcf1c680a9feb17e5400376927118806996cd5074,DeFi::Perpetuals / Derivatives;DeFi::DEX
 Drake Exchange,DeFi,Perpetuals / Derivatives,trading,0xe6dfd064f1cff4f62236fc862a2543ea98380f32,DeFi::Perpetuals / Derivatives;DeFi::DEX
-LeverUp,DeFi,Perpetuals / Derivatives,LV,0x1001ff13bf368aa4fa85f21043648079f00e1001,DeFi::Perpetuals / Derivatives;DeFi::RWA;DeFi::Stablecoin
-LeverUp,DeFi,Perpetuals / Derivatives,LVMON,0x91b81bfbe3a747230f0529aa28d8b2bc898e6d56,DeFi::Perpetuals / Derivatives;DeFi::RWA;DeFi::Stablecoin
-LeverUp,DeFi,Perpetuals / Derivatives,LVMON_Delegator_Vault,0xf71b390448df37c8379332f372f344a576574d4a,DeFi::Perpetuals / Derivatives;DeFi::RWA;DeFi::Stablecoin
-LeverUp,DeFi,Perpetuals / Derivatives,LVMON_Fast_Redeem_Vault,0x06058fe1fcfad19181438508600925106309e5fe,DeFi::Perpetuals / Derivatives;DeFi::RWA;DeFi::Stablecoin
-LeverUp,DeFi,Perpetuals / Derivatives,LVMON_Issuer,0xbf52ced429c3901afa4bbf25849269ef7a4ad105,DeFi::Perpetuals / Derivatives;DeFi::RWA;DeFi::Stablecoin
-LeverUp,DeFi,Perpetuals / Derivatives,LVUSD,0xfd44b35139ae53fff7d8f2a9869c503d987f00d1,DeFi::Perpetuals / Derivatives;DeFi::RWA;DeFi::Stablecoin
-LeverUp,DeFi,Perpetuals / Derivatives,LVUSD_Issuer,0x135951057cfccca7e8ef87ee41318d670f723f68,DeFi::Perpetuals / Derivatives;DeFi::RWA;DeFi::Stablecoin
-LeverUp,DeFi,Perpetuals / Derivatives,LeverUp,0xea1b8e4ab7f14f7dca68c5b214303b13078fc5ec,DeFi::Perpetuals / Derivatives;DeFi::RWA;DeFi::Stablecoin
+LeverUp,DeFi,Perpetuals / Derivatives,LV,0x1001ff13bf368aa4fa85f21043648079f00e1001,DeFi::Perpetuals / Derivatives
+LeverUp,DeFi,Perpetuals / Derivatives,LVMON,0x91b81bfbe3a747230f0529aa28d8b2bc898e6d56,DeFi::Perpetuals / Derivatives
+LeverUp,DeFi,Perpetuals / Derivatives,LVMON_Delegator_Vault,0xf71b390448df37c8379332f372f344a576574d4a,DeFi::Perpetuals / Derivatives
+LeverUp,DeFi,Perpetuals / Derivatives,LVMON_Fast_Redeem_Vault,0x06058fe1fcfad19181438508600925106309e5fe,DeFi::Perpetuals / Derivatives
+LeverUp,DeFi,Perpetuals / Derivatives,LVMON_Issuer,0xbf52ced429c3901afa4bbf25849269ef7a4ad105,DeFi::Perpetuals / Derivatives
+LeverUp,DeFi,Perpetuals / Derivatives,LVUSD,0xfd44b35139ae53fff7d8f2a9869c503d987f00d1,DeFi::Perpetuals / Derivatives
+LeverUp,DeFi,Perpetuals / Derivatives,LVUSD_Issuer,0x135951057cfccca7e8ef87ee41318d670f723f68,DeFi::Perpetuals / Derivatives
+LeverUp,DeFi,Perpetuals / Derivatives,LeverUp,0xea1b8e4ab7f14f7dca68c5b214303b13078fc5ec,DeFi::Perpetuals / Derivatives
 Narwhal Finance,DeFi,Perpetuals / Derivatives,FeeHelper ,0xe22fb1f1bb003759faced645458b8b8ee262828d,DeFi::Perpetuals / Derivatives
 Narwhal Finance,DeFi,Perpetuals / Derivatives,PairInfos,0x5c39f9739c123e64535f6250b256964bc20c52f1,DeFi::Perpetuals / Derivatives
 Narwhal Finance,DeFi,Perpetuals / Derivatives,Trading,0x3556d16519e3407ad43d5d7b3011bb095553d77a,DeFi::Perpetuals / Derivatives

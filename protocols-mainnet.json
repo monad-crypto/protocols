@@ -2333,9 +2333,7 @@
     "description": "LeverUp is a next-gen perps DEX with LP-free trading, deep liquidity, and up to 1001x leverage.",
     "live": true,
     "categories": [
-      "DeFi::Perpetuals / Derivatives",
-      "DeFi::RWA",
-      "DeFi::Stablecoin"
+      "DeFi::Perpetuals / Derivatives"
     ],
     "addresses": {
       "LeverUp": "0xea1b8E4aB7f14F7dCA68c5B214303B13078FC5ec",
