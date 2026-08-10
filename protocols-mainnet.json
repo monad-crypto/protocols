@@ -2480,7 +2480,8 @@
       "DeFi::DEX"
     ],
     "addresses": {
-      "MON_USDC_Pool": "0x0000a8fd148694ae3e17c079ce4bbf8187758888"
+      "MON_USDC_Pool": "0x0000a8fd148694ae3e17c079ce4bbf8187758888",
+      "USDC_cbBTC_Pool": "0xb1c8ead40da9b6afcb6f34b15e10123505c38888"
     },
     "links": {
       "project": "https://lunarbase.gg/",
