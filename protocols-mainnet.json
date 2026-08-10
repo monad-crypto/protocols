@@ -2218,10 +2218,8 @@
     "description": "KyberSwap is a decentralized trading solution that helps users find the best token swap rates by routing trades through multiple DEXs and other liquidity sources across multiple chains.",
     "live": true,
     "categories": [
-      "DeFi::DEX",
-      "DeFi::DEX Aggregator",
-      "DeFi::Trading Interfaces",
-      "DeFi::Cross Chain"
+      "DeFi::Cross Chain",
+      "DeFi::DEX Aggregator"
     ],
     "addresses": {
       "MetaAggregationRouterV2": "0x6131B5fae19EA4f9D964eAc0408E4408b66337b5",
