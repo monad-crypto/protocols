@@ -6,10 +6,17 @@
     "DeFi::DEX"
   ],
   "addresses": {
+    // Pool keys follow the convention `<TOKEN0>_<TOKEN1>_Pool`: the pool's
+    // ordered token pair (token0 = X, token1 = Y, as emitted by the pool's
+    // SwapExecuted dx/dy). Downstream consumers derive each pool's pair and USD
+    // quote leg from this ordering, so keep the token order accurate.
+    //
     // MON/USDC pool — TransparentUpgradeableProxy (implementation
     // 0x0EB0454c80a7927ea9Eb458C80884793DB8E5F60 at time of writing).
     // Contract is currently unverified on the explorer.
-    "MON_USDC_Pool": "0x0000a8fd148694ae3e17c079ce4bbf8187758888"
+    "MON_USDC_Pool": "0x0000a8fd148694ae3e17c079ce4bbf8187758888",
+    // cbBTC/USDC pool (cbBTC = 0xd18B7EC58Cdf4876f6AFebd3Ed1730e4Ce10414b).
+    "USDC_cbBTC_Pool": "0xb1c8ead40da9b6afcb6f34b15e10123505c38888"
   },
   "links": {
     "project": "https://lunarbase.gg/",
