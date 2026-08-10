@@ -85,6 +85,12 @@ CCTP Exchange,DeFi,Cross Chain,RathCctpRouter,0x9ebe71d432cf73f7baca46e3a5908060
 Cashmere,DeFi,Cross Chain,CashmereCCTP,0xd156ffb54871f4562744d6be5d6321b5bffca3b6,DeFi::Cross Chain
 Garden,DeFi,Cross Chain,htlc_native,0xe413743b51f3cc8b3ac24addf50d18fa138cb0bb,DeFi::Cross Chain
 Garden,DeFi,Cross Chain,htlc_usdc,0x5fa58e4e89c85b8d678ade970bd6afd4311af17e,DeFi::Cross Chain
+Matcha,DeFi,Cross Chain,0xSettlerDeployer,0x00000000000004533fe15556b1e086bb1a72ceae,DeFi::Cross Chain;DeFi::DEX Aggregator
+Matcha,DeFi,Cross Chain,AllowanceHolder,0x0000000000001ff3684f28c67538d4d072c22734,DeFi::Cross Chain;DeFi::DEX Aggregator
+Matcha,DeFi,Cross Chain,MonadBridgeSettler,0xb40e9939bb598c38665a5c99c68020eeb8cf49fb,DeFi::Cross Chain;DeFi::DEX Aggregator
+Matcha,DeFi,Cross Chain,MonadSettler,0x478cf28fd1ba92a6afd04f44b05833f6df7f1486,DeFi::Cross Chain;DeFi::DEX Aggregator
+Matcha,DeFi,Cross Chain,MonadSettlerIntent,0xb2376d1183829f444e0ffe9ef1ffaf1b483b84f3,DeFi::Cross Chain;DeFi::DEX Aggregator
+Matcha,DeFi,Cross Chain,MonadSettlerMetaTxn,0xfb36b62145a4b272bc804e5e1b41ddbf4bff4cf4,DeFi::Cross Chain;DeFi::DEX Aggregator
 Mayan,DeFi,Cross Chain,MayanFastMctp,0xc1062b7c5dc8e4b1df9f200fe360cdc0ed6e7741,DeFi::Cross Chain;DeFi::DEX;DeFi::Intents;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces
 Mayan,DeFi,Cross Chain,MayanFastMctpFeeManager,0x598400ba0d8ba9c3b57ad424a68183f1d17c7e56,DeFi::Cross Chain;DeFi::DEX;DeFi::Intents;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces
 Mayan,DeFi,Cross Chain,MayanForwarder,0x337685fdab40d39bd02028545a4ffa7d287cc3e2,DeFi::Cross Chain;DeFi::DEX;DeFi::Intents;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces
@@ -271,12 +277,6 @@ LFJ,DeFi,DEX,LimitOrderV2,0xdbeeb3fb3e864e490e71b1d5c86c3de683ca4626,DeFi::DEX;D
 LFJ,DeFi,DEX,LiquidityHelperContract,0xa5c68c9e55dde3505e60c4b5eae411e2977dfb35,DeFi::DEX;DeFi::Memecoin
 LFJ,DeFi,DEX,TMFactory,0xe70d21ad211db6dcd3f54b9804a1b64bb21b17b1,DeFi::DEX;DeFi::Memecoin
 LunarBase,DeFi,DEX,MON_USDC_Pool,0x0000a8fd148694ae3e17c079ce4bbf8187758888,DeFi::DEX
-Matcha,DeFi,DEX,0xSettlerDeployer,0x00000000000004533fe15556b1e086bb1a72ceae,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Stableswap;DeFi::Trading Interfaces;DeFi::Cross Chain
-Matcha,DeFi,DEX,AllowanceHolder,0x0000000000001ff3684f28c67538d4d072c22734,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Stableswap;DeFi::Trading Interfaces;DeFi::Cross Chain
-Matcha,DeFi,DEX,MonadBridgeSettler,0xb40e9939bb598c38665a5c99c68020eeb8cf49fb,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Stableswap;DeFi::Trading Interfaces;DeFi::Cross Chain
-Matcha,DeFi,DEX,MonadSettler,0x478cf28fd1ba92a6afd04f44b05833f6df7f1486,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Stableswap;DeFi::Trading Interfaces;DeFi::Cross Chain
-Matcha,DeFi,DEX,MonadSettlerIntent,0xb2376d1183829f444e0ffe9ef1ffaf1b483b84f3,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Stableswap;DeFi::Trading Interfaces;DeFi::Cross Chain
-Matcha,DeFi,DEX,MonadSettlerMetaTxn,0xfb36b62145a4b272bc804e5e1b41ddbf4bff4cf4,DeFi::DEX;DeFi::DEX Aggregator;DeFi::Stableswap;DeFi::Trading Interfaces;DeFi::Cross Chain
 Metric,DeFi,DEX,Factory,0xe22f9fc0f04486de25ed6cf1800a4a47afd82e0c,DeFi::DEX
 Metric,DeFi,DEX,Lens,0xe6b102a2aea65b9b59e4f8b86b38e221886675a8,DeFi::DEX
 Metric,DeFi,DEX,Pool-MON/USDC,0xfa32f9ec28787d1f9c5ba5c39e54e59984fef3f0,DeFi::DEX

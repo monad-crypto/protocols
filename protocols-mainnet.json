@@ -2558,11 +2558,8 @@
     "description": "Matcha provides optimal trade execution and helps you discover new tokens by aggregating hundreds of DEXs and private market makers. Get complete token coverage, gasless swaps, and deep liquidity on Monad and 15 other chains with unbeatable pricing on any token pair. Matcha Meta provides the best and most transparent meta DEX & bridge aggregator. Swap with ease and confidence.",
     "live": true,
     "categories": [
-      "DeFi::DEX",
-      "DeFi::DEX Aggregator",
-      "DeFi::Stableswap",
-      "DeFi::Trading Interfaces",
-      "DeFi::Cross Chain"
+      "DeFi::Cross Chain",
+      "DeFi::DEX Aggregator"
     ],
     "addresses": {
       "AllowanceHolder": "0x0000000000001fF3684f28c67538d4D072C22734",
