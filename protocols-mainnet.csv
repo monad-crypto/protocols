@@ -25,7 +25,6 @@ PlayKami,Consumer,E-commerce / Ticketing,DropMarketplace,0xc1c59b10f896715a1a340
 PlayKami,Consumer,E-commerce / Ticketing,DropVendingMachine,0x7ef90ba0d6c3a46c813d8abe02ae5116b72309fe,Consumer::E-commerce / Ticketing;Consumer::Other
 PlayKami,Consumer,E-commerce / Ticketing,ReferrerRegistry,0xdfae9de709ce3513d8e84c704c2eed8d7cfbb3f0,Consumer::E-commerce / Ticketing;Consumer::Other
 Blinq,Consumer,Prediction Market,Diamond,0x928dc8afe312df45576b15b08c086c5427fd8207,Consumer::Prediction Market;DeFi::Perpetuals / Derivatives
-CRSH Market,Consumer,Prediction Market,Custody,0xf70da97812cb96acdf810712aa562db8dfa3dbef,Consumer::Prediction Market
 CRSH Market,Consumer,Prediction Market,Escrow,0x0a2fbf2dbe08880d8d0d7f2f34b4cc3761f729b1,Consumer::Prediction Market
 Castora,Consumer,Prediction Market,Castora,0x9e1e6f277df3f2cd150ae1e08b05f45b3297be6d,Consumer::Prediction Market
 Castora,Consumer,Prediction Market,CastoraActivities,0x83d063acde4c3e799f0f0162d36d8b0605081b6e,Consumer::Prediction Market
@@ -99,6 +98,7 @@ Mayan,DeFi,Cross Chain,MayanFastMctp,0xc1062b7c5dc8e4b1df9f200fe360cdc0ed6e7741,
 Mayan,DeFi,Cross Chain,MayanFastMctpFeeManager,0x598400ba0d8ba9c3b57ad424a68183f1d17c7e56,DeFi::Cross Chain;DeFi::DEX;DeFi::Intents;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces
 Mayan,DeFi,Cross Chain,MayanForwarder,0x337685fdab40d39bd02028545a4ffa7d287cc3e2,DeFi::Cross Chain;DeFi::DEX;DeFi::Intents;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces
 Mayan,DeFi,Cross Chain,MayanForwarderShimContractAddress,0x87a26566dbb3bf206634c1792a96ff4989e3f56e,DeFi::Cross Chain;DeFi::DEX;DeFi::Intents;DeFi::Memecoin;DeFi::Stableswap;DeFi::Trading Interfaces
+Relay,DeFi,Cross Chain,bridgeSolver,0xf70da97812cb96acdf810712aa562db8dfa3dbef,DeFi::Cross Chain
 Relay,DeFi,Cross Chain,relayDepository,0x4cd00e387622c35bddb9b4c962c136462338bc31,DeFi::Cross Chain
 Relay,DeFi,Cross Chain,relayReceiver,0xf17902d51fdff7bf50aacc78d6bb399baf88b479,DeFi::Cross Chain
 Relay,DeFi,Cross Chain,v2.1RelayApprovalProxy,0x58cc3e0aa6cd7bf795832a225179ec2d848ce3e7,DeFi::Cross Chain
