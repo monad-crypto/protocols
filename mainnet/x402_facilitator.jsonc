@@ -1,0 +1,18 @@
+{
+    "name": "x402 Facilitator",
+    "description": "Monad Foundation-operated x402 payment facilitator (x402-facilitator.molandak.org) that verifies and settles x402 payments on Monad. Supports the `exact` and `upto` payment schemes.",
+    "live": true,
+    "categories": [
+        "Payments::Orchestration"
+    ],
+    "addresses": {
+        // Signer/settlement EOA that signs and submits settlement transactions. Also the
+        // facilitatorAddress bound into the Permit2 witness for the `upto` scheme. Same
+        // address on Monad mainnet and testnet; advertised live at
+        // https://x402-facilitator.molandak.org/supported
+        "FacilitatorSigner": "0x7f6a2850669202519f0FE8aa912451238820Db86"
+    },
+    "links": {
+        "project": "https://x402-facilitator.molandak.org/supported"
+    }
+}
