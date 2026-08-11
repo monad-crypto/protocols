@@ -16,6 +16,9 @@
         // ERC-2470 Singleton Factory - https://eips.ethereum.org/EIPS/eip-2470
         "SingletonFactory": "0xce0042b868300000d44a59004da54a005ffdcf9f",
 
+        // https://github.com/safe-fndn/safe-singleton-factory/blob/main/source/deterministic-deployment-proxy.yul
+        "SafeSingletonFactory": "0x914d7Fec6aaC8cd542e72Bca78B30650d45643d7",
+
         // https://github.com/eth-infinitism/account-abstraction/blob/v0.6.0/contracts/core/EntryPoint.sol
         "EntryPoint_v0_6": "0x5FF137D4b0FDCD49DcA30c7CF57E578a026d2789",
 
@@ -34,6 +37,12 @@
         // https://github.com/eth-infinitism/account-abstraction/blob/v0.8.0/contracts/core/SenderCreator.sol
         "SenderCreator_v0_8": "0x449ED7C3e6Fee6a97311d4b55475DF59C44AdD33",
 
+        // https://github.com/eth-infinitism/account-abstraction/blob/develop/contracts/accounts/SimpleAccount.sol
+        "SimpleAccount": "0x68641DE71cfEa5a5d0D29712449Ee254bb1400C2",
+
+        // https://github.com/eth-infinitism/account-abstraction/blob/develop/contracts/accounts/Simple7702Account.sol
+        "Simple7702Account": "0xe6Cae83BdE06E4c305530e199D7217f42808555B",
+
         // https://getfoundry.sh/guides/deterministic-deployments-using-create2/
         "FoundryDeterministicDeployer": "0x4e59b44847b379578588920ca78fbf26c0b4956c",
 
@@ -42,6 +51,15 @@
         
         // https://github.com/Uniswap/permit2
         "Permit2": "0x000000000022d473030f116ddee9f6b43ac78ba3",
+
+        // ERC-6492 Universal Signature Validator - https://eips.ethereum.org/EIPS/eip-6492
+        "UniversalSigValidator": "0xdAcD51A54883eb67D95FAEb2BBfdC4a9a6BD2a3B",
+
+        // https://github.com/x402-foundation/x402/blob/main/contracts/evm/src/x402ExactPermit2Proxy.sol
+        "x402ExactPermit2Proxy": "0x402085c248EeA27D92E8b30b2C58ed07f9E20001",
+
+        // https://github.com/x402-foundation/x402/blob/main/contracts/evm/src/x402UptoPermit2Proxy.sol
+        "x402UptoPermit2Proxy": "0x4020A4f3b7b90ccA423B9fabCc0CE57C6C240002",
 
         // https://github.com/Philogy/sub-zero-contracts
         "VanityMarket": "0x000000000000b361194cfe6312EE3210d53C15AA",
