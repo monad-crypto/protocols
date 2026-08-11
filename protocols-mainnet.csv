@@ -1652,13 +1652,19 @@ Canonical Contracts,Infra,Other,MicroCreate2Factory,0x6d9fb3c412a269df566a5c92b8
 Canonical Contracts,Infra,Other,Multicall3,0xca11bde05977b3631167028862be2a173976ca11,Infra::Other
 Canonical Contracts,Infra,Other,NonceIncreaser,0x00000000000001e4a82b33373de1334e7d8f4879,Infra::Other
 Canonical Contracts,Infra,Other,Permit2,0x000000000022d473030f116ddee9f6b43ac78ba3,Infra::Other
+Canonical Contracts,Infra,Other,SafeSingletonFactory,0x914d7fec6aac8cd542e72bca78b30650d45643d7,Infra::Other
 Canonical Contracts,Infra,Other,SenderCreator_v0_6,0x7fc98430eaedbb6070b35b39d798725049088348,Infra::Other
 Canonical Contracts,Infra,Other,SenderCreator_v0_7,0xefc2c1444ebcc4db75e7613d20c6a62ff67a167c,Infra::Other
 Canonical Contracts,Infra,Other,SenderCreator_v0_8,0x449ed7c3e6fee6a97311d4b55475df59c44add33,Infra::Other
+Canonical Contracts,Infra,Other,Simple7702Account,0xe6cae83bde06e4c305530e199d7217f42808555b,Infra::Other
+Canonical Contracts,Infra,Other,SimpleAccount,0x68641de71cfea5a5d0d29712449ee254bb1400c2,Infra::Other
 Canonical Contracts,Infra,Other,SingletonFactory,0xce0042b868300000d44a59004da54a005ffdcf9f,Infra::Other
+Canonical Contracts,Infra,Other,UniversalSigValidator,0xdacd51a54883eb67d95faeb2bbfdc4a9a6bd2a3b,Infra::Other
 Canonical Contracts,Infra,Other,VanityMarket,0x000000000000b361194cfe6312ee3210d53c15aa,Infra::Other
 Canonical Contracts,Infra,Other,WMON,0x3bd359c1119da7da1d913d1c4d2b7c461115433a,Infra::Other
 Canonical Contracts,Infra,Other,ZoltuDeterministicDeploymentProxy,0x7a0d94f55792c434d74a40883c6ed8545e406d12,Infra::Other
+Canonical Contracts,Infra,Other,x402ExactPermit2Proxy,0x402085c248eea27d92e8b30b2c58ed07f9e20001,Infra::Other
+Canonical Contracts,Infra,Other,x402UptoPermit2Proxy,0x4020a4f3b7b90cca423b9fabcc0ce57c6c240002,Infra::Other
 AnomaPay,Infra,Privacy / Encryption,ERC20Forwarder,0x23dc44e1a1c3d5432eec8a1c027e22ccdc0a8f54,Infra::Privacy / Encryption;Payments::Orchestration
 AnomaPay,Infra,Privacy / Encryption,ProtocolAdapter,0x2d2fa19afdbb20dc73737ca5f075cfae00cd90c2,Infra::Privacy / Encryption;Payments::Orchestration
 Primus Token Distribution Platform,Infra,Privacy / Encryption,PrimusRedEnvelope,0x50bd377eb8d4236bb587ab3fb1eeafd888aeec58,Infra::Privacy / Encryption;Infra::ZK;Consumer::Social
