@@ -48,7 +48,7 @@
     "RatioOracleAggregatorSHMON": "0x39B76F22dcf8A93b68C72Fe2e63B3530168D0579",
     "RatioOracleAggregatorGMON": "0xbFc4Fc9376a0DA7929475379EB37DFCb9C553B9c",
     "RatioOracleAggregatorEARNAUSD": "0xF25c84187a7608036b6660205B6068DBc9560dB6",
-    "YieldBearingOracleAdapterLOAZND": "0x72e994F1EC71a0cdc74913534690510257e895F0",
+    "GovernedPriceOracleLOAZND": "0x9eF202F1A9962138a5918721Aa36b4665634975F",
     // --- Base Tokens ---
     "AToken (Impl.)": "0x422A748C156601eEFE3b326744e997228900b9Fc",
     "VariableDebtToken (Impl.)": "0xBdeE7672b037982EF05d0Da0F5367412769085Dc",
@@ -102,11 +102,20 @@
     "loAZND AToken": "0x293e2f01a38Fe690Eb8E570AB952b24b225113a7",
     "loAZND VariableDebtToken": "0x457354dB2142A61188166699E0b65b2699092585",
     "loAZND Wrapped Token": "0xD786F7569C39A9F64E6A54Eb77db21364E90F279",
+    // cbBTC
+    "cbBTC AToken": "0xcc7f5F78Bedfc65c2fDD93C7537832eEa1324774",
+    "cbBTC VariableDebtToken": "0x74F2ef7c9cf6D3a3587c3F91569827CC17715F08",
+    "cbBTC Wrapped Token": "0x98a297e6424787E57Af119949d7E00b721F832BB",
+    // XAUt0
+    "XAUt0 AToken": "0x3351683194670680Edd1700Bfbe146403684AEdf",
+    "XAUt0 VariableDebtToken": "0x9F31559410bC89660A03546dC906763F9F2648F9",
+    "XAUt0 Wrapped Token": "0x22139A346b6312EB0A9812C67CfCe4A694676d59",
     // --- Lending Utilities ---
     "WalletBalanceProvider": "0x8911Db480C1c0c1E06f17C2Bc76b26D861e40D47",
     "UiIncentiveDataProviderV3": "0x81242ADa455D766b5032EB4abf9baEaA49077450",
-    "UiPoolDataProviderV3": "0x0733e79171dd5A5E8aF41E387c6299bCfE6a7e55",
+    "UiPoolDataProviderV3": "0xcE58B4E4F082139804E3426129Ecfc1c1657A72a",
     "WrappedTokenGatewayV3": "0x800409dBd7157813BB76501c30e04596Cc478f25",
+    "DustDebtRepayer": "0x21c8B08193f08752966487Ba3942276B453343C7",
     // -=-=-=-=-=-=-=-=-=- ISOLATED POOL: Pendle AUSD market -=-=-=-=-=-=-=-=-=-
     // --- Core Lending System ---
     "Isolated Pendle-AUSD ACLManager": "0x589Fa97F64C1241B846AA44A6fee479f975b17a8",
@@ -142,16 +151,17 @@
     "Dust (Proxy)": "0xAD96C3dffCD6374294e2573A7fBBA96097CC8d7c",
     "Dust (Impl.)": "0xF59df2e38e23406c80ac778CCAA4319BAbe0D0d3",
     "DustLock (Proxy)": "0xBB4738D05AD1b3Da57a4881baE62Ce9bb1eEeD6C",
-    "DustLock (Impl.)": "0x1bEF87340a8068D4E91bC19B2e5ddfb66466e2D7",
+    "DustLock (Impl.)": "0xf7533D3bfC31F0D3F6292e2336DA84434435f3b5",
     "DustLockLegendaryLedger": "0x367973382fa8Fc9508B5C8f4B0F9EEd462aF3185",
     "BalanceLogicLibrary": "0xDb4C5406E178004FFe14D91eC7d536fF25396E98",
+    "CreatorTokenLibrary": "0xDd96B606b8808688A5Be9EE324f8CA23534ad70A",
     // --- Incentives ---
     "DustRewardsController (Proxy)": "0x57ea245cCbFAb074baBb9d01d1F0c60525E52cec",
     "DustRewardsController (Impl.)": "0x6aD1EcdA817ECB7696D21f6e600C7ec44AcFB1e6",
-    "DustLockTransferStrategy": "0x958192C6208b3289951342eDDE1a051dE4E955bb",
+    "DustLockTransferStrategy": "0xa966190d7BD099718110103d1778bb232Bd1661E",
     // --- Revenue Distribution ---
     "RevenueReward (Proxy)": "0xff20ac10eb808B1e31F5CfCa58D80eDE2Ba71c43",
-    "RevenueReward (Impl.)": "0x6459AaB1C6Ca2EBA6c4d0CeFb00e469E48430b79",
+    "RevenueReward (Impl.)": "0x7E5E603DF59278aF2B2d12521c0EC6f14fD2df8d",
     // --- Self-Repayment System ---
     "UserVaultRegistry": "0x794CCdb375Ab08C340528a71Ba433a9016c657A5",
     "UserVault (Beacon)": "0xc9Fe3Db9b14A538FaB2eeBa33a8FeaB6ED7DdCeb",
@@ -169,6 +179,10 @@
     "NFTPartnershipRegistry (Impl.)": "0x73921d9CD1397B8a81091d24227Ed587ef652dd0",
     "VotingPowerMultiplier (Proxy)": "0x9b203C61d03e64550BFbC17EF56438D1a67D80b7",
     "VotingPowerMultiplier (Impl.)": "0xaDDd72d36553B43E376a81e6a62dBA131b516dAb",
+    "SpecialEditionRegistry (Proxy)": "0x9A0231CeaB25EA0D820cfE73bFC3cd2D7681d532",
+    "SpecialEditionRegistry (Impl.)": "0xC1Ab101608a493dbcf91Af13ba9436802Dc8cdcf",
+    // --- Asset Redemption ---
+    "NeverlandAssetRedemption (nLOAZND-USDC)": "0xd1B443f2601C09b165C837d3875156599cd86164",
     // --- Profile Items ---
     "NeverlandProfileItemsSeller (Proxy)": "0xcEE8d6d42a37a9d721B41CeFa16DaB7F0d0a14EB",
     "NeverlandProfileItemsSeller (Impl.)": "0x81882ce65044073F005cb6d3180A36fe1ef898F9",
