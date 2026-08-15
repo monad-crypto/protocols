@@ -8,7 +8,7 @@
         "NonfungibleTokenPositionDescriptor": "0xEd2850D3704a1a5BcB6158f27deDA3d6FF4C31D9",
         "NonfungibleTokenPositionManager": "0x4C02af995BB1f574c9bf31F43ddc112414aE0Ac7",
         "QuoterV2": "0xB430EDD2b54cdB3B25703fb3342ca3a88663A04D",
-        "SwapRouter": "0xdac97b6a3951641B177283028A8f428332333071",
+        "SwapRouter": "0xdac97b6a3951641B177283028A8f428332333071"
         // "PAMMPoolFactory": "comming_soon"
     },
     "initCodeHashes": {

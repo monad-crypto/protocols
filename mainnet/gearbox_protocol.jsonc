@@ -4,7 +4,7 @@
     "live": true,
     "categories": [
         "DeFi::Lending",
-        "DeFi::Leveraged Farming",
+        "DeFi::Leveraged Farming"
     ],
     "addresses": {
         "Address_Provider": "0xF7f0a609BfAb9a0A98786951ef10e5FE26cC1E38",
