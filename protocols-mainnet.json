@@ -2366,7 +2366,8 @@
       "DeFi::Perpetuals / Derivatives"
     ],
     "addresses": {
-      "VaultRush": "0x8e334460192926576ccD04271190c9E9e5916560"
+      "VaultRush": "0x8e334460192926576ccD04271190c9E9e5916560",
+      "LevrMarketFeed": "0xd42A276Db08950Dc499B9AD2f33133eB1f0301c7"
     },
     "links": {
       "project": "https://www.levr.bet/",
