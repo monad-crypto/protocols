@@ -1,6 +1,7 @@
 {
     "name": "Relay",
     "description": "Relay is a multichain payments network that makes cross-chain swapping, bridging, and onchain execution fast, cheap, and reliable—like a universal card reader for 85+ blockchains.",
+    "live": true,
     "categories": [
         "DeFi::Cross Chain"
     ],

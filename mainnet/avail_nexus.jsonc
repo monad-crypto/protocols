@@ -1,6 +1,7 @@
 {
     "name": "Avail Nexus",
     "description": "Crosschain meta-interoperability protocol that enables unified balances and seamless spending of unified balances across multiple chains.",
+    "live": true,
     "categories": [
         "Infra::Interoperability",
         "DeFi::Cross Chain",

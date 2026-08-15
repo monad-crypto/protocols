@@ -1,6 +1,7 @@
 {
   "name": "MemeTok",
   "description": "The Home of Scroll-Trading: The mobile app where you scroll, discover and trade viral meme coins all in one feed. Spot the momentum, trade instantly, and never miss the move again.",
+  "live": true,
   "categories": [
     "DeFi::Trading Interfaces",
     "Consumer::Social",

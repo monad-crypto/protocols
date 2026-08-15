@@ -1,6 +1,7 @@
 {
     "name": "Definitive Finance",
     "description": "Definitive Finance is a professional trading terminal delivering advanced on-chain execution and risk tooling for active traders on Monad.",
+    "live": true,
     "categories": [
         "DeFi::Trading Interfaces"
     ],

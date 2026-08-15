@@ -1,6 +1,7 @@
 {
   "name": "Symphony",
   "description": "Symphony is the missing infrastructure layer that connects AI to financial markets. We provide secure, autonomous execution rails so financial platforms can plug in and scale their AI products.",
+  "live": true,
   "categories": [
     "AI::Agent Launchpad",
     "AI::Abstraction Infrastructure",

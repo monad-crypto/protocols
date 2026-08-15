@@ -1,6 +1,7 @@
 {
   "name": "Mace",
   "description": "The smartest DEX aggregator on Monad",
+  "live": true,
   "categories": ["DeFi::DEX Aggregator", "DeFi::Trading Interfaces"],
   "addresses": {
     "MaceRouter": "0x6F05a0746a8CB5c7DE5aF1568C8d020DBB521B23",

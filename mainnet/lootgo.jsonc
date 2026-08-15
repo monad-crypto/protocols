@@ -1,6 +1,7 @@
 {
     "name": "LootGO",
     "description": "LootGO is a walk-to-earn mobile app that turns your steps into a real-world crypto treasure hunt. Think: Pokémon GO, but with crypto rewards.",
+    "live": true,
     "categories": [
         "Gaming::Mobile-First",
         "Gaming::Games",

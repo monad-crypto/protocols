@@ -1,6 +1,7 @@
 {
     "name": "Nar.bet",
     "description": "Nar.Bet is a derivative project of Narwhal Finance, built exclusively on Monad, delivering the first fully on-chain, provably fair betting experience that is gamified, social, and community-driven.",
+    "live": true,
     "categories": [
         "Gaming::Other"
     ],

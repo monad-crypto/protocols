@@ -1,6 +1,7 @@
 {
   "name": "Ample",
   "description": "Ample is a prize-linked savings product where your deposit stays yours while generated yield funds weekly payouts.",
+  "live": true,
   "categories": [
     "DeFi::Yield"
   ],

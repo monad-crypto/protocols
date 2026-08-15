@@ -1,6 +1,7 @@
 {
     "name": "Rug Rumble",
     "description": "Rug Rumble is a provably fair gaming platform. The Run to a 100x has begun!",
+    "live": true,
     "categories": [
         "Gaming::Mobile-First",
         "Gaming::Games",

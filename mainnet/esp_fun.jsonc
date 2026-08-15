@@ -1,6 +1,7 @@
 {
   "name": "ESP.Fun",
   "description": "ESP.Fun is a fantasy esports gaming platform featuring player tokens, pack opening systems, and decentralized trading via automated market maker pools.",
+  "live": true,
   "categories": [
     "Gaming::Games",
     "NFT::Collections",

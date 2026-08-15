@@ -1,6 +1,7 @@
 {
     "name": "Li.Fi",
     "description": "One API for seamless swaps, bridging and Zaps across EVM and Solana.",
+    "live": true,
     "categories": [
         "Infra::Interoperability"
     ],

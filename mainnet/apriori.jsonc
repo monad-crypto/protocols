@@ -1,6 +1,7 @@
 {
     "name": "aPriori",
     "description": "The intelligent order flow coordination layer for high performance blockchains",
+    "live": true,
     "categories": [
         "DeFi::Liquid Staking",
         "DeFi::MEV",

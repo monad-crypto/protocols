@@ -1,6 +1,7 @@
 {
     "name": "FoMonad",
     "description": "A consensual rugpull on Monad. Every round: a new Vibecoin, a price curve, a timer, a prize pool. The rug is the product.",
+    "live": true,
     "categories": [
         "Gaming::Games",
         "DeFi::Memecoin",

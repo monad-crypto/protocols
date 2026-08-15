@@ -1,6 +1,7 @@
 {
     "name": "Primus Token Distribution Platform",
     "description": "zkTLS enables rule-based token distribution without ever needing to know the recipient’s wallet address.",
+    "live": true,
     "categories": [
         "Infra::Privacy / Encryption",
         "Infra::ZK",

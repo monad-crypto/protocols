@@ -1,6 +1,7 @@
 {
     "name": "Tadle",
     "description": "The Parallel Sandbox opening a new dimension of accessing dApps.",
+    "live": true,
     "categories": [
         "DeFi::Lending",
         "DeFi::CDP",
