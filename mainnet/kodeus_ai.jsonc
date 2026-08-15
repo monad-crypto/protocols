@@ -1,6 +1,7 @@
 {
     "name": "Kodeus",
     "description": "Kodeus is the Internet's Agent Layer where users create programmable and monetizable agents that act, settle and prove autonomously",
+    "live": true,
     "categories": [
         "AI::Consumer AI"
     ],

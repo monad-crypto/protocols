@@ -2,6 +2,7 @@
 {
     "name": "Monday Trade",
     "description": "Monday Trade is Monad's native DEX that offers the best of CEX and DEX trading experience.",
+    "live": true,
     "categories": [
         "DeFi::DEX",
         "DeFi::Perpetuals / Derivatives"

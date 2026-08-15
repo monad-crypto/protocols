@@ -1,6 +1,7 @@
 {
 	"name": "Metamask",
 	"description": "🦊 The world's leading crypto wallet.",
+	"live": true,
     "categories": ["Infra::Wallet"],
 	"addresses": {
         "Bridge": "0xfb00d4ea6f3f0d0b4a57b32378075df408f2aaba",

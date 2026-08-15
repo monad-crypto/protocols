@@ -1,6 +1,7 @@
 {
     "name": "Collective Memory",
     "description": "A decentralized social network where users can invest in your content.",
+    "live": true,
     "categories": [
         "Consumer::Social"
     ],

@@ -1,6 +1,7 @@
 {
   "name": "Something",
   "description": "Something delivers a full launchpad with flexible migration fees, a highly customizable AMM, and revenue sharing for creators.",
+  "live": true,
   "categories": ["DeFi::Launchpads"],
   "addresses": {
     "SmthTokenFactory": "0x00F4353C69039b25c9338097FfF51099981E00ce"

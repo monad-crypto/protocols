@@ -1,6 +1,7 @@
 {
   "name": "SomeSwap",
   "description": "SomeSwap is a next-generation AMM and DEX built on Monad, featuring Chameleon Pools, dynamic fee tiers, anti-sniping protection, and Chimera smart routing. It powers trading, liquidity, and token launches across the Something ecosystem.",
+  "live": true,
   "categories": ["DeFi::DEX"],
   "addresses": {
     "SomeFactory": "0x00008A3c1077325Bb19cd93e5a0f1E95144700fa",

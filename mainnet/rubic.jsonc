@@ -1,6 +1,7 @@
 {
     "name": "Rubic",
     "description": "Rubic is a decentralized aggregator for crypto swaps and cross-chain bridging, connecting 100+ blockchains, 330+ DEXs, and 30+ bridges to offer users the best rates and seamless interoperability.",
+    "live": true,
     "categories": [
         "DeFi::DEX Aggregator"
     ],

@@ -1,6 +1,7 @@
 {
   "name": "Sumer",
   "description": "Sumer is a highly capital-efficient blockchain liquidity infrastructure that unifies lending, synthetic assets, and cross-chain liquidity into a single pool. With its synthetic money multiplier, Sumer enables users to earn yields across multiple blockchains without missing native DeFi opportunities on their home chain.",
+  "live": true,
   "categories": ["DeFi::Lending", "DeFi::CDP", "DeFi::Cross Chain", "DeFi::Synthetics"],
   "addresses": {
     "CompLogic": "0x332F124323A1DA3Aeca4860f3B2B4a4c0df232Ae",

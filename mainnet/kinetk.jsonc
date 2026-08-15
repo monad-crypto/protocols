@@ -1,6 +1,7 @@
 {
     "name": "KINETK",
     "description": "KINETK is building the IP infrastructure layer for the next generation of digital creativity, unlocking attribution, protection, and capital for creators. Through the combination of proprietary invisible watermarking, agentic AI detection and tracking, and on-chain registration, KINETK is providing the tools that will underpin the future data models of the digital landscape.",
+    "live": true,
     "categories": [
         "AI::Consumer AI", 
         "AI::Data",

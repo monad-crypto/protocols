@@ -1,6 +1,7 @@
 {
   "name": "Valley of Heroes",
   "description": "World's First Real-Time Fully Onchain MMORPG on Monad. Phase 1 launches as a fully on-chain hero collector with every hero, battle, and reward living entirely on-chain.",
+  "live": true,
   "categories": [
     "Gaming::Games"
   ],

@@ -1,6 +1,7 @@
 {
     "name": "DeBridge",
     "description": "Trade any opportunity, ahead of the curve. For first-movers.",
+    "live": true,
     "categories": [
         "Infra::Interoperability"
     ],

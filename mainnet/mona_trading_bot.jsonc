@@ -1,6 +1,7 @@
 {
     "name": "Mona Trading Bot",
     "description": "Fastest trading bot built on Monad",
+    "live": true,
     "categories": [
         "DeFi::Trading Interfaces"
     ],

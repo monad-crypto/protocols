@@ -1,6 +1,7 @@
 {
     "name": "Blinq",
     "description": "Blinq is the derivatives layer for prediction markets: fixed-window, USDC-settled products across Price Arena (Up/Down and Momentum on BTC, ETH, and SOL) and Candle Rush (green/red candle calls), priced by Pyth.",
+    "live": true,
     "categories": [
         "Consumer::Prediction Market",
         "DeFi::Perpetuals / Derivatives"

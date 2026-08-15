@@ -1,6 +1,7 @@
 {
     "name": "Mevx",
     "description": "MevX is your go-to platform for all things crypto trading and data analysis",
+    "live": true,
     "categories": [
         "DeFi::Trading Interfaces"
     ],

@@ -1,6 +1,7 @@
 {
     "name": "Aegis",
     "description": "Aegis is programmable infrastructure for Uniswap v4 pools, providing a dynamic (volatility-aware) fee hook (DFM) and a pool-native liquidity and credit engine. It attaches to Uniswap v4 pools rather than replacing them, keeping all balances and swaps in the Uniswap v4 PoolManager.",
+    "live": true,
     "categories": [
         "DeFi::DEX"
     ],

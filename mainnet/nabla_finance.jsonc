@@ -1,6 +1,7 @@
 {
     "name": "Nabla Finance",
     "description": "The open Prop AMM",
+    "live": true,
     "categories": [
         "DeFi::DEX",
         "DeFi::Yield"

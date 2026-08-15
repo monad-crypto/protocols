@@ -1,6 +1,7 @@
 {
     "name": "Lagoon",
     "description": "LAGOON provides open, general-purpose, secure vault infrastructure to build and scale on-chain yield products.",
+    "live": true,
     "categories": [
         "DeFi::Yield",
         "DeFi::Asset Allocators"

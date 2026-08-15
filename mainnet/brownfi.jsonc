@@ -1,6 +1,7 @@
 {
     "name": "BrownFi",
     "description": "BrownFi is an oracle-based automated market maker (AMM) that uses Pyth price feeds to deliver concentrated-liquidity-level capital efficiency with simplified LP management and reduced impermanent loss compared to constant-product AMMs.",
+    "live": true,
     "categories": [
         "DeFi::DEX"
     ],
