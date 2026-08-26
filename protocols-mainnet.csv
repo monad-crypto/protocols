@@ -99,6 +99,16 @@ Relay,DeFi,Cross Chain,v3RelayApprovalProxy,0xccc88a9d1b4ed6b0eaba998850414b24f1
 Relay,DeFi,Cross Chain,v3RelayRouter,0xb92fe925dc43a0ecde6c8b1a2709c170ec4fff4f,DeFi::Cross Chain
 Aegis,DeFi,DEX,Hook_v1.0,0xb4f4949e8d0a177bb6d2fea33e9516bb219610cc,DeFi::DEX
 Aegis,DeFi,DEX,Hook_v1.1,0xe449e013004db4a5681e9622ca10c5ba0ea610cc,DeFi::DEX
+Aeon,DeFi,DEX,BlockEcho,0x15d90705718d052d32eb8e34271e8743c26e40c4,DeFi::DEX
+Aeon,DeFi,DEX,CapGate,0xd4f21c282c7c1e8098d511039ad39044488cc0c4,DeFi::DEX
+Aeon,DeFi,DEX,CrownClash,0xb268d7930580e7717b72804190fe910d2c200044,DeFi::DEX
+Aeon,DeFi,DEX,DynamicFee,0x86037d62ececd7e380984ad9d24dd0c5112d50c4,DeFi::DEX
+Aeon,DeFi,DEX,ExactInGate,0x7810753d326c0e4b9755b5fa09a8b8998c75c0c4,DeFi::DEX
+Aeon,DeFi,DEX,HeavierHand,0x6f0fe61cae116edc23f00e74eb8604adef4800c4,DeFi::DEX
+Aeon,DeFi,DEX,LegacyLedger,0xf50c9b994a5a0aba3eb1b7e044f88b2f12f1c044,DeFi::DEX
+Aeon,DeFi,DEX,NoOp,0x707a3072e285a2e2398253a30bf6bd7b5a7b40c4,DeFi::DEX
+Aeon,DeFi,DEX,TailTwins,0x75e7b5a738884f37086c2be7789a883ca6ce80c4,DeFi::DEX
+Aeon,DeFi,DEX,TotalizerTrap,0x57e6eff5cc442efeeebb79d108ccb7c01086c0c4,DeFi::DEX
 AethonSwap,DeFi,DEX,AlgebraFactory,0x05aa1d36f78d1242c40b3680d38eb1fee7060c20,DeFi::DEX
 AethonSwap,DeFi,DEX,AlgebraInterfaceMulticall,0x90dd87c994959a36d725bb98f9008b0b3c3504a0,DeFi::DEX
 AethonSwap,DeFi,DEX,AlgebraPoolDeployer,0x6f85f158c2289579be8e79a31b78f7dcd4686857,DeFi::DEX

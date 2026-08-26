@@ -224,6 +224,30 @@
       "docs": "https://docs.aegis.markets"
     }
   },
+  "aeon": {
+    "name": "Aeon",
+    "description": "Aeon (@aeonframework) is an autonomous agent framework. Aeon Hooks are its fleet of Uniswap v4 hooks — dynamic fees, no-op, gating, and other custom pool behaviors — that integrate with Uniswap v4 pools.",
+    "live": true,
+    "categories": [
+      "DeFi::DEX"
+    ],
+    "addresses": {
+      "DynamicFee": "0x86037d62EceCd7E380984Ad9d24dd0c5112d50C4",
+      "NoOp": "0x707A3072E285A2e2398253A30Bf6Bd7b5a7B40c4",
+      "HeavierHand": "0x6F0FE61cae116edC23F00E74eB8604ADef4800c4",
+      "BlockEcho": "0x15d90705718D052D32eB8e34271E8743C26E40C4",
+      "TailTwins": "0x75e7B5A738884F37086c2Be7789A883Ca6ce80C4",
+      "TotalizerTrap": "0x57E6efF5Cc442EFeEebB79D108CCb7C01086c0c4",
+      "CrownClash": "0xb268D7930580E7717B72804190FE910d2c200044",
+      "LegacyLedger": "0xf50C9B994A5A0Aba3EB1b7E044f88B2f12f1c044",
+      "ExactInGate": "0x7810753D326c0E4b9755b5FA09a8b8998C75C0C4",
+      "CapGate": "0xD4F21c282c7c1e8098D511039Ad39044488cC0c4"
+    },
+    "links": {
+      "project": "https://www.aeon.fun/hooks",
+      "twitter": "https://x.com/aeonframework"
+    }
+  },
   "aethonswap": {
     "name": "AethonSwap",
     "description": "AethonSwap is a next-generation decentralized exchange (DEX) designed to be the central liquidity hub of Monad.",
