@@ -1,0 +1,16 @@
+{
+    "name": "Scatter",
+    "description": "Scatter is an artist-first NFT launchpad and marketplace where creators deploy fully-owned NFT collections through low-fee contract factories, then mint, buy, and sell them. Its audited contracts use ERC-721A and Solady, support both ERC-721 and ERC-1155 (including open editions), and are compatible with other NFT marketplaces.",
+    "live": true,
+    "categories": [
+        "NFT::Marketplace",
+        "NFT::Infrastructure"
+    ],
+    "addresses": {},
+    "links": {
+        "project": "https://www.scatter.art/",
+        "twitter": "https://x.com/scatter_art",
+        "github": "https://github.com/guminc",
+        "docs": "https://docs.scatter.art/"
+    }
+}
