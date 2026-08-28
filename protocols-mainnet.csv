@@ -1723,6 +1723,8 @@ NFTs2Me,NFT,Marketplace,Factory,0x00000000001594c61dd8a6804da9ab58ed2483ce,NFT::
 NFTs2Me,NFT,Marketplace,MintMaster,0x00000000009a1e02f00e280dcfa4c81c55724212,NFT::Marketplace
 OpenSea,NFT,Marketplace,Marketplace,0x0000000000000068f116a894984e2db1123eb395,NFT::Marketplace
 OpenSea,NFT,Marketplace,SeaDrop,0x00005ea00ac477b1030ce78506496e8c2de24bf5,NFT::Marketplace
+Scatter,NFT,Marketplace,ERC721Implementation,0xe3aceb398937126cd8bcebbbcfc0b5a08742ab15,NFT::Marketplace;NFT::Infrastructure
+Scatter,NFT,Marketplace,Factory,0xb016cbe466fb9d57b0a0ea2b5d64a4eeb4d849fc,NFT::Marketplace;NFT::Infrastructure
 PingMe,Payments,Neobanks,CryptoDrop,0x3de0e31a0a9d885bf98ea1512188e06f70d507b2,Payments::Neobanks
 PingMe,Payments,Neobanks,Forwarder,0x2a217b43b138e36979f59999776585ed6bb27542,Payments::Neobanks
 PingMe,Payments,Neobanks,RecoveryVault,0x32f62bdc2be3e1b1c0265143831155253cd5a248,Payments::Neobanks
