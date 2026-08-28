@@ -1,0 +1,21 @@
+{
+    "name": "Scatter",
+    "description": "Scatter is an artist-first NFT launchpad and marketplace where creators deploy fully-owned NFT collections through low-fee contract factories, then mint, buy, and sell them. Its audited contracts use ERC-721A and Solady, support both ERC-721 and ERC-1155 (including open editions), and are compatible with other NFT marketplaces.",
+    "live": true,
+    "categories": [
+        "NFT::Marketplace",
+        "NFT::Infrastructure"
+    ],
+    "addresses": {
+        // Archetype factory that deploys creator collections as EIP-1167 minimal-proxy clones
+        "Factory": "0xB016CBE466Fb9d57B0a0EA2b5d64a4EeB4D849FC",
+        // Shared ERC-721A (Archetype) implementation the ERC-721 collection clones delegate to
+        "ERC721Implementation": "0xE3AcEB398937126cd8bCebBBcfc0b5a08742aB15"
+    },
+    "links": {
+        "project": "https://www.scatter.art/",
+        "twitter": "https://x.com/scatter_art",
+        "github": "https://github.com/guminc",
+        "docs": "https://docs.scatter.art/"
+    }
+}
