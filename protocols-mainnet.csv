@@ -1673,6 +1673,7 @@ Canonical Contracts,Infra,Other,SenderCreator_v0_8,0x449ed7c3e6fee6a97311d4b5547
 Canonical Contracts,Infra,Other,Simple7702Account,0xe6cae83bde06e4c305530e199d7217f42808555b,Infra::Other
 Canonical Contracts,Infra,Other,SimpleAccount,0x68641de71cfea5a5d0d29712449ee254bb1400c2,Infra::Other
 Canonical Contracts,Infra,Other,SingletonFactory,0xce0042b868300000d44a59004da54a005ffdcf9f,Infra::Other
+Canonical Contracts,Infra,Other,StakingPrecompile,0x0000000000000000000000000000000000001000,Infra::Other
 Canonical Contracts,Infra,Other,UniversalSigValidator,0xdacd51a54883eb67d95faeb2bbfdc4a9a6bd2a3b,Infra::Other
 Canonical Contracts,Infra,Other,VanityMarket,0x000000000000b361194cfe6312ee3210d53c15aa,Infra::Other
 Canonical Contracts,Infra,Other,WMON,0x3bd359c1119da7da1d913d1c4d2b7c461115433a,Infra::Other

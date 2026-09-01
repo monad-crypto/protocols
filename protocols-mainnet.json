@@ -29,6 +29,7 @@
     ],
     "addresses": {
       "WMON": "0x3bd359C1119dA7Da1D913D1C4D2B7c461115433A",
+      "StakingPrecompile": "0x0000000000000000000000000000000000001000",
       "Create2Deployer": "0x13b0D85CcB8bf860b6b79AF3029fCA081AE9beF2",
       "CreateX": "0xba5Ed099633D3B313e4D5F7bdc1305d3c28ba5Ed",
       "SingletonFactory": "0xce0042b868300000d44a59004da54a005ffdcf9f",
