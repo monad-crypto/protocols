@@ -7,6 +7,9 @@
         // Wrapped MON
         "WMON": "0x3bd359C1119dA7Da1D913D1C4D2B7c461115433A",
 
+        // Validator staking precompile - https://docs.monad.xyz/developer-essentials/staking/staking-precompile
+        "StakingPrecompile": "0x0000000000000000000000000000000000001000",
+
         // https://github.com/pcaversaccio/create2deployer
         "Create2Deployer": "0x13b0D85CcB8bf860b6b79AF3029fCA081AE9beF2",
 
