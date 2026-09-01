@@ -7,7 +7,12 @@
         "DeFi::Perpetuals / Derivatives"
     ],
     "addresses": {
-        "Diamond": "0x928dC8aFe312df45576B15B08C086c5427fd8207"
+        "Diamond": "0x928dC8aFe312df45576B15B08C086c5427fd8207",
+        // NegRisk CTF market stack (multi-outcome, USDC-settled). The exchange's EIP-712 domain self-identifies as "Blinq CTF Exchange";
+        // the NegRiskAdapter and ConditionalTokens are wired to it via hardcoded immutables (exchange -> adapter -> ConditionalTokens).
+        "NegRiskCtfExchange": "0x8f415d2B7187ddf4b497578ED84C2e4aC5585241",
+        "NegRiskAdapter": "0xE61BE61329f5dBF888F9537504b25D370633C647",
+        "ConditionalTokens": "0x99c7A72EE700603FE31bC034207e9808b7c78BF0"
     },
     "links": {
         "project": "https://blinq.fi/",
