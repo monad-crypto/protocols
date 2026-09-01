@@ -17,7 +17,8 @@
         "Instrument": "0x73ada1ea346cc3908f41cf67a040f0acd7808be0",
         "Instrument2": "0x44b60b6af9b615a5cf2d366e2143582557cff711",
         "Instrument3": "0x8c5243a6a4c6c7a82d954c8ff29e0611e25ac33e",
-        "MondayConfig3": "0xdc67221ea8d223e0a1d0948edecb634caf190ec9"
+        "MondayConfig3": "0xdc67221ea8d223e0a1d0948edecb634caf190ec9",
+        "MondayStockRouter": "0x2f903ac6ddaf57eadcbbc46adc3ad739c3506a2d"
     },
     "links": {
         "project": "https://monday.trade/",
