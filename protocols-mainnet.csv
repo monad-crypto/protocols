@@ -1319,6 +1319,11 @@ Valley of Heroes,Gaming,Games,HonorStaking,0x0860300298d74c582448a89236e2d1c95f9
 Valley of Heroes,Gaming,Games,MysteryBox,0xd8789a9286336272ca5c23add2648827e3efc6ac,Gaming::Games
 Valley of Heroes,Gaming,Games,TitanCombat,0x0ebb8ae64dadbada2025e9562ddc626e3071aa5c,Gaming::Games
 Valley of Heroes,Gaming,Games,ValleyHeroes,0xcc09dd25a3953fc918a3b069d343ac566da58808,Gaming::Games
+oripa.cards,Gaming,Games,BoxRouter,0xcc1e3d7360715cba6d3a5f29443f35489658931f,Gaming::Games;NFT::Marketplace
+oripa.cards,Gaming,Games,Marketplace,0xcc182a416deb738a708b57f32dc39bf9f631332b,Gaming::Games;NFT::Marketplace
+oripa.cards,Gaming,Games,PrizeNFT,0xcc10fe7750ef7763630d40bbd127d56b8ebdc36f,Gaming::Games;NFT::Marketplace
+oripa.cards,Gaming,Games,PrizeNFTImplementation,0xcc1c79577c5bacc03f87a9aa479467bb4205a85c,Gaming::Games;NFT::Marketplace
+oripa.cards,Gaming,Games,Treasury,0xcc193de00e9d33d84f7606829b809361d97b9bc4,Gaming::Games;NFT::Marketplace
 LootGO,Gaming,Mobile-First,Compass,0xa3522ea57c0bc48e602e2fe9f3929309d9618d96,Gaming::Mobile-First;Gaming::Games;Consumer::Other
 LootGO,Gaming,Mobile-First,Countdown Celebration,0x7415085da3a7c3d9b41bc339a91132d08f964c6c,Gaming::Mobile-First;Gaming::Games;Consumer::Other
 LootGO,Gaming,Mobile-First,Holiday Cheer,0x342abe620ee4b02aeff85ded68105e2f6a0f06ab,Gaming::Mobile-First;Gaming::Games;Consumer::Other
