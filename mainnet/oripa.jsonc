@@ -1,0 +1,21 @@
+{
+    "name": "oripa.cards",
+    "description": "oripa.cards is an on-chain gacha trading-card platform. Users buy and open packs to win NFT prizes, trade them on a P2P marketplace, and redeem them for physical card shipment or sell them back for USDC.",
+    "categories": [
+        "Gaming::Games",
+        "NFT::Marketplace"
+    ],
+    "addresses": {
+        "BoxRouter": "0xcc1e3d7360715CBa6d3a5f29443f35489658931F",
+        "PrizeNFT": "0xcc10FE7750eF7763630d40bbD127d56b8EBdc36f",
+        "PrizeNFTImplementation": "0xcc1c79577c5bacC03f87A9AA479467Bb4205a85C",
+        "Marketplace": "0xcc182A416deB738a708b57f32Dc39bf9F631332B",
+        "Treasury": "0xcc193De00E9d33D84f7606829b809361d97b9bc4"
+    },
+    "links": {
+        "project": "https://oripa.cards",
+        "twitter": "https://x.com/OripaOnChain",
+        "instagram": "https://www.instagram.com/oripaonchain/",
+        "docs": "https://docs.oripa.cards"
+    }
+}
