@@ -302,8 +302,13 @@ Monday Trade,DeFi,DEX,Gate,0x2e32345bf0592bff19313831b99900c530d37d90,DeFi::DEX;
 Monday Trade,DeFi,DEX,Instrument,0x73ada1ea346cc3908f41cf67a040f0acd7808be0,DeFi::DEX;DeFi::Perpetuals / Derivatives
 Monday Trade,DeFi,DEX,Instrument2,0x44b60b6af9b615a5cf2d366e2143582557cff711,DeFi::DEX;DeFi::Perpetuals / Derivatives
 Monday Trade,DeFi,DEX,Instrument3,0x8c5243a6a4c6c7a82d954c8ff29e0611e25ac33e,DeFi::DEX;DeFi::Perpetuals / Derivatives
+Monday Trade,DeFi,DEX,MondayCashSettler,0xf049110874d224d9f297d13e275722bfd4cfe4ac,DeFi::DEX;DeFi::Perpetuals / Derivatives
+Monday Trade,DeFi,DEX,MondayCashier,0xb983787a2882da59bbf9e09cb5a0e47ff0c30141,DeFi::DEX;DeFi::Perpetuals / Derivatives
 Monday Trade,DeFi,DEX,MondayConfig3,0xdc67221ea8d223e0a1d0948edecb634caf190ec9,DeFi::DEX;DeFi::Perpetuals / Derivatives
 Monday Trade,DeFi,DEX,MondayFactory,0xc1e98d0a2a58fb8abd10ccc30a58efff4080aa21,DeFi::DEX;DeFi::Perpetuals / Derivatives
+Monday Trade,DeFi,DEX,MondayOrderSettler,0xf462c8c85991f1dd8f5fa6199dfc1387c4f8f3b2,DeFi::DEX;DeFi::Perpetuals / Derivatives
+Monday Trade,DeFi,DEX,MondayStock,0xff63e828254888c3ea46268d7c3db63deb80e25d,DeFi::DEX;DeFi::Perpetuals / Derivatives
+Monday Trade,DeFi,DEX,MondayStockRouter,0x2f903ac6ddaf57eadcbbc46adc3ad739c3506a2d,DeFi::DEX;DeFi::Perpetuals / Derivatives
 Monday Trade,DeFi,DEX,NFTPositionManager,0x68b507bf58ed32173f41ff20aa2494a569daec44,DeFi::DEX;DeFi::Perpetuals / Derivatives
 Monday Trade,DeFi,DEX,QuoterV2,0xb97ecd41aef0f842e773c8f9905919cde49880c9,DeFi::DEX;DeFi::Perpetuals / Derivatives
 Monday Trade,DeFi,DEX,SwapRouter,0xfe951b693a2fe54be5148614b109e316b567632f,DeFi::DEX;DeFi::Perpetuals / Derivatives
