@@ -40,6 +40,12 @@
         // https://github.com/eth-infinitism/account-abstraction/blob/v0.8.0/contracts/core/SenderCreator.sol
         "SenderCreator_v0_8": "0x449ED7C3e6Fee6a97311d4b55475DF59C44AdD33",
 
+        // https://github.com/eth-infinitism/account-abstraction/blob/v0.9.0/contracts/core/EntryPoint.sol
+        "EntryPoint_v0_9": "0x433709009B8330FDa32311DF1C2AFA402eD8D009",
+
+        // https://github.com/eth-infinitism/account-abstraction/blob/v0.9.0/contracts/core/SenderCreator.sol
+        "SenderCreator_v0_9": "0x0A630a99Df908A81115A3022927Be82f9299987e",
+
         // https://github.com/eth-infinitism/account-abstraction/blob/develop/contracts/accounts/SimpleAccount.sol
         "SimpleAccount": "0x68641DE71cfEa5a5d0D29712449Ee254bb1400C2",
 
