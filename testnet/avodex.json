@@ -1,0 +1,14 @@
+{
+    "name": "avodex",
+    "description": "Avodex is a spot and perpetuals DEX powered by its own in-house matching engine, with AI-powered grid-trading bots.",
+    "live": false,
+    "categories": [
+        "DeFi::DEX",
+        "DeFi::Perpetuals / Derivatives"
+    ],
+    "addresses": {},
+    "links": {
+        "project": "https://avodex.ai",
+        "github": "https://github.com/avodex"
+    }
+}
