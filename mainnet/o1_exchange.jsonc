@@ -1,0 +1,21 @@
+{
+  "name": "o1.exchange",
+  "description": "Onchain trading terminal, meta-DEX aggregator, and token launchpad",
+  "live": true,
+  "categories": [
+    "DeFi::Launchpads",
+    "DeFi::DEX Aggregator"
+  ],
+  "addresses": {
+    // Launchpad suite — per o1's official docs, verified on Monad:
+    "LaunchFactory": "0x99C09A90feED8D5e57A19A8C1F103AE29BA5b5b7",
+    "LaunchHook": "0x8AeA397f75d046fEAF43D2897548f3A18FD92acC",
+    "FeeEscrow": "0x27BC99240f2c3895Cb91663932D97A29DdD99A93",
+    "FeeCollector": "0x4bfd6d43cb67e26ec8418a995142ce2c19db7b13"
+  },
+  "links": {
+    "project": "https://o1.exchange/",
+    "twitter": "https://x.com/o1_exchange",
+    "docs": "https://docs.o1.exchange/"
+  }
+}
