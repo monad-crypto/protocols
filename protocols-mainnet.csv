@@ -517,6 +517,10 @@ bonad.fun,DeFi,Launchpads,NoOpGovernanceFactory,0xb4dee32eb70a5e55f3d2d861f49fb3
 bonad.fun,DeFi,Launchpads,NoOpMigrator,0x5f3ba43d44375286296cb85f1ea2ebfa25dde731,DeFi::Launchpads;DeFi::Memecoin
 bonad.fun,DeFi,Launchpads,UniswapV2Migrator,0x136191b46478cab023cbc01a36160c4aad81677a,DeFi::Launchpads;DeFi::Memecoin
 bonad.fun,DeFi,Launchpads,UniswapV4ScheduledMulticurveInitializer,0xce3099b2f07029b086e5e92a1573c5f5a3071783,DeFi::Launchpads;DeFi::Memecoin
+o1.exchange,DeFi,Launchpads,FeeCollector,0x4bfd6d43cb67e26ec8418a995142ce2c19db7b13,DeFi::Launchpads;DeFi::DEX Aggregator
+o1.exchange,DeFi,Launchpads,FeeEscrow,0x27bc99240f2c3895cb91663932d97a29ddd99a93,DeFi::Launchpads;DeFi::DEX Aggregator
+o1.exchange,DeFi,Launchpads,LaunchFactory,0x99c09a90feed8d5e57a19a8c1f103ae29ba5b5b7,DeFi::Launchpads;DeFi::DEX Aggregator
+o1.exchange,DeFi,Launchpads,LaunchHook,0x8aea397f75d046feaf43d2897548f3a18fd92acc,DeFi::Launchpads;DeFi::DEX Aggregator
 Aave V3,DeFi,Lending,AAVE_PROTOCOL_DATA_PROVIDER,0xb65a68b98274ef7d9a60e0c0747dd1bec3d32fad,DeFi::Lending;DeFi::Stablecoin
 Aave V3,DeFi,Lending,ACL_ADMIN,0xa9d0eaff48ce1df468f9eaeb7e628c413343f6a2,DeFi::Lending;DeFi::Stablecoin
 Aave V3,DeFi,Lending,ACL_MANAGER,0xa9fee192a76b8f5e5f3d310ab6c526cb11f3d95b,DeFi::Lending;DeFi::Stablecoin
@@ -1696,6 +1700,8 @@ Canonical Contracts,Infra,Other,x402ExactPermit2Proxy,0x402085c248eea27d92e8b30b
 Canonical Contracts,Infra,Other,x402UptoPermit2Proxy,0x4020a4f3b7b90cca423b9fabcc0ce57c6c240002,Infra::Other
 AnomaPay,Infra,Privacy / Encryption,ERC20Forwarder,0x23dc44e1a1c3d5432eec8a1c027e22ccdc0a8f54,Infra::Privacy / Encryption;Payments::Orchestration
 AnomaPay,Infra,Privacy / Encryption,ProtocolAdapter,0x2d2fa19afdbb20dc73737ca5f075cfae00cd90c2,Infra::Privacy / Encryption;Payments::Orchestration
+PLabs,Infra,Privacy / Encryption,Groth16_verifier,0x11b938a2c8b171ba61ef2d4923951c528421696c,Infra::Privacy / Encryption
+PLabs,Infra,Privacy / Encryption,PERC20,0x38d743de0cb43744d5388f3a74f9de5be320d3f6,Infra::Privacy / Encryption
 Primus Token Distribution Platform,Infra,Privacy / Encryption,PrimusRedEnvelope,0x50bd377eb8d4236bb587ab3fb1eeafd888aeec58,Infra::Privacy / Encryption;Infra::ZK;Consumer::Social
 Primus Token Distribution Platform,Infra,Privacy / Encryption,PrimusTip,0xa2e0700a269be3158c81e4739518b324d4398588,Infra::Privacy / Encryption;Infra::ZK;Consumer::Social
 Metamask,Infra,Wallet,Bridge,0xfb00d4ea6f3f0d0b4a57b32378075df408f2aaba,Infra::Wallet
