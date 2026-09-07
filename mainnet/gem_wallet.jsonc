@@ -1,0 +1,12 @@
+{
+    "name": "Gem Wallet",
+    "description": "Gem Wallet is an open-source, self-custodial multichain wallet supporting Monad. Users can store, send, receive, buy, and swap assets while retaining full control of their private keys.",
+    "categories": ["Infra::Wallet"],
+    "addresses": {},
+    "links": {
+        "project": "https://gemwallet.com/",
+        "twitter": "https://x.com/gemwalletcom",
+        "github": "https://github.com/gemwalletcom/wallet",
+        "docs": "https://docs.gemwallet.com/blockchains/monad/"
+    }
+}
