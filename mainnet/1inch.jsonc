@@ -1,6 +1,6 @@
 {
     "name": "1inch",
-    "description": "DEX aggregator that sources liquidity across on-chain venues to route swaps at optimal rates, alongside a gasless, intent-based Limit Order Protocol — both ship in the 1inch Aggregation Router v6 on Monad. 1inch also deploys Aqua, its self-custodial shared liquidity layer, together with the on-chain SwapVM execution engine that settles against it.",
+    "description": "DEX aggregator that sources liquidity across on-chain venues, alongside a gasless, intent-based Limit Order Protocol. Includes Aqua, a self-custodial shared liquidity layer, together with the on-chain SwapVM execution engine that settles against it.",
     "live": true,
     "categories": [
         "DeFi::DEX Aggregator",
