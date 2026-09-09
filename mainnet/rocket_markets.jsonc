@@ -1,0 +1,21 @@
+{
+    "name": "Rocket Markets",
+    "description": "Rocket Markets is a time-based prediction market on Monad: you bet on how long until an inevitable event happens, not whether it will. Survivors deposit USDC into a per-round vault to earn yield every second the event hasn't happened; Detonators buy a time window and win a share of the pool when the event triggers. Settled in USDC.",
+    "live": true,
+    "categories": [
+        "Consumer::Prediction Market"
+    ],
+    "addresses": {
+        // Stable core market: Detonators mint their time-window positions here (ERC-721).
+        "Market": "0x5fAbE7Eb6629058bcAa0d2041cACd32638A7480b",
+        // Each round deploys a fresh Survivor vault (ERC-4626) as a clone of this
+        // implementation, all from the protocol deployer
+        // 0xa81Fc03686883efA5b5cA4faC1437e6870216fD8.
+        "SurvivorVaultImplementation": "0x48d9392Db46b00C291a2e29B1aC6C703b57024E2"
+    },
+    "links": {
+        "project": "https://app.rocketmarkets.fun/",
+        "twitter": "https://x.com/rocketmarketsfi",
+        "docs": "https://rocket-markets.gitbook.io/rocket-markets-docs/"
+    }
+}
