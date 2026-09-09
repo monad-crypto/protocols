@@ -1084,6 +1084,7 @@ Drake Exchange,DeFi,Perpetuals / Derivatives,platform_manager,0x7940575377c3c2ab
 Drake Exchange,DeFi,Perpetuals / Derivatives,portfolio_factory,0x991d0f1e44e590fdbce15cff13aaa69c8287b7f3,DeFi::Perpetuals / Derivatives;DeFi::DEX
 Drake Exchange,DeFi,Perpetuals / Derivatives,portfolio_helper,0xcf1c680a9feb17e5400376927118806996cd5074,DeFi::Perpetuals / Derivatives;DeFi::DEX
 Drake Exchange,DeFi,Perpetuals / Derivatives,trading,0xe6dfd064f1cff4f62236fc862a2543ea98380f32,DeFi::Perpetuals / Derivatives;DeFi::DEX
+HelloTrade,DeFi,Perpetuals / Derivatives,MarginVault,0xe52b14240514e7a05ddda336cff0d99ce8bb7230,DeFi::Perpetuals / Derivatives;DeFi::RWA
 LeverUp,DeFi,Perpetuals / Derivatives,LV,0x1001ff13bf368aa4fa85f21043648079f00e1001,DeFi::Perpetuals / Derivatives
 LeverUp,DeFi,Perpetuals / Derivatives,LVMON,0x91b81bfbe3a747230f0529aa28d8b2bc898e6d56,DeFi::Perpetuals / Derivatives
 LeverUp,DeFi,Perpetuals / Derivatives,LVMON_Delegator_Vault,0xf71b390448df37c8379332f372f344a576574d4a,DeFi::Perpetuals / Derivatives

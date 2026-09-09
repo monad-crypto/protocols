@@ -64,6 +64,8 @@ Magma,DeFi,Liquid Staking,RoleManager,0x2c59da213e35d92d2bdbd3e1a4e19c151350bdde
 Magma,DeFi,Liquid Staking,StakeManager,0x69d66356fcf62d8eab1fb2d86f3374508d611b3d,DeFi::Liquid Staking
 FastLane,DeFi,MEV,AddressHub,0xd72d821da82964c0546a5501347a3959808e072f,DeFi::MEV
 FastLane,DeFi,MEV,FastLaneAuctionHandler,0x11f34d16bb4b898c3a489b40cd1024d89a313b88,DeFi::MEV
+HelloTrade,DeFi,Perpetuals / Derivatives,MarginCollateralToken,0xd1ec521d1a49a1590b6ed06ed7d96daba24e28c1,DeFi::Perpetuals / Derivatives;DeFi::RWA
+HelloTrade,DeFi,Perpetuals / Derivatives,MarginVault,0xfa6fcb77aca7f941861f8ee0fb40662a5b28b77b,DeFi::Perpetuals / Derivatives;DeFi::RWA
 Circle USDC,DeFi,Stablecoin,USDC,0x534b2f3a21130d7a60830c2df862319e593943a3,DeFi::Stablecoin
 Circle CCTP,Infra,Interoperability,MessageTransmitterV2,0xe737e5cebeeba77efe34d4aa090756590b1ce275,Infra::Interoperability
 Circle CCTP,Infra,Interoperability,MessageV2,0xbac0179bb358a8936169a63408c8481d582390c4,Infra::Interoperability
