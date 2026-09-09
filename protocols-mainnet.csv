@@ -417,6 +417,9 @@ zkSwap,DeFi,DEX,ZFRouter,0x68225b5ba7ce309fd0d3f0c9a74b947c7d7e03da,DeFi::DEX
 zkSwap,DeFi,DEX,ZFV3Factory,0xf5cf2b71b8b368c84c4c4903af453e790d392285,DeFi::DEX
 zkSwap,DeFi,DEX,ZFV3PoolDeployer,0xce98a0e578b639aa90ee96ed5ba8e5a4022de529,DeFi::DEX
 zkSwap,DeFi,DEX,Zap,0x45728a3d03ff67cc0c8546f4290affb7c94f877a,DeFi::DEX
+1inch,DeFi,DEX Aggregator,AggregationRouterV6,0x111111125421ca6dc452d289314280a0f8842a65,DeFi::DEX Aggregator;DeFi::DEX;DeFi::Intents;DeFi::Trading Interfaces
+1inch,DeFi,DEX Aggregator,Aqua,0x1111113ccf1426a8e30e2bff5e005d929bf6a90a,DeFi::DEX Aggregator;DeFi::DEX;DeFi::Intents;DeFi::Trading Interfaces
+1inch,DeFi,DEX Aggregator,SwapVMRouter,0x111111338c5091e8440b67b168bae16a668ac0de,DeFi::DEX Aggregator;DeFi::DEX;DeFi::Intents;DeFi::Trading Interfaces
 Eisen,DeFi,DEX Aggregator,EisenDiamond,0x787c474b8a86354d0f5f19fb599a5fc7662a265f,DeFi::DEX Aggregator
 Eisen,DeFi,DEX Aggregator,Forwarder,0xece5e77f9a9846c4d69555eb44e0cff8b5f03f1e,DeFi::DEX Aggregator
 Fly Trade,DeFi,DEX Aggregator,MagpieRouterV3_1,0x956df8424b556f0076e8abf5481605f5a791cc7f,DeFi::DEX Aggregator

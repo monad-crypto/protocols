@@ -20,6 +20,28 @@
       "docs": "https://0x.org/docs"
     }
   },
+  "1inch": {
+    "name": "1inch",
+    "description": "DEX aggregator that sources liquidity across on-chain venues, alongside a gasless, intent-based Limit Order Protocol. Includes Aqua, a self-custodial shared liquidity layer, together with the on-chain SwapVM execution engine that settles against it.",
+    "live": true,
+    "categories": [
+      "DeFi::DEX Aggregator",
+      "DeFi::DEX",
+      "DeFi::Intents",
+      "DeFi::Trading Interfaces"
+    ],
+    "addresses": {
+      "AggregationRouterV6": "0x111111125421cA6dc452d289314280a0f8842A65",
+      "Aqua": "0x1111113CCf1426A8E30e2bfF5E005d929bF6a90a",
+      "SwapVMRouter": "0x111111338c5091E8440b67B168bAe16a668AC0De"
+    },
+    "links": {
+      "project": "https://1inch.io/",
+      "twitter": "https://x.com/1inch",
+      "github": "https://github.com/1inch",
+      "docs": "https://docs.1inch.io/"
+    }
+  },
   "CANONICAL": {
     "name": "Canonical Contracts",
     "description": "https://docs.monad.xyz/developer-essentials/network-information",
