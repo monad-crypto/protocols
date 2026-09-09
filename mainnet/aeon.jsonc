@@ -1,6 +1,6 @@
 {
     "name": "Aeon",
-    "description": "Aeon (@aeonframework) is an autonomous agent framework. Aeon Hooks are its fleet of Uniswap v4 hooks — dynamic fees, no-op, gating, and other custom pool behaviors — that integrate with Uniswap v4 pools.",
+    "description": "Aeon (@aeonframework) is an autonomous agent framework. Aeon Hooks is its live Uniswap v4 hook marketplace — create a v4 hook from a single prompt, get it auto-listed on a curated registry with a mandatory audit and full security report, then deploy it to a launchpad. The listed contracts are Aeon's fleet of v4 hooks (dynamic fees, no-op, gating, and other custom pool behaviors) that integrate with Uniswap v4 pools.",
     "live": true,
     "categories": ["DeFi::DEX"],
     "addresses": {
