@@ -1,0 +1,21 @@
+{
+    "name": "1inch",
+    "description": "DEX aggregator that sources liquidity across on-chain venues to route swaps at optimal rates, alongside a gasless, intent-based Limit Order Protocol. On Monad, both ship in the 1inch Aggregation Router v6 contract.",
+    "live": true,
+    "categories": [
+        "DeFi::DEX Aggregator",
+        "DeFi::Intents",
+        "DeFi::Trading Interfaces"
+    ],
+    "addresses": {
+        // Aggregation Router v6, which also serves the Limit Order Protocol v4.
+        // https://github.com/1inch/limit-order-protocol
+        "AggregationRouterV6": "0x111111125421cA6dc452d289314280a0f8842A65"
+    },
+    "links": {
+        "project": "https://1inch.io/",
+        "twitter": "https://x.com/1inch",
+        "github": "https://github.com/1inch",
+        "docs": "https://docs.1inch.io/"
+    }
+}
