@@ -1,0 +1,19 @@
+{
+    "name": "HelloTrade",
+    "description": "A global trading platform providing 24/7 access to RWA and crypto markets.",
+    "live": true,
+    "categories": [
+        "DeFi::Perpetuals / Derivatives",
+        "DeFi::RWA"
+    ],
+    "addresses": {
+        "MarginVault": "0xfA6fcb77ACA7F941861F8Ee0Fb40662A5B28B77b",
+        "MarginCollateralToken": "0xd1eC521d1A49A1590b6ed06ed7d96dabA24E28C1"
+    },
+    "links": {
+        "project": "https://www.hello.trade/",
+        "twitter": "https://x.com/hellotradeapp",
+        "github": "https://github.com/perps-core",
+        "docs": "https://docs.hello.trade"
+    }
+}
