@@ -251,7 +251,7 @@
   },
   "aeon": {
     "name": "Aeon",
-    "description": "Aeon (@aeonframework) is an autonomous agent framework. Aeon Hooks are its fleet of Uniswap v4 hooks — dynamic fees, no-op, gating, and other custom pool behaviors — that integrate with Uniswap v4 pools.",
+    "description": "Aeon (@aeonframework) is an autonomous agent framework. Aeon Hooks is its live Uniswap v4 hook marketplace — create a v4 hook from a single prompt, get it auto-listed on a curated registry with a mandatory audit and full security report, then deploy it to a launchpad. The listed contracts are Aeon's fleet of v4 hooks (dynamic fees, no-op, gating, and other custom pool behaviors) that integrate with Uniswap v4 pools.",
     "live": true,
     "categories": [
       "DeFi::DEX"
@@ -4128,6 +4128,23 @@
       "project": "https://relay.link/bridge",
       "twitter": "https://x.com/relayprotocol",
       "docs": "https://docs.relay.link/what-is-relay"
+    }
+  },
+  "rocket_markets": {
+    "name": "Rocket Markets",
+    "description": "Rocket Markets is a time-based prediction market on Monad: you bet on how long until an inevitable event happens, not whether it will. Survivors deposit USDC into a per-round vault to earn yield every second the event hasn't happened; Detonators buy a time window and win a share of the pool when the event triggers. Settled in USDC.",
+    "live": true,
+    "categories": [
+      "Consumer::Prediction Market"
+    ],
+    "addresses": {
+      "Market": "0x5fAbE7Eb6629058bcAa0d2041cACd32638A7480b",
+      "SurvivorVaultImplementation": "0x48d9392Db46b00C291a2e29B1aC6C703b57024E2"
+    },
+    "links": {
+      "project": "https://app.rocketmarkets.fun/",
+      "twitter": "https://x.com/rocketmarketsfi",
+      "docs": "https://rocket-markets.gitbook.io/rocket-markets-docs/"
     }
   },
   "rubic": {
