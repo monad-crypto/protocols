@@ -104,6 +104,18 @@ Relay,DeFi,Cross Chain,v2.1RelayApprovalProxy,0x58cc3e0aa6cd7bf795832a225179ec2d
 Relay,DeFi,Cross Chain,v2.1RelayRouter,0x3ec130b627944cad9b2750300ecb0a695da522b6,DeFi::Cross Chain
 Relay,DeFi,Cross Chain,v3RelayApprovalProxy,0xccc88a9d1b4ed6b0eaba998850414b24f1c315be,DeFi::Cross Chain
 Relay,DeFi,Cross Chain,v3RelayRouter,0xb92fe925dc43a0ecde6c8b1a2709c170ec4fff4f,DeFi::Cross Chain
+Symbiosis,DeFi,Cross Chain,BridgeV2,0x5523985926aa12ba58dc5ad00ddca99678d7227e,DeFi::Cross Chain;Infra::Interoperability;DeFi::DEX Aggregator
+Symbiosis,DeFi,Cross Chain,Deployer,0x6dcb5e43b05918505f65bf423088af172c32be33,DeFi::Cross Chain;Infra::Interoperability;DeFi::DEX Aggregator
+Symbiosis,DeFi,Cross Chain,LegacyMetaRouter,0xce8f24a58d85ed5c5a6824f7be1f8d4711a0eb4c,DeFi::Cross Chain;Infra::Interoperability;DeFi::DEX Aggregator
+Symbiosis,DeFi,Cross Chain,LegacyMetaRouterGateway,0xadb2d3b711bb8d8ea92ff70292c466140432c278,DeFi::Cross Chain;Infra::Interoperability;DeFi::DEX Aggregator
+Symbiosis,DeFi,Cross Chain,LegacyOnchainGateway,0x145878e7527a442549ed2c8434b0477c676824fa,DeFi::Cross Chain;Infra::Interoperability;DeFi::DEX Aggregator
+Symbiosis,DeFi,Cross Chain,LegacyOnchainRouter,0x6aeb9b27590387b8fd0560c52f6b968c59c10fab,DeFi::Cross Chain;Infra::Interoperability;DeFi::DEX Aggregator
+Symbiosis,DeFi,Cross Chain,MetaRouter,0x81ab74a9f9d7457ff47dfd102e78a340cf72ec39,DeFi::Cross Chain;Infra::Interoperability;DeFi::DEX Aggregator
+Symbiosis,DeFi,Cross Chain,MetaRouterExecutor,0x79d930abe53dd56b66ed43f8f6a7c6a1b84655ca,DeFi::Cross Chain;Infra::Interoperability;DeFi::DEX Aggregator
+Symbiosis,DeFi,Cross Chain,MulticallRouter,0xb8f275fbf7a959f4bce59999a2ef122a099e81a8,DeFi::Cross Chain;Infra::Interoperability;DeFi::DEX Aggregator
+Symbiosis,DeFi,Cross Chain,OnchainExecutor,0xda411e3b9047ae198dfb7448e97ca900fe793035,DeFi::Cross Chain;Infra::Interoperability;DeFi::DEX Aggregator
+Symbiosis,DeFi,Cross Chain,OnchainRouter,0xbbad2fe9558e55ebfa04b3b5bff0b6c4e2ffdd2c,DeFi::Cross Chain;Infra::Interoperability;DeFi::DEX Aggregator
+Symbiosis,DeFi,Cross Chain,Portal,0x292fc50e4eb66c3f6514b9e402dbc25961824d62,DeFi::Cross Chain;Infra::Interoperability;DeFi::DEX Aggregator
 Aegis,DeFi,DEX,Hook_v1.0,0xb4f4949e8d0a177bb6d2fea33e9516bb219610cc,DeFi::DEX
 Aegis,DeFi,DEX,Hook_v1.1,0xe449e013004db4a5681e9622ca10c5ba0ea610cc,DeFi::DEX
 Aeon,DeFi,DEX,BlockEcho,0x15d90705718d052d32eb8e34271e8743c26e40c4,DeFi::DEX
