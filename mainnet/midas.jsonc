@@ -1,0 +1,21 @@
+{
+    "name": "Midas",
+    "description": "Tokenization platform issuing institutional-grade, yield-bearing mTokens that each track a dedicated strategy managed by an appointed manager, with verifiable onchain NAV and performance.",
+    "live": true,
+    "categories": ["DeFi::Asset Issuers", "DeFi::RWA"],
+    "addresses": {
+        // mROX — Midas Rockaway Market Neutral
+        // Monad mainnet deployment blocks: token 102741625, customFeed 102745836,
+        // dataFeed 102749753, depositVault 102754715, redemptionVaultSwapper 102759946
+        "mROX": "0x6CF55183eA297ba200Cf88419Bba156EBA2Ed206",
+        "mROX CustomFeed": "0x47b301D6Fe113F97376B82D41E5CD1Ea79a8F6C4",
+        "mROX DataFeed": "0x4F34cAECf0cAa9D57534980a35Fc7DD22dE55fa3",
+        "mROX DepositVault": "0xDcd123ba4E0833380ce66A5BaD3a11de4CeD452B",
+        "mROX RedemptionVaultSwapper": "0x3359F3ADB4a8844DfB4416f56A454b144332Dacb"
+    },
+    "links": {
+        "project": "https://midas.app",
+        "twitter": "https://x.com/MidasRWA",
+        "docs": "https://docs.midas.app"
+    }
+}
