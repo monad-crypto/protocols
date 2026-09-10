@@ -1,0 +1,39 @@
+{
+    "name": "Symbiosis",
+    "description": "Symbiosis is a cross-chain liquidity protocol and aggregator that enables one-click swaps of any token between chains, bridging and on-chain swaps with unified liquidity across 60+ networks.",
+    "live": true,
+    "categories": [
+        "DeFi::Cross Chain",
+        "Infra::Interoperability",
+        "DeFi::DEX Aggregator"
+    ],
+    "addresses": {
+        "Deployer": "0x6dCB5E43B05918505f65BF423088af172C32be33",
+        // Bridge core (BridgeV2 stack)
+        "BridgeV2": "0x5523985926Aa12BA58DC5Ad00DDca99678D7227E",
+        "Portal": "0x292fC50e4eB66C3f6514b9E402dBc25961824D62",
+        "MulticallRouter": "0xb8f275fBf7A959F4BCE59999A2EF122A099e81A8",
+        // Cross-chain MetaRouter, current version: users approve and call MetaRouter itself;
+        // inner DEX swaps are executed by MetaRouterExecutor (must NOT be approved)
+        "MetaRouter": "0x81aB74A9f9d7457fF47dfD102e78A340cF72EC39",
+        "MetaRouterExecutor": "0x79d930aBe53dd56B66Ed43f8f6a7C6a1b84655cA",
+        // Cross-chain MetaRouter, legacy version: users approve LegacyMetaRouterGateway only
+        // and call LegacyMetaRouter
+        "LegacyMetaRouter": "0xcE8f24A58D85eD5c5A6824f7be1F8d4711A0eb4C",
+        "LegacyMetaRouterGateway": "0xAdB2d3b711Bb8d8Ea92ff70292c466140432c278",
+        // On-chain swap router, current version: users approve and call OnchainRouter itself;
+        // inner DEX swaps are executed by OnchainExecutor (must NOT be approved)
+        "OnchainRouter": "0xBbAD2fe9558e55EbfA04b3B5Bff0b6c4E2ffDD2C",
+        "OnchainExecutor": "0xDA411E3b9047AE198DfB7448E97Ca900FE793035",
+        // On-chain swap router, legacy version (FeeCollector): users approve LegacyOnchainGateway only
+        // and call LegacyOnchainRouter
+        "LegacyOnchainRouter": "0x6AEb9b27590387b8Fd0560C52f6B968C59C10Fab",
+        "LegacyOnchainGateway": "0x145878e7527a442549eD2c8434B0477C676824fa"
+    },
+    "links": {
+        "project": "https://symbiosis.finance/",
+        "twitter": "https://x.com/symbiosis_fi",
+        "github": "https://github.com/symbiosis-finance",
+        "docs": "https://docs.symbiosis.finance/"
+    }
+}
