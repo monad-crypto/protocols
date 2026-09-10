@@ -50,6 +50,11 @@ Fluffle,Consumer,Social,FluffleFurniture,0x67f58f1faf78781b7eb90c457846e0f965bb1
 Fluffle,Consumer,Social,FluffleSolveil,0x8255dacd8a45f4abe6dc821e6f7f3c92a8e22fbb,Consumer::Social;NFT::Other;Gaming::Mobile-First
 Jenius,Consumer,Social,JenMon,0x0b60222ee89ab189cdfbdba4328ead42b6a34956,Consumer::Social;AI::Consumer AI;AI::Models
 Yap Market,Consumer,Social,Escrow,0x29957e3b3dabedbe830b0de53c2c9293d0db1bda,Consumer::Social
+Midas,DeFi,Asset Issuers,mROX,0x6cf55183ea297ba200cf88419bba156eba2ed206,DeFi::Asset Issuers;DeFi::RWA
+Midas,DeFi,Asset Issuers,mROX CustomFeed,0x47b301d6fe113f97376b82d41e5cd1ea79a8f6c4,DeFi::Asset Issuers;DeFi::RWA
+Midas,DeFi,Asset Issuers,mROX DataFeed,0x4f34caecf0caa9d57534980a35fc7dd22de55fa3,DeFi::Asset Issuers;DeFi::RWA
+Midas,DeFi,Asset Issuers,mROX DepositVault,0xdcd123ba4e0833380ce66a5bad3a11de4ced452b,DeFi::Asset Issuers;DeFi::RWA
+Midas,DeFi,Asset Issuers,mROX RedemptionVaultSwapper,0x3359f3adb4a8844dfb4416f56a454b144332dacb,DeFi::Asset Issuers;DeFi::RWA
 StakeStone,DeFi,Asset Issuers,LayerZeroAdapter,0xec901da9c68e90798bbbb74c11406a32a70652c3,DeFi::Asset Issuers;DeFi::Liquid Staking;DeFi::Stablecoin;DeFi::Yield
 StakeStone,DeFi,Asset Issuers,STONEUSD,0x095957ceb9f317ac1328f0ab3123622401766d71,DeFi::Asset Issuers;DeFi::Liquid Staking;DeFi::Stablecoin;DeFi::Yield
 Covenant,DeFi,CDP,Covenant,0x11a7ab0a9d7bd531dbcf0f0630bf7167f8f198f6,DeFi::CDP;DeFi::DEX;DeFi::Yield
