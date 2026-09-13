@@ -1,0 +1,35 @@
+{
+    "name": "Uniswap v4 (Monad-maintained testnet)",
+    "description": "Monad-maintained Uniswap v4 testnet infrastructure for hook development, with standard Position Manager and Universal Router deployments shared across integrations. This is not an official Uniswap deployment.",
+    "live": true,
+    "categories": ["DeFi::DEX"],
+    "addresses": {
+        // Shared Monad testnet PoolManager.
+        // https://testnet.monadscan.com/address/0x451d64ab3b650040d2ae1886602b97ed6edc643d
+        // https://testnet.monadvision.com/address/0x451d64ab3b650040d2ae1886602b97ed6edc643d
+        "PoolManager": "0x451D64ab3b650040d2aE1886602b97ed6eDc643d",
+        // https://testnet.monadscan.com/address/0x1548b69e74bdd834c2e552a5c673acf921aa7b11
+        // https://testnet.monadvision.com/address/0x1548b69e74bdd834c2e552a5c673acf921aa7b11
+        "PositionDescriptor": "0x1548b69E74BdD834c2e552a5c673acf921Aa7B11",
+        // https://testnet.monadscan.com/address/0x3bb14e3d0cd50abe3edaca06d06c29c78676c31a
+        // https://testnet.monadvision.com/address/0x3bb14e3d0cd50abe3edaca06d06c29c78676c31a
+        "PositionManager": "0x3Bb14E3D0Cd50aBe3EdACa06d06c29C78676C31A",
+        // https://testnet.monadscan.com/address/0xb639209539c61baf67ac04876315786f8d0b153c
+        // https://testnet.monadvision.com/address/0xb639209539c61baf67ac04876315786f8d0b153c
+        "StateView": "0xB639209539c61BaF67AC04876315786F8D0b153c",
+        // https://testnet.monadscan.com/address/0x869834d127b230283fe63e0d0a9beb67216a94c7
+        // https://testnet.monadvision.com/address/0x869834d127b230283fe63e0d0a9beb67216a94c7
+        "V4Quoter": "0x869834d127b230283fe63E0d0A9bEB67216a94C7",
+        // https://testnet.monadscan.com/address/0xf5fa008bdb979427545c40fece80d8cdee4177c2
+        // https://testnet.monadvision.com/address/0xf5fa008bdb979427545c40fece80d8cdee4177c2
+        "UnsupportedProtocol": "0xF5fa008BdB979427545c40fecE80d8cdEE4177C2",
+        // https://testnet.monadscan.com/address/0x1b7bfcd2870329b987191910d85c22c7287f3c22
+        // https://testnet.monadvision.com/address/0x1b7bfcd2870329b987191910d85c22c7287f3c22
+        "UniversalRouter": "0x1b7bFCd2870329B987191910D85c22C7287f3c22"
+    },
+    "links": {
+        "project": "https://uniswap.org/",
+        "docs": "https://docs.uniswap.org/contracts/v4/overview",
+        "monadDocs": "https://docs.monad.xyz/developer-essentials/testnet"
+    }
+}
