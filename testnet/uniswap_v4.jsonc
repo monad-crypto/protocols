@@ -1,6 +1,6 @@
 {
     "name": "Uniswap v4",
-    "description": Uniswap v4 testnet infrastructure for hook development, with standard Position Manager and Universal Router deployments shared across integrations. This is not an official Uniswap deployment.",
+    "description": "Uniswap v4 testnet infrastructure for hook development, with standard Position Manager and Universal Router deployments shared across integrations. This is not an official Uniswap deployment.",
     "live": true,
     "categories": ["DeFi::DEX"],
     "addresses": {
