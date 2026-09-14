@@ -1,6 +1,6 @@
 {
-    "name": "Uniswap v4 (Monad-maintained testnet)",
-    "description": "Monad-maintained Uniswap v4 testnet infrastructure for hook development, with standard Position Manager and Universal Router deployments shared across integrations. This is not an official Uniswap deployment.",
+    "name": "Uniswap v4",
+    "description": Uniswap v4 testnet infrastructure for hook development, with standard Position Manager and Universal Router deployments shared across integrations. This is not an official Uniswap deployment.",
     "live": true,
     "categories": ["DeFi::DEX"],
     "addresses": {
@@ -29,7 +29,6 @@
     },
     "links": {
         "project": "https://uniswap.org/",
-        "docs": "https://docs.uniswap.org/contracts/v4/overview",
-        "monadDocs": "https://docs.monad.xyz/developer-essentials/testnet"
+        "docs": "https://docs.uniswap.org/contracts/v4/overview"
     }
 }
