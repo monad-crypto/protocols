@@ -5,7 +5,7 @@
     "categories": ["Infra::Other"],
     "addresses": {
         // Wrapped MON
-        "WMON": "0x760AfE86e5de5fa0Ee542fc7B7B713e1c5425701",
+        "WMON": "0xFb8bf4c1CC7a94c73D209a149eA2AbEa852BC541",
 
         // https://github.com/pcaversaccio/create2deployer
         "Create2Deployer": "0x13b0D85CcB8bf860b6b79AF3029fCA081AE9beF2",
