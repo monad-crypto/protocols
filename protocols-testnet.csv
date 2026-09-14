@@ -95,7 +95,7 @@ Canonical Contracts,Infra,Other,SenderCreator_v0_7,0xefc2c1444ebcc4db75e7613d20c
 Canonical Contracts,Infra,Other,SenderCreator_v0_8,0x449ed7c3e6fee6a97311d4b55475df59c44add33,Infra::Other
 Canonical Contracts,Infra,Other,SenderCreator_v0_9,0x0a630a99df908a81115a3022927be82f9299987e,Infra::Other
 Canonical Contracts,Infra,Other,SingletonFactory,0xce0042b868300000d44a59004da54a005ffdcf9f,Infra::Other
-Canonical Contracts,Infra,Other,WMON,0x760afe86e5de5fa0ee542fc7b7b713e1c5425701,Infra::Other
+Canonical Contracts,Infra,Other,WMON,0xfb8bf4c1cc7a94c73d209a149ea2abea852bc541,Infra::Other
 Canonical Contracts,Infra,Other,ZoltuDeterministicDeploymentProxy,0x7a0d94f55792c434d74a40883c6ed8545e406d12,Infra::Other
 Lootify,NFT,Infrastructure,default,0xe5d182811315fcb4f402fb5ae97b54a06877e4f1,NFT::Infrastructure
 PingMe,Payments,Neobanks,CryptoDrop,0x3de0e31a0a9d885bf98ea1512188e06f70d507b2,Payments::Neobanks
