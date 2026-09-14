@@ -16,6 +16,13 @@ Kuru,DeFi,DEX,MonadDeployer,0xdacd06372ceb638640c9d8466a023b7362324e1a,DeFi::DEX
 Kuru,DeFi,DEX,OrderBookImpl,0x72cae0a99c19b574e8a6de558f43fc1d019c9374,DeFi::DEX
 Kuru,DeFi,DEX,Router,0x7efbe105ca7415de98f96622173458ac1c054630,DeFi::DEX
 Kuru,DeFi,DEX,USDC,0x3ba3d39afcf8bb994f7964b3e0171ea2ba361570,DeFi::DEX
+Uniswap v4,DeFi,DEX,PoolManager,0x451d64ab3b650040d2ae1886602b97ed6edc643d,DeFi::DEX
+Uniswap v4,DeFi,DEX,PositionDescriptor,0x1548b69e74bdd834c2e552a5c673acf921aa7b11,DeFi::DEX
+Uniswap v4,DeFi,DEX,PositionManager,0x3bb14e3d0cd50abe3edaca06d06c29c78676c31a,DeFi::DEX
+Uniswap v4,DeFi,DEX,StateView,0xb639209539c61baf67ac04876315786f8d0b153c,DeFi::DEX
+Uniswap v4,DeFi,DEX,UniversalRouter,0x1b7bfcd2870329b987191910d85c22c7287f3c22,DeFi::DEX
+Uniswap v4,DeFi,DEX,UnsupportedProtocol,0xf5fa008bdb979427545c40fece80d8cdee4177c2,DeFi::DEX
+Uniswap v4,DeFi,DEX,V4Quoter,0x869834d127b230283fe63e0d0a9beb67216a94c7,DeFi::DEX
 Nad.fun,DeFi,Launchpads,BONDING_CURVE,0xad720f94689edb929d9be7613223320a0b2f260f,DeFi::Launchpads
 Nad.fun,DeFi,Launchpads,BONDING_CURVE_ROUTER,0xf57f14335e9670ed2c0cef4a59fb707cf2eb3fac,DeFi::Launchpads
 Nad.fun,DeFi,Launchpads,COMMUNITY_TREASURY,0x8c786190186518a3a95d86cee8e972ce1c7eda8b,DeFi::Launchpads
