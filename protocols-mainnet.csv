@@ -464,6 +464,7 @@ Mace,DeFi,DEX Aggregator,UniswapV2Adapter,0x9d282092c60303ba8fc219501cfedafafa29
 Mace,DeFi,DEX Aggregator,UniswapV4Adapter,0x52dfbfa557516e1775b014ef01309ca8160b5296,DeFi::DEX Aggregator;DeFi::Trading Interfaces
 Mace,DeFi,DEX Aggregator,WethAdapter,0xc6b6b9e8eb8b3cf2cecd8ff536a9e1599d8ab426,DeFi::DEX Aggregator;DeFi::Trading Interfaces
 Monorail,DeFi,DEX Aggregator,AggregationRouter,0xa68a7f0601effdc65c64d9c47ca1b18d96b4352c,DeFi::DEX Aggregator;DeFi::Trading Interfaces
+Moose,DeFi,DEX Aggregator,Aggregator,0xbd267094d3b410b33f49e8f6ba8b106672746490,DeFi::DEX Aggregator
 OKX Wallet,DeFi,DEX Aggregator,DexRouter v1.0.10-rfq-anti-arbitrage,0xc1c76e784db8d68585fb608ce68fc5dcff14000e,DeFi::DEX Aggregator
 OKX Wallet,DeFi,DEX Aggregator,DexRouter v1.0.7-multi-commission,0x6088d94c5a40cecd3ae2d4e0710ca687b91c61d0,DeFi::DEX Aggregator
 OKX Wallet,DeFi,DEX Aggregator,DexRouter v1.0.8-suffix-compat,0x7a7ad9aa93cd0a2d0255326e5fb145cec14997ff,DeFi::DEX Aggregator
