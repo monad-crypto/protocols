@@ -1,0 +1,14 @@
+{
+    "name": "Moose",
+    "description": "Moose is an on-chain DeFi aggregator on Monad built by the FastLane team. It routes swaps across the network's DEX liquidity using fully on-chain order routing, aiming to protect users from aggregator quote spoofing while keeping execution fast and private.",
+    "live": true,
+    "categories": [
+        "DeFi::DEX Aggregator"
+    ],
+    "addresses": {
+        "Aggregator": "0xBd267094D3b410B33f49e8F6BA8b106672746490"
+    },
+    "links": {
+        "project": "https://moose.trade/"
+    }
+}
