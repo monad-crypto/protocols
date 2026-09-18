@@ -1510,7 +1510,8 @@
     ],
     "addresses": {
       "CoreAggregator": "0x77E73c3fCd3FEDba383025CDe4a5b97733A34c2E",
-      "LimitOrderModule": "0xA82098c33c75A4A1e20e06f352732910C75C690D"
+      "LimitOrderModule": "0xA82098c33c75A4A1e20e06f352732910C75C690D",
+      "Aggregator": "0x646462f4d0168A94fE1884c8ae82148a3618A18d"
     },
     "links": {
       "project": "https://dex.dirol.io/",
