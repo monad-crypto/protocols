@@ -87,7 +87,6 @@ LayerZero,Infra,Interoperability,SendUln302,0xd682ecf100f6f4284138aa925348633b06
 Pyth Network,Infra,Oracle,PythEntropy,0x36825bf3fbdf5a29e2d5148bfe7dcf7b5639e320,Infra::Oracle
 Pyth Network,Infra,Oracle,PythPriceFeed,0x2880ab155794e7179c9ee2e38200202908c17b43,Infra::Oracle
 Stork,Infra,Oracle,default,0xacc0a0cf13571d30b4b8637996f5d6d774d4fd62,Infra::Oracle
-Switchboard,Infra,Oracle,default,0x33a5066f65f66161beb3f827a3e40fce7d7a2e6c,Infra::Oracle
 Canonical Contracts,Infra,Other,Create2Deployer,0x13b0d85ccb8bf860b6b79af3029fca081ae9bef2,Infra::Other
 Canonical Contracts,Infra,Other,CreateX,0xba5ed099633d3b313e4d5f7bdc1305d3c28ba5ed,Infra::Other
 Canonical Contracts,Infra,Other,EntryPoint_v0_6,0x5ff137d4b0fdcd49dca30c7cf57e578a026d2789,Infra::Other

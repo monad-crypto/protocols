@@ -356,23 +356,6 @@
       "docs": "https://docs.stork.network/"
     }
   },
-  "switchboard": {
-    "name": "Switchboard",
-    "description": "Switchboard is the largest customizable oracle network and first oracle aggregator, helping secure nearly $1.5B in value across 10+ chains.",
-    "live": true,
-    "categories": [
-      "Infra::Oracle"
-    ],
-    "addresses": {
-      "default": "0x33A5066f65f66161bEb3f827A3e40fce7d7A2e6C"
-    },
-    "links": {
-      "project": "https://switchboard.xyz",
-      "twitter": "https://x.com/switchboardxyz",
-      "github": "https://github.com/switchboard-xyz",
-      "docs": "https://docs.switchboard.xyz"
-    }
-  },
   "uniswap_v4": {
     "name": "Uniswap v4",
     "description": "Uniswap v4 testnet infrastructure for hook development, with standard Position Manager and Universal Router deployments shared across integrations. This is not an official Uniswap deployment.",
