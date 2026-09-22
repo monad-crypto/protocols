@@ -1280,6 +1280,24 @@
       "twitter": "https://x.com/crshmarket"
     }
   },
+  "crystal": {
+    "name": "Crystal",
+    "description": "Crystal is a fully on-chain central limit order book (CLOB) DEX on Monad, offering self-custodial spot trading with a backstop AMM, liquidity vaults, and a token launchpad.",
+    "live": true,
+    "categories": [
+      "DeFi::DEX",
+      "DeFi::Launchpads"
+    ],
+    "addresses": {
+      "Crystal": "0x508254c838B2e936B0631440c5C6E3AB3a4a98BD"
+    },
+    "links": {
+      "project": "https://crystal.exchange",
+      "twitter": "https://x.com/CrystalExch",
+      "github": "https://github.com/CrystalExch",
+      "docs": "https://docs.crystal.exchange"
+    }
+  },
   "curvance": {
     "name": "Curvance",
     "description": "Click Less, Earn More. Powered by @wormhole.",
