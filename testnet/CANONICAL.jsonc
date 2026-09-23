@@ -49,6 +49,15 @@
         // https://github.com/Uniswap/permit2
         "Permit2": "0x000000000022d473030f116ddee9f6b43ac78ba3",
 
+        // https://github.com/x402-foundation/x402/blob/main/contracts/evm/src/x402BatchSettlement.sol
+        "x402BatchSettlement": "0x4020074e9dF2ce1deE5A9C1b5c3f541D02a10003",
+
+        // https://github.com/x402-foundation/x402/blob/main/contracts/evm/src/periphery/ERC3009DepositCollector.sol
+        "ERC3009DepositCollector": "0x4020806089470a89826cB9fB1f4059150b550004",
+
+        // https://github.com/x402-foundation/x402/blob/main/contracts/evm/src/periphery/Permit2DepositCollector.sol
+        "Permit2DepositCollector": "0x4020425FAf3B746C082C2f942b4E5159887B0005",
+
         // https://github.com/Zoltu/deterministic-deployment-proxy
         "ZoltuDeterministicDeploymentProxy": "0x7A0D94F55792C434d74a40883C6ed8545E406D12"
     },
