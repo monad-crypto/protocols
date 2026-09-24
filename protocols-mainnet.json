@@ -1292,7 +1292,8 @@
       "DeFi::Launchpads"
     ],
     "addresses": {
-      "Crystal": "0x508254c838B2e936B0631440c5C6E3AB3a4a98BD"
+      "Crystal": "0x508254c838B2e936B0631440c5C6E3AB3a4a98BD",
+      "MON/USDC Market": "0x39fAE95717cfD4bdA22317F1c124660A166b6BEc"
     },
     "links": {
       "project": "https://crystal.exchange",

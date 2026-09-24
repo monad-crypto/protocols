@@ -200,6 +200,7 @@ Clober,DeFi,DEX,Router,0x7b58a24c5628881a141d630f101db433d419b372,DeFi::DEX
 Clober,DeFi,DEX,Strategy,0x54cd5332b1689b6506ce089da5651b1a814e9e7d,DeFi::DEX
 Clober,DeFi,DEX,Wrapped6909Factory,0x9050b0a12d92b8ba7369ecc87bcd04643fa0cfdb,DeFi::DEX
 Crystal,DeFi,DEX,Crystal,0x508254c838b2e936b0631440c5c6e3ab3a4a98bd,DeFi::DEX;DeFi::Launchpads
+Crystal,DeFi,DEX,MON/USDC Market,0x39fae95717cfd4bda22317f1c124660a166b6bec,DeFi::DEX;DeFi::Launchpads
 Curve Finance,DeFi,DEX,AddressProvider,0x4574921eb950d3fd5b01562162ec566cb8bc3648,DeFi::DEX;DeFi::Stableswap
 Curve Finance,DeFi,DEX,ChildGaugeFactory,0x41d2c5128a7241ec1f7ce346b162c347c19548b7,DeFi::DEX;DeFi::Stableswap
 Curve Finance,DeFi,DEX,DepositAndStake,0xb2be7692b07b640c9f2ee1187cee2faec741f872,DeFi::DEX;DeFi::Stableswap
