@@ -1,0 +1,18 @@
+{
+  "name": "Fluffle Withdraw Secure",
+  "description": "UUID-idempotent USDC treasury used by Fluffle Chat With Friends. Owner-gated withdraw/batchWithdraw with pause, reentrancy protection, and a guardian emergency stop.",
+  "live": true,
+  "categories": [
+    "Payments::Orchestration",
+    "Consumer::Social"
+  ],
+  "addresses": {
+    // USDC treasury payouts keyed by UUID so the same withdrawal cannot be processed twice.
+    // TOKEN (immutable) is Circle USDC: 0x754704Bc059F8C67012fEd69BC8A327a5aafb603
+    "WithdrawSecure": "0x75A4020De2d428DDd2DdEFf85E599FB2EF9dBc73"
+  },
+  "links": {
+    "project": "https://fluffle.world/",
+    "twitter": "https://x.com/fluffleworld"
+  }
+}
