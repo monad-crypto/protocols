@@ -1274,6 +1274,7 @@ Enjoyoors,DeFi,Yield,WithdrawalApprover,0x71f60773885011cc0a61613078733b4738b38f
 Lagoon,DeFi,Yield,ProtocolRegistry,0xbf994c358f939011595ab4216ac005147863f9d6,DeFi::Yield;DeFi::Asset Allocators
 Lagoon,DeFi,Yield,VaultFactory,0xccdc4d06ca12a29c47d5d105fed59a6d07e9cf70,DeFi::Yield;DeFi::Asset Allocators
 Merkl,DeFi,Yield,Merkl,0x3ef3d8ba38ebe18db133cec108f4d14ce00dd9ae,DeFi::Yield
+Pendle,DeFi,Yield,ExternalRewardsDistributor,0x33305665f69b4642d1275f4ce81c23651674d21c,DeFi::Yield
 Pendle,DeFi,Yield,GaugeController,0x7e500c6efbb00fd3227888256e477171a1304721,DeFi::Yield
 Pendle,DeFi,Yield,LimitRouter,0x000000000000c9b3e2c3ec88b1b4c0cd853f4321,DeFi::Yield
 Pendle,DeFi,Yield,MarketFactory,0xa3cb62a49b66eb2536cf6f3c7ac82293784888a3,DeFi::Yield
