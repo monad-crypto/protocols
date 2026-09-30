@@ -1780,4 +1780,5 @@ Scatter,NFT,Marketplace,Factory,0xb016cbe466fb9d57b0a0ea2b5d64a4eeb4d849fc,NFT::
 PingMe,Payments,Neobanks,CryptoDrop,0x3de0e31a0a9d885bf98ea1512188e06f70d507b2,Payments::Neobanks
 PingMe,Payments,Neobanks,Forwarder,0x2a217b43b138e36979f59999776585ed6bb27542,Payments::Neobanks
 PingMe,Payments,Neobanks,RecoveryVault,0x32f62bdc2be3e1b1c0265143831155253cd5a248,Payments::Neobanks
+Fluffle Withdraw Secure,Payments,Orchestration,WithdrawSecure,0x75a4020de2d428ddd2ddeff85e599fb2ef9dbc73,Payments::Orchestration;Consumer::Social
 x402 Facilitator,Payments,Orchestration,FacilitatorSigner,0x7f6a2850669202519f0fe8aa912451238820db86,Payments::Orchestration

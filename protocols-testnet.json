@@ -106,6 +106,22 @@
       "docs": "https://www.shmonad.xyz"
     }
   },
+  "fluffle-withdraw-secure": {
+    "name": "Fluffle Withdraw Secure",
+    "description": "UUID-idempotent USDC treasury used by Fluffle Chat With Friends. Owner-gated withdraw/batchWithdraw with pause, reentrancy protection, and a guardian emergency stop.",
+    "live": true,
+    "categories": [
+      "Payments::Orchestration",
+      "Consumer::Social"
+    ],
+    "addresses": {
+      "WithdrawSecure": "0xc0F83bC84f00241d36cc0b6B3f84890b3277Bcd2"
+    },
+    "links": {
+      "project": "https://fluffle.world/",
+      "twitter": "https://x.com/fluffleworld"
+    }
+  },
   "garden": {
     "name": "Garden",
     "description": "Garden is transforming Bitcoin interoperability with its next-gen bridge. It is built by the renBTC team using an intents based architecture with trustless settlement, enabling cross-chain Bitcoin swaps in as little as 30 seconds with zero custody risk.\n\nIn its first year, Garden processed over $1 billion in volume—proving the market’s demand for seamless, cost-effective Bitcoin bridging solutions.\n\nNow, Garden is unlocking a new era of interoperability—supporting non-likewise assets, external liquidity, and a wallet-friendly API—to onboard the next wave of partners and users.",
