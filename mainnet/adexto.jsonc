@@ -1,0 +1,26 @@
+{
+    "name": "ADEXTO",
+    "description": "Launchpad that opens every token as a permanent bonding-curve market: 100% of supply goes into the curve, the creator gets no allocation and earns a fixed share of every trade instead. No graduation or migration, and no owner, proxy, pause or withdraw function. A market can be bound to an ERC-8004 agent identity, and markets can also be bought with USDC on Base over x402.",
+    "live": true,
+    "categories": [
+        "DeFi::Launchpads",
+        "AI::Agent Launchpad"
+    ],
+    "addresses": {
+        // AdextoFactory 1.0.0. Deploys each token and its AdextoCurve in one transaction; every new launch goes
+        // through it. Same runtime bytecode on Monad, Arbitrum One, Base, Robinhood Chain and 0G.
+        // Exact match on Sourcify, verified on Monadscan.
+        "AdextoFactory": "0x3dFcBEd7dd889F465cC9f75c430B43Ef873b6056",
+        // AdextoStakeHub 1.0.0. Stake contract for every ADEXTO market on Monad that has no stake contract of
+        // its own. No owner, no lock, no rewards. Exact match on Sourcify.
+        "AdextoStakeHub": "0xb89d17F7308Ac007b106EB400eB2A8CB51cf887A"
+    },
+    "links": {
+        "project": "https://adexto.xyz",
+        "app": "https://adexto.xyz/studio",
+        "twitter": "https://x.com/adexto_",
+        "github": "https://github.com/0xcuy/adexto",
+        "docs": "https://adexto.xyz/docs",
+        "telegram": "https://t.me/adexto"
+    }
+}
