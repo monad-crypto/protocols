@@ -1,0 +1,22 @@
+{
+    "name": "Apyx",
+    "description": "Apyx issues apxUSD, a dividend-backed synthetic dollar, and apyUSD, the yield-bearing savings asset that wraps it. Both tokens are bridged to Monad through Chainlink CCIP.",
+    "live": true,
+    "categories": [
+        "DeFi::Stablecoin",
+        "DeFi::Yield"
+    ],
+    "addresses": {
+        // config/monad/deploy.toml
+        "apxUSD": "0x3D78455E22D5dd49709eC135A59CB1c5a87AC3C6",
+        "apyUSD": "0xFD957D7E27D239da5455b82303b2F618f73a9C49",
+        "apxUSDCCIPPool": "0x363332b186a4AFCe7a754A49F34D1543AEC5e786",
+        "apyUSDCCIPPool": "0xd404a80641bA5490DB15E0863D46FdD61f0b4CF7"
+    },
+    "links": {
+        "project": "https://apyx.fi",
+        "twitter": "https://x.com/apyx_fi",
+        "github": "https://github.com/apyx-labs",
+        "docs": "https://docs.apyx.fi"
+    }
+}
