@@ -5,6 +5,9 @@
     "categories": ["Infra::Oracle"],
     "addresses": {
         "PythPriceFeed": "0x2880aB155794e7179c9eE2e38200202908C17B43",
+        // Pyth Core upgrade (2026-08-26): https://docs.pyth.network/price-feeds/core/upgrade/contracts#evm
+        "PythPriceFeedUpgraded": "0xFC6bd9F9f0c6481c6Af3A7Eb46b296A5B85ed379",
+        "PythPro": "0xACeA761c27A909d4D3895128EBe6370FDE2dF481",
         "PythEntropy": "0x36825bf3Fbdf5a29E2d5148bfe7Dcf7B5639e320"
     },
     "links": {

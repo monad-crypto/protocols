@@ -4,11 +4,15 @@
     "live": true,
     "categories": ["Infra::Oracle"],
     "addresses": {
-        // Pyth is a pull-style oracle with a single on-chain endpoint per chain.
-        // All sponsored push feeds below are delivered against this PriceFeed
-        // contract. Consumers read a specific feed by passing its 32-byte feed
-        // id to `IPyth.getPriceUnsafe(bytes32 id)` (see info.feedIds below).
+        // Pyth is a pull-style oracle. All sponsored push feeds below are
+        // delivered against this PriceFeed contract. Consumers read a specific
+        // feed by passing its 32-byte feed id to
+        // `IPyth.getPriceUnsafe(bytes32 id)` (see info.feedIds below).
         "PriceFeed": "0x2880aB155794e7179c9eE2e38200202908C17B43",
+        // Pyth Core upgrade (2026-08-26). Pyth recommends these for new
+        // integrations: https://docs.pyth.network/price-feeds/core/upgrade/contracts#evm
+        "PriceFeedUpgraded": "0xB754BA51E3861Ac0Cb67f73CD046dE790A36508d",
+        "PythPro": "0xACeA761c27A909d4D3895128EBe6370FDE2dF481",
         "Entropy": "0xD458261E832415CFd3BAE5E416FdF3230ce6F134"
     },
     "info": {
