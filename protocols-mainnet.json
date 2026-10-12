@@ -4094,6 +4094,8 @@
     ],
     "addresses": {
       "PriceFeed": "0x2880aB155794e7179c9eE2e38200202908C17B43",
+      "PriceFeedUpgraded": "0xB754BA51E3861Ac0Cb67f73CD046dE790A36508d",
+      "PythPro": "0xACeA761c27A909d4D3895128EBe6370FDE2dF481",
       "Entropy": "0xD458261E832415CFd3BAE5E416FdF3230ce6F134"
     },
     "info": {

@@ -1713,6 +1713,8 @@ Chronicle,Infra,Oracle,Chronicle_WSTETH_USD_1,0x418541ffd62bdb3078fb669cb9c18d45
 Orochi,Infra,Oracle,Orocle_v2,0x78291455bf33aa5437f9d69ff63e0b1c09833429,Infra::Oracle
 Pyth,Infra,Oracle,Entropy,0xd458261e832415cfd3bae5e416fdf3230ce6f134,Infra::Oracle
 Pyth,Infra,Oracle,PriceFeed,0x2880ab155794e7179c9ee2e38200202908c17b43,Infra::Oracle
+Pyth,Infra,Oracle,PriceFeedUpgraded,0xb754ba51e3861ac0cb67f73cd046de790a36508d,Infra::Oracle
+Pyth,Infra,Oracle,PythPro,0xacea761c27a909d4d3895128ebe6370fde2df481,Infra::Oracle
 Redstone,Infra,Oracle,APR_USD,0xb144836c17c5d613aa471f0bb9b79b55288c2c03,Infra::Oracle
 Redstone,Infra,Oracle,AUSD_USD,0xffd1339908e0debe2416e03df0843b896b8944fe,Infra::Oracle
 Redstone,Infra,Oracle,AZND_USD_FUNDAMENTAL,0x63bb491346fcc8695244d811f0c3501e6c2e8d25,Infra::Oracle
