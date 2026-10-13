@@ -319,6 +319,9 @@ Metric,DeFi,DEX,Pool-WBTC/USDC,0x2d82ac42334b394a9a8d8f097d61dc1c6b065fd8,DeFi::
 Metric,DeFi,DEX,Pool-WETH/USDC,0x354d92279ca0190ff275095fe6a2a6989baa66fb,DeFi::DEX
 Metric,DeFi,DEX,PoolDeployer,0x0f732971a3503afee276782173170d1f1154d4c1,DeFi::DEX
 Metric,DeFi,DEX,Router,0xaf9ada6b6ec7993ce146f6c0bf98f7211cdfd3e5,DeFi::DEX
+Metric,DeFi,DEX,V1Factory,0x2a53833cc95548cf52c7b159110e22d3a9018f32,DeFi::DEX
+Metric,DeFi,DEX,V1Pool-AUSD/USDC,0x94d5e3543a39c0ec1171f14a45100bd62bee49bc,DeFi::DEX
+Metric,DeFi,DEX,V1Pool-MON/USDC,0xe6831acf980c2dfc5ae993f06b198d872fddf515,DeFi::DEX
 Monday Trade,DeFi,DEX,Aggregator,0xad8974d98f7fc386e396ffe826b886cf20afe232,DeFi::DEX;DeFi::Perpetuals / Derivatives
 Monday Trade,DeFi,DEX,Gate,0x2e32345bf0592bff19313831b99900c530d37d90,DeFi::DEX;DeFi::Perpetuals / Derivatives
 Monday Trade,DeFi,DEX,Instrument,0x73ada1ea346cc3908f41cf67a040f0acd7808be0,DeFi::DEX;DeFi::Perpetuals / Derivatives
