@@ -19,9 +19,9 @@
         "Pool-MON/USDC": "0xFA32f9ec28787d1F9C5BA5c39e54e59984FEF3f0",
         "Pool-WBTC/USDC": "0x2D82AC42334b394A9a8d8f097d61DC1c6B065Fd8",
         "Pool-WETH/USDC": "0x354D92279cA0190fF275095fE6A2a6989BAa66Fb",
-        // Metric V1 factory (deployed 2026-09-15), which replaces the core factory above for new pools
+        // Metric V1 factory
         "V1Factory": "0x2a53833cc95548cf52c7b159110e22D3a9018f32",
-        // Active Metric V1 pools (quote token is USDC 0x754704bc059f8c67012fed69bc8a327a5aafb603)
+        // Active Metric V1 pools
         "V1Pool-MON/USDC": "0xE6831ACF980c2dFC5aE993F06b198d872FDdf515",
         "V1Pool-AUSD/USDC": "0x94D5E3543a39c0eC1171f14A45100bd62BeE49Bc"
     },
