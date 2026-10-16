@@ -1,0 +1,57 @@
+{
+  "name": "@monad-crypto/protocols",
+  "version": "0.1.0",
+  "description": "Contract addresses, links, categories, and metadata for protocols on the Monad network.",
+  "homepage": "https://github.com/monad-crypto/protocols#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monad-crypto/protocols.git"
+  },
+  "bugs": {
+    "url": "https://github.com/monad-crypto/protocols/issues"
+  },
+  "main": "index.js",
+  "types": "index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./index.d.ts",
+      "default": "./index.js"
+    },
+    "./categories.json": "./categories.json",
+    "./mainnet.json": "./mainnet.json",
+    "./testnet.json": "./testnet.json",
+    "./mainnet.csv": "./mainnet.csv",
+    "./testnet.csv": "./testnet.csv",
+    "./mainnet/*": "./mainnet/*",
+    "./testnet/*": "./testnet/*",
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "categories.json",
+    "mainnet.json",
+    "testnet.json",
+    "mainnet.csv",
+    "testnet.csv",
+    "mainnet",
+    "testnet"
+  ],
+  "scripts": {
+    "build": "node scripts/build-npm.mjs"
+  },
+  "keywords": [
+    "monad",
+    "protocols",
+    "contracts",
+    "addresses",
+    "web3",
+    "defi",
+    "token-list"
+  ],
+  "publishConfig": {
+    "access": "public",
+    "provenance": true,
+    "registry": "https://registry.npmjs.org"
+  }
+}
