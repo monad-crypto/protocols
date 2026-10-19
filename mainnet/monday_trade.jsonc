@@ -22,7 +22,9 @@
         "MondayCashier": "0xB983787a2882Da59BBf9e09cB5A0e47ff0C30141",
         "MondayStockRouter": "0x2f903ac6dDAf57EaDCbbc46Adc3ad739c3506A2D",
         "MondayCashSettler": "0xf049110874D224d9f297d13E275722bfd4cfe4Ac",
-        "MondayOrderSettler": "0xF462C8c85991f1DD8F5fa6199dFc1387C4f8f3b2"
+        "MondayOrderSettler": "0xF462C8c85991f1DD8F5fa6199dFc1387C4f8f3b2",
+        "MondayStock2": "0x6d202d2f78aa26a7db51491416abf7f7a5003aac",
+        "MondayOrderSettler2": "0x35ac646729bdc42a2cd5443849efb710fe5d366f"
     },
     "links": {
         "project": "https://monday.trade/",
