@@ -1,0 +1,51 @@
+{
+    "name": "Hookr",
+    "description": "Modular infrastructure for composing and launching custom Uniswap v4 hooks. Creators combine Hook Blocks such as anti-snipe, dynamic fees, auto burn, LP rewards, and arb recapture, and can launch one token across up to 8 pools at once.",
+    "live": true,
+    "categories": ["DeFi::Launchpads", "DeFi::DEX"],
+    "addresses": {
+        // Core contracts from the hookr-1 release (https://hookr.fun/docs/reference/contracts-and-addresses).
+        // The docs list these for Robinhood Chain; each one also has code at the same address on Monad mainnet.
+        // HookrRoot is the Uniswap v4 hook and is wired to the Monad v4 PoolManager (0x188d586ddcf52439676ca21a244753fa19f9ea8e).
+        "HookrRegistryChecks": "0xB9F5c54E5Cc7ac6c7a96335E5A334Cf4eA496E98",
+        "HookrRegistryAdmin": "0x675ac2102E8c69E2467F64656E3c235AF3901Ac1",
+        "HookrRegistry": "0x463c82beA1a52F4Cc05ca0741a24F0AD24bA4602",
+        "HookrTreasury": "0x2242F7FC75606500503075f29ea8cDA684EfB4a9",
+        "HookrForwarder": "0xe7863CC0E2Fb783b44c279aB159bcD812c2ceA1c",
+        "HookrRouter": "0xC2Bc9a3fe6c4Ce8C2F7EB4655b0869b01D8c93C9",
+        "HookrQuoter": "0x445D7891381Aa7F91F5048EdBC6a611ccBDe7865",
+        "HookrLaunchChecks": "0x8567369a70100828611BB6F44ec051B48F10fb59",
+        "HookrTokenDeployer": "0x1B23D6d7beBcB61E39317E9F0Bc02AEB91aFCcAe",
+        "HookrLauncher": "0x1cf2748A6670572425eAbf9Ab9e5BC4eb2eB8Ef4",
+        "HookrReferralRegistry": "0xefD1DfBA80c06E72F793601706c3a1c71aab3057",
+        "HookrProgramsAdmin": "0x40B40D65543E70a9C757eda1A2208517a8BC7292",
+        "HookrPrograms": "0x9fA204AC99176782Fd20615b2b2A516D1F8C328F",
+        "HookrMilestoneNFTFactory": "0xa340F964F1E685c681dC3ABB5B0405E608914d00",
+        "HookrProgramValidator": "0x33e0249083Be7Cd8bD2fe175E0671AcfD0516850",
+        "HookrReferralDistributor": "0x690539c53212899A9c6AEEE3b4B6737A5c4851d9",
+        "HookrRoot": "0x89c9FB50d1f03192230FFB1c279BB6E7d3Fe6aCc",
+        "HookrRules": "0x4a71c270b1520F94064268102AebD744b0DE7942",
+        "HookrFamilyRouter": "0x854f3Fa7AC342B244DF0d9A8c8F597b051aAE559",
+        "HookrFamilyLock": "0xfAFEcE64099C1E791C4B46189c277f00c0c7e00b",
+        "HookrLane": "0x9A8a1006469BA196f8FEfc017a53505C83A060BB",
+        "HookrRecapture": "0xF83569E564d70daebc35950f66a73f2e2B915583",
+        "HookrCompliance": "0x9D205e8a68464761A9d84bdeCcEa0C3CB1e7B1EC",
+        "HookrComplianceGuard": "0x6CD70db1ac99344416a6fD7184e23FA8f09f313A",
+        "HookrAccountCalls": "0x0579a95A7760070E2d6D34e5beCe571e5F1c4818",
+        "HookrPaymasterAdmin": "0x1d81F4B131832f741392edf7B91b4CF099FbB008",
+        "HookrPaymaster": "0x1c4682915092E742231ea038C4fcA61e96a83c99",
+        "HookrRootFactory": "0x21E438FaBE10770afb4407cF6b09d32369CBdCE4",
+        "HookrSessionAdvisory": "0x78Bc6b7302Dda8632e661c8d74966bdBea1c66b1",
+        "HookrFeeAdvisory": "0x3B6b3f00684987B831fcF9EB5f0d5B806afF7306",
+        "HookrLiquidityVault": "0xA408923EF811945Ef119Bc700B1950Dab65467Fc",
+        "HookrOwnedProfiles": "0xb46c318B6AEA2d6274f5566da414b09fDa6CC325",
+        "HookrOwnedRootsLens": "0x6Bb5c9d21dD095F788cb8373d0143429ad277366",
+        "HookrOwnedRootFactory": "0xA6c2a401597301dFf57A59bC8F70a9622499f3ec",
+        "HookrLpBoost": "0x52536F5F4E5BC7cEA2197c8F1BB49bf2B133E7f1"
+    },
+    "links": {
+        "project": "https://hookr.fun/",
+        "twitter": "https://x.com/hookrfun",
+        "docs": "https://hookr.fun/docs"
+    }
+}
