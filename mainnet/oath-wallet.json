@@ -1,0 +1,12 @@
+{
+    "name": "Oath Wallet",
+    "description": "A native wallet for iPhone and iPad with Monad mainnet configuration and publicly available source code.",
+    "categories": ["Infra::Wallet"],
+    "addresses": {},
+    "links": {
+        "project": "https://oathwallet.org",
+        "twitter": "https://x.com/OathWallet",
+        "github": "https://github.com/devdasx/oath-wallet",
+        "docs": "https://help.oathwallet.org"
+    }
+}
