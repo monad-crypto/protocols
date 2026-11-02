@@ -57,6 +57,7 @@
         "V2-WithdrawalLimiterImplementation": "0x64E621868318a68DfD1F374EC75bd3Cd5B72b349",
         "V2-SpotRouterImplementation": "0x70DD3E2F643A187D34eD54a58AFEdF717464FCD9",
         "V2-OrderBookImplementation": "0x38e7620A96E79A1d2B4439c68141203d757D69E6",
+        "V2-OrderBookImplementation2": "0x05F6A84C7c43176C83F2DBC99670281987DEb4AC",
         "V2-KuruFastLanePeriphery": "0x86400a84364e167b933b18e1484369679cDbEcA9"
     },
     "links": {
