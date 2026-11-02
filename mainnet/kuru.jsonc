@@ -7,6 +7,7 @@
         "DeFi::DEX Aggregator"
     ],
     "addresses": {
+        // Existing deployments retained for historical address attribution
         // Entry point of the Kuru Flow aggregator
         "KuruFlowEntryPoint": "0xb3e6778480b2E488385E8205eA05E20060B813cb",
         "KuruFlowRouter": "0x465D06d4521ae9Ce724E0c182Daad5D8a2Ff7040",
@@ -25,11 +26,43 @@
         "Market-WETH/USDC": "0xa6aFD386135B7D41A6C40C525abC4A1019b0D132",
         "Market-cbBTC/USDC": "0x40c49f171202f91ff5d2fae34c22dd2bfdd22af0",
         "Market-AUSD/USDC": "0x699abc15308156e9a3ab89ec7387e9cfe1c86a3b",
-        "Market-XAUt0/USDC": "0x851145eaefdc37956b08da829fa31722199f3f07"
+        "Market-XAUt0/USDC": "0x851145eaefdc37956b08da829fa31722199f3f07",
+        // Kuru v2 mainnet: https://docs.kuru.io/deployments/mainnet
+        "V2-AccountCore": "0x264123a9B96Cc1193944cC25C188f1bD3dFa670e",
+        "V2-WithdrawalLimiter": "0xF059F4AAb49Bd3AFB62134145EeAF38Fe103F0eA",
+        "V2-SpotRouter": "0xBdDF3556701B7ECca5d69416CFfd7F86D37E52b3",
+        "V2-KuruTradingWalletImplementation": "0xa478b5a38aabDf8b31f0ec7443a274162214Cd18",
+        "V2-Market-MON/USDC": "0xc9dE998e272d59a19CEA3783C8dd44f87A86405D",
+        "V2-Market-WETH/USDC": "0x8121EE960066e4344A213F9aC7502395502aEe7a",
+        "V2-Market-cbBTC/USDC": "0xAE8E0cf4A9ff696b5f6EC0B1339200EB4c09E422",
+        "V2-Market-XAUt0/USDC": "0x9d29630Ae2DCf02cB0Cf05e17F45D95f01f15798",
+        "V2-Market-NVDAx/USDC": "0xf3FB2ec6ffb2A24506769bfaA3aD9B1EeB7D41Eb",
+        "V2-Market-SPYx/USDC": "0xBb180c8B6D3eE0b4316B224C53B80dC4e354d24F",
+        "V2-Market-QQQx/USDC": "0xEdf008258139ee23cf2bDB9C360f69131dC72708",
+        "V2-Market-TSLAx/USDC": "0xf884c7631a7150F28c139a3A9f8B669258b5b285",
+        "V2-Market-EWYx/USDC": "0xED3727e833200c849fbd18e15eD0D091c9B0F3aF",
+        "V2-PriceSource-MON": "0x949b4C63901A72013E4195F0e110ee660892f116",
+        "V2-PriceSource-USDC": "0x8Eee8E00bB25948F10ca4f4f3a80FC982244AdF6",
+        "V2-PriceSource-WETH": "0x64796C7Bc079cB9E2acd0844d4E487d8a0C8F864",
+        "V2-PriceSource-cbBTC": "0xA006f7Ef1E366cB60A3D5701Bb25c0fa0586F698",
+        "V2-PriceSource-XAUt0": "0x6FC71cf5A846AE343D71112632d16C978B59FEB5",
+        "V2-PriceSource-NVDAx": "0x587B1103b3282dcF32110bd0EB8A1cc6097d71ec",
+        "V2-PriceSource-SPYx": "0xA6589464443419C70a05d1F457F4941D678b235C",
+        "V2-PriceSource-QQQx": "0x36E43bA74243e49fbeB847fF16f7E20302a0C62E",
+        "V2-PriceSource-TSLAx": "0x532Dc864931896aCFb2C719c163e4BE61874C2bC",
+        "V2-PriceSource-EWYx": "0xD89be8ed6F7190b3d0522d7Df8d43B430b8a3E14",
+        "V2-ProtocolAuthority": "0x15db88bAc73D856B3ca53683F82058826A3b6E8f",
+        "V2-KeeperAuthority": "0xbc36eC07800150489f9ED0f86a2d3E27Ca36980e",
+        "V2-AccountCoreImplementation": "0xB52deBaD718730eE0a4C12C28E70d346dbCc9E5B",
+        "V2-WithdrawalLimiterImplementation": "0x64E621868318a68DfD1F374EC75bd3Cd5B72b349",
+        "V2-SpotRouterImplementation": "0x70DD3E2F643A187D34eD54a58AFEdF717464FCD9",
+        "V2-OrderBookImplementation": "0x38e7620A96E79A1d2B4439c68141203d757D69E6",
+        "V2-KuruFastLanePeriphery": "0x86400a84364e167b933b18e1484369679cDbEcA9"
     },
     "links": {
         "project": "https://kuru.io",
         "twitter": "https://x.com/KuruExchange",
-        "github": "https://github.com/Kuru-Labs"
+        "github": "https://github.com/Kuru-Labs",
+        "docs": "https://docs.kuru.io"
     }
 }
