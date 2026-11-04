@@ -1,6 +1,6 @@
 {
     "name": "ThogAMM",
-    "description": "ThogAMM is a proprietary AMM (propAMM) on Monad. One pool fills swaps from its own inventory at quoted prices.",
+    "description": "An inventory-funded proprietary AMM providing on-chain spot liquidity on Monad",
     "live": true,
     "categories": [
         "DeFi::DEX"
