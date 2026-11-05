@@ -1,0 +1,13 @@
+{
+    "name": "GROM",
+    "description": "Non-custodial DeFi hub: cross-chain swaps on Monad and other networks, Earn vaults, perpetuals, prediction markets and tokenized stocks, all from the user's own wallet. Swaps on Monad are routed through LI.FI.",
+    "categories": [
+        "DeFi::DEX Aggregator",
+        "DeFi::Cross Chain"
+    ],
+    "addresses": {},
+    "links": {
+        "project": "https://grom.exchange",
+        "twitter": "https://x.com/GromExchange"
+    }
+}
