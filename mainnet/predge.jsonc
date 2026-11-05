@@ -1,0 +1,26 @@
+{
+    "name": "Predge",
+    "description": "Independent, bond-backed signed verdicts on whether an AI agent's paid job was delivered. An escrow reads the verdict before it releases or refunds, and every ruling is challengeable for 24 hours against a bond. Also publishes signed settlement-risk records for prediction markets through an x402 API.",
+    "live": true,
+    "categories": [
+        "AI::Infrastructure",
+        "Infra::Oracle",
+        "Payments::Other"
+    ],
+    "addresses": {
+        // Canonical Predge set, same addresses on every supported chain.
+        // Deployer 0x5d016C1B4d7A42eB7c982da1Ae7fFdB958CFCAe9, verified on Sourcify (exact_match).
+        // https://github.com/predgeAI/predge-deploy
+        "PredgeAgentValidator": "0x925767fdce6C819F027f55CC50464e3bCdfD2671",
+        "AgentJob": "0xcBaB4a9FA4d756b4C5e2a18F055d2E0132CE7D1D",
+        "PredgeValidatorBond": "0x800B5596a8540e752dE8f8a8AF99E927d139A643",
+        "PredgeSettlement": "0x47BE8a7d461De505723a0Ac1d74982e53f8E412b",
+        "PredgeRefundArbiter": "0xb2972B4944Eec83946EB7B23D572AbE04F46E22c"
+    },
+    "links": {
+        "project": "https://predge.io",
+        "twitter": "https://x.com/PredgeAI",
+        "github": "https://github.com/predgeAI/predge-deploy",
+        "docs": "https://predge.io/docs"
+    }
+}
