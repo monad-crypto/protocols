@@ -1,0 +1,32 @@
+{
+    "name": "infiniFi",
+    "description": "Stablecoin yield protocol. Users deposit USDC to mint iUSD and stake it as siUSD, which earns yield from DeFi strategies allocated by the protocol",
+    "live": true,
+    "categories": [
+        "DeFi::Yield"
+    ],
+    "addresses": {
+        // user-facing
+        "iUSD": "0x127066E1982940c33fDC882D9c138296AB15F97f",
+        "siUSD": "0x5855e6B9b3cD6960FA3E751A87353c3e40401b9B",
+        "OutlandGateway": "0xc8ed9fCFF2f02D6b650519b2e38C6Bad3a7B75Fe",
+        // core
+        "InfiniFiCore": "0xD8E9CE4e36B09D09596e8ec1B8AEeD94d8B84Ae5",
+        "AccountingL2": "0x386DfFb5a31588aB56Df20C54Ec649F3B554362C",
+        "FarmRegistry": "0xA7845e48995A974bD1d130F4CA8C61fA47Fb4107",
+        "ManualRebalancer": "0x2ED079F04211baDA1a4e53F01782217334Cc28ce",
+        // cross-chain (iUSD minter, hub on Ethereum)
+        "PortalOutpost": "0x7092A43aE5407666C78dBEA657a1891f42b3dFcc",
+        "ConnectorCCTP": "0x1d95cC100D6Cd9C7BbDbD7Cb328d99b3D6037fF7",
+        // farms
+        "AaveV3Farm": "0xA171c4a6e0d73DB80911A0C003508fB235F29b63",
+        "SwapFarmV2WithMaturity": "0x1330902050dB4edAc0D9D8ca33FdAb5DbE986c9c",
+        "RWAEscrowRouterFarm": "0x7035E9d08A71Dd4fFc0622C19C5035258Ae9A1e2"
+    },
+    "links": {
+        "project": "https://infinifi.xyz",
+        "twitter": "https://x.com/infiniFi",
+        "github": "https://github.com/InfiniFi-Labs/infinifi-protocol",
+        "docs": "https://docs.infinifi.xyz"
+    }
+}
