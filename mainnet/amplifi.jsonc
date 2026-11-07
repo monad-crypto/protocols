@@ -10,10 +10,7 @@
         // CollateralEscrow (t1protocol/amplifi-contracts): holds user USDC collateral on
         // Monad and releases it against EIP-712 attestations signed by Amplifi.
         // Current deployment, created 2026-09-29.
-        "CollateralEscrow": "0xf44B1f026866830C4a44c1F4Db834A4D4E5A27a0",
-        // Earlier deployment of the same contract, created 2026-08-21. Still holds USDC
-        // and is not paused.
-        "CollateralEscrowV0": "0xd0Ab7b5680fbA924CF314380a4aD3Eab6e27898E"
+        "CollateralEscrow": "0xf44B1f026866830C4a44c1F4Db834A4D4E5A27a0"
     },
     "links": {
         "project": "https://amplifi.finance/",
