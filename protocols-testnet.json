@@ -377,6 +377,24 @@
       "docs": "https://docs.stork.network/"
     }
   },
+  "taceo_merces": {
+    "name": "TACEO Merces",
+    "description": "TACEO Merces is a privacy layer for onchain finance. It wraps tokens such as USDC into encrypted balances, hiding senders, receivers and amounts, using MPC and collaborative ZK proofs verified onchain.",
+    "live": true,
+    "categories": [
+      "Infra::Privacy / Encryption"
+    ],
+    "addresses": {
+      "Merces": "0x654d4c73473e060a1de5888fab34bcb41af073cf",
+      "IdRegistry": "0x3cae9f1934b9079212531673cafc070a2e44bdc8"
+    },
+    "links": {
+      "project": "https://taceo.io/finance/",
+      "twitter": "https://x.com/TACEO_IO",
+      "github": "https://github.com/TaceoLabs",
+      "docs": "https://docs.taceo.io"
+    }
+  },
   "uniswap_v4": {
     "name": "Uniswap v4",
     "description": "Uniswap v4 testnet infrastructure for hook development, with standard Position Manager and Universal Router deployments shared across integrations. This is not an official Uniswap deployment.",

@@ -108,6 +108,8 @@ Canonical Contracts,Infra,Other,SingletonFactory,0xce0042b868300000d44a59004da54
 Canonical Contracts,Infra,Other,WMON,0xfb8bf4c1cc7a94c73d209a149ea2abea852bc541,Infra::Other
 Canonical Contracts,Infra,Other,ZoltuDeterministicDeploymentProxy,0x7a0d94f55792c434d74a40883c6ed8545e406d12,Infra::Other
 Canonical Contracts,Infra,Other,x402BatchSettlement,0x4020074e9df2ce1dee5a9c1b5c3f541d02a10003,Infra::Other
+TACEO Merces,Infra,Privacy / Encryption,IdRegistry,0x3cae9f1934b9079212531673cafc070a2e44bdc8,Infra::Privacy / Encryption
+TACEO Merces,Infra,Privacy / Encryption,Merces,0x654d4c73473e060a1de5888fab34bcb41af073cf,Infra::Privacy / Encryption
 Lootify,NFT,Infrastructure,default,0xe5d182811315fcb4f402fb5ae97b54a06877e4f1,NFT::Infrastructure
 PingMe,Payments,Neobanks,CryptoDrop,0x3de0e31a0a9d885bf98ea1512188e06f70d507b2,Payments::Neobanks
 PingMe,Payments,Neobanks,Forwarder,0x2a217b43b138e36979f59999776585ed6bb27542,Payments::Neobanks
