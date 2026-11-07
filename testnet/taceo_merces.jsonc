@@ -2,7 +2,7 @@
   "name": "TACEO Merces",
   "description": "TACEO Merces is a privacy layer for onchain finance. It wraps tokens such as USDC into encrypted balances, hiding senders, receivers and amounts, using MPC and collaborative ZK proofs verified onchain.",
   "live": true,
-  "categories": ["Infra::Privacy / Encryption", "Payments::Orchestration"],
+  "categories": ["Infra::Privacy / Encryption"],
   "addresses": {
     "Merces": "0x654d4c73473e060a1de5888fab34bcb41af073cf",
     "IdRegistry": "0x3cae9f1934b9079212531673cafc070a2e44bdc8",
