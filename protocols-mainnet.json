@@ -391,6 +391,24 @@
       "github": "https://github.com/t1protocol/amplifi-contracts"
     }
   },
+  "anchored_finance": {
+    "name": "Anchored Finance",
+    "description": "Anchored issues aStocks, tokenized US stocks backed 1:1 by the underlying shares.",
+    "live": true,
+    "categories": [
+      "DeFi::RWA",
+      "DeFi::Asset Issuers"
+    ],
+    "addresses": {
+      "StockTokenFactory": "0x500769f4544c5cc75436a615101f27ff4350469a",
+      "StockTokenBeacon": "0xfe296a422b74cb22bb3c507311f0663fd0d95dd8"
+    },
+    "links": {
+      "project": "https://anchored.finance",
+      "twitter": "https://x.com/AnchoredFi",
+      "docs": "https://docs.anchored.finance"
+    }
+  },
   "anoma": {
     "name": "AnomaPay",
     "description": "AnomaPay is a private payments app built on Anoma that makes it easy to pay anyone confidentially with existing assets on public blockchains such as Monad.",
@@ -5270,6 +5288,26 @@
     },
     "links": {
       "project": "https://x402-facilitator.molandak.org/supported"
+    }
+  },
+  "xstocks": {
+    "name": "xStocks",
+    "description": "xStocks by Backed Finance are tokenized US equities and ETFs, backed 1:1 by the underlying asset and tradeable 24/7 across chains.",
+    "live": true,
+    "categories": [
+      "DeFi::RWA",
+      "DeFi::Asset Issuers"
+    ],
+    "addresses": {
+      "XStocksFactory": "0x9768d3956a850913fb74594ebf40dff9b5b576f3",
+      "WrappedXStocksFactory": "0x28b40fc9dde267a91ed739961042ca34d5a1db2a",
+      "AtomicSwap": "0x788d911ae7c95121a89a0f0306db65d87422e1de",
+      "SanctionsList": "0x615dd3b9445a94334c1579f68115042d77cc7c44"
+    },
+    "links": {
+      "project": "https://xstocks.fi",
+      "twitter": "https://x.com/xstocksfi",
+      "docs": "https://docs.xstocks.fi"
     }
   },
   "yap_market": {
