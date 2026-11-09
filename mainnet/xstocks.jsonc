@@ -1,0 +1,20 @@
+{
+    "name": "xStocks",
+    "description": "xStocks by Backed Finance are tokenized US equities and ETFs, backed 1:1 by the underlying asset and tradeable 24/7 across chains.",
+    "live": true,
+    "categories": [
+        "DeFi::RWA",
+        "DeFi::Asset Issuers"
+    ],
+    "addresses": {
+        "XStocksFactory": "0x9768d3956a850913fb74594ebf40dff9b5b576f3",
+        "WrappedXStocksFactory": "0x28b40fc9dde267a91ed739961042ca34d5a1db2a",
+        "AtomicSwap": "0x788d911ae7c95121a89a0f0306db65d87422e1de",
+        "SanctionsList": "0x615dd3b9445a94334c1579f68115042d77cc7c44"
+    },
+    "links": {
+        "project": "https://xstocks.fi",
+        "twitter": "https://x.com/xstocksfi",
+        "docs": "https://docs.xstocks.fi"
+    }
+}
