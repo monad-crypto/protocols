@@ -1279,6 +1279,8 @@ Pingu Exchange,DeFi,Perpetuals / Derivatives,Signable,0x99903470cc631d01f271340c
 Pingu Exchange,DeFi,Perpetuals / Derivatives,Staking,0xd53b51ae4216b80422216269edf064e9de89749b,DeFi::Perpetuals / Derivatives
 Pingu Exchange,DeFi,Perpetuals / Derivatives,StakingStore,0xd849497f08180d3f1a79397ef8ae4dbd05ec1a5c,DeFi::Perpetuals / Derivatives
 Pingu Exchange,DeFi,Perpetuals / Derivatives,Swapper,0x133f72734a185ff821705af80d57b8823ca8bc8e,DeFi::Perpetuals / Derivatives
+Anchored Finance,DeFi,RWA,StockTokenBeacon,0xfe296a422b74cb22bb3c507311f0663fd0d95dd8,DeFi::RWA;DeFi::Asset Issuers
+Anchored Finance,DeFi,RWA,StockTokenFactory,0x500769f4544c5cc75436a615101f27ff4350469a,DeFi::RWA;DeFi::Asset Issuers
 Centrifuge,DeFi,RWA,ACRDX,0x2fabf1c784b8583d63c00c5c9c0377d8cf1a3245,DeFi::RWA
 Centrifuge,DeFi,RWA,ACRDX_USDC_Vault,0x082c62088669facc1fa9f056c5efc8cbccda39b2,DeFi::RWA
 Centrifuge,DeFi,RWA,Accounting,0x050206c38f06e4710c4a37d39f75ddc5c16a7396,DeFi::RWA
@@ -1334,6 +1336,10 @@ Mu Protocol,DeFi,RWA,TreasuryManager (Proxy),0xf3cdc00cca19f336b1c1b4bd684a94912
 Mu Protocol,DeFi,RWA,loAZND (Implementation),0x00a927d9d8af27d06c4e2c3abb5b88b0e1766470,DeFi::RWA;DeFi::Yield
 Mu Protocol,DeFi,RWA,loAZND (Proxy),0x9c82eb49b51f7dc61e22ff347931ca32adc6cd90,DeFi::RWA;DeFi::Yield
 Mu Protocol,DeFi,RWA,muBOND,0x336d414754967c6682b5a665c7daf6f1409e63e8,DeFi::RWA;DeFi::Yield
+xStocks,DeFi,RWA,AtomicSwap,0x788d911ae7c95121a89a0f0306db65d87422e1de,DeFi::RWA;DeFi::Asset Issuers
+xStocks,DeFi,RWA,SanctionsList,0x615dd3b9445a94334c1579f68115042d77cc7c44,DeFi::RWA;DeFi::Asset Issuers
+xStocks,DeFi,RWA,WrappedXStocksFactory,0x28b40fc9dde267a91ed739961042ca34d5a1db2a,DeFi::RWA;DeFi::Asset Issuers
+xStocks,DeFi,RWA,XStocksFactory,0x9768d3956a850913fb74594ebf40dff9b5b576f3,DeFi::RWA;DeFi::Asset Issuers
 Agora,DeFi,Stablecoin,AUSD,0x00000000efe302beaa2b3e6e1b18d08d69a9012a,DeFi::Stablecoin;DeFi::Asset Issuers
 Agora,DeFi,Stablecoin,AUSDBridge,0x9cab7ede13dc56652e44d2404e969c212f22689b,DeFi::Stablecoin;DeFi::Asset Issuers
 Apyx,DeFi,Stablecoin,apxUSD,0x3d78455e22d5dd49709ec135a59cb1c5a87ac3c6,DeFi::Stablecoin;DeFi::Yield
