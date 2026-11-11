@@ -1,0 +1,18 @@
+{
+    "name": "HostDeFi",
+    "description": "Multi-chain DEX aggregator front-end with a built-in token-safety scanner — free A+–F grades on any token before trading. Swaps on Monad route through the KyberSwap aggregator via an immutable fee-forwarder contract.",
+    "live": true,
+    "categories": [
+        "DeFi::DEX Aggregator",
+        "DeFi::DEX",
+        "DeFi::Trading Interfaces"
+    ],
+    "addresses": {
+        // Immutable fee-forwarder contract, verified live on Monad mainnet.
+        "TrustDexFeeForwarder": "0xd73614dcf22542f5a937e75910e3908fb2bc0ced"
+    },
+    "links": {
+        "project": "https://hostdefi.com/",
+        "docs": "https://hostdefi.com/docs/api/"
+    }
+}
