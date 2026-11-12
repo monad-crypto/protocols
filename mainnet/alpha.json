@@ -1,0 +1,15 @@
+{
+    "name": "ALPHA",
+    "description": "Multi-chain token launchpad: launch on nine chains and pair with any listed asset. On Monad, tokens are priced in MON or USDC and graduate to Uniswap v4 with locked liquidity.",
+    "categories": ["DeFi::Launchpads"],
+    "addresses": {
+        "LaunchFactory": "0xB2Aa70bF167AEc63DBC49f14F12d4301E5a3c2A8",
+        "AlphaLaunchRouterV1": "0xb95f7ffC0a2173d18D1E67bF2F70aDACD33b809a",
+        "LaunchTradingHookV1": "0x41f8B93F7193D08F66a1c4CB2056c858F02860cc",
+        "ProtocolRevenueSplitter": "0x48E9f6E30E83037643Ff0614D2b5d79b1FFbcE45"
+    },
+    "links": {
+        "project": "https://alphapad.xyz",
+        "twitter": "https://x.com/alphapadxyz"
+    }
+}
