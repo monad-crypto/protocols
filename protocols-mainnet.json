@@ -401,7 +401,8 @@
     ],
     "addresses": {
       "StockTokenFactory": "0x500769f4544c5cc75436a615101f27ff4350469a",
-      "StockTokenBeacon": "0xfe296a422b74cb22bb3c507311f0663fd0d95dd8"
+      "StockTokenBeacon": "0xfe296a422b74cb22bb3c507311f0663fd0d95dd8",
+      "StockOracle": "0x037848af338c38e1e0ab722be80bf4c2e612a1f7"
     },
     "links": {
       "project": "https://anchored.finance",
@@ -1138,12 +1139,14 @@
       "AuthorizedForwarder_8": "0x5447E0F54979Fa6888b37631B9Ce285cc4bc1A99",
       "AuthorizedForwarder_9": "0x3e9B09f50309aEf5837b2CcFD85Ec7C4C9D98Bcb",
       "AuthorizedForwarder_10": "0x011616AB4863109f38A74E1AA2c413cf220E8436",
+      "AuthorizedForwarder_11": "0x88a9d6cf60e101b23de1a137fce1101a083ec79f",
       "RegistryModuleOwnerCustom": "0x4AfC00570596d172595A4E38384289b880263006",
       "RMNProxy": "0x99dFCa5d88f4D9C023531F4403966b8d61562AcD",
       "RMN": "0xF181489663b5b99af5C5a57310F1d66eEEEC2160",
       "PriceRegistry": "0xDdBC012B8a5C317b9611ee593fA49dE370BF950f",
       "TokenAdminRegistry": "0x11ACd984DD680363117B310f6ebdf78fD6c0195f",
       "TokenPoolFactory": "0x4c1D9f81D59270ddc1c0f1A4D7C39264D9ADa379",
+      "OffRamp": "0xdcc981e12fd132d9172eb03e8373be68032588e8",
       "MonadToEthOnRamp": "0xb39B7D0cdd79B94B08b334965C1720be51A31986",
       "EthToMonadCommitStore": "0xCE78587FEADDefC30e36520C09fc3a333dd6eEf4",
       "EthToMonadOffRamp": "0xBad8b04ED03A1CEaC89e8328f4eA7148B2E6D642"
@@ -1828,6 +1831,22 @@
       "docs": "https://docs.euler.finance/"
     }
   },
+  "evmfs": {
+    "name": "EVMFS",
+    "description": "EVMFS is permanent on-chain file storage. It stores file bytes in event logs and addresses them by content hash, as a replacement for IPFS.",
+    "live": true,
+    "categories": [
+      "DePIN::Storage"
+    ],
+    "addresses": {
+      "EVMFSV2": "0xb61cdCDC81d97c32122E668AE782b2327d0a623C",
+      "EVMFSV1": "0x140cbDFf649929D003091a5B8B3be34588753aBA"
+    },
+    "links": {
+      "project": "https://evmfs.xyz",
+      "github": "https://github.com/devabsnt/evmfs"
+    }
+  },
   "fastlane": {
     "name": "Fastlane",
     "description": "Fastlane launched shmonad, the first holistic LST on Monad and Atlas, the first MEV protocol for apps to capture the MEV their users create.",
@@ -2154,7 +2173,11 @@
       "cbBTC/MON Orderbook": "0x77ed4fcb978fa0ce78799064cb38d12fe7c3ce7d",
       "cbBTC/WETH Orderbook": "0x8a89f08d3b5ab37f634f2b4dcf2db29ecf9938c7",
       "WETH/USDC Orderbook": "0xac652e05ac4b2e9ecae5c65595e4e4e2734f61cc",
-      "FastQuoterHelper": "0x237dB58fea34A35A8543b44C217d221606cE7788"
+      "FastQuoterHelper": "0x237dB58fea34A35A8543b44C217d221606cE7788",
+      "FastQuoterMonad": "0x125f12a1938b97f11fdc35b1a5fb4d5217cda50b",
+      "FastQuoter-XAUt0/USDC": "0x1fb37a1e6dc03a523bba106cb25e398e8608a010",
+      "XAUt0/USDC Market": "0x88687e499846ce3037e63754a6e2e7b53483c70e",
+      "XAUt0/USDC Orderbook": "0xa49d9ea941e4adb7e60aeee49fd6c9fb122925ab"
     },
     "links": {
       "project": "https://hanji.io",
@@ -2489,6 +2512,9 @@
       "V2-PriceSource-QQQx": "0x36E43bA74243e49fbeB847fF16f7E20302a0C62E",
       "V2-PriceSource-TSLAx": "0x532Dc864931896aCFb2C719c163e4BE61874C2bC",
       "V2-PriceSource-EWYx": "0xD89be8ed6F7190b3d0522d7Df8d43B430b8a3E14",
+      "V2-PriceSource-MON-2": "0x3dee5f9ebf47fb7c63e618fc9c474dd2c562834b",
+      "V2-PriceSource-USDC-2": "0xa41bfe62b32ccd57234582b5d72ba49dd8f5bcf2",
+      "V2-PriceSource-WETH-2": "0x0afeab62ecbe471e8ff35b2c6436f462aee35a7b",
       "V2-ProtocolAuthority": "0x15db88bAc73D856B3ca53683F82058826A3b6E8f",
       "V2-KeeperAuthority": "0xbc36eC07800150489f9ED0f86a2d3E27Ca36980e",
       "V2-AccountCoreImplementation": "0xB52deBaD718730eE0a4C12C28E70d346dbCc9E5B",
@@ -2655,7 +2681,8 @@
     ],
     "addresses": {
       "VaultRush": "0x8e334460192926576ccD04271190c9E9e5916560",
-      "LevrMarketFeed": "0xd42A276Db08950Dc499B9AD2f33133eB1f0301c7"
+      "LevrMarketFeed": "0xd42A276Db08950Dc499B9AD2f33133eB1f0301c7",
+      "LevrManager": "0x67d1be5105db71d4ea590091aa60076bed42196f"
     },
     "links": {
       "project": "https://www.levr.bet/",
@@ -5234,7 +5261,8 @@
       "WooPPV2": "0x5520385bfcf07ec87c4c53a7d8d65595dff69fa4",
       "WooRebateManager": "0x7616614084e040028d6a61c0f3a9699c121a6500",
       "WooRouterV2": "0x4c4af8dbc524681930a27b2f1af5bcc8062e6fb7",
-      "WooracleV2.1": "0x2a375567f5e13f6bd74fda7627df3b1af6bfa5a6"
+      "WooracleV2.1": "0x2a375567f5e13f6bd74fda7627df3b1af6bfa5a6",
+      "WooracleV2_2": "0xf9b0c8ee13ae2fc0665764ecbdb417685dea8081"
     },
     "links": {
       "project": "https://woofi.com/",
