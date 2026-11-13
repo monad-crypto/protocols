@@ -225,6 +225,7 @@
         "AuthorizedForwarder_8": "0x5447E0F54979Fa6888b37631B9Ce285cc4bc1A99",
         "AuthorizedForwarder_9": "0x3e9B09f50309aEf5837b2CcFD85Ec7C4C9D98Bcb",
         "AuthorizedForwarder_10": "0x011616AB4863109f38A74E1AA2c413cf220E8436",
+        "AuthorizedForwarder_11": "0x88a9d6cf60e101b23de1a137fce1101a083ec79f",
 
         // CCIP:
         "RegistryModuleOwnerCustom": "0x4AfC00570596d172595A4E38384289b880263006",
@@ -233,6 +234,7 @@
         "PriceRegistry": "0xDdBC012B8a5C317b9611ee593fA49dE370BF950f",
         "TokenAdminRegistry": "0x11ACd984DD680363117B310f6ebdf78fD6c0195f",
         "TokenPoolFactory": "0x4c1D9f81D59270ddc1c0f1A4D7C39264D9ADa379",
+        "OffRamp": "0xdcc981e12fd132d9172eb03e8373be68032588e8", // CCIP OffRamp 1.6.0, listed by Router.getOffRamps()
 
         // Monad -> Eth (addresses on Ethereum are noted but commented out)
         "MonadToEthOnRamp": "0xb39B7D0cdd79B94B08b334965C1720be51A31986", // Monad->Eth Onramp (on Monad); contract is named EVM2EVMOnRamp
