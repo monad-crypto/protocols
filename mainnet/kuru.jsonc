@@ -51,6 +51,10 @@
         "V2-PriceSource-QQQx": "0x36E43bA74243e49fbeB847fF16f7E20302a0C62E",
         "V2-PriceSource-TSLAx": "0x532Dc864931896aCFb2C719c163e4BE61874C2bC",
         "V2-PriceSource-EWYx": "0xD89be8ed6F7190b3d0522d7Df8d43B430b8a3E14",
+        // Price sources read by V2-WithdrawalLimiter via fetchPrice
+        "V2-PriceSource-MON-2": "0x3dee5f9ebf47fb7c63e618fc9c474dd2c562834b",
+        "V2-PriceSource-USDC-2": "0xa41bfe62b32ccd57234582b5d72ba49dd8f5bcf2",
+        "V2-PriceSource-WETH-2": "0x0afeab62ecbe471e8ff35b2c6436f462aee35a7b",
         "V2-ProtocolAuthority": "0x15db88bAc73D856B3ca53683F82058826A3b6E8f",
         "V2-KeeperAuthority": "0xbc36eC07800150489f9ED0f86a2d3E27Ca36980e",
         "V2-AccountCoreImplementation": "0xB52deBaD718730eE0a4C12C28E70d346dbCc9E5B",
