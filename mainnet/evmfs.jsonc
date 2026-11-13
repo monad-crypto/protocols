@@ -1,0 +1,17 @@
+{
+    "name": "EVMFS",
+    "description": "EVMFS is permanent on-chain file storage. It stores file bytes in event logs and addresses them by content hash, as a replacement for IPFS.",
+    "live": true,
+    "categories": [
+        "DePIN::Storage"
+    ],
+    "addresses": {
+        // https://github.com/devabsnt/evmfs
+        "EVMFSV2": "0xb61cdCDC81d97c32122E668AE782b2327d0a623C",
+        "EVMFSV1": "0x140cbDFf649929D003091a5B8B3be34588753aBA"
+    },
+    "links": {
+        "project": "https://evmfs.xyz",
+        "github": "https://github.com/devabsnt/evmfs"
+    }
+}
