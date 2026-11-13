@@ -1,0 +1,11 @@
+{
+    "name": "Pistachio Fi",
+    "description": "Self-custodial smart wallet for iOS and Android to hold dollars, earn yield, and swap across Monad, Ethereum, L2s and Solana. ERC-4337 smart accounts with MPC keys, sponsored gas and private-key export.",
+    "live": true,
+    "categories": ["Infra::Wallet"],
+    "addresses": {},
+    "links": {
+        "project": "https://www.pistachio.fi",
+        "twitter": "https://x.com/PistachioFi"
+    }
+}
