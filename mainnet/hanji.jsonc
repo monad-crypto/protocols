@@ -25,7 +25,13 @@
         "cbBTC/WETH Orderbook": "0x8a89f08d3b5ab37f634f2b4dcf2db29ecf9938c7",
         "WETH/USDC Orderbook": "0xac652e05ac4b2e9ecae5c65595e4e4e2734f61cc",
         // Helper / quoter
-        "FastQuoterHelper": "0x237dB58fea34A35A8543b44C217d221606cE7788"
+        "FastQuoterHelper": "0x237dB58fea34A35A8543b44C217d221606cE7788",
+        // Quoters read by the orderbooks above (on-chain calls)
+        "FastQuoterMonad": "0x125f12a1938b97f11fdc35b1a5fb4d5217cda50b",
+        "FastQuoter-XAUt0/USDC": "0x1fb37a1e6dc03a523bba106cb25e398e8608a010",
+        // XAUt0/USDC pair, listed by https://api-monad.hanji.io/aggregators/markets
+        "XAUt0/USDC Market": "0x88687e499846ce3037e63754a6e2e7b53483c70e",
+        "XAUt0/USDC Orderbook": "0xa49d9ea941e4adb7e60aeee49fd6c9fb122925ab"
     },
     "links": {
         "project": "https://hanji.io",
