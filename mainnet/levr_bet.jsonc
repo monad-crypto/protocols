@@ -8,7 +8,8 @@
     ],
     "addresses": {
         "VaultRush": "0x8e334460192926576ccD04271190c9E9e5916560",
-        "LevrMarketFeed": "0xd42A276Db08950Dc499B9AD2f33133eB1f0301c7"
+        "LevrMarketFeed": "0xd42A276Db08950Dc499B9AD2f33133eB1f0301c7",
+        "LevrManager": "0x67d1be5105db71d4ea590091aa60076bed42196f"
     },
     "links": {
         "project": "https://www.levr.bet/",
