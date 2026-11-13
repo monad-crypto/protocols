@@ -8,7 +8,8 @@
     ],
     "addresses": {
         "StockTokenFactory": "0x500769f4544c5cc75436a615101f27ff4350469a",
-        "StockTokenBeacon": "0xfe296a422b74cb22bb3c507311f0663fd0d95dd8"
+        "StockTokenBeacon": "0xfe296a422b74cb22bb3c507311f0663fd0d95dd8",
+        "StockOracle": "0x037848af338c38e1e0ab722be80bf4c2e612a1f7"
     },
     "links": {
         "project": "https://anchored.finance",
