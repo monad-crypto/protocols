@@ -10,7 +10,8 @@
         "WooPPV2": "0x5520385bfcf07ec87c4c53a7d8d65595dff69fa4",
         "WooRebateManager": "0x7616614084e040028d6a61c0f3a9699c121a6500",
         "WooRouterV2": "0x4c4af8dbc524681930a27b2f1af5bcc8062e6fb7",
-        "WooracleV2.1": "0x2a375567f5e13f6bd74fda7627df3b1af6bfa5a6"
+        "WooracleV2.1": "0x2a375567f5e13f6bd74fda7627df3b1af6bfa5a6",
+        "WooracleV2_2": "0xf9b0c8ee13ae2fc0665764ecbdb417685dea8081"
     },
     "links": {
         "project": "https://woofi.com/",
