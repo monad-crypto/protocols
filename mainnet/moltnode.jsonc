@@ -1,0 +1,16 @@
+{
+  "name": "MoltNode",
+  "description": "MoltNode by Chord is a keyless multi-chain JSON-RPC gateway: one URL per chain (Monad: https://moltnode.ag/monad), no API key, automatic failover across upstream providers. 31 chains, plus a hosted MCP server (https://moltnode.ag/mcp) so AI agents can read chain state.",
+  "live": true,
+  "categories": [
+    "Infra::RPC",
+    "AI::Infrastructure"
+  ],
+  // MoltNode has no contracts: it is an off-chain RPC gateway
+  "addresses": {},
+  "links": {
+    "project": "https://moltnode.ag/",
+    "github": "https://github.com/tuantqse90/moltnode-mcp",
+    "docs": "https://moltnode.ag/agents"
+  }
+}
