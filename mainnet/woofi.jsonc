@@ -22,9 +22,6 @@
         "project": "https://woofi.com/",
         "twitter": "https://x.com/_WOOFi",
         "github": "https://github.com/woonetwork",
-        "docs": "https://learn.woo.org/",
-        "earn": "https://woofi.com/earn",
-        "earn_api": "https://api.woofi.com/yield?network=monad",
-        "earn_summary_api": "https://api.woofi.com/earn_summary"
+        "docs": "https://learn.woo.org/"
     }
 }
