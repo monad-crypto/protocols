@@ -1,0 +1,19 @@
+{
+    "name": "LCX Liberty DEX",
+    "description": "LCX Liberty DEX is a non-custodial DEX aggregator by LCX. It prices every route against its own index of on-chain pools and settles same-chain swaps, and cross-chain swaps that bridge in the same transaction, through one router contract. No protocol fee is taken on the swap.",
+    "live": true,
+    "categories": [
+        "DeFi::DEX Aggregator",
+        "DeFi::Cross Chain"
+    ],
+    "addresses": {
+        // Router (UUPS proxy). Users approve this address and swap through it.
+        "Router": "0x0000000000654902B6Ed6cC240cc81CB4c4a3dff"
+    },
+    "links": {
+        "project": "https://dex.lcx.com/",
+        "twitter": "https://x.com/lcx",
+        "github": "https://github.com/LCX-AG",
+        "docs": "https://dex.lcx.com/docs"
+    }
+}
