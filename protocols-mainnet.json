@@ -5248,11 +5248,12 @@
     }
   },
   "woofi": {
-    "name": "WooFi",
-    "description": "WOO is building a unified CeFi+DeFi ecosystem focused on user-friendly applications, aiming to abstract crypto complexity and onboard mainstream users.",
+    "name": "WOOFi",
+    "description": "WOOFi is a propAMM providing professionally market-made swap liquidity on Monad, with single-sided MON and USDC Earn vaults offering auto-compounding yield in the deposited asset.",
     "live": true,
     "categories": [
-      "DeFi::DEX"
+      "DeFi::DEX",
+      "DeFi::Yield"
     ],
     "addresses": {
       "IntegrationHelper (token info)": "0xaee024faa57c4db20ac0666a1d5297d5f1c95afe",
@@ -5262,7 +5263,9 @@
       "WooRebateManager": "0x7616614084e040028d6a61c0f3a9699c121a6500",
       "WooRouterV2": "0x4c4af8dbc524681930a27b2f1af5bcc8062e6fb7",
       "WooracleV2.1": "0x2a375567f5e13f6bd74fda7627df3b1af6bfa5a6",
-      "WooracleV2_2": "0xf9b0c8ee13ae2fc0665764ecbdb417685dea8081"
+      "WooracleV2_2": "0xf9b0c8ee13ae2fc0665764ecbdb417685dea8081",
+      "WooSuperChargerVaultV2 (MON Earn)": "0x5dB83EA2ECe793DCaD2D6536B4b7062E161acdeB",
+      "WooSuperChargerVaultV2 (USDC Earn)": "0x2860406FD8aDB4C3e1deE35B96d9A66e06e186BF"
     },
     "links": {
       "project": "https://woofi.com/",
