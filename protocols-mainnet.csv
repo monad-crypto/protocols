@@ -449,14 +449,16 @@ Uniswap,DeFi,DEX,UniversalRouter2.1.1,0xfdf682f51fe81aa4898f0ae2163d8a55c127fbc7
 Uniswap,DeFi,DEX,UniversalRouter2.1.2,0xa6ce4f10d83dbddac17e68e1837ca9ce6a1b596e,DeFi::DEX
 Uniswap,DeFi,DEX,V3Migrator,0x7078c4537c04c2b2e52ddba06074dbdacf23ca15,DeFi::DEX
 Uniswap,DeFi,DEX,V4Quoter,0xa222dd357a9076d1091ed6aa2e16c9742dd26891,DeFi::DEX
-WooFi,DeFi,DEX,IntegrationHelper (token info),0xaee024faa57c4db20ac0666a1d5297d5f1c95afe,DeFi::DEX
-WooFi,DeFi,DEX,WooAccessManager,0xaf558f888e138ca9416111ec7ae8e28354cd9239,DeFi::DEX
-WooFi,DeFi,DEX,WooFeeManager,0xc45b55032cafeaff3b8057d52758d8f8211da54d,DeFi::DEX
-WooFi,DeFi,DEX,WooPPV2,0x5520385bfcf07ec87c4c53a7d8d65595dff69fa4,DeFi::DEX
-WooFi,DeFi,DEX,WooRebateManager,0x7616614084e040028d6a61c0f3a9699c121a6500,DeFi::DEX
-WooFi,DeFi,DEX,WooRouterV2,0x4c4af8dbc524681930a27b2f1af5bcc8062e6fb7,DeFi::DEX
-WooFi,DeFi,DEX,WooracleV2.1,0x2a375567f5e13f6bd74fda7627df3b1af6bfa5a6,DeFi::DEX
-WooFi,DeFi,DEX,WooracleV2_2,0xf9b0c8ee13ae2fc0665764ecbdb417685dea8081,DeFi::DEX
+WOOFi,DeFi,DEX,IntegrationHelper (token info),0xaee024faa57c4db20ac0666a1d5297d5f1c95afe,DeFi::DEX;DeFi::Yield
+WOOFi,DeFi,DEX,WooAccessManager,0xaf558f888e138ca9416111ec7ae8e28354cd9239,DeFi::DEX;DeFi::Yield
+WOOFi,DeFi,DEX,WooFeeManager,0xc45b55032cafeaff3b8057d52758d8f8211da54d,DeFi::DEX;DeFi::Yield
+WOOFi,DeFi,DEX,WooPPV2,0x5520385bfcf07ec87c4c53a7d8d65595dff69fa4,DeFi::DEX;DeFi::Yield
+WOOFi,DeFi,DEX,WooRebateManager,0x7616614084e040028d6a61c0f3a9699c121a6500,DeFi::DEX;DeFi::Yield
+WOOFi,DeFi,DEX,WooRouterV2,0x4c4af8dbc524681930a27b2f1af5bcc8062e6fb7,DeFi::DEX;DeFi::Yield
+WOOFi,DeFi,DEX,WooSuperChargerVaultV2 (MON Earn),0x5db83ea2ece793dcad2d6536b4b7062e161acdeb,DeFi::DEX;DeFi::Yield
+WOOFi,DeFi,DEX,WooSuperChargerVaultV2 (USDC Earn),0x2860406fd8adb4c3e1dee35b96d9a66e06e186bf,DeFi::DEX;DeFi::Yield
+WOOFi,DeFi,DEX,WooracleV2.1,0x2a375567f5e13f6bd74fda7627df3b1af6bfa5a6,DeFi::DEX;DeFi::Yield
+WOOFi,DeFi,DEX,WooracleV2_2,0xf9b0c8ee13ae2fc0665764ecbdb417685dea8081,DeFi::DEX;DeFi::Yield
 iZiSwap,DeFi,DEX,factory,0x8c7d3063579bdb0b90997e18a770eae32e1ebb08,DeFi::DEX
 iZiSwap,DeFi,DEX,flashModule,0xbd6aba1ef82a4cd6e15cb05e95f433ef48dfb5df,DeFi::DEX
 iZiSwap,DeFi,DEX,limitOrderManager,0x02f55d53dce23b4aa962cc68b0f685f26143bdb2,DeFi::DEX
