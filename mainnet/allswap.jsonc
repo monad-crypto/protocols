@@ -1,0 +1,18 @@
+{
+  "name": "AllSwap",
+  "description": "Non-custodial cross-chain instant swap and bridge aggregator supporting native MON across 46 blockchains and 190+ digital assets with a transparent 0.25% service fee and public REST API.",
+  "live": true,
+  "categories": [
+    "DeFi::Cross Chain",
+    "DeFi::DEX Aggregator",
+    "Infra::Interoperability"
+  ],
+  "addresses": {
+    // Non-custodial off-chain routing & deposit-address cross-chain settlement (no user-facing smart contract required on Monad)
+  },
+  "links": {
+    "project": "https://allswap.io/chains/monad",
+    "docs": "https://allswap.io/docs",
+    "telegram": "https://t.me/allswapservice"
+  }
+}
