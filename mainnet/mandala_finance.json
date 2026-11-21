@@ -1,0 +1,14 @@
+{
+    "name": "Mandala Finance",
+    "description": "A multichain swap aggregator that compares and routes swaps across supported liquidity venues with transparent fee and route details.",
+    "live": true,
+    "categories": ["DeFi::DEX Aggregator"],
+    "addresses": {
+        "MandalaFeeCollector": "0x779CE6Ae829301A4bc8971f144CE639559A64a31"
+    },
+    "links": {
+        "project": "https://app.mandala.finance/",
+        "twitter": "https://x.com/MandalaChain",
+        "docs": "https://mandala.finance/"
+    }
+}
