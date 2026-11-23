@@ -292,6 +292,7 @@ Kuru,DeFi,DEX,V2-AccountCoreImplementation,0xb52debad718730ee0a4c12c28e70d346dbc
 Kuru,DeFi,DEX,V2-KeeperAuthority,0xbc36ec07800150489f9ed0f86a2d3e27ca36980e,DeFi::DEX;DeFi::DEX Aggregator
 Kuru,DeFi,DEX,V2-KuruFastLanePeriphery,0x86400a84364e167b933b18e1484369679cdbeca9,DeFi::DEX;DeFi::DEX Aggregator
 Kuru,DeFi,DEX,V2-KuruTradingWalletImplementation,0xa478b5a38aabdf8b31f0ec7443a274162214cd18,DeFi::DEX;DeFi::DEX Aggregator
+Kuru,DeFi,DEX,V2-Market-ANTx/USDC,0xf2f7aa2d909af0791cb32e1fabae84aa3ffd834a,DeFi::DEX;DeFi::DEX Aggregator
 Kuru,DeFi,DEX,V2-Market-EWYx/USDC,0xed3727e833200c849fbd18e15ed0d091c9b0f3af,DeFi::DEX;DeFi::DEX Aggregator
 Kuru,DeFi,DEX,V2-Market-MON/USDC,0xc9de998e272d59a19cea3783c8dd44f87a86405d,DeFi::DEX;DeFi::DEX Aggregator
 Kuru,DeFi,DEX,V2-Market-NVDAx/USDC,0xf3fb2ec6ffb2a24506769bfaa3ad9b1eeb7d41eb,DeFi::DEX;DeFi::DEX Aggregator
@@ -303,6 +304,7 @@ Kuru,DeFi,DEX,V2-Market-XAUt0/USDC,0x9d29630ae2dcf02cb0cf05e17f45d95f01f15798,De
 Kuru,DeFi,DEX,V2-Market-cbBTC/USDC,0xae8e0cf4a9ff696b5f6ec0b1339200eb4c09e422,DeFi::DEX;DeFi::DEX Aggregator
 Kuru,DeFi,DEX,V2-OrderBookImplementation,0x38e7620a96e79a1d2b4439c68141203d757d69e6,DeFi::DEX;DeFi::DEX Aggregator
 Kuru,DeFi,DEX,V2-OrderBookImplementation2,0x05f6a84c7c43176c83f2dbc99670281987deb4ac,DeFi::DEX;DeFi::DEX Aggregator
+Kuru,DeFi,DEX,V2-PriceSource-ANTx,0xf7ece1527c86a5d845fd01873136be8a7b2068f1,DeFi::DEX;DeFi::DEX Aggregator
 Kuru,DeFi,DEX,V2-PriceSource-EWYx,0xd89be8ed6f7190b3d0522d7df8d43b430b8a3e14,DeFi::DEX;DeFi::DEX Aggregator
 Kuru,DeFi,DEX,V2-PriceSource-MON,0x949b4c63901a72013e4195f0e110ee660892f116,DeFi::DEX;DeFi::DEX Aggregator
 Kuru,DeFi,DEX,V2-PriceSource-MON-2,0x3dee5f9ebf47fb7c63e618fc9c474dd2c562834b,DeFi::DEX;DeFi::DEX Aggregator
@@ -315,7 +317,7 @@ Kuru,DeFi,DEX,V2-PriceSource-USDC-2,0xa41bfe62b32ccd57234582b5d72ba49dd8f5bcf2,D
 Kuru,DeFi,DEX,V2-PriceSource-WETH,0x64796c7bc079cb9e2acd0844d4e487d8a0c8f864,DeFi::DEX;DeFi::DEX Aggregator
 Kuru,DeFi,DEX,V2-PriceSource-WETH-2,0x0afeab62ecbe471e8ff35b2c6436f462aee35a7b,DeFi::DEX;DeFi::DEX Aggregator
 Kuru,DeFi,DEX,V2-PriceSource-XAUt0,0x6fc71cf5a846ae343d71112632d16c978b59feb5,DeFi::DEX;DeFi::DEX Aggregator
-Kuru,DeFi,DEX,V2-PriceSource-cbBTC,0xa006f7ef1e366cb60a3d5701bb25c0fa0586f698,DeFi::DEX;DeFi::DEX Aggregator
+Kuru,DeFi,DEX,V2-PriceSource-cbBTC,0x01d775aa1d213cc8ed5f5693694c074b70c0b27e,DeFi::DEX;DeFi::DEX Aggregator
 Kuru,DeFi,DEX,V2-ProtocolAuthority,0x15db88bac73d856b3ca53683f82058826a3b6e8f,DeFi::DEX;DeFi::DEX Aggregator
 Kuru,DeFi,DEX,V2-SpotRouter,0xbddf3556701b7ecca5d69416cffd7f86d37e52b3,DeFi::DEX;DeFi::DEX Aggregator
 Kuru,DeFi,DEX,V2-SpotRouterImplementation,0x70dd3e2f643a187d34ed54a58afedf717464fcd9,DeFi::DEX;DeFi::DEX Aggregator
@@ -354,6 +356,7 @@ LunarBase,DeFi,DEX,USDC_cbBTC_Pool,0xb1c8ead40da9b6afcb6f34b15e10123505c38888,De
 Metric,DeFi,DEX,Factory,0xe22f9fc0f04486de25ed6cf1800a4a47afd82e0c,DeFi::DEX
 Metric,DeFi,DEX,Lens,0xe6b102a2aea65b9b59e4f8b86b38e221886675a8,DeFi::DEX
 Metric,DeFi,DEX,Pool-MON/USDC,0xfa32f9ec28787d1f9c5ba5c39e54e59984fef3f0,DeFi::DEX
+Metric,DeFi,DEX,Pool-MON/USDC-2,0x5357bf9863320e8fc0c10c97896c0aed070aab9f,DeFi::DEX
 Metric,DeFi,DEX,Pool-WBTC/USDC,0x2d82ac42334b394a9a8d8f097d61dc1c6b065fd8,DeFi::DEX
 Metric,DeFi,DEX,Pool-WETH/USDC,0x354d92279ca0190ff275095fe6a2a6989baa66fb,DeFi::DEX
 Metric,DeFi,DEX,PoolDeployer,0x0f732971a3503afee276782173170d1f1154d4c1,DeFi::DEX
@@ -361,6 +364,7 @@ Metric,DeFi,DEX,Router,0xaf9ada6b6ec7993ce146f6c0bf98f7211cdfd3e5,DeFi::DEX
 Metric,DeFi,DEX,V1Factory,0x2a53833cc95548cf52c7b159110e22d3a9018f32,DeFi::DEX
 Metric,DeFi,DEX,V1Pool-AUSD/USDC,0x94d5e3543a39c0ec1171f14a45100bd62bee49bc,DeFi::DEX
 Metric,DeFi,DEX,V1Pool-MON/USDC,0xe6831acf980c2dfc5ae993f06b198d872fddf515,DeFi::DEX
+Metric,DeFi,DEX,V1Pool-wANTx/USDC,0x035c19f38b2c391067e5aa9ade3644c9171fb71c,DeFi::DEX
 Monday Trade,DeFi,DEX,Aggregator,0xad8974d98f7fc386e396ffe826b886cf20afe232,DeFi::DEX;DeFi::Perpetuals / Derivatives
 Monday Trade,DeFi,DEX,Gate,0x2e32345bf0592bff19313831b99900c530d37d90,DeFi::DEX;DeFi::Perpetuals / Derivatives
 Monday Trade,DeFi,DEX,Instrument,0x73ada1ea346cc3908f41cf67a040f0acd7808be0,DeFi::DEX;DeFi::Perpetuals / Derivatives
