@@ -19,11 +19,15 @@
         "Pool-MON/USDC": "0xFA32f9ec28787d1F9C5BA5c39e54e59984FEF3f0",
         "Pool-WBTC/USDC": "0x2D82AC42334b394A9a8d8f097d61DC1c6B065Fd8",
         "Pool-WETH/USDC": "0x354D92279cA0190fF275095fE6A2a6989BAa66Fb",
+        // Second MON/USDC pool of the core factory (traded 2026-08-22 to 2026-08-26)
+        "Pool-MON/USDC-2": "0x5357BF9863320e8fC0C10c97896C0AED070aab9f",
         // Metric V1 factory
         "V1Factory": "0x2a53833cc95548cf52c7b159110e22D3a9018f32",
         // Active Metric V1 pools
         "V1Pool-MON/USDC": "0xE6831ACF980c2dFC5aE993F06b198d872FDdf515",
-        "V1Pool-AUSD/USDC": "0x94D5E3543a39c0eC1171f14A45100bd62BeE49Bc"
+        "V1Pool-AUSD/USDC": "0x94D5E3543a39c0eC1171f14A45100bd62BeE49Bc",
+        // Wrapped Anthropic xStock (wANTx 0xabec6aeab037b77c09a2a99264f9c81a35b02649)
+        "V1Pool-wANTx/USDC": "0x035c19f38b2c391067E5Aa9ade3644c9171FB71c"
     },
     "links": {
         "project": "https://www.metric.xyz/",
