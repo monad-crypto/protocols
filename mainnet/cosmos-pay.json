@@ -1,0 +1,16 @@
+{
+    "name": "Cosmos Pay",
+    "description": "Non-custodial stablecoin payments on Monad: payment links (EIP-681), a hosted checkout, a REST API and a TypeScript SDK. Each payment gets its own deposit address and settles to the merchant's wallet.",
+    "live": true,
+    "categories": [
+        "Payments::Other",
+        "Infra::Developer Tooling"
+    ],
+    "addresses": {},
+    "links": {
+        "project": "https://payments.cosmospay.lat/monad",
+        "twitter": "https://x.com/CosmosPay",
+        "github": "https://github.com/CosmosPay",
+        "docs": "https://dev.cosmospay.lat/docs/"
+    }
+}
