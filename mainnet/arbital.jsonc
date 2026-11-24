@@ -1,0 +1,18 @@
+{
+    // Arbital has no dedicated contracts deployed on Monad yet: cross-chain deposits
+    // route via Relay and settle as Solana USDC ("Available Cash"), and in-house
+    // infra is in progress. Monad is a supported deposit chain and Monad-ecosystem
+    // assets (e.g. WMON) are tradable in the terminal.
+    "name": "Arbital",
+    "description": "All-in-one, non-custodial trading terminal for memecoins, tokenized stocks (via xStocks), and perpetuals (up to 40x), plus automated market-making across 14+ perp DEXes. One balance, one interface. Monad is a supported deposit chain and Monad-ecosystem assets (e.g. WMON) are tradable in the terminal.",
+    "live": true,
+    "categories": [
+        "DeFi::Trading Interfaces"
+    ],
+    "addresses": {},
+    "links": {
+        "project": "https://www.arbital.xyz/",
+        "twitter": "https://x.com/arbital_xyz",
+        "docs": "https://arbital-1.gitbook.io/docs"
+    }
+}
