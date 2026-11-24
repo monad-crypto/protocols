@@ -1,0 +1,86 @@
+{
+  "name": "Chord",
+  "description": "Chord is a DEX aggregator that finds the best swap route across Monad DEXs, splits an order across venues when that pays more, and settles it in one non-custodial transaction. Public REST API and a hosted MCP server for AI agents. Also live on Base, BNB Chain, Avalanche, Arbitrum, Robinhood Chain and Arc.",
+  "live": true,
+  "categories": [
+    "DeFi::DEX Aggregator",
+    "AI::Infrastructure"
+  ],
+  "addresses": {
+    // Core contracts (UUPS proxies; the same three addresses on Avalanche, BNB Chain, Base, Arbitrum, Robinhood Chain and Arc)
+    "ChordRouter": "0x1b1fee89a381e595fe6536b99ba91f3e16e9601a",
+    "FeeCollector": "0x6c66229675fd9ceda9a9b2ea2bd983b3d8255834",
+    "AdapterRegistry": "0x6cf25d2af1a58d7094b0ac253ae616a8e1f2ea3f",
+
+    // Venue adapters approved in AdapterRegistry (each one accepts calls from ChordRouter only)
+
+    // Uniswap V4
+    "UniswapV4Adapter": "0x62782CA3Afd7567AC169439E882Bc8e22F8DEEe2",
+
+    // Uniswap V3
+    "UniswapV3Adapter": "0xbcbF0869CF9D1d421715c875c9f6e152367F935f",
+
+    // PancakeSwap V3
+    "PancakeSwapV3Adapter": "0xf013858243ccd897732B248b4D47F6F84cD5D373",
+
+    // Capricorn V3
+    "CapricornV3Adapter": "0x131Eb6311C9A47d52857dfD82a6bBfD2aE3c55a3",
+
+    // Pangolin V3 and monday.trade (V3 forks, pool-direct)
+    "UniV3GenericAdapter": "0x27ed74C9F012F77e479725aB0F223dC2059fcD90",
+
+    // Atlantis (Algebra)
+    "AtlantisAdapter": "0x412FEecDbCcd767B94E7BB5543aA49b22cc4Eb7c",
+
+    // Kuru (order book)
+    "KuruAdapter": "0x0e56D285Fa949c6c22A749F6e8c1e3b801e20BDd",
+
+    // LFJ Liquidity Book
+    "LFJAdapter": "0x0Cf5Ae1Cb2983D71D3Dc4C5839f98708243793E3",
+
+    // LFJ POE
+    "LFJPOEAdapter": "0xaF33325471B5beA9d116D0C4b58b2Bd95e82bB49",
+
+    // Hanji (order book)
+    "HanjiAdapter": "0x2d451265aaA4B89272e78C1dC02F4c8CF8BcF20C",
+
+    // Metric (legacy pools)
+    "MetricAdapter": "0xa8Ad189A1b0c7898C2468b8567b9ace2C216E7ba",
+
+    // Metric V1
+    "MetricV1Adapter": "0x411142C968bf8cF8Fa1CaD9dd34152aDa81693e2",
+
+    // WOOFi
+    "WOOFiAdapter": "0xDE7691693f5Ad1e39737F0CCAe32312C2Db8D49f",
+
+    // Balancer V3
+    "BalancerV3Adapter": "0x8DA5448c004d76Cf92979F90a34077D40A6f6EfA",
+
+    // Balancer V3 boosted pools
+    "BalancerV3BoostedAdapter": "0x80C00B32d7460A83958b9C2A2B8F49e022DDba6a",
+
+    // Curve StableSwap-NG
+    "CurveStableSwapNGAdapter": "0x8D416F61331e2AaAF0D7422a6027Abd14638277a",
+
+    // Mento
+    "MentoAdapter": "0x8A9b7961e6Ce97363C4f76391D172Fc07B7c2CAc",
+
+    // nad.fun bonding curve
+    "NadFunBondingCurveAdapter": "0x5E78B8bE9c827aaB981baC1345D22b07729Ce43a",
+
+    // nad.fun bonding curve V2 (buy only)
+    "NadFunBondingCurveV2Adapter": "0x9E4d870cCE98d152d2c3454A40AFC8B99C6D5D84",
+
+    // nad.fun DEX (graduated pairs, pool-direct)
+    "NadFunDEXAdapter": "0x05Fc8Becb13b72B21Aa16b6537f0389cAfa1E5f1",
+
+    // ERC-4626 vault deposits (aprMON, shMON, gMON; buy only)
+    "ERC4626DepositAdapter": "0xD21F54564CeA5Ea7985A959c07A1b41e8DE567e6"
+  },
+  "links": {
+    "project": "https://getchord.xyz/",
+    "twitter": "https://x.com/getchord_xyz",
+    "github": "https://github.com/getchordlabs/chord",
+    "docs": "https://getchord.xyz/docs/"
+  }
+}
