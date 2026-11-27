@@ -1,6 +1,6 @@
 {
     "name": "ThogAMM",
-    "description": "An inventory-funded proprietary AMM providing on-chain spot liquidity on Monad",
+    "description": "An inventory-funded proprietary AMM providing on-chain spot liquidity on Monad for crypto assets and tokenized equities, including ANTx, SMHx, SPCXx, MUx, and SKHYx",
     "live": true,
     "categories": [
         "DeFi::DEX"
@@ -10,6 +10,6 @@
     },
     "links": {
         "github": "https://github.com/thogard785/thog-amm-integration-guide",
-        "docs": "https://github.com/thogard785/thog-amm-integration-guide"
+        "docs": "https://github.com/thogard785/thog-amm-integration-guide/blob/main/THOGAMM_AGGREGATOR_INTEGRATION.md#listed-tokens"
     }
 }
